@@ -7,7 +7,6 @@ By the end of this exploration, you should be able to:
 
 - Navigate repositories in GitHub
 - Fork, clone a repository
-- Push changes
 
 
 ## Summary
