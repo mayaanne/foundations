@@ -27,8 +27,27 @@ Follow the time box suggestions. If you get stuck, take a quick break and come b
 To complete this deep dive, you must have completed all [install instrutions](https://github.com/dev-academy-programme/orientation/tree/master/installation)
 
 
-## Step 1:Fork
-Fork the
+## Step 1: Fork
+Create your own version of this repo by forking it. 
+
+Origin: dev-academy-programme/foundations   
+Destination: git-hub-user-name/foundations   
+
+<figure>
+  <figcaption>
+    <p><strong>Figure 1:</strong> Fork Repo from origin</p>
+  </figcaption>
+  <img src="../../images/github_1_original.png" alt="Fork GitHub Repo"><br>
+
+</figure>
+
+
+<figure>
+  <figcaption>
+    <p><strong>Figure 1:</strong> View of Forked repo in destination </p>
+  </figcaption>
+  <img src="../../images/github_3_forked.png" alt="View Forked GithHub Repo"><br>
+</figure>
 
 ## Find out what it is
 Explore what is Git? What is GitHub? What is GitHub user flow?
