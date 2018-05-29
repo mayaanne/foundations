@@ -59,8 +59,6 @@ On your fork, find the settings button and enable issues
   <img src="../../images/github_4_enable_issues.png" alt="ticked issues box"><br>
 </figure>
 
-__Privacy__
-Your repository will be private by default. That is intentional. But others in foundations will have access to see your code and will be able to give you feedback because you are all on the same team (and have issues enabled). Please do not change any other settings. 
 
 ## Step 3: Cloning 
 You may have to manually enter your __gitHub password__ in terminal, so make sure you know it before beginning this step.  
@@ -78,10 +76,10 @@ Right now your repository exists on GitHub, but in order to add or edit files us
 
 **Pro-tip: Do the following tasks using command line:** 
 
-2. The link you copied will automatically create a directory called 'foundations'. __Think about where you that directory to live.__  Is it for example `desktop/dev-academy/foundations` or does it make more sense to have it on your root directory e.g. `users/tane/foundations` ? This is your learning journey, so you decide what logic makes most sense. __Go ahead and create the directory.__  
+2. The link you copied will create a directory called 'foundations'. __Think about where you that directory to live.__  Is it for example in `desktop/dev-academy/foundations` or does it make more sense to have it on your root directory e.g. `users/hinemoana/foundations` ? This is your learning journey, so you decide what logic makes most sense. __Go ahead and create the directory.__  
 
-3. In terminal navigate __INTO__ _the directory you created and or decided on_
-4. enter the command 'git clone' and use keyboard shortcut 'cmd v' (mac) or 'ctrl v' (win) to paste 
+3. In terminal navigate __INTO__ _the directory you selected/created_
+4. Enter the command `git clone` and use keyboard shortcut `cmd v` (mac) or `ctrl v` (win) to paste 
 5 Follow the username and password prompts if required. 
 
 <figure>
@@ -92,8 +90,7 @@ Right now your repository exists on GitHub, but in order to add or edit files us
 </figure>
 
 ## Step 4: Open in Visual Studio
-Visual studio is the text editor app you installed previously. Open it and then open the foundations file you just cloned to view your new local repo. 
-
+Visual studio is a text editor that you installed during inital setup. Open it and then open the foundations file you just cloned. 
 
 <figure>
   <figcaption>
@@ -102,5 +99,18 @@ Visual studio is the text editor app you installed previously. Open it and then 
   <img src="../../images/github_6_clone_open_visual_studio.png" alt="local repo in terminal"><br>
 </figure>
 
+
+## Step 5: Reflect 
+From now on, you'll add your reflections to your __local repo__ and push them back up to your forked version on GitHub. 
+
+__Pro-tip: use command line to hone your skills
+
+1. Create a file called my_reflection.md in the `git_and_github_intro` directory (on your computer)
+2. In Visual Studio record your reflections 
+
+- Create your own step-by-step fork and clone instructions for later use
+- Did you have any moments where it all clicked? What clicked?
+
+3. Use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add some distinction to your reflection file .
 
 
