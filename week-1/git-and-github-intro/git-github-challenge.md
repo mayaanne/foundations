@@ -49,9 +49,15 @@ Destination: git-hub-user-name/foundations
   <img src="../../images/github_3_forked.png" alt="View Forked GithHub Repo"><br>
 </figure>
 
-## Find out what it is
-Explore what is Git? What is GitHub? What is GitHub user flow?
+## Step 2: Enable issues
+On your fork, find the settings button and enable issues 
 
+<figure>
+  <figcaption>
+    <p><strong>Figure 1:</strong> View of Forked repo in destination </p>
+  </figcaption>
+  <img src="../../images/github_3_forked.png" alt="View Forked GithHub Repo"><br>
+</figure>
 Here's some resources to get you going.
 *[Git and GitHub article]()
 *[Git and Github Crash Course Video (24 min)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
