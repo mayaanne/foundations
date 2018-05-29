@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# GitHub and terminal error messages
+# GitHub and terminal error messages (Stretch Challenge)
 
 ## Learning Competencies
 
