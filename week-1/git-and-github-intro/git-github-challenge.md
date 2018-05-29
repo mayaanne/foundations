@@ -28,10 +28,10 @@ To complete this deep dive, you must have completed all [install instrutions](ht
 
 
 ## Step 1: Fork
-Create your own version of this repo by forking it. 
+Create your own version of this repo by forking it.
 
-Origin: dev-academy-programme/foundations   
-Destination: git-hub-user-name/foundations   
+Origin: dev-academy-programme/foundations
+Destination: git-hub-user-name/foundations
 
 <figure>
   <figcaption>
@@ -50,7 +50,7 @@ Destination: git-hub-user-name/foundations
 </figure>
 
 ## Step 2: Enable issues
-On your fork, find the settings button and enable issues 
+On your fork, find the settings button and enable issues
 
 <figure>
   <figcaption>
@@ -60,8 +60,8 @@ On your fork, find the settings button and enable issues
 </figure>
 
 
-## Step 3: Cloning 
-You may have to manually enter your __gitHub password__ in terminal, so make sure you know it before beginning this step.  
+## Step 3: Cloning
+You may have to manually enter your __gitHub password__ in terminal, so make sure you know it before beginning this step.
 
 Right now your repository exists on GitHub, but in order to add or edit files using your text editor, you need it to exist on your computer. In git terms, this is called cloning a repository locally.
 
@@ -74,13 +74,13 @@ Right now your repository exists on GitHub, but in order to add or edit files us
   <img src="../../images/github_4_clone_button.png" alt="gitHub clone button"><br>
 </figure>
 
-**Pro-tip: Do the following tasks using command line:** 
+**Pro-tip: Do the following tasks using command line:**
 
-2. You're about to paste the link you just copied. When you do so it will create a directory called 'foundations'. __Think about where you that directory to live.__  Is it for example in `desktop/dev-academy/foundations` or does it make more sense to have it on your root directory e.g. `users/hinemoana/foundations` ? This is your learning journey, so you decide what logic makes most sense. __Go ahead and create the directory.__  
+2. You're about to paste the link you just copied. When you do so it will create a directory called 'foundations'. __Think about where you that directory to live.__  Is it for example in `desktop/dev-academy/foundations` or does it make more sense to have it on your root directory e.g. `users/hinemoana/foundations` ? This is your learning journey, so you decide what logic makes most sense. __Go ahead and create the directory.__
 
 3. In terminal navigate __INTO__ _the directory you selected/created_
 4. Enter the command `git clone` and use keyboard shortcut `cmd v` (mac) or `ctrl v` (win) to paste
-5. Follow the username and password prompts if required. 
+5. Follow the username and password prompts if required.
 
 <figure>
   <figcaption>
@@ -90,7 +90,7 @@ Right now your repository exists on GitHub, but in order to add or edit files us
 </figure>
 
 ## Step 4: Open in Visual Studio
-Visual studio is a text editor you installed during setup. Open it and then open the foundations directory you just cloned. 
+Visual studio is a text editor you installed during setup. Open it and then open the foundations directory you just cloned.
 
 <figure>
   <figcaption>
@@ -100,17 +100,18 @@ Visual studio is a text editor you installed during setup. Open it and then open
 </figure>
 
 
-## Step 5: Reflect 
-From now on, you'll add your reflections to your __local repo__ and push them back up to your forked version on GitHub. 
+## Step 5: Reflect
+From now on, you'll add your reflections to your __local repo__ and push them back up to your forked version on GitHub.
 
 __Pro-tip: use command line to hone your skills__
 
 1. Create a file called my_reflection.md in the `git_and_github_intro` directory (on your computer)
-2. In Visual Studio record your reflections 
+2. In Visual Studio record your reflections
 
 - Create your own step-by-step fork and clone instructions for later use
 - Did you have any moments where it all clicked? What clicked?
 
-3. Use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add some distinction to your reflection file .
+3. Use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add some distinction to your reflection file.
+4. Save your file in Visual Studio
 
 
