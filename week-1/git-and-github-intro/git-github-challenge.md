@@ -76,11 +76,11 @@ Right now your repository exists on GitHub, but in order to add or edit files us
 
 **Pro-tip: Do the following tasks using command line:** 
 
-2. The link you copied will create a directory called 'foundations'. __Think about where you that directory to live.__  Is it for example in `desktop/dev-academy/foundations` or does it make more sense to have it on your root directory e.g. `users/hinemoana/foundations` ? This is your learning journey, so you decide what logic makes most sense. __Go ahead and create the directory.__  
+2. You're about to paste the link you just copied. When you do so it will create a directory called 'foundations'. __Think about where you that directory to live.__  Is it for example in `desktop/dev-academy/foundations` or does it make more sense to have it on your root directory e.g. `users/hinemoana/foundations` ? This is your learning journey, so you decide what logic makes most sense. __Go ahead and create the directory.__  
 
 3. In terminal navigate __INTO__ _the directory you selected/created_
-4. Enter the command `git clone` and use keyboard shortcut `cmd v` (mac) or `ctrl v` (win) to paste 
-5 Follow the username and password prompts if required. 
+4. Enter the command `git clone` and use keyboard shortcut `cmd v` (mac) or `ctrl v` (win) to paste
+5. Follow the username and password prompts if required. 
 
 <figure>
   <figcaption>
@@ -90,11 +90,11 @@ Right now your repository exists on GitHub, but in order to add or edit files us
 </figure>
 
 ## Step 4: Open in Visual Studio
-Visual studio is a text editor that you installed during inital setup. Open it and then open the foundations file you just cloned. 
+Visual studio is a text editor you installed during setup. Open it and then open the foundations directory you just cloned. 
 
 <figure>
   <figcaption>
-    <p><strong>Figure 5:</strong> Local clone repo in text editor </p>
+    <p><strong>Figure 5:</strong> Local cloned repo viewed in text editor </p>
   </figcaption>
   <img src="../../images/github_6_clone_open_visual_studio.png" alt="local repo in terminal"><br>
 </figure>
@@ -103,7 +103,7 @@ Visual studio is a text editor that you installed during inital setup. Open it a
 ## Step 5: Reflect 
 From now on, you'll add your reflections to your __local repo__ and push them back up to your forked version on GitHub. 
 
-__Pro-tip: use command line to hone your skills
+__Pro-tip: use command line to hone your skills__
 
 1. Create a file called my_reflection.md in the `git_and_github_intro` directory (on your computer)
 2. In Visual Studio record your reflections 
