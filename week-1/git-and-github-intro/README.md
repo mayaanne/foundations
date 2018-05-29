@@ -33,8 +33,8 @@ Usually you would need to download and install Git on your computer. But we reco
 Explore what is Git? What is GitHub? What is GitHub user flow?
 
 Here's some resources to get you going.
-*[Git and GitHub article]()
-*[Git and Github Crash Course Video (24 min)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Git and GitHub article](git-github-article.md)  
+- [Git and Github Crash Course Video (24 min)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 The next part is a deep dive into git and GitHub.Feel free to stop the video and resume it when engaging with the deep dive. Remember your learning is your own.
 
