@@ -11,7 +11,7 @@ By the end of this exploration, you should be able to:
 
 
 ## Summary
-You will use this deep dive exploration to create your own forked version of this repo. You will then clone a copy to your machine. This clone is where you will be working on for the rest of your challenges. Changes that you make will not change the master EDA repo.
+You will use this deep dive exploration to create your own forked version of this repo. You will then clone a copy to your machine. This clone is where you will be working on for the rest of your learning exploration and assessments. Changes that you make will not change the master EDA version.
 
 
 ## Exploration and Application
@@ -54,13 +54,21 @@ On your fork, find the settings button and enable issues
 
 <figure>
   <figcaption>
-    <p><strong>Figure 1:</strong> View of Forked repo in destination </p>
+    <p><strong>Figure 1:</strong> Enable issues via settings </p>
   </figcaption>
-  <img src="../../images/github_3_forked.png" alt="View Forked GithHub Repo"><br>
+  <img src="../../images/github_4_enable_issues.png" alt="ticked issues box"><br>
 </figure>
-Here's some resources to get you going.
-*[Git and GitHub article]()
-*[Git and Github Crash Course Video (24 min)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+__Privacy__
+Your repository will be private by default. That is intentional. But others in foundations will have access to see your code and will be able to give you feedback because you are all on the same team (and have issues enabled). Please do not change any other settings. 
+
+## Step 3: Cloning 
+Right now your repository exists on GitHub, but in order to add or edit files using your text editor, you need it to exist on your computer. In git terms, this is called cloning a repository locally. A "local repository" is the copy on your computer. A "remote repository" is one on another server, e.g. on GitHub. 
+
+1. Think about where you want your local repo to live. Is it for example `desktop/EDA/foundations` or does it make more sense to have it on your root directory e.g. `tane/foundations` ? This is your learning journey, so you decide what logic makes most sense to you. Go ahead and create the directory. Pro-tip: Do it using command line. 
+
+
+Right now your repository exists on GitHub, but in order to add or edit files using your text editor, you need it to exist on your computer.
 
 ## Apply your knowledge
 
