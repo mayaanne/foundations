@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Command Line Primer (aka Terminal, Shell, Prompt)  
+# Command Line Primer (aka Terminal, Shell, Prompt)
 
 ### Learning Competencies
 By the end of this exploration, you should be able to do the following in/using the command line:
@@ -13,7 +13,7 @@ By the end of this exploration, you should be able to do the following in/using 
 ## Summary
 Programmers do not always have pretty ways to interface or test their code. Most spend a good deal of time in their command line - "a tool where you can use text commands to perform specific tasks." When you use the command line, you don't slow yourself down opening a finder and double-clicking on folders. Instead, you get to navigate around your computer, open, create, delete, move, files, etc. all using commands. It's quick, efficient, and easy once you get the hang of it.
 
-Knowing how to use your command line will be vital to your success as a programmer. Fortuntatlely for now you only need to know a few commands.  
+Knowing how to use your command line will be vital to your success as a programmer. Fortuntatlely for now you only need to know a few commands.
 
 ## Exploration and Application
 
