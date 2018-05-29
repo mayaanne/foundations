@@ -2,15 +2,16 @@
 
 __A prerequisite course for Dev Academy Bootcamp__
 
-For full details refer to the Foundations Handbook, Tech Handbook and Core Handbook.   
+For full details refer to the Foundations Handbook, Tech Handbook and Core Handbook.
 
 
-------------    
+------------
 
-[Command Line Primer](/week-1/command-line/README.md)  
-[Git and GitHub Primer](/week-1/git-and-github-intro/README.md)  
-[Git and GitHub Deep Dive Challenge](week-1/git-and-github-intro/git-github-challenge.md)  
-[Git track changes Challenge](week-1/git-and-github-intro/git-track-and-commit-challenge.md)  
+[Week 1](/week-1)
+[Week 2](/week-2)
+[Week 3](/week-3)
+[Week 4](/week-4)
+[Week 5](/week-5)
 
 
 
