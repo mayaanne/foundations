@@ -27,7 +27,8 @@ Follow the time box suggestions. This is a primer only and there is a deep dive 
 
 
 ## Give it a try
-Usually you would need to download and install Git on your computer. But we recommend giving giving [this tutorial](https://try.github.io/levels/1/challenges/1) a go first. Stop at part 1.12 "Pulling remotely".
+Usually you would need to download and install Git on your computer, but we recommend giving giving the tutorial a go first. 
+- [Interactive web tutorial](https://try.github.io/levels/1/challenges/1). _Stop at part 1.12 "Pulling remotely"._
 
 ## Find out what it is
 Explore what is Git? What is GitHub? What is GitHub user flow?
