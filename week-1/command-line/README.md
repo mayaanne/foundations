@@ -1,8 +1,8 @@
 [Week 1 Home](../)
 
-Command Line Primer (aka Terminal, Shell, Prompt)
+# Command Line Primer (aka Terminal, Shell, Prompt)  
 
-## Learning Competencies
+### Learning Competencies
 By the end of this exploration, you should be able to do the following in/using the command line:
 - Identify your location
 - Navigate between directories
@@ -13,11 +13,9 @@ By the end of this exploration, you should be able to do the following in/using 
 ## Summary
 Programmers do not always have pretty ways to interface or test their code. Most spend a good deal of time in their command line - "a tool where you can use text commands to perform specific tasks." When you use the command line, you don't slow yourself down opening a finder and double-clicking on folders. Instead, you get to navigate around your computer, open, create, delete, move, files, etc. all using commands. It's quick, efficient, and easy once you get the hang of it.
 
-Knowing how to use your command line will be vital to your success as a programmer-- and it's the first place to start getting acclimated to this new way of using your computer.
-
+Knowing how to use your command line will be vital to your success as a programmer. Fortuntatlely for now you only need to know a few commands.  
 
 ## Exploration and Application
-Follow the time box suggestions. We know its exciting to learn, but trust us, be wise on how deep you go. Let the learning competencies be your guide. Ask yourself if you know them.
 
 Exploration | Time to box |
 ------------|----------|
@@ -25,15 +23,18 @@ Give it a try | 20 minutes
 Find out what it is | 20 minutes |
 Reflect | 15 minutes |
 
-##Give it a try
+Follow the time box suggestions. We know its exciting to learn, but trust us, be wise on how deep you go. Let the learning competencies be your guide. Ask yourself if you know them.
+
+
+### Give it a try
 Follow this [useful guide](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) to try it out. Don't be put of by the "learn python" reference. Notice the differnce between windows, linux and mac.
 
-##Find out what it is
+### Find out what it is
 Have a look for some learning resources: Videos, tutorials, google.
-For example I found this [Useful introduction](https://www.youtube.com/watch?v=jDINUSK7rXE) by googling "Quick intro to command line" (I recommend watching it). If you're not satisfied with the results, try other key words such as "Bash, Terminal, Basic and sheet"
+For example I found this [useful introduction](https://www.youtube.com/watch?v=jDINUSK7rXE) by googling "Quick intro to command line" - __I recommend watching it__. If you're not satisfied with the results, try other key words such as "Bash, Terminal, Basic and cheatsheet"
 
-##Reflect
-Reflecting is essential for solidifying your learning. You will be asked to record your reflections often. It will help you learn how you learn, give opportunities for sharing resources, and will help to demonstrate your knowledge of the learning outcomes.
+### Reflect
+Reflecting is essential for solidifying your learning. It will help you learn how you learn, give opportunities for sharing resources, and will help to demonstrate your knowledge of the learning outcomes.
 
 Reflections are for you, but they will also be read by others, so make sure to write for an audience.They should be only a paragraph long.
 
@@ -47,7 +48,8 @@ In your reflection answer the questions:
 4. Any surprises e.g. Super useful resources
 
 
-__stretch competencies__
+### stretch competencies
+Come back to stretch competencies in your spare time. Don't focus on them now while you're getting started
 
 - Remove or copy a directory
 - Stream a file
