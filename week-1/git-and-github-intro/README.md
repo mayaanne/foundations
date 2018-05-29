@@ -40,7 +40,7 @@ Here's some resources to get you going.
 The next part is a deep dive into git and GitHub.Feel free to stop the video and resume it when engaging with the deep dive. Remember your learning is your own.
 
 ## Reflect
-Remember, reflections are for you, but they will also be read by others, so make sure to write for an audience.They should be only a paragraph long.
+Remember, reflections are for you, but they will also be read by others, so make sure to write for an audience. They should be only a paragraph long. Remember where you save your reflection as you'll use it in the following deep dive. 
 
 __In your reflection answer the questions:__
 1. Whats the difference between git and GitHub?
