@@ -4,14 +4,11 @@ __A prerequisite course for Dev Academy Bootcamp__
 
 For full details refer to the Foundations Handbook, Tech Handbook and Core Handbook.   
 
-Tech: 40 credits | 140 hours
- 
-Core: 04 credits | 14 hours 
-
 
 ------------    
 
 ## Tech module 
+40 credits | 140 hours
 
 The tech module is designed to introduce you to the foundations of web development by building your technical competencies. 
 
@@ -27,10 +24,11 @@ Create and debug simple programs using Javascript variables, functions, loops, i
 Create interactive client side websites using Javascript event handling and DOM manipulation
 
 ## Core module 
+04 credits | 14 hours 
 
 The core foundation prepares you for learning experiences drawing from your own agency of values and strengths. Your values and mindset determine how successful you will be as a learner and web developer. This modules aims to provide you with sufficient self- awareness to maximise your learning and impact. 
-			
 
+			
 Learning outcomes |
 ------------|
 Reflect meaningfully on your identity and create and follow a self directed learning plan 
