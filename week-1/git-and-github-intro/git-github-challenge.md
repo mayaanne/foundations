@@ -26,8 +26,6 @@ Follow the time box suggestions. If you get stuck, take a quick break and come b
 ## Pre-Requisites:
 To complete this deep dive, you must have completed all [install instrutions](https://github.com/dev-academy-programme/orientation/tree/master/installation)
 
-## Deep Dive
-Your learning exploration requires you to follow a specific "GitHub workflow".
 
 ## Step 1:Fork
 Fork the
