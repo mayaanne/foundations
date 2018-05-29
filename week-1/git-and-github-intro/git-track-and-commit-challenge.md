@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Track, stage, and commit push! 
+# Track, stage, and commit push!
 
 ## Learning Competencies
 
@@ -21,7 +21,7 @@ Exploration | Time to box |
 Refresh taster  | 10 minutes
 Practice on your local repo | 30 minutes
 Dig deeper | 20 minutes
-Push | 5 minutes 
+Push | 5 minutes
 Practice again | 15 minutes
 Reflect | 10 minutes
 
@@ -34,7 +34,7 @@ Remember the GitHub [interactive tutorial](https://try.github.io/levels/1/challe
 ## Practice on your local repo
 In the last deep dive challenge, you forked our repo and then cloned it onto your machine. You then created a new file called my_reflction.md
 
-That file needs staging. You'll need to use commands like `git add` and `git commit`. 
+That file needs staging. You'll need to use commands like `git add` and `git commit`.
 
 __Good Commit Messages__
 
@@ -50,13 +50,13 @@ Stll hungry? check out [Atlassins tutorial](https://www.atlassian.com/git/tutori
 Do you know how to check your commit history? Would you know where to look in each message to find what files were changed?
 What do the terms working and staged mean?
 
-## Push 
-Pushing your changes back up to GitHub. Right now your my_relection.md file lives on your computer, but its staged and ready to go. When you push your changes up, you'll be pushing to __the master copy of your forked version__. Don't worry, you won't be changing anything on our master copy. You have your own master copy and we have our ours. Hint: `git push` is all that is needed. 
+## Push
+Pushing your changes back up to GitHub. Right now your my_relection.md file lives on your computer, but its staged and ready to go. When you push your changes up, you'll be pushing to __the master copy of your forked version__. Don't worry, you won't be changing anything on our master copy. You have your own master copy and we have our ours. Hint: `git push` is all that is needed.
 
 ## Practice again
-Remember the reflections you've been collecting? Add them now to their own my_reflection.md files. Navigate around a bit using command line (terminal) and or visual studio. Can you see any my_reflection.md files already present? Make changes, check their status, stage them, commit and push them up to the cloud. 
+Remember the reflections you've been collecting? Add them now to their own my_reflection.md files. Navigate around a bit using command line (terminal) and or visual studio. Can you see any my_reflection.md files already present? Make changes, check their status, stage them, commit and push them up to the cloud
 
-## Reflect 
-Go back to the reflection file for github. How would you describe stage and commit to your non-tech-savy friend? 
-Stage your reflection and do your magic to get it up on the cloud.  
- 
+## Reflect
+Go back to the reflection file for github. How would you describe stage and commit to your non-tech-savy friend?
+Stage your reflection and do your magic to get it up on the cloud.
+
