@@ -44,7 +44,7 @@ Destination: git-hub-user-name/foundations
 
 <figure>
   <figcaption>
-    <p><strong>Figure 1:</strong> View of Forked repo in destination </p>
+    <p><strong>Figure 2:</strong> View of Forked repo in destination </p>
   </figcaption>
   <img src="../../images/github_3_forked.png" alt="View Forked GithHub Repo"><br>
 </figure>
@@ -54,7 +54,7 @@ On your fork, find the settings button and enable issues
 
 <figure>
   <figcaption>
-    <p><strong>Figure 1:</strong> Enable issues via settings </p>
+    <p><strong>Figure 3:</strong> Enable issues via settings </p>
   </figcaption>
   <img src="../../images/github_4_enable_issues.png" alt="ticked issues box"><br>
 </figure>
@@ -63,29 +63,44 @@ __Privacy__
 Your repository will be private by default. That is intentional. But others in foundations will have access to see your code and will be able to give you feedback because you are all on the same team (and have issues enabled). Please do not change any other settings. 
 
 ## Step 3: Cloning 
-Right now your repository exists on GitHub, but in order to add or edit files using your text editor, you need it to exist on your computer. In git terms, this is called cloning a repository locally. A "local repository" is the copy on your computer. A "remote repository" is one on another server, e.g. on GitHub. 
+You may have to manually enter your __gitHub password__ in terminal, so make sure you know it before beginning this step.  
 
-1. Think about where you want your local repo to live. Is it for example `desktop/EDA/foundations` or does it make more sense to have it on your root directory e.g. `tane/foundations` ? This is your learning journey, so you decide what logic makes most sense to you. Go ahead and create the directory. Pro-tip: Do it using command line. 
+Right now your repository exists on GitHub, but in order to add or edit files using your text editor, you need it to exist on your computer. In git terms, this is called cloning a repository locally.
+
+1. Click the clone button (copies link)
+
+<figure>
+  <figcaption>
+    <p><strong>Figure 4:</strong> Clone button </p>
+  </figcaption>
+  <img src="../../images/github_4_clone_button.png" alt="gitHub clone button"><br>
+</figure>
+
+**Pro-tip: Do the following tasks using command line:** 
+
+2. The link you copied will automatically create a directory called 'foundations'. __Think about where you that directory to live.__  Is it for example `desktop/dev-academy/foundations` or does it make more sense to have it on your root directory e.g. `users/tane/foundations` ? This is your learning journey, so you decide what logic makes most sense. __Go ahead and create the directory.__  
+
+3. In terminal navigate __INTO__ _the directory you created and or decided on_
+4. enter the command 'git clone' and use keyboard shortcut 'cmd v' (mac) or 'ctrl v' (win) to paste 
+5 Follow the username and password prompts if required. 
+
+<figure>
+  <figcaption>
+    <p><strong>Figure 5:</strong> Terminal commands for cloning </p>
+  </figcaption>
+  <img src="../../images/github_5_git_clone_terminal.png" alt="gitHub terminal clone commands"><br>
+</figure>
+
+## Step 4: Open in Visual Studio
+Visual studio is the text editor app you installed previously. Open it and then open the foundations file you just cloned to view your new local repo. 
 
 
-Right now your repository exists on GitHub, but in order to add or edit files using your text editor, you need it to exist on your computer.
-
-## Apply your knowledge
-
-## Reflect
-Reflecting is essential for solidifying your learning. Remember, reflections are for you, but they will also be read by others, so make sure to write for an audience.They should be only a paragraph long.
-
-__In your reflection answer the questions:__
-1. What was the most challenging for you in going through this material?
-2. Did you complete all of the activities in the learning competencies?
-3. In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it?
-4. Did you stick to the timebox suggestions? If not, why not?
-4. Any surprises e.g. Super useful resources
+<figure>
+  <figcaption>
+    <p><strong>Figure 5:</strong> Local clone repo in text editor </p>
+  </figcaption>
+  <img src="../../images/github_6_clone_open_visual_studio.png" alt="local repo in terminal"><br>
+</figure>
 
 
-## Stretch Competencies
-Come back to stretch competencies in your spare time. Don't focus on them now while you're getting started
 
-
-**Intermediate Git'ers**
-- [Learn Git Branching](http://pcottle.GitHub.io/learnGitBranching/) - basic Git commands and branching.
