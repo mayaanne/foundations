@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# git Setup New Repo, create GitHub pages Blog
+# Setup new Repo, create GitHub pages Blog Challenge
 
 ## Learning Competencies
 By the end of this you should be able to:
