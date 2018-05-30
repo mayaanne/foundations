@@ -33,15 +33,14 @@ Evidence might include: stories of how these values were demonstrated in practic
 2. Gather evidence to identify your strengths and areas for development.
 Evidence might include: personality or skills/capability assessment tools like Myers Briggs, Strengthsfinder; DOPE; Capability Sort; Minded; plus most from the task 1 examples.
 
-Some things to consider:  
-- Describe your values and examples of you living your values 
-- Provide sources of feedback from external sources 
-- Discuss how culture has influenced your values in detail and with specific examples  
-- Describe strengths and limitations in to reference specific contexts  
-- Evaluate the significance of your strengths and limitations using examples  
-- Give examples of how your strengths might help you overcome learning barriers   
-
 
 ## Document it 
-In the near future, this document will form part of your blog. 
-Follow this [useful guide](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) to try it out. Don't be put of by the "learn python" reference. Notice the differnce between windows, linux and mac.
+In the near future, this document will form part of your blog which will visible to your cohort and facilitator. Your blog particpation counts towards your overall assessment.  
+
+Some things to consider:  
+- Can you describe your values and examples of you living your values 
+- What sources of feedback did you seek from external sources
+- Can you discuss how culture has influenced your values? Can give details and specific examples?  
+- Can you descibe your strengths and limitations in to reference specific contexts?  
+- How significant do you think your strengths and limitations are and why?  
+- What are some examples of how your strengths might help you overcome learning barriers?   
