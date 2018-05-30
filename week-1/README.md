@@ -10,10 +10,10 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 ## Tech
 [Command Line Primer](command-line/README.md)  
 [Git and GitHub Primer](git-and-github-intro/README.md)  
-[Git and GitHub Deep Dive Challenge](git-and-github-intro/git-github-challenge.md)  
+[Git and GitHub Deep Dive (fork, clone) Challenge](git-and-github-intro/git-github-fork-clone-challenge.md)  
 [Git track changes Challenge](/git-and-github-intro/git-track-and-commit-challenge.md)  
 [Git remote sync fork primer](git-and-github-intro/git-remote-fork-merge-primer.md)  
-[Git remote sync fork challenge](git-and-github-intro/git-remote-fork-merge-primer.md)  
+[Git remote sync fork challenge](git-and-github-intro/git-remote-sync-fork-challenge.md)  
 [Git new repo - gitHub pages blog site Challenge]()  
 [Thinking like a web devloper]()  
 [Debugging]()  
