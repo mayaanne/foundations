@@ -11,8 +11,7 @@ By the end of this exploration, you should
 To be a good webdeveloper study code. To be a great one, study people. 
 Web deveolopment has a long outdated stigma of introverted types in dark rooms staring at computers. But in today's day in age, web developers are part of the most innovtive teams pushing boundaries of traditional business models and creating change. 
 
-Hiring managers look for those who 'fit' - who understand themselves and can work authentically with others. Your code skills will get you in the door, but its your human skills that will get you the job. 
+Core Foundations prepares you for learning experiences drawing from your own agency of values and strengths. Your values and mindset determine how successful you will be as a learner and web developer. This module aims to provide you with sufficient self- awareness to maximise your learning and impact. 
 
-To help you develop, we've desgined the Core Fundamentals which encourages you to uderstand, communicate and integrate your values with your learning journey. Core Fundamentals is also a primer for the Human Skills (Engineering Empathy) programme you'll understake when you hit bootcamp. 
+Your reflections and particpation, count towards your assessment. 
 
-Your reflections and particpation in the work, count towardds your assessment. 
