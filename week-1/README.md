@@ -8,19 +8,21 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 ------------
 
 ## Tech
-[Command Line Primer](/week-1/command-line/README.md)
-[Git and GitHub Primer](/week-1/git-and-github-intro/README.md)
-[Git and GitHub Deep Dive Challenge](week-1/git-and-github-intro/git-github-challenge.md)
-[Git track changes Challenge](week-1/git-and-github-intro/git-track-and-commit-challenge.md)
-[Thinking like a web devloper]()
-[Debugging]()
-[HTML and CSS Primer]()
+[Command Line Primer](/week-1/command-line/README.md)  
+[Git and GitHub Primer](/week-1/git-and-github-intro/README.md)  
+[Git and GitHub Deep Dive Challenge](week-1/git-and-github-intro/git-github-challenge.md)  
+[Git track changes Challenge](week-1/git-and-github-intro/git-track-and-commit-challenge.md)  
+[Thinking like a web devloper]()  
+[Debugging]()  
+[HTML and CSS Primer]()  
 
 ## Core
-[Identity and values]()
-[Learning plan]()
-[Feedback]()
-//[Journal of analogies]()
+[Identity and values]()  
+[Learning plan]()  
+[Feedback]()  
+//[Journal of analogies]()  
+
+
 
 
 
