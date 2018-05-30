@@ -8,7 +8,7 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 ------------
 
 ## Tech
-[Command Line Primer](/week-1/command-line/README.md)  
+[Command Line Primer](command-line/README.md)  
 [Git and GitHub Primer](/week-1/git-and-github-intro/README.md)  
 [Git and GitHub Deep Dive Challenge](week-1/git-and-github-intro/git-github-challenge.md)  
 [Git track changes Challenge](week-1/git-and-github-intro/git-track-and-commit-challenge.md)  
@@ -22,7 +22,7 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 [Feedback]()  
 //[Journal of analogies]()  
 
-
-
+## Stretch
+[Github stretch](git-github-stretch/README.md)
 
 
