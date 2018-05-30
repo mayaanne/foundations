@@ -57,7 +57,9 @@ __Pro-tip__ `Upstream` is a naming convention. We don't recommmend using any oth
 
 
 ## Fetch Changes 
-You're going to be fetching changes from our remote sever (and therefore our version of the repo). Its important to know that Git will not over-write your work. Git will ensure everything is kept if your files and our files are different and Git will ask you to manually decide which parts you want to keep. 
+You're going to be fetching changes from our remote sever (and therefore our version of the repo). Its important to know that Git will not over-write your work. Fetch just downloads data from the specified remote and makes it visible for you but putting it in a branch.
+
+Git will ensure everything is kept if your files and our files are different and Git will ask you to manually decide which parts you want to keep. 
 
 1. Check to see if there are changes on the upstream remote?
 2. If there are, fetch them
@@ -65,6 +67,16 @@ You're going to be fetching changes from our remote sever (and therefore our ver
 ## Merge Changes 
 1. Merge changes
 
+Hint:
+<figure>
+  <figcaption>
+    <p><strong>Figure 2:</strong> A conversation with Git about remotes</p>
+  </figcaption>
+  <img src="../../images/github_12_fetch_convo.png" alt="adding remotes"><br>
+</figure>
+
+## Wrap up 
+From time to time, we'll be asking you to fetch new material so keep this challenge in mind for when you need to fetch next time. 
 
 ## Reflect
 Edit your my_reflection.md file. 
