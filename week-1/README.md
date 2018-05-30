@@ -20,9 +20,9 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 [HTML and CSS Primer]()  
 
 ## Core
-[Core primer](core/README.md)
-[Identity and values](core/identity-and-values.md)  
-[Introduce yourself](core/introduce-yourself.md)  
+[Core primer](core/README.md)  
+[Identity and values exploration](core/identity-and-values.md)  
+[Introduce yourself exercise](core/introduce-yourself.md)  
 [Learning plan]()  
 
 
