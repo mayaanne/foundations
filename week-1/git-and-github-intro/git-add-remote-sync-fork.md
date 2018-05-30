@@ -86,4 +86,6 @@ Reflection on:
 1. What is a remote?
 2. How are they set up?
 3. Summarize the purpose of a remote
+4. Add, commit and push your reflection. Remember to make it meaningful like `add reflection about remotes``
+
 

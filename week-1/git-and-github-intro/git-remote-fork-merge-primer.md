@@ -51,11 +51,12 @@ You could ask simple questions like "what is a git remote" to be specific, but i
 
 
 ## Reflect
-Open your my_reflection.md file and answer the following 
+Open your my_reflection.md file and answer the following. Don't forget to stage and commit.  
 
 1. What is the differenc between cloning from a forked and cloning from a non-forked repo. 
 2. Can you think of an anology to describe forking?
 3. What is a remote? 
 4. Did anything surprise you?
+5. Add, commit and push! 
 
 

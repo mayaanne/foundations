@@ -60,6 +60,8 @@ Pushing your changes back up to GitHub. Right now your my_relection.md file live
 Remember the reflections you've been collecting? Add them now to their own my_reflection.md files. Navigate around a bit using command line (terminal) and or visual studio. Can you see any my_reflection.md files already present? Make changes, check their status, stage them, commit and push them up to the cloud
 
 ## Reflect
-Go back to the reflection file for github. How would you describe stage and commit to your non-tech-savy friend?
-Stage your reflection and do your magic to get it up on the cloud.
+Go back to the reflection file for github. 
+
+1. How would you describe stage and commit to your non-tech-savy friend?  
+2. Stage your reflection and do your magic to get it up on the cloud.
 
