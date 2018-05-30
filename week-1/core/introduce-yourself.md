@@ -33,6 +33,7 @@ Share
 - Why you're attending Dev Academy 
 
 ## Reflect 
-Create a my_reflection.md file in the `core`directory. 
+Create a my_reflection.md file in the `core` directory. 
 
-What struck you about the the sharing practice on slack? Any surprises? Fears? Wonderful moments?
+- What struck you about the the sharing practice on slack? Any surprises? Fears? Wonderful moments?  
+- Add, stage and commit. Remember to make your commit messages meaningful!
