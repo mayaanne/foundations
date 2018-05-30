@@ -14,6 +14,7 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 [Git track changes Challenge](/git-and-github-intro/git-track-and-commit-challenge.md)  
 [Git remote sync fork primer](git-and-github-intro/git-remote-fork-merge-primer.md)  
 [Git remote sync fork challenge](git-and-github-intro/git-remote-fork-merge-primer.md)  
+[Git new repo - gitHub pages blog site Challenge]()  
 [Thinking like a web devloper]()  
 [Debugging]()  
 [HTML and CSS Primer]()  
