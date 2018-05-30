@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Track, stage, and commit push!
+# Track, stage, commit and push!
 
 ## Learning Competencies
 
