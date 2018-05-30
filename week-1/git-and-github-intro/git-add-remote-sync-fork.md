@@ -10,8 +10,8 @@ By the end of this challenge, you should be able to:
 - understand how to keep forks in sync. 
 
 ## Summary
-When we make important updates to the curriculum (on our repo), you'll need to tell Git how to get those changes. 
-You'll do this by a by setting remotes, fetching and at mergining into your own copy. 
+When we make important updates to the curriculum, you'll need to tell Git how to get those changes. 
+You'll do this by setting remotes, fetching and at merging changes into your own copy. 
 
 
 ## Exploration and Application
@@ -29,18 +29,22 @@ Follow the time box suggestions. If you get stuck, take a quick break and come b
 To complete this deep dive, you should have completed all previous git/GitHub hub primers and challenges. 
 
 ## Intro 
-As a web developer you'll be working 90% of the time on a local version of a code base, using a text editor (like visual studio or sublime) to create and edit code. But what use is that if it lives only on your computer? You'll need to be able to contribute to codebases and keep your local versions in sync. 
+As a web developer you'll be working 90% of the time on a local version of a code base, using a text editor (like visual studio or sublime) to create and edit code. But code sitting isolated on your computer is of little value. You'll want to be able to contribute to code bases and keep your local versions in sync. 
 
 You can do this by setting remotes.
 
+## Explore 
 Explore a litte and about remotes. Don't get too side tracked by branches. Begin by identifying what is it your trying to understand? Check the learning objectives. If you need a little extra guidance  here's a couple of links to help you along: 
 
-[GitHub - configure git to sync with your fork part one](https://help.github.com/articles/fork-a-repo/#step-3-configure-git-to-sync-your-fork-with-the-original-spoon-knife-repository)
-[GitHub - syncing a fork part two](https://help.github.com/articles/syncing-a-fork/)
-[Upstream and downstream - stackoverflow](https://stackoverflow.com/questions/2739376/definition-of-downstream-and-upstream)
-[Managing remotes](https://help.github.com/categories/managing-remotes)
+[GitHub - configure git to sync with your fork part one](https://help.github.com/articles/fork-a-repo/#step-3-configure-git-to-sync-your-fork-with-the-original-spoon-knife-repository)  
+[GitHub - syncing a fork part two](https://help.github.com/articles/syncing-a-fork/)  
+[Upstream and downstream - stackoverflow](https://stackoverflow.com/questions/2739376/definition-of-downstream-and-upstream)  
+[Managing remotes](https://help.github.com/categories/managing-remotes)  
 
 In the next step we'll be asking you to set an 'upstream' so you can 'fetch' any changes that are currently in our version. 
+
+## Add an Upstream
+1. Add an upstream to your local version
 
 __Pro-tip__ `Upstream` is a naming convention. We don't recommmend using any other name, but for comparisions sake I've added 3 remotes to illustrate that the remote (usually named upstream) is simply where we want to fetch changes from and push contributions to. 
 
@@ -50,11 +54,6 @@ __Pro-tip__ `Upstream` is a naming convention. We don't recommmend using any oth
   </figcaption>
   <img src="../../images/github_11_remote.png" alt="adding remotes"><br>
 </figure>
-
-
-
-## Add an Upstream
-1. Add an upstream to your local version
 
 
 ## Fetch Changes 
