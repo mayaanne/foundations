@@ -72,9 +72,3 @@ Once you get some results, make sure to ask:
 - Does it solve part of my problem?
 - Do I understand the solution? If not, what can I do to understand it?
 
-Take a look at these resources as you think about online research:
-
-* [If you only learn one technical skill, learn this one](http://skillcrush.com/2013/04/30/if-you-learn-only-one-technical-skill-learn-this-one/)
-* [Quick Tips to make your Google Searches Smarter](http://www.themuse.com/advice/quick-tips-to-make-your-google-searches-smarter)
-* [3 Things to try when Google doesn't have the answer](http://skillcrush.com/2013/05/03/3-things-to-try-when-google-doesnt-have-the-answer/)
-
