@@ -1,0 +1,38 @@
+[Week 1 Home](../)
+
+# Introduce yourself and get to know your cohort
+
+### Learning Competencies
+By the end of this excercise, you will:
+
+- Have a sense of who you are on this learning journey with. 
+- Shared something about your learning journy
+
+
+## Summary
+Your cohort are on this learning journey with you. Its a melting pot of identity. As the weeks go on, you'll be reading each others blogs, particpating in group discussions and helping each other when stuck. 
+
+This week reach out to your cohort and share a little about yourself. 
+Think about how your identity shapes you and what that means for your learning journey.
+
+
+## Exploration and Application
+
+Exploration | Time to box |
+------------|----------|
+Write and share | 30 minutes
+Reflect | 30 minutes
+
+## Write
+Jump onto your foundations specific slack channel (e.g. Kauri-2017)
+
+Share 
+- Your name 
+- Your location 
+- Something you've been thinking about in terms of values and identity 
+- Why you're attending Dev Academy 
+
+## Reflect 
+Create a my_reflection.md file in the `core`directory. 
+
+What struck you about the the sharing practice on slack? Any surprises? Fears? Wonderful moments?
