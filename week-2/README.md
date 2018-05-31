@@ -16,8 +16,8 @@ __Part one 17 hours__
 [Technical blog (1hr)]()  
 
 __Part two 15 hours__  
-[Introduction to JavaScript Learning Challenge (10hr)]()  
-[Practice solving hard challenges](https://www.codewars.com/?language=javascript)  
+[JS introduction Learning Challenge (10hr)]()  
+[JS Practice](https://www.codewars.com/?language=javascript)  
 
 
 ## Core 
