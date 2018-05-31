@@ -8,10 +8,10 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 ------------
 
 ## Tech
-[HTML and CSS Build your Website Blog Primer / Setup](web-html-css-blog-primer.md)
-[HTML and CSS Learning Challenge](eb-learn-html-and-css-challenge.md)    
-[DevTools primer](web-devtools-pimer.md)  
-[Technical blog]()
+[HTML and CSS Build your Website Blog Primer / Setup](web-html-css-blog-primer.md)  
+[HTML and CSS Learning Challenge](eb-learn-html-and-css-challenge.md)       
+[DevTools primer](web-devtools-pimer.md)    
+[Technical blog]()  
 
 ## Core
 [Core-week-2-primer](core-week-2-primer.md)  
@@ -21,8 +21,8 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
   
 
 ## Stretch
-[HTML and CSS Wireframing]()
-[HTML and CSS Testing and maintainence]()
-[HTML and CSS CSS-garden]()
+[HTML and CSS Wireframing]()  
+[HTML and CSS Testing and maintainence]()  
+[HTML and CSS CSS-garden]()  
 
 
