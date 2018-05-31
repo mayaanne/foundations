@@ -17,7 +17,7 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 [Git new repo. GitHub pages blog site Challenge](git-new-repo-github-pages-blog.md)  
 [Thinking like a web devloper Primer](think-like-a-programmer-primer.md)  
 [Debugging Primer](think-research-debugging-primer.md)  
-[HTML and CSS Primer]()  
+
 
 ## Core
 [Core primer](core-primer.md)  
