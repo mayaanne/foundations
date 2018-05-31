@@ -8,7 +8,7 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 ------------
 
 ## Tech
-[HTML and CSS Build your Website Blog Primer / Setup](web-html-css-blog-primer.md)  
+[Blog Primer & Setup](web-blog-setup-primer.md)  
 [HTML and CSS Learning Challenge](eb-learn-html-and-css-challenge.md)       
 [DevTools primer](web-devtools-pimer.md)    
 [Technical blog]()  
