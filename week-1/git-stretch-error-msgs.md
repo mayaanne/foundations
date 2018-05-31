@@ -1,14 +1,14 @@
-[Week 1 Home](../)
+[Week 1 Home](README.md)
 
 # GitHub and terminal error messages (Stretch Challenge)
 
 ## Learning Competencies
 
-- Analyise git terminal messages
+- Analyse git terminal messages
 
 ## Summary
 
-To solve a problem, you must understand the problem. Git in the terminal displays important information. Your job will require that you are constantly solving problems, which means you need to hone your skills in discecting what the problem is.
+To solve a problem, you must understand the problem. Git in the terminal displays important information. Your job will require that you are constantly solving problems, which means you need to hone your skills in dissecting what the problem is.
 
 ## Exploration and Application
 
@@ -27,18 +27,18 @@ Walk through it step by step, e.g.
 'user does xyz'
 
 ## Seek
-If you don't recognise something, find out what it is. Are there new terms you dont recognise?
+If you don't recognise something, find out what it is. Are there new terms you don't recognise?
 
 ## Reflect
 - Create a my_reflection.md file in this directory (git-github-stretch)
-- For each image, write your analyis of what is happening.
+- For each image, write your analysis of what is happening.
 - Describe what you learned
 
 <figure>
   <figcaption>
     <p><strong>Figure 1:</strong></p>
   </figcaption>
-  <img src="../../images/github_7_terminal_message.png" alt="Git terminal message"><br>
+  <img src="../images/github_7_terminal_message.png" alt="Git terminal message"><br>
 
 </figure>
 
@@ -46,7 +46,7 @@ If you don't recognise something, find out what it is. Are there new terms you d
   <figcaption>
     <p><strong>Figure 2:</strong></p>
   </figcaption>
-  <img src="../../images/github_8_terminal_message.png" alt="Git terminal message"><br>
+  <img src="../images/github_8_terminal_message.png" alt="Git terminal message"><br>
 
 </figure>
 
@@ -54,6 +54,6 @@ If you don't recognise something, find out what it is. Are there new terms you d
   <figcaption>
     <p><strong>Figure 2:</strong></p>
   </figcaption>
-  <img src="../../images/github_9_terminal_message.png" alt="Git terminal message"><br>
+  <img src="../images/github_9_terminal_message.png" alt="Git terminal message"><br>
 
 </figure>

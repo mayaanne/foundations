@@ -1,4 +1,4 @@
-[Week 1 Home](../)
+[Week 1 Home](README.md)
 
 # Git and GitHub Challenge
 
@@ -36,7 +36,7 @@ Destination: git-hub-user-name/foundations
   <figcaption>
     <p><strong>Figure 1:</strong> Fork Repo from origin</p>
   </figcaption>
-  <img src="../../images/github_1_original.png" alt="Fork GitHub Repo"><br>
+  <img src="../images/github_1_original.png" alt="Fork GitHub Repo"><br>
 
 </figure>
 
@@ -45,7 +45,7 @@ Destination: git-hub-user-name/foundations
   <figcaption>
     <p><strong>Figure 2:</strong> View of Forked repo in destination </p>
   </figcaption>
-  <img src="../../images/github_3_forked.png" alt="View Forked GithHub Repo"><br>
+  <img src="../images/github_3_forked.png" alt="View Forked GithHub Repo"><br>
 </figure>
 
 ## Step 2: Enable issues
@@ -55,7 +55,7 @@ On your fork, find the settings button and enable issues
   <figcaption>
     <p><strong>Figure 3:</strong> Enable issues via settings </p>
   </figcaption>
-  <img src="../../images/github_4_enable_issues.png" alt="ticked issues box"><br>
+  <img src="../images/github_4_enable_issues.png" alt="ticked issues box"><br>
 </figure>
 
 
@@ -70,7 +70,7 @@ Right now your repository exists on GitHub, but in order to add or edit files us
   <figcaption>
     <p><strong>Figure 4:</strong> Clone button </p>
   </figcaption>
-  <img src="../../images/github_4_clone_button.png" alt="gitHub clone button"><br>
+  <img src="../images/github_4_clone_button.png" alt="gitHub clone button"><br>
 </figure>
 
 **Pro-tip: Do the following tasks using command line:**
@@ -85,7 +85,7 @@ Right now your repository exists on GitHub, but in order to add or edit files us
   <figcaption>
     <p><strong>Figure 5:</strong> Terminal commands for cloning </p>
   </figcaption>
-  <img src="../../images/github_5_git_clone_terminal.png" alt="gitHub terminal clone commands"><br>
+  <img src="../images/github_5_git_clone_terminal.png" alt="gitHub terminal clone commands"><br>
 </figure>
 
 ## Step 4: Open in Visual Studio
@@ -95,7 +95,7 @@ Visual studio is a text editor you installed during setup. Open it and then open
   <figcaption>
     <p><strong>Figure 5:</strong> Local cloned repo viewed in text editor </p>
   </figcaption>
-  <img src="../../images/github_6_clone_open_visual_studio.png" alt="local repo in terminal"><br>
+  <img src="../images/github_6_clone_open_visual_studio.png" alt="local repo in terminal"><br>
 </figure>
 
 

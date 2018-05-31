@@ -1,11 +1,11 @@
-[Week 1 Home](../)
+[Week 1 Home](README.md)
 
 # Git - Setting Remotes and Syncing Forks Challenge
 
 ### Learning Competencies
 By the end of this challenge, you should be able to:
 
-- Set up remotes in your forked repostory
+- Set up remotes in your forked repository
 - Fetch changes 
 - understand how to keep forks in sync. 
 
@@ -46,13 +46,13 @@ In the next step we'll be asking you to set an 'upstream' so you can 'fetch' any
 ## Add an Upstream
 1. Add an upstream to your local version
 
-__Pro-tip__ `Upstream` is a naming convention. We don't recommmend using any other name, but for comparisions sake I've added 3 remotes to illustrate that the remote (usually named upstream) is simply where we want to fetch changes from and push contributions to. 
+__Pro-tip__ `Upstream` is a naming convention. We don't recommend using any other name, but for comparisons sake I've added 3 remotes to illustrate that the remote (usually named upstream) is simply where we want to fetch changes from and push contributions to. 
 
 <figure>
   <figcaption>
     <p><strong>Figure 1:</strong> Adding variations of upstream remotes to local repo</p>
   </figcaption>
-  <img src="../../images/github_11_remote.png" alt="adding remotes"><br>
+  <img src="../images/github_11_remote.png" alt="adding remotes"><br>
 </figure>
 
 
@@ -72,7 +72,7 @@ Hint:
   <figcaption>
     <p><strong>Figure 2:</strong> A conversation with Git about remotes</p>
   </figcaption>
-  <img src="../../images/github_12_fetch_convo.png" alt="adding remotes"><br>
+  <img src="../images/github_12_fetch_convo.png" alt="adding remotes"><br>
 </figure>
 
 ## Wrap up 

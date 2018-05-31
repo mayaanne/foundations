@@ -1,4 +1,4 @@
-[Week 1 Home](../)
+[Week 1 Home](README.md)
 
 # git Remote Merge Primer 
 
@@ -6,7 +6,7 @@
 By the end of this exploration, you should
 
 - Explain what a remote is
-- Understand the diffrent context of a forked repo
+- Understand the different context of a forked repo
 
 
 ## Summary
@@ -37,7 +37,7 @@ Study this diagram, adapted from [GitTower](https://www.git-tower.com/learn/git/
   <figcaption>
     <p><strong>Figure 1:</strong> Left = YOUR Master, Right = OUR master</p>
   </figcaption>
-  <img src="../../images/github_10_fork.png" alt="Fork GitHub Repo"><br>
+  <img src="../images/github_10_fork.png" alt="Fork GitHub Repo"><br>
 
 </figure>
 A
@@ -47,14 +47,14 @@ A
 
 
 ## Explore 
-You could ask simple questions like "what is a git remote" to be specific, but if you need to understand the bigger picture more you could ask questions like "github user workflow." I googled "what is a git remote repository" and found [GitTower's useful step by step course](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction)
+You could ask simple questions like "what is a git remote" to be specific, but if you need to understand the bigger picture more you could ask questions like "GitHub user workflow." I googled "what is a git remote repository" and found [GitTower's useful step by step course](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction)
 
 
 ## Reflect
 Open your my_reflection.md file and answer the following. Don't forget to stage and commit.  
 
-1. What is the differenc between cloning from a forked and cloning from a non-forked repo. 
-2. Can you think of an anology to describe forking?
+1. What is the difference between cloning from a forked and cloning from a non-forked repo. 
+2. Can you think of an analogy to describe forking?
 3. What is a remote? 
 4. Did anything surprise you?
 5. Add, commit and push! 
