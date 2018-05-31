@@ -19,7 +19,8 @@ You'll continue to build on your blog throughout the Foundations course.
 Exploration | Time to box |
 ------------|----------|
 Introduction | 10 minutes
-Set up | 20 minutes |
+Setup part one | 20 minutes |
+Setup part two | 20 minutes
 Reflect | 10 minutes |
 
 
@@ -36,21 +37,41 @@ Some of the resources we point you towards will be media rich with audio and vid
 
 __This is your journey and its up to you to discern how you learn best.__ 
 
-Our role is to help you by facilitating your critical thinking: help you to understand where your knowledge gaps are, and prompt you to figure out how to fill those gaps. This type of learning is different from being given a set of instructions to follow. In the world of web development (and hence problem solving) your greatest asset in knowing how to work something out. 
+Our role is to help you by facilitating your critical thinking: help you to understand where your knowledge gaps are, and prompt you to figure out how to fill those gaps. This type of learning is different from being given a set of instructions to follow. In the world of web development (and hence problem solving) your greatest asset in knowing how to work something out. There are however times, like below when a task list is necessary - say for example when we need you to set something up in a specific way or to get you to a certain point for learning development. 
 
-Follow the timeboxing prompts, attend the check-in's, keep to the learning objectives and reflect. 
+In all instances, follow the timeboxing prompts, attend the check-in's, keep to the learning objectives and reflect. 
  
-## Set up 
-In the previous challenge you started a GitHub pages blog `username.gihub.io`. 
+## Set up part one
+In the previous challenge you started a GitHub pages blog `username.gihub.io`. This step setups up a framework for our blog pages which will end in .html. We copy a template in there for place holding. 
+
+Pro-tip-1: You can create many common file types (e.g. .html, .css) the same way you create .txt and .md files (hint: touch)
+
+Pro-tip-2: If adding a new file to a new directory, remember to navigate __INTO__ new file directory after you make it.
 
 1. Navigate to the directory where you saved your `username.github.io` repo
-2. __In__ the `username.github.io directory, create a new directory called `blog` (hint: mkdir)
-3. __In__ the `blog` directory create a file t1-blog.html (hint: touch)
+2. __In__ the `username.github.io` directory, create a new directory called `blog` (hint: mkdir)
+3. __In__ the `blog` directory create a file `t1-blog.html` (hint: touch)
 4. Open `t1-blog.html` in your code editor (hint code .)
 5. Copy [this template](web-html-template.html) and paste it into `t1-blog.html`.
 4. Add and commit your changes with a good commit message 
 5. Push your changes 
-6. Visit your page on your web browswer `username.github.io/blog/t1-blog.html`
+6. Visit your page on your web browser `username.github.io/blog/t1-blog.html`
+
+## Set up part two 
+This step setups the directory structure for your css. We use _standard naming conventions_ for example main.css
+
+1. Navigate to the directory where you saved your `username.github.io` repo
+2. __In__ the `username.github.io` directory create a new directory called `styles`. 
+3. __In__ the `styles` directory, create a new file called `main.css` 
+4. Navigate to your `index.html` file 
+5. Add the following underneath the `<title>My blog</title>`
+
+```html
+<link href=“styles/main.css” rel=“stylesheet” type=“text/css” />
+
+``` 
+[This link at 5.08 demo's adding a link to css.](https://www.youtube.com/watch?v=gBi8Obib0tw)
+
 
 
 ## Reflect
