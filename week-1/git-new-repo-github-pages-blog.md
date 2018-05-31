@@ -66,8 +66,12 @@ Remember Follow the time box suggestions. If you get stuck, take a quick break a
 
 ```html
 <html>
+  <head>
+    <title>My blog</title>
   <body>
-      Kia ora taiao! 
+    <h1>Kia ora Taiao! (Hello World!)</h1> 
+    <p> This is the begining of my website home page.</p>
+    <p> It will eventually contain a list of links to all my blogs. </p>
   </body>
 </html>
 
