@@ -58,3 +58,21 @@ Describe what you did in this exercise. Did you understand the steps that you we
 Did you achieve the learning competencies and keep within the timebox?
 
 Save stage and push your changes. 
+
+
+## Visual references 
+
+
+<figure>
+  <figcaption>
+    <p><strong>Figure 1:</strong> Add blog directory</p>
+  </figcaption>
+  <img src="../images/blog-1-mkdir.png" alt="adding directory"><br>
+</figure>
+
+<figure>
+  <figcaption>
+    <p><strong>Figure 2:</strong> The final product - template in browser</p>
+  </figcaption>
+  <img src="../images/blog-2-template-on-web.png" alt="adding remotes"><br>
+</figure>
