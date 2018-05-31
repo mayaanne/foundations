@@ -9,7 +9,8 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 
 ## Tech
 [Blog Primer & Setup](web-blog-setup-primer.md)  
-[HTML and CSS Learning Challenge](eb-learn-html-and-css-challenge.md)       
+[HTML and CSS Learning Challenge](web-learn-html-and-css-challenge.md)       
+[HTML and CSS your blog Challenge](web-blog-play-time-challenge.md)
 [DevTools primer](web-devtools-pimer.md)    
 [Technical blog]()  
 

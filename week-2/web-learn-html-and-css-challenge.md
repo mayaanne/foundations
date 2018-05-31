@@ -4,11 +4,10 @@
 
 ### Learning Competencies Part 1
 By the end of the first part, you should:
-* Selected a path to learn from
-* Be able to 
-  * Set up a basic HTML page with the appropriate tags (html, head, title,etc.)
-  * Add paragraphs, headings, links, images, lists, and/or tables  
-  * Divide content on a page using divs and spans
+* Selected a path to learn from and gain an understanding in: 
+  * Basic HTML page with the appropriate tags (html, head, title,etc.)
+  * How to add paragraphs, headings, links, images, lists, and/or tables  
+  * How to divide content on a page using divs and spans
 
 ### Learning Competencies Part 2
 By the end of the second part, you should be able to:
