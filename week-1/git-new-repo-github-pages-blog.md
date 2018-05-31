@@ -1,4 +1,4 @@
-[Week 1 Home](../)
+[Week 1 Home](README.md)
 
 # Setup new Repo, create GitHub pages Blog Challenge
 
@@ -17,10 +17,10 @@ To build a blog, we'll you'll use a service called "GitHub pages".
 
 The purpose of the blog is triple fold: 
 - To continue honing your skills in GitHub workflow  
-- To provide a home for assginments and reflections  
+- To provide a home for assignments and reflections  
 - To practice HTML, CSS and JS.  
 
-When building your blog, you might find it really tempting to tinker around. The visual element adds an compelling layer of satisfaction (or disatisfaction) if certain aspects dont 'look' how you want them to. 
+When building your blog, you might find it really tempting to tinker around. The visual element adds an compelling layer of satisfaction (or dissatisfaction) if certain aspects don't 'look' how you want them to. 
 
 But don't be distracted. While this is your learning journey, we can tell you many students have fallen into the trap of loosing too much time tinkering. Stay focused, stay sharp. You're not here to learn everything or to go deep. Keep your learning objectives in mind and hone your practice. 
 
@@ -35,10 +35,10 @@ Reflect | 15 minutes |
 ## Create a website repository (repo)
 1. Create a [new repository](https://github.com/new) 
 2. Add repository name with the following syntax: username.github.io  (Figure 1 _below_)  
-3. Make sure the following options are selected: "Public, Initalise with README, Licence is MIT (Figure 1 _below_).  
+3. Make sure the following options are selected: "Public, Initialise with README, License is MIT (Figure 1 _below_).  
 
 ## Clone the repo 
-This step requires you to clone to your local compture. __Do not clone INTO your foundations__ directory. Git wont be happy if you put a clone within a clone. 
+This step requires you to clone to your local computer. __Do not clone INTO your foundations__ directory. Git wont be happy if you put a clone within a clone. 
 
 1. Think about where you want your clone to live and Clone the repo. You've got this - you've cloned [before!)](git-github-challenge.md#step-3-cloning). 
 
@@ -61,7 +61,7 @@ Follow the time box suggestions. If you get stuck, take a quick break and come b
 ``` 
 ## Commit and Push 
 1. Use your git skills to stage your file, commit your changes and push to GitHub. 
-2. Check out your repo live by visitng `http://[USERNAME].github.io`* 
+2. Check out your repo live by visiting `http://[USERNAME].github.io`* 
 
 _Note: it can take 15 minutes to show on GitHub sometimes_
 
@@ -95,7 +95,7 @@ _Note: it can take 15 minutes to show on GitHub sometimes_
 
 
 ## Step 5: Reflect
-By now your relection file (`myreflection.md`) should contain a bunch of seperate paragaphs about your reflections. Hopefully it contains some [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for titles and such. 
+By now your reflection file (`myreflection.md`) should contain a bunch of separate paragraphs about your reflections. Hopefully it contains some [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for titles and such. 
 
 Add your reflections about the following. 
 

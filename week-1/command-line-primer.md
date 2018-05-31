@@ -1,4 +1,4 @@
-[Week 1 Home](../)
+[Week 1 Home](README.md)
 
 # Command Line Primer (aka Terminal, Shell, Prompt)
 

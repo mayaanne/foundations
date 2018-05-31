@@ -1,4 +1,4 @@
-[Week 1 Home](../)
+[Week 1 Home](README.md)
 
 # Git and GitHub primer
 
@@ -44,7 +44,7 @@ Remember, reflections are for you, but they will also be read by others, so make
 
 __In your reflection answer the questions:__
 1. Whats the difference between git and GitHub?
-2. Can you think of an anology to describe them?
+2. Can you think of an analogy to describe them?
 3. Did you stick to the timebox suggestions? If not, why not?
 4. Any surprises e.g. Super useful resources
 
