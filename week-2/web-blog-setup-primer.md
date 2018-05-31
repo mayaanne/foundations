@@ -96,7 +96,7 @@ Save stage and push your changes.
 
 <figure>
   <figcaption>
-    <p><strong>Figure 2:</strong> The final product - template in browser</p>
+    <p><strong>Figure 2:</strong> t1-blog in browser</p>
   </figcaption>
   <img src="../images/blog-2-template-on-web.png" alt="adding remotes"><br>
 </figure>

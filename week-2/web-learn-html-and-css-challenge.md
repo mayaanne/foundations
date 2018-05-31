@@ -2,83 +2,84 @@
 
 # Learning to Learn HTML and CSS Challenge 
 
-### Learning Competencies
-By the end of this challenge, you should:
-* Have applied your focus to a acquiring knowledge via online research
+### Learning Competencies Part 1
+By the end of the first part, you should:
+* Selected a path to learn from
 * Be able to 
-    * Set up a basic HTML page with the appropriate tags (html, head, title,etc.)
-    * Add paragraphs, headings, links, images, lists, and/or tables  
-    * Divide content on a page using divs and spans
+  * Set up a basic HTML page with the appropriate tags (html, head, title,etc.)
+  * Add paragraphs, headings, links, images, lists, and/or tables  
+  * Divide content on a page using divs and spans
+
+### Learning Competencies Part 2
+By the end of the second part, you should be able to:
+
+* Understand and apply classes, id's  
+* Navigate the DOM 
+* Understand and use box design 
+* Understand and create responsive design 
+* Understand and use semantic structuring 
+* Understand and apply accessibility principals
 
 
 ## Summary
-This week is about getting familiar with HTML and CSS whilst honing your GitHub and command line skills. You'll be learning HTML and CSS through online resources and applying what you learn to your own blog website. 
+We've selected a couple of choices for learning HTML and CSS. You'll need to create an account with FreeCodeCamp and or Udacity and give each a go. 
 
-You'll continue to build on your blog throughout the Foundations course. 
+Udacity is media rich, with some files to practice.
+FreeCodeCamp is practice rich and requires you to apply a little more problem solving. 
+
+Try both of them and work out which suits you. Always keep in mind the learning objectives. Ask yourself for example, "Can I navigate the DOM?". The courses should cover all the basics, but if you're still wondering "what is the DOM" then put your powers to good use and discover it. Frame the question well, reach out and have a discussion with someone in your cohort. Bring it up during a check in. 
 
 
 ## Exploration and Application
 
 Exploration | Time to box |
 ------------|----------|
-Introduction | 10 minutes
-Set up | 20 minutes |
-Reflect | 10 minutes |
+Quick primer | 4 minutes 
+Udacity or Freecode camp | 6 hours 
+Online research | 1 hour |
+Reflection | 1 hour
 
 
-## Introduction 
-Last week you set up the beginnings of your github pages blog (`username.github.io`). You'll be expanding this with HTML and CSS and JavaScript, as you learn new material and solve new challenges. 
+## Quick Primer 
+[4 minute summary](https://www.youtube.com/watch?v=gT0Lh1eYk78) of what HTML, CSS and JavaScript are 
 
-The completion of your blog will go towards your Foundations assessment. However, its __really__ important to note that the assessment is not a like a website award competition, where first prize goes to the best looking site. Quite the contrary, we don't mind so much about what your blog looks like, but rather _how_ you engaged with the material; the quality of your reflections; How you identified obstacles and overcame them; whether you can demonstrate an understanding of the concepts and learning objectives; how frequently you engaged and staged commits.  
+## FreeCodeCamp + YouTube
 
-What your Blog is: A space where you demonstrate your skills in problem solving and reflections. 
-What your Blog is not: A fancy looking, perfectly put together interface. 
+FreeCodeCamp's interface can be a little unfriendly, but its methodology is solid. 
+If you'd like to add some complimentary media to prime your mind, we recommend LearnCode.academy on Youtube. 
 
-Throughout the weeks, you'll be presented with bunch of ways to learn HTML, CSS and JS building blocks. 
-Some of the resources we point you towards will be media rich with audio and video. Other's, like freeCodeCamp, will look more like a terminal screen. 
+__We recommend signing up using your GitHub login. Creating an account is important as you can save your progress and we'll be using FreeCodeCamp later for JavaScript__
 
-__This is your journey and its up to you to discern how you learn best.__ 
+Links:
+[LearnCode.academy video tutorial for beginners](https://www.youtube.com/watch?annotation_id=annotation_1715123885&feature=iv&src_vid=gBi8Obib0tw&v=3JluqTojuME)
 
-Our role is to help you by facilitating your critical thinking: help you to understand where your knowledge gaps are, and prompt you to figure out how to fill those gaps. This type of learning is different from being given a set of instructions to follow. In the world of web development (and hence problem solving) your greatest asset in knowing how to work something out. 
+[freeCodeCamp's 'Responsive Web Design track](https://learn.freecodecamp.org/) 
 
-Follow the timeboxing prompts, attend the check-in's, keep to the learning objectives and reflect. 
+## Udacity 
+
+Udacity is media rich, and has practice files to __follow__ along. Its a fairly popular way to learn. You'll need to sign up for an account using your email address. 
+
+__Pro-tip-1: You can adjust the speed of the video's to suit your learning pace__
+__Pro-tip-2: Stay focused, don't get lost in the details__
+
+Links:
+[Udacity HTML, CSS, and Boxes](https://auth.udacity.com/sign-in?next=https%3A%2F%2Fclassroom.udacity.com%2Fauthenticated)
+[Udacity CSS Frameworks, Responsive layouts](https://classroom.udacity.com/courses/ud304)
+
+ ## Online research 
+ Start identifying what it is that you need to know in order to reach the learning Competencies. Where are you knowledge gaps? Compile a list of questions and find the answers. 
+
  
-## Set up 
-In the previous challenge you started a GitHub pages blog `username.gihub.io`. 
-
-1. Navigate to the directory where you saved your `username.github.io` repo
-2. __In__ the `username.github.io directory, create a new directory called `blog` (hint: mkdir)
-3. __In__ the `blog` directory create a file t1-blog.html (hint: touch)
-4. Open `t1-blog.html` in your code editor (hint code .)
-5. Copy [this template](web-html-template.html) and paste it into `t1-blog.html`.
-4. Add and commit your changes with a good commit message 
-5. Push your changes 
-6. Visit your page on your web browswer `username.github.io/blog/t1-blog.html`
-
-
 ## Reflect
-Navigate to your `my-reflections-week-2` file (Pro-tip: Use terminal. Ask "where am I, where do I need to be, how do I get there)
+Navigate to your `my-reflections-week-2` file (Pro-tip: Use terminal) 
 
-Describe what you did in this exercise. Did you understand the steps that you were making? Can you describe them in simple lay terms?
+Answer: 
 
-Did you achieve the learning competencies and keep within the timebox?
+- What resources you used and why 
+- Obsticals you came up against and how you over came them
+- What questions did you ask, and how was the process of solving them? 
+- Did you keep within the timebox suggestions? If not, how come?
+- What are of you proud of 
+- What would you do better if you did it all over again? 
 
-Save stage and push your changes. 
 
-
-## Visual references 
-
-
-<figure>
-  <figcaption>
-    <p><strong>Figure 1:</strong> Add blog directory</p>
-  </figcaption>
-  <img src="../images/blog-1-mkdir.png" alt="adding directory"><br>
-</figure>
-
-<figure>
-  <figcaption>
-    <p><strong>Figure 2:</strong> The final product - template in browser</p>
-  </figcaption>
-  <img src="../images/blog-2-template-on-web.png" alt="adding remotes"><br>
-</figure>
