@@ -15,13 +15,14 @@ __Part one 17 hours__
 [HTML and CSS your Blog Challenge(7hr)](web-blog-play-time-challenge.md)  
 [Technical blog (1hr)]()  
 
-__Part two 20 hours__  
-[Introduction to JavaScript Learning Challenge(10hr)]()  
-[JavaScript Practice Challenge(10hr)]()  
+__Part two 15 hours__  
+[Introduction to JavaScript Learning Challenge (10hr)]()  
+[Practice solving hard challenges](https://www.codewars.com/?language=javascript)  
+
 
 ## Core 
 
-__3 hours__
+__3 hours__  
 [Core-week-2-primer (5min)](core-week-2-primer.md)  
 [Strengths and Limitations (1.5hr) ](core-strengths-limitations.md)  
 [Cultural blog (1hr)]()  
@@ -30,9 +31,10 @@ __3 hours__
 
 ## Stretch
 [HTML and CSS Wireframing]()  
-[HTML and CSS Testing and maintainence]()  
+[HTML and CSS Testing and maintinance]()  
 [DevTools primer](web-devtools-pimer.md)    
 [HTML and CSS CSS-garden]() 
 [HTML Redesign using Skeleton framework]() 
-
+[JS variables, objects, TDD practice](js-practice/js-variables-ojects-practice.md)  
+[JS manipulating objects practice]()
 
