@@ -30,7 +30,7 @@ Walk through it step by step, e.g.
 If you don't recognise something, find out what it is. Are there new terms you don't recognise?
 
 ## Reflect
-- Create a my_reflection.md file in this directory (git-github-stretch)
+- Navigate to you `my-reflections-week-1.md` file in this directory 
 - For each image, write your analysis of what is happening.
 - Describe what you learned
 

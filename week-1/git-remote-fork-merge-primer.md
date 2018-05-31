@@ -51,7 +51,7 @@ You could ask simple questions like "what is a git remote" to be specific, but i
 
 
 ## Reflect
-Open your my_reflection.md file and answer the following. Don't forget to stage and commit.  
+Open your `my-reflections-week-1.md`file and answer the following. Don't forget to stage and commit.  
 
 1. What is the difference between cloning from a forked and cloning from a non-forked repo. 
 2. Can you think of an analogy to describe forking?

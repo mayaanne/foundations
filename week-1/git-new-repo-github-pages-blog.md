@@ -37,14 +37,27 @@ Reflect | 15 minutes |
 2. Add repository name with the following syntax: username.github.io  (Figure 1 _below_)  
 3. Make sure the following options are selected: "Public, Initialise with README, License is MIT (Figure 1 _below_).  
 
+<figure>
+  <figcaption>
+    <p><strong>Figure 1:</strong> Preference setting for New GitHub repo</p>
+  </figcaption>
+  <img src="../images/github_13_new_repo.png" alt="Create new repo"><br>
+</figure
+
 ## Clone the repo 
-This step requires you to clone to your local computer. __Do not clone INTO your foundations__ directory. Git wont be happy if you put a clone within a clone. 
+This step requires you to clone to your local computer. __Do not clone INTO your foundations__ directory. Git wont be happy if you put a clone within a clone. You can however clone to the same parent director (for exampl I cloned mine to a directory called `dev-academy` which now contains my repo `Foundations` and my other repo `Jamanius.github.io`. 
 
-1. Think about where you want your clone to live and Clone the repo. You've got this - you've cloned [before!)](git-github-challenge.md#step-3-cloning). 
+Remember Follow the time box suggestions. If you get stuck, take a quick break and come back to it. Reach out to the community on slack. Let the learning competencies be your guide.
 
-I cloned mine to a directory called `dev-academy`. Foundations is in the same directory (Figure 2 _below_)
+1. Navigate to where you want to clone your github.io repo
+2. Clone it! You've got this - you've cloned [before!)](git-github-challenge.md#step-3-cloning). 
 
-Follow the time box suggestions. If you get stuck, take a quick break and come back to it. Reach out to the community on slack. Let the learning competencies be your guide.
+<figure>
+  <figcaption>
+    <p><strong>Figure 2:</strong> Blog directory and terminal commands</p>
+  </figcaption>
+  <img src="../images/Github_14_blog_directory.png" alt="blog directory"><br>
+</figure
 
 ## Add a temporary index.html file 
 1. Navigate __INTO__ the directory and add a new file called `index.html` (Hint: Its just like using terminal to create an .md file or a .txt file.)
@@ -68,34 +81,15 @@ _Note: it can take 15 minutes to show on GitHub sometimes_
 
 <figure>
   <figcaption>
-    <p><strong>Figure 1:</strong> Preference setting for New GitHub repo</p>
-  </figcaption>
-  <img src="../images/github_13_new_repo.png" alt="Create new repo"><br>
-
-</figure
-
-
-<figure>
-  <figcaption>
-    <p><strong>Figure 2:</strong> Blog directory and terminal commands</p>
-  </figcaption>
-  <img src="../images/Github_14_blog_directory.png" alt="blog directory"><br>
-
-</figure
-
-
-<figure>
-  <figcaption>
     <p><strong>Figure 3:</strong> My GitHub pages blog online</p>
   </figcaption>
   <img src="../images/github_15_blog_index.png" alt="blog online"><br>
-
 </figure
 
 
 
 ## Step 5: Reflect
-By now your reflection file (`myreflection.md`) should contain a bunch of separate paragraphs about your reflections. Hopefully it contains some [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for titles and such. 
+By now your reflection file `my-reflections-week-1`file will contain a bunch of separate paragraphs about your reflections. Hopefully it contains some [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for titles and such. 
 
 Add your reflections about the following. 
 

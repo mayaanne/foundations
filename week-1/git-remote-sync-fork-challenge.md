@@ -79,7 +79,7 @@ Hint:
 From time to time, we'll be asking you to fetch new material so keep this challenge in mind for when you need to fetch next time. 
 
 ## Reflect
-Edit your my_reflection.md file. 
+Edit your `my-reflections-week-1.md` file. Pro-tip: Use terminal to navigate to and open the file. 
 
 Reflection on:
 

@@ -104,13 +104,13 @@ From now on, you'll add your reflections to your __local repo__ and push them ba
 
 __Pro-tip: use command line to hone your skills__
 
-1. Create a file called my_reflection.md in the `git_and_github_intro` directory (on your computer)
-2. In Visual Studio record your reflections
+1. Navigate to the my-reflections-week-1 file. 
+2. Open the file in Visual Studio and write:
 
-- Create your own step-by-step fork and clone instructions for later use
+- Your own step-by-step fork and clone instructions. Describe what you did. 
 - Did you have any moments where it all clicked? What clicked?
 
 3. Use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add some distinction to your reflection file.
-4. Save your file in Visual Studio
+4. Save your file, return to terminal, push, stage and commit. 
 
 
