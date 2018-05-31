@@ -3,14 +3,14 @@
 # Introduce yourself and get to know your cohort
 
 ### Learning Competencies
-By the end of this excercise, you will:
+By the end of this exercise, you will:
 
 - Have a sense of who you are on this learning journey with. 
-- Shared something about your learning journy
+- Shared something about your learning journey
 
 
 ## Summary
-Your cohort are on this learning journey with you. Its a melting pot of identity. As the weeks go on, you'll be reading each others blogs, particpating in group discussions and helping each other when stuck. 
+Your cohort are on this learning journey with you. Its a melting pot of identity. As the weeks go on, you'll be reading each others blogs, participating in group discussions and helping each other when stuck. 
 
 This week reach out to your cohort and share a little about yourself. 
 Think about how your identity shapes you and what that means for your learning journey.

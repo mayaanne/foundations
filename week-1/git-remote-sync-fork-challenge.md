@@ -52,7 +52,7 @@ __Pro-tip__ `Upstream` is a naming convention. We don't recommmend using any oth
   <figcaption>
     <p><strong>Figure 1:</strong> Adding variations of upstream remotes to local repo</p>
   </figcaption>
-  <img src="../../images/github_11_remote.png" alt="adding remotes"><br>
+  <img src="../images/github_11_remote.png" alt="adding remotes"><br>
 </figure>
 
 
@@ -72,7 +72,7 @@ Hint:
   <figcaption>
     <p><strong>Figure 2:</strong> A conversation with Git about remotes</p>
   </figcaption>
-  <img src="../../images/github_12_fetch_convo.png" alt="adding remotes"><br>
+  <img src="../images/github_12_fetch_convo.png" alt="adding remotes"><br>
 </figure>
 
 ## Wrap up 

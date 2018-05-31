@@ -4,7 +4,7 @@ Git allows groups of people to work together on the same code, at the same time,
 
 Git doesn't require any remote servers for its operation (it can simply be installed on your computer), but for easy access and collaboration, web developers use GitHub (the largest code host on the planet) for storing and sharing code.
 
-With over 10 million users, GitHub has become a social network for web developers - much like facebook or twitter. You build a profile, upload projects to share and connect with other users by “following” their accounts. And while many users store programs and code projects, there’s nothing preventing you from keeping text documents or other file types in your project folders to show off.
+With over 10 million users, GitHub has become a social network for web developers - much like facebook or twitter. You build a profile, upload projects to share and connect with other users by following their accounts. And while many users store programs and code projects, there’s nothing preventing you from keeping text documents or other file types in your project folders to show off.
 
 So to conclude, Git is a tool that you download and GitHub is a service that you sign up to.
 

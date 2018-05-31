@@ -6,7 +6,7 @@
 By the end of this you should be able to:
 
 - Create a new repository
-- Know what gitHub pages is 
+- Know what GitHub pages is 
 - Have a skeletal framework to build your blog 
 
 
@@ -70,7 +70,7 @@ _Note: it can take 15 minutes to show on GitHub sometimes_
   <figcaption>
     <p><strong>Figure 1:</strong> Preference setting for New GitHub repo</p>
   </figcaption>
-  <img src="../../images/github_13_new_repo.png" alt="Create new repo"><br>
+  <img src="../images/github_13_new_repo.png" alt="Create new repo"><br>
 
 </figure
 
@@ -79,16 +79,16 @@ _Note: it can take 15 minutes to show on GitHub sometimes_
   <figcaption>
     <p><strong>Figure 2:</strong> Blog directory and terminal commands</p>
   </figcaption>
-  <img src="../../images/Github_14_blog_directory.png" alt="blog directory"><br>
+  <img src="../images/Github_14_blog_directory.png" alt="blog directory"><br>
 
 </figure
 
 
 <figure>
   <figcaption>
-    <p><strong>Figure 3:</strong> My github pages blog online</p>
+    <p><strong>Figure 3:</strong> My GitHub pages blog online</p>
   </figcaption>
-  <img src="../../images/github_15_blog_index.png" alt="blog online"><br>
+  <img src="../images/github_15_blog_index.png" alt="blog online"><br>
 
 </figure
 

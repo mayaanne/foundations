@@ -37,7 +37,7 @@ Study this diagram, adapted from [GitTower](https://www.git-tower.com/learn/git/
   <figcaption>
     <p><strong>Figure 1:</strong> Left = YOUR Master, Right = OUR master</p>
   </figcaption>
-  <img src="../../images/github_10_fork.png" alt="Fork GitHub Repo"><br>
+  <img src="../images/github_10_fork.png" alt="Fork GitHub Repo"><br>
 
 </figure>
 A
@@ -47,7 +47,7 @@ A
 
 
 ## Explore 
-You could ask simple questions like "what is a git remote" to be specific, but if you need to understand the bigger picture more you could ask questions like "github user workflow." I googled "what is a git remote repository" and found [GitTower's useful step by step course](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction)
+You could ask simple questions like "what is a git remote" to be specific, but if you need to understand the bigger picture more you could ask questions like "GitHub user workflow." I googled "what is a git remote repository" and found [GitTower's useful step by step course](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction)
 
 
 ## Reflect

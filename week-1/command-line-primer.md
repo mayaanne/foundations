@@ -13,7 +13,7 @@ By the end of this exploration, you should be able to do the following in/using 
 ## Summary
 Programmers do not always have pretty ways to interface or test their code. Most spend a good deal of time in their command line - "a tool where you can use text commands to perform specific tasks." When you use the command line, you don't slow yourself down opening a finder and double-clicking on folders. Instead, you get to navigate around your computer, open, create, delete, move, files, etc. all using commands. It's quick, efficient, and easy once you get the hang of it.
 
-Knowing how to use your command line will be vital to your success as a programmer. Fortuntatlely for now you only need to know a few commands.
+Knowing how to use your command line will be vital to your success as a programmer. Fortunately for now you only need to know a few commands.
 
 ## Exploration and Application
 
@@ -27,11 +27,11 @@ Follow the time box suggestions. We know its exciting to learn, but trust us, be
 
 
 ## Give it a try
-Follow this [useful guide](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) to try it out. Don't be put of by the "learn python" reference. Notice the differnce between windows, linux and mac.
+Follow this [useful guide](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) to try it out. Don't be put of by the "learn python" reference. Notice the difference between windows, Linux and mac.
 
 ## Find out what it is
-Have a look for some learning resources: Videos, tutorials, google.
-For example I found this [useful introduction](https://www.youtube.com/watch?v=jDINUSK7rXE) by googling "Quick intro to command line" - __I recommend watching it__. If you're not satisfied with the results, try other key words such as "Bash, Terminal, Basic and cheatsheet"
+Have a look for some learning resources: Videos, tutorials, Google.
+For example I found this [useful introduction](https://www.youtube.com/watch?v=jDINUSK7rXE) by Googling "Quick intro to command line" - __I recommend watching it__. If you're not satisfied with the results, try other key words such as "Bash, Terminal, Basic and cheatsheet"
 
 ## Reflect
 Reflecting is essential for solidifying your learning. It will help you learn how you learn, give opportunities for sharing resources, and will help to demonstrate your knowledge of the learning outcomes.
@@ -46,7 +46,7 @@ __In your reflection answer the questions:__
 3. In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it?
 4. Did you stick to the timebox suggestions? If not, why not?
 4. Any surprises e.g. Super useful resources
-
+sdf
 
 ## Stretch Competencies
 Come back to stretch competencies in your spare time. Don't focus on them now while you're getting started
@@ -56,4 +56,4 @@ Come back to stretch competencies in your spare time. Don't focus on them now wh
 - Find and look inside files
 - Get help
 
-- [CodeAcademy's command line course](https://www.codecademy.com/courses/learn-the-command-line/l)
+- [Codecademy's command line course](https://www.codecademy.com/courses/learn-the-command-line/l)
