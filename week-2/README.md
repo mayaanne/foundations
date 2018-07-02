@@ -16,8 +16,8 @@ __Part one 17 hours__
 [Technical blog (1hr)]()  
 
 __Part two 15 hours__  
-[JS introduction Learning Challenge (10hr)]()  
-[JS Practice](https://www.codewars.com/?language=javascript)  
+// [JS introduction Learning Challenge (10hr)]()  
+// [JS Practice](https://www.codewars.com/?language=javascript)  
 
 
 ## Core 
@@ -31,7 +31,7 @@ __3 hours__
 
 ## Stretch
 [HTML and CSS Wireframing]()  
-[HTML and CSS Testing and maintinance]()  
+[HTML and CSS Testing and maintenance]()  
 [DevTools primer](web-devtools-pimer.md)    
 [HTML and CSS CSS-garden]() 
 [HTML Redesign using Skeleton framework]() 
