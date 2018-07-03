@@ -32,21 +32,21 @@ The reflection gets you to examine and identify who you are at this point, this 
 Evidence might include: stories of how these values were demonstrated in practice; a testimonial/feedback from someone; an achievement you are proud; using a tool to help you surface and name the values most important to you; visuals or narratives that help you describe where your values came from; whakatauki or quotes that sum up your values; your review of learning
 
 2. Gather evidence to identify your strengths and areas for development.
-Evidence might include: personality or skills/capability assessment tools like Myers Briggs, Strengths finder; DOPE; Capability Sort; Minded; plus most from the task 1 examples.
+Evidence might include: personality or skills/capability assessment tools like Myers Briggs, Strengthsfinder; DOPE; Capability Sort; Minded; task 1 examples. 
 
 
 ## Document it 
 In the near future, this document will form part of your blog which will visible to your cohort and facilitator. Your blog participation counts towards your overall assessment.  
 
 1. Using the evidence gathered, describe your core personal values.  
-- Explain a situation where you have had an ethical decision to make. Discuss how you weighed up the values involved in that decision, the decision you made and the consequences of the action you took. 
-- Describe how your culture has influenced your values and identity. 
+    - Explain a situation where you have had an ethical decision to make. Discuss how you weighed up the values involved in that decision, the decision you made and the consequences of the action you took. 
+    - Describe how your culture has influenced your values and identity. 
 
 2. Using the evidence gathered, describe your strengths and limitations.
-- Explain a situation where you have had an ethical decision to make. Discuss how you weighed up the values involved in that decision, the decision you made and the consequences of the action you took. 
-- Describe how your culture has influenced your values and identity. 
-- Evaluate your strengths and limitations in terms of your learning and career development  
-- Identify which of your strengths might help you in your learning journey and how they might intersect with learning obstacles.  
-- Share an example from your experience of where you were trying to work productively with others, but there was resistance or tension. Discuss the strategies you used at that time, how effective they were, and your reflections on what other strategies you would try now, and why.  
+    - Explain a situation where you have had an ethical decision to make. Discuss how you weighed up the values involved in that decision, the decision you made and the consequences of the action you took. 
+    - Describe how your culture has influenced your values and identity. 
+    - Evaluate your strengths and limitations in terms of your learning and career development  
+    - Identify which of your strengths might help you in your learning journey and how they might intersect with learning obstacles.  
+    - Share an example from your experience of where you were trying to work productively with others, but there was resistance or tension. Discuss the strategies you used at that time, how effective they were, and your reflections on what other strategies you would try now, and why.  
 
 
