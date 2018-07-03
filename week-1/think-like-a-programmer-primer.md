@@ -9,17 +9,15 @@ By the end of this exploration, you should
 - Understand flipped learning
 
 ## Summary
-A lot of people think that web development is about writing code. But actually web development is about solving problems and learning how to think.
+A lot of people think that web development is about writing code. But actually web development is about solving problems and learning to think in a specific kind of way.
 
-Its a practice that involves understanding the problem, planning your approach and knowing how to get answers. Our role is to help you along that path and encourage you to seek what you need to solve the problem. As such, we've opted out of giving you wrote learning or step by step tasks.
+Its a practice that involves understanding the problem, planning your approach and knowing how to get answers. Our role is to help you along that path and encourage you to seek what you need to solve the problem. As such, we give you a framework of reference including learning objectives, and mentorship to help you self solve. This type of learning can be uncomfortable at first, especially if you are use to a step by step instructions. But this way, you will learn quicker than you ever thought possible. Welcome to the World of Web Development!
 
 
 Exploration | Time to box |
 ------------|----------|
 Reading | 30 minutes
 Reflection | 30 minutes |
-Debugging | 20 minutes
-Reflect | 15 minutes |
 
 
 ## Reading
@@ -29,7 +27,7 @@ Thinking like a web dev: Read Richard Reis from freecodeCamp on [how to think li
 Have a look at what the internet says on how to think like a programmer.
 What patterns do you see? What do you notice?
 
-Flipped learning: What is flipped learning and flipped classroom? How does it relate to you journey?
+What does the internet say about Flipped learning? What is flipped learning and flipped classroom? How doe you think it will relate to your learning journey?
 
 
 
