@@ -15,12 +15,13 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 [Git remote sync fork Primer](git-remote-fork-merge-primer.md)  
 [Git remote sync fork Challenge](git-remote-sync-fork-challenge.md)  
 [Git new repo. GitHub pages blog site Challenge](git-new-repo-github-pages-blog.md)  
-[Thinking like a web devloper Primer](think-like-a-programmer-primer.md)  
-[Debugging Primer](think-research-debugging-primer.md)  
+
+
 
 
 ## Core
 [Core primer](core-primer.md)  
+[Thinking like a web devloper Primer](think-like-a-programmer-primer.md)  
 [Identity and values exploration](core-identity-and-values.md)  
 [Introduce yourself exercise](core-introduce-yourself.md)  
 [Learning plan]()  
