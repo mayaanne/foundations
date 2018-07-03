@@ -4,8 +4,9 @@
 
 ### Learning Competencies
 By the end of this primer, you should be able to
-- Add a blog directory with template HTML
 - Understand the purpose of your blog
+- Add a blog directory with template HTML
+- Link your css file to your HTML file
 
 ## Summary
 This week is about building your blog using HTML and CSS as you continue to hone your GitHub and command line skills. You'll be learning HTML and CSS through online resources and applying what you learn to your own blog website.
@@ -39,7 +40,9 @@ Our role is to help you by facilitating your critical thinking: help you to unde
 In all instances, follow the timeboxing prompts, attend the check-in's, keep to the learning objectives and reflect.
 
 ## Set up part one
-In the previous challenge you started a GitHub pages blog `username.gihub.io`. This step setups up a framework for our blog pages which will end in .html. We copy a template in there for place holding.
+In the previous challenge you started a GitHub pages blog `username.gihub.io`. This step setups up a framework for our blog pages which will end in `.html`. We copy a template in there for place holding.
+
+Your blogs will follow the naming convention t1, t2, t3 etc (technical blog 1, 2 and 3) and c1, c2, c3 etc (core blog 1, 2 and 3).
 
 Pro-tip-1: You can create many common file types (e.g. .html, .css) the same way you create .txt and .md files (hint: `touch)
 
@@ -55,19 +58,25 @@ Pro-tip-2: If adding a new file to a new directory, remember to navigate __INTO_
 6. Visit your page on your web browser `username.github.io/blog/t1-blog.html`
 
 ## Set up part two
-This step setups the directory structure for your css. We use _standard naming conventions_ for example main.css
+This step setups the directory structure for your css. the file `main.css` uses a standard naming convention (almost all websites have a file named main.css file)
 
 1. Navigate to the directory where you saved your `username.github.io` repo
 2. __From within__ the `username.github.io` directory create a new directory called `styles`.
 3. __From within__ the `styles` directory, create a new file called `main.css`
 4. Navigate to your `index.html` file
-5. Add the following underneath the `<title>My blog</title>`
+5. Replace the place holder as shown below
 
 ```html
+
+Old
+<link href="your-stylesheet-link-here.css" rel="stylesheet" type="text/css">  `<title>My blog</title>`
+
+New 
 <link href=“styles/main.css” rel=“stylesheet” type=“text/css” />
 
 ```
-[This link at 5.08 demo's adding a link to css.](https://www.youtube.com/watch?v=gBi8Obib0tw)
+
+If stuck, [This video demo's linking to css at at 5.08](https://www.youtube.com/watch?v=gBi8Obib0tw)
 
 
 
