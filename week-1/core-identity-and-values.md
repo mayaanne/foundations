@@ -1,6 +1,6 @@
 [Week 1 Home](README.md)
 
-# Identity and values Exploration 
+# Identity, Values and Strengths Exploration 
 
 ### Learning Competencies
 By the end of this exploration, you should be able to:
@@ -36,7 +36,7 @@ Evidence might include: personality or skills/capability assessment tools like M
 
 
 ## Document it 
-In the near future, this document will form part of your blog which will visible to your cohort and facilitator. Your blog participation counts towards your overall assessment.  
+Next week, you will publish this document as a blog post which will be visible to your cohort and facilitator. Your blog participation counts towards your overall assessment. Until then, write your findings on a temporary document (word, google docs, text edit etc).
 
 1. Using the evidence gathered, describe your core personal values.  
     - Explain a situation where you have had an ethical decision to make. Discuss how you weighed up the values involved in that decision, the decision you made and the consequences of the action you took. 

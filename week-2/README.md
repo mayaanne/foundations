@@ -9,23 +9,22 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 
 ## Tech
 
-__HTML and CSS [17 hours]__  
+__HTML and CSS [20 hours]__  
 [Blog Primer & Setup (1hr)](web-blog-setup-primer.md)  
 [HTML and CSS Learning Challenge (8hr)](web-learn-html-and-css-challenge.md)       
 [HTML and CSS your Blog Challenge(7hr)](web-blog-play-time-challenge.md)  
-[Technical blog (1hr)]()  
+[Technical blog (1hr)]
+[HTML and CSS check-in (1hr)] 
 
-__JavaScript [15 hours]__  
+
+__JavaScript and the dom [15 hours]__  
 // [JS introduction Learning Challenge (10hr)]()  
 // [JS Practice](https://www.codewars.com/?language=javascript)  
 
 
 ## Core 
-
 __3 hours__  
-[Core-week-2-primer (5min)](core-week-2-primer.md)  
-[Strengths and Limitations (1.5hr) ](core-strengths-limitations.md)  
-[Cultural blog (1hr)]()  
+[My learning plan - forumaltion and blog post)](core-learning-plan.md)  
 [Feedback (10min)](../feedback.md)
   
 

@@ -24,7 +24,6 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 [Thinking like a web devloper Primer](think-like-a-programmer-primer.md)  
 [Identity and values exploration](core-identity-and-values.md)  
 [Introduce yourself exercise](core-introduce-yourself.md)  
-[Learning plan]()  
 [Feedback](../feedback.md)
 
 ## Stretch
