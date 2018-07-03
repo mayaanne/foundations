@@ -17,7 +17,6 @@ By the end of the second part, you should be able to:
 * Understand and use box design 
 * Understand and create responsive design 
 * Understand and use semantic structuring 
-* Understand and apply accessibility principals
 
 
 ## Summary
@@ -42,31 +41,38 @@ Reflection | 1 hour
 ## Quick Primer 
 [4 minute summary](https://www.youtube.com/watch?v=gT0Lh1eYk78) of what HTML, CSS and JavaScript are 
 
+## Preparing for surprises
+Just like everything on the web, FreeCodeCamp and Udacity have their bugs. It can take some patience to discern if the error is a bug or if its caused by your code. One of your tasks as budding web developer, is to query errors and recognise where the error is comming from.
+
+Ask yourself - does it work in a different browser? Have other's encoutered this error? Check the [unblock resource](../resources/getting-unblocked.md) 
+
+
 ## FreeCodeCamp + YouTube
 
-FreeCodeCamp's interface can be a little unfriendly, but its methodology is solid. 
-If you'd like to add some complimentary media to prime your mind, we recommend LearnCode.academy on Youtube. 
+FreeCodeCamp's interface can appear a little unfriendly to the untrained eye, but its methodology is solid. You'll be using the "Responsive web Design track". Pair it with demonstrations from YouTube to enhance your learning. 
 
-__We recommend signing up using your GitHub login. Creating an account is important as you can save your progress and we'll be using FreeCodeCamp later for JavaScript__
+__Instructions__
+1. Sign up to freeCodeCamp using your GitHub login. 
+2. [Complete Introduciton to Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)  
+3. [Complete Introduction to Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)  
+4. [Complete Introduction to Responsive Web Design Challenges](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/)
+5. Search for youTube videos to supplement your learning. For example [LearnCode.academy video tutorial for beginners](https://www.youtube.com/watch?v=3JluqTojuME&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc&index=1)
 
-Links:
-[LearnCode.academy video tutorial for beginners](https://www.youtube.com/watch?annotation_id=annotation_1715123885&feature=iv&src_vid=gBi8Obib0tw&v=3JluqTojuME)
-
-[freeCodeCamp's 'Responsive Web Design track](https://learn.freecodecamp.org/) 
 
 ## Udacity 
 
-Udacity is media rich, and has practice files to __follow__ along. Its a fairly popular way to learn. You'll need to sign up for an account using your email address. 
+Udacity is media rich, and has practice files to follow along. Its a fairly popular way to learn. You'll need to sign up for an account using your email address. 
 
 __Pro-tip-1: You can adjust the speed of the video's to suit your learning pace__
 __Pro-tip-2: Stay focused, don't get lost in the details__
 
 Links:
-[Udacity HTML, CSS, and Boxes](https://auth.udacity.com/sign-in?next=https%3A%2F%2Fclassroom.udacity.com%2Fauthenticated)
-[Udacity CSS Frameworks, Responsive layouts](https://classroom.udacity.com/courses/ud304)
+[Udacity HTML, CSS, and Boxes](https://classroom.udacity.com/courses/ud304) - Retired
+[Udacity HTML, CSS basics](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+
 
  ## Online research 
- Start identifying what it is that you need to know in order to reach the learning Competencies. Where are you knowledge gaps? Compile a list of questions and find the answers. 
+ Start identifying what it is that you need to know in order to reach the learning Competencies. Where are your knowledge gaps? Compile a list of questions and find the answers. 
 
  
 ## Reflect

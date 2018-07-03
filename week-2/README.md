@@ -9,13 +9,13 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 
 ## Tech
 
-__Part one 17 hours__  
+__HTML and CSS [17 hours]__  
 [Blog Primer & Setup (1hr)](web-blog-setup-primer.md)  
 [HTML and CSS Learning Challenge (8hr)](web-learn-html-and-css-challenge.md)       
 [HTML and CSS your Blog Challenge(7hr)](web-blog-play-time-challenge.md)  
 [Technical blog (1hr)]()  
 
-__Part two 15 hours__  
+__JavaScript [15 hours]__  
 // [JS introduction Learning Challenge (10hr)]()  
 // [JS Practice](https://www.codewars.com/?language=javascript)  
 
