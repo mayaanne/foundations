@@ -1,6 +1,6 @@
 [Week 1 Home](README.md)
 
-# Version Control with Git 
+# Version Control with Git Primer
 
 ### Learning Competencies
 By the end of this exploration, you should
