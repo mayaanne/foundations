@@ -9,12 +9,13 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 
 ## Tech
 [Command Line Primer](command-line-primer.md)  
+[Version Control and Git Primer](git-version-control-primer.md)
 [Git and GitHub Primer](git-github-primer.md)  
 [Git and GitHub fork, clone Deep Dive Challenge](git-github-fork-clone-challenge.md)  
 [Git track changes Challenge](git-track-and-commit-challenge.md)  
 [Git remote sync fork Primer](git-remote-fork-merge-primer.md)  
 [Git remote sync fork Challenge](git-remote-sync-fork-challenge.md)  
-[Git new repo. GitHub pages blog site Challenge](git-new-repo-github-pages-blog.md)  
+[Git new repo. (Blog site Challenge)](git-new-repo-github-pages-blog.md)  
 
 
 
