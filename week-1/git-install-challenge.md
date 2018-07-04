@@ -8,7 +8,7 @@ By the end of this challenge, you should have
 - Installed git   
 - Have tried it out 
 
-__Important!!__ If you were previously a student of Phase-0 (the previous version of Foundations), you may have already installed Git during the prep material. Follow the instructions accordingly.   
+__Important!!__ If you were previously a student of Phase-0 (the previous version of Foundations), [you may have already installed Git during the prep material](..resources/retired-install-software-instructions.md). Follow the instructions accordingly.   
 
 ## Summary
 Web Developers use tools to track their progress and create backups. GitHub is a popular platform for this, especially in the open-source community.

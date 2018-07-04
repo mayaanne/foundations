@@ -1,3 +1,5 @@
+[Main Index](../README.md)
+
 # Installation software - RETIRED
 
 __These instructions were part of the phase-0 (Foundations) orientation material and have been superseeded. They are included here as a resource for students transitioning from Phase-0 into Foundation.__
