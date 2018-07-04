@@ -9,7 +9,7 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 
 ## Tech
 [Command Line Primer](command-line-primer.md)  
-[Version Control and Git Primer](git-version-control-primer.md)  
+[Version Control and Git Primer - _Git and GitHub intro_](git-version-control-primer.md)  
 [Git and GitHub Primer](git-github-primer.md)  
 [Git and GitHub Deep Dive Challenge - _fork and clone_](git-github-fork-clone-challenge.md)  
 [Git Challenge - _track changes_](git-track-and-commit-challenge.md)  

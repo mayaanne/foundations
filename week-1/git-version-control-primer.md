@@ -6,27 +6,13 @@
 By the end of this exploration, you should
 
 - Be able to explain what version control is and does  
-- Uderstand what Git is 
+- Understand what Git is 
 - Understand what GitHub is
 
 
 ## Summary 
 
 Version Control allows groups of people to work together on the same code, at the same time, without overwriting each others work. It is not JavaScript, or Ruby, or C#. It is software that you download - a form of distributed version control which means it manages changes to a project without overwriting any part of the project.
-
-__The most widely used Version Control Software is called Git__
-
-Git doesn't require any remote servers for its operation (it can simply be installed on your computer), but for easy access and collaboration, web developers use GitHub (the largest code host on the planet) for storing and sharing code.
-
-__GitHub is a company that provides file hosting online.__ 
-
-With over 10 million users, GitHub has become a social network for web developers - much like facebook or twitter. You build a profile, upload projects to share and connect with other users by following their accounts. And while many users store programs and code projects, there’s nothing preventing you from keeping text documents or other file types in your project folders to show off.
-
-<blockquote>Git == Software which tracks changes to files | GitHub == Hosting service for storing and sharing files</blockquote> 
-
-So to conclude, Git is a tool that you download and GitHub is a service that you sign up to.
-
-Almost all of your learning material will use Git, and almost all of it will be distributed via GitHub. 
 
 ## Exploration and Application
 
@@ -38,17 +24,31 @@ Reflect | 30 minutes |
 
 Follow the time box suggestions. This is a primer only and there is a deep dive challenge next to start applying this knowledge. Let the learning competencies be your guide.
 
+## Description 
+
+Version control enables Web Developers to collaborate without over writing each others work, and provides an entire history of changes. 
+
+__The most widely used Version Control Software is called Git__
+
+Git doesn't require any remote servers for its operation (it can simply be installed on your computer), but for easy access and collaboration, web developers use GitHub (the largest code host on the planet) for storing and sharing code.
+
+__GitHub is a company that provides file hosting online.__ 
+
+With over 10 million users, GitHub has become a social network for web developers - much like facebook or twitter. You build a profile, upload projects to share and connect with other users by following their accounts. And while many users store programs and code projects, there’s nothing preventing you from keeping text documents or other file types in your project folders to show off.
+
+__So to conclude, Git is a (software) tool that you download and GitHub is a service that you sign up to.__
+
+Almost all of your learning material will use Git, and almost all of it will be distributed via GitHub. 
 
 ## Watch
 [What is Git and GitHub](https://www.youtube.com/watch?v=uUuTYDg9XoI) 
 
-
 ## Explore
-Explore what is Version Control? 
+Explore what is Version Control?   
 What is Git?  
-What is GitHub? 
+What is GitHub?   
 
-Have a look around the internet. What do you seek to understand? Are you able to answer the learning competencies at the top of the page? Take notes. Keep within the time frame. Still looking for answers? Read our resource [below](Git Resource)
+Have a look around the internet. What do you seek to understand? Are you able to answer the learning competencies at the top of the page? Take notes. Keep within the time frame. Still looking for answers? Try the resource [below](##Git Resource)
 
 ## Reflect
 On a txt document, record your reflections. You'll use these reflections. You'll transfer these reflections to a git file in the next challenge.  
