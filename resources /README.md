@@ -2,7 +2,7 @@
 
 # RESOURCES
 
-__Foundations material and resources __
+__Foundations material and resources__
 
 
 

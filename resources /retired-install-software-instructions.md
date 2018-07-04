@@ -53,7 +53,6 @@ brew install git
 > Context: VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and GitHub.
 
 ---
----
 
 ## Windows instructions
 
@@ -67,6 +66,7 @@ brew install git
 > Context: Babun is quite a similar way of working to the Mac and Linux terminals, and will allow you to follow most of Phase 0 without installing other software.
 
 ---
+
 ### Git
 
 1. Go to [Git for Windows](https://git-for-windows.GitHub.io/)
@@ -84,8 +84,8 @@ brew install git
 
   ```
 
-
 ---
+
 ### Visual Studio Code (VS code)
 
 1. Navigate to [Visual Studio Code](https://code.visualstudio.com/)
@@ -94,7 +94,6 @@ brew install git
 
 > Context: VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and GitHub.
 
----
 ---
 
 ## Linux instructions (Ubuntu)
@@ -106,6 +105,7 @@ brew install git
 2. Have a looksie
 
 ---
+
 ### Git
 
 1. In the GNOME Terminal (which we'll refer to as simply terminal) copy and paste the following command:
@@ -126,6 +126,7 @@ sudo apt-get update && sudo apt-get install git
 >Context: If you like, you can check it's working by typing `git`. You should see some help text explaining how to use Git.
 
 ---
+
 ### Visual Studio Code (VS code)
 
 1. Navigate to [Visual Studio Code](https://code.visualstudio.com/)
@@ -135,6 +136,7 @@ sudo apt-get update && sudo apt-get install git
 > Context: VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and GitHub.
 
 ---
+
 ## Resources
 
 - [Linux terminal](http://ryanstutorials.net/linuxtutorial/commandline.php)
