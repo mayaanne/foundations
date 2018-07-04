@@ -19,41 +19,59 @@ Knowing how to use your command line will be vital to your success as a programm
 
 Exploration | Time to box |
 ------------|----------|
+See it in action | 15 minutes |
 Give it a try | 20 minutes
-Find out what it is | 20 minutes |
+Explore a little | 20 minutes |
 Reflect | 15 minutes |
 
 Follow the time box suggestions. We know its exciting to learn, but trust us, be wise on how deep you go. Let the learning competencies be your guide. Ask yourself if you know them.
 
 
+## Introduction 
+
+Mac, Windows and Linux each come with an inbuilt command line tool, however during prep you installed an alternative (iTerm2 or Babun).
+
+You can use either the inbuilt tool or the recommended tool during this exploration. The commands and inputs are interchangeable, with only a few occassional variations for Windows. So, if you're following online tutorials, just switch out "bubun" when the tutorial says "powershell". 
+
+Operating System | Inbuilt tool | Recommended tool |  
+------------|----------|  
+Mac | terminal | iTerm2  
+Windows | cmd and/or powershell | babun  
+Linux | gnome | gnome |  
+
+
+## See it in action 
+[Mac and Linux - _basic terminal Usage, youtube_](https://www.youtube.com/watch?v=jDINUSK7rXE&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc&index=16)  
+[Windows - _command line tutorial, youtube_]
+
 ## Give it a try
 Follow this [useful guide](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) to try it out. Don't be put of by the "learn python" reference. Notice the difference between windows, Linux and mac.
 
-## Find out what it is
-Have a look for some learning resources: Videos, tutorials, Google.
-For example I found this [useful introduction](https://www.youtube.com/watch?v=jDINUSK7rXE) by Googling "Quick intro to command line" - __I recommend watching it__. If you're not satisfied with the results, try other key words such as "Bash, Terminal, Basic and cheatsheet"
+## Explore a little more 
+Have a look for some learning resources: Videos, tutorials, Google. Try key words like 'Terminal', 'Basic' and 'cheatsheet' Have you got the learning competencies? 
 
 ## Reflect
 Reflecting is essential for solidifying your learning. It will help you learn how you learn, give opportunities for sharing resources, and will help to demonstrate your knowledge of the learning outcomes.
 
-Reflections are for you, but they will also be read by others, so make sure to write for an audience.They should be only a paragraph long.
+Reflections are for you, but they will also be read by others, so make sure to write for an audience. They should be only a paragraph long.
 
 Keep note of where you keep your reflection as you'll be asked to use them in a later task. Try if you like using your new command line skills to create a directory and file for your reflection.
 
 __In your reflection answer the questions:__
-1. What was the most challenging for you in going through this material?
-2. Did you complete all of the activities in the learning competencies?
-3. In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it?
-4. Did you stick to the timebox suggestions? If not, why not?
-4. Any surprises e.g. Super useful resources
-sdf
+1. In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it? 
+2. Did you stick to the time box guidelines? If not, what change would you make next time?  
+3. Name 5 commands you used, and what they do 
+4. Did you learn anything unexpected? 
+
 
 ## Stretch Competencies
 Come back to stretch competencies in your spare time. Don't focus on them now while you're getting started
 
-- Remove or copy a directory
-- Stream a file
-- Find and look inside files
-- Get help
+- Remove or copy a directory  
+- Stream a file  
+- Find and look inside files  
+- Get help  
 
-- [Codecademy's command line course](https://www.codecademy.com/courses/learn-the-command-line/l)
+- [Codecademy's command line course](https://www.codecademy.com/courses/learn-the-command-line/l)  
+- [Udemy's Command Line Basics course](https://www.udacity.com/course/linux-command-line-basics--ud595)  
+- [Udemy's Shell Workshop]  (https://classroom.udacity.com/courses/ud206/lessons/1cc90ac3-c03a-43e6-8556-dcbd40dfd418/concepts/9fbb976b-dc7b-4584-a656-b05ab9d7a0c3)   
