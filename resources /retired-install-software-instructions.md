@@ -1,8 +1,10 @@
 [Main Index](../README.md)
 
-# Installation software - RETIRED
+# Installation - RETIRED
 
 __These instructions were part of the phase-0 (Foundations) orientation material and have been superseeded. They are included here as a resource for students transitioning from Phase-0 into Foundation.__
+
+# Install software
 
 At EDA you'll be using three tools every day: a terminal, an editor and Git. You'll also need a web browser of course, and for consistency we suggest you use Google Chrome. We'll be installing the following:
 
