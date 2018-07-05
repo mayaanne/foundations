@@ -8,26 +8,29 @@ By the end of this challenge, you should have
 - tried a git demo 
 
 ## Summary
-Web Developers use tools to track their progress and create backups. GitHub is a popular platform for this, especially in the open-source community.
-
-Most if not all of your tech module work will be done using GitHub.
+Now you understand version control, its time to start using Git. In this challenge you'll install git on your computer use the resources available on the internet to familarise yourself with it. 
 
 ## Exploration and Application
 
 Exploration | Time to box |
 ------------|----------|
-Give it a try | 20 minutes
-Find out what it is | 30-60 minutes |
+Try it online | 10 minutes 
+Install | 20 minutes
+Try it on your computer | 1-2 hours |
 Reflect | 15 minutes |
 
-Follow the time box suggestions. This is a primer only and there is a deep dive challenge next to start applying this knowledge. Let the learning competencies be your guide.
+Stay on the path and follow the time box suggestions. 
 
 
-## Give it a try
-Usually you would need to download and install Git on your computer, but we recommend giving giving the tutorial a go first. 
+## Try it online
+Before you install Git on your computer, we recommend having a quick test drive using an interatctive web tutorial. 
 - [Interactive web tutorial](https://try.github.io/levels/1/challenges/1). _Stop at part 1.12 "Pulling remotely"._
 
-## Find out what it is
+## Install 
+1. Check if Git is already installed. Open your command line tool and type xxxxx
+2. If not 
+
+
 Explore what is Git? What is GitHub? What is GitHub user flow?
 
 Here's some resources to get you going.
