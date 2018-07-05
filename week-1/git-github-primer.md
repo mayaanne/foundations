@@ -1,14 +1,11 @@
 [Week 1 Home](README.md)
 
-# Git and GitHub primer
+# Git and GitHub challenge 
 
 ### Learning Competencies
-By the end of this exploration, you should
-
-- Be able to explain what version control is and does  
-- Understand the difference between git and GitHub  
-- Have tried a git demo
-
+By the end of this challenge, you should have 
+- installed Git 
+- tried a git demo 
 
 ## Summary
 Web Developers use tools to track their progress and create backups. GitHub is a popular platform for this, especially in the open-source community.
