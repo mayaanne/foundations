@@ -8,14 +8,14 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 ------------
 
 ## Tech
-[Command Line Primer - _basic commands_](command-line-primer.md)  
-[Version Control and Git Primer - _Git and GitHub intro_](git-version-control-primer.md)  
-[Git and GitHub Primer](git-github-primer.md)  
-[Git and GitHub Deep Dive Challenge - _fork and clone_](git-github-fork-clone-challenge.md)  
-[Git Challenge - _track changes_](git-track-and-commit-challenge.md)  
-[Git Primer - _remote sync fork_](git-remote-fork-merge-primer.md)  
-[Git Challenge - _remote sync fork_ ](git-remote-sync-fork-challenge.md)  
-[Git Challenge - _set up Blog_](git-new-repo-github-pages-blog.md)  
+[Command Line Primer](command-line-primer.md)  
+[Version Control and Git - Primer](git-version-control-primer.md)  
+[Install and Explore Git and GitHub - Course](git-install-and-exploration-course.md)
+[Fork and Clone - Challege](git-github-fork-clone-challenge.md)  
+[Track changes - Challenge](git-track-and-commit-challenge.md)  
+[Set remotes and Sync Fork - Primer](git-remote-fork-merge-primer.md)  
+[Set remotes and Sync Fork - Challenge](git-remote-sync-fork-challenge.md)  
+[Set up Blog using Git pages - Challenge](git-new-repo-github-pages-blog.md)  
 
 
 

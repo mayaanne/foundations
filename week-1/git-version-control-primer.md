@@ -1,6 +1,6 @@
 [Week 1 Home](README.md)
 
-# Version Control with Git Primer
+# Version Control with Git - Primer
 
 ### Learning Competencies
 By the end of this exploration, you should
@@ -42,15 +42,21 @@ Almost all of your learning material will use Git, and almost all of it will be 
 ## Watch
 [What is Git and GitHub](https://www.youtube.com/watch?v=uUuTYDg9XoI) 
 
+_Pro-tip click on the video settings wheel to speed up online tutorials_
+
 ## Explore
 Explore what is Version Control?   
 What is Git?  
 What is GitHub?   
 
-Have a look around the internet. What do you seek to understand? Are you able to answer the learning competencies at the top of the page? Take notes. Keep within the time frame. Still looking for answers? Try the resource [below](##Git Resource)
+Have a look around the internet. Let the learning competencies at the top of the page be your guide? Take notes. Keep within the time frame. 
+
+Suggestions: 
+[Udacity's Version control (recommnended)](https://www.udacity.com/course/version-control-with-git--ud123)
+Still looking for answers? Try the resource [below](##Git Resource)
 
 ## Reflect
-On a txt document, record your reflections. You'll use these reflections. You'll transfer these reflections to a git file in the next challenge.  
+On a text document, record your reflections. You'll transfer these reflections to a git file in a later challenge.  
 
 __In your reflection answer the questions:__
 1. Whats the difference between git and GitHub?

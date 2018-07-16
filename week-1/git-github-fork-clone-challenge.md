@@ -1,16 +1,16 @@
-[Week 1 Home](README.md)
+[Week 1 Home](README.md) 
 
 # Git and GitHub Challenge
 
 ### Learning Competencies
 By the end of this exploration, you should be able to:
 
-- Navigate repositories in GitHub
-- Fork, clone a repository
+- Fork a repository 
+- Clone a forked repository
 
 
 ## Summary
-You will use this deep dive exploration to create your own forked version of this repo. You will then clone a copy to your machine. This clone is where you will be working on for the rest of your learning exploration and assessments. Changes that you make will not change the master EDA version.
+You will use this deep dive exploration to create your own forked version of this repo. You will then clone a copy to your machine. This clone is where you will be working on for the rest of your learning exploration and assessments. 
 
 
 ## Exploration and Application
@@ -22,9 +22,13 @@ Reflect | 15 minutes |
 
 Follow the time box suggestions. If you get stuck, take a quick break and come back to it. Reach out to the community on slack. Let the learning competencies be your guide.
 
-## Pre-Requisites:
-To complete this deep dive, you must have completed all [install instrutions](https://github.com/dev-academy-programme/orientation/tree/master/installation)
+## Introduction 
 
+> "A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+
+> Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea." [Official GitHub article](https://help.github.com/articles/fork-a-repo/)
+
+You will be creating your own forked version of this curriculum which you will edit through out Foundations. Your changes will not show on the master EDA version.
 
 ## Step 1: Fork
 Create your own version of this repo by forking it.
@@ -62,7 +66,7 @@ On your fork, find the settings button and enable issues
 ## Step 3: Cloning
 You may have to manually enter your __gitHub password__ in terminal, so make sure you know it before beginning this step.
 
-Right now your repository exists on GitHub, but in order to add or edit files using your text editor, you need it to exist on your computer. In git terms, this is called cloning a repository locally.
+Right now your repository exists on GitHub, but in order to add or edit files using your text editor, you need it to exist on your computer (i.e. you need to clone it locally).
 
 1. Click the clone button (copies link)
 
@@ -89,7 +93,7 @@ Right now your repository exists on GitHub, but in order to add or edit files us
 </figure>
 
 ## Step 4: Open in Visual Studio
-Visual studio is a text editor you installed during setup. Open it and then open the foundations directory you just cloned.
+Visual Studio is a text editor you installed during initial setup. You may have also dabbled in other text editors like 'Atom' or 'Sublime Text' but for this course, our editor of choice is Visual Studio (VS). Open VS and then open the foundations directory you just cloned.
 
 <figure>
   <figcaption>
@@ -99,18 +103,24 @@ Visual studio is a text editor you installed during setup. Open it and then open
 </figure>
 
 
-## Step 5: Reflect
-From now on, you'll add your reflections to your __local repo__ and push them back up to your forked version on GitHub.
+## Step 5: Add your (previous) reflections 
+The repo you cloned has weekly `my-reflections` files. 
+From now on, you'll add your reflections to these files on your __local repo__ and push them back up to your forked version on GitHub.
 
-__Pro-tip: use command line to hone your skills__
+__Pro-tip: Use command line to navigate, open applications and open files.__
 
-1. Navigate to the my-reflections-week-1 file. 
-2. Open the file in Visual Studio and write:
+1. Open the my-reflections-week-1 file in VS. 
+2. Copy and paste your previous reflections into the file. Use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to make the question format 'bold' or into headers.  
+3. Save your file
 
-- Your own step-by-step fork and clone instructions. Describe what you did. 
-- Did you have any moments where it all clicked? What clicked?
+## Reflect
+In your local version add your answers to the reflections file. 
 
-3. Use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add some distinction to your reflection file.
-4. Save your file, return to terminal, push, stage and commit. 
+1. What are some examples of when you would fork? 
+2. Write your own step-by-step fork and clone instructions. Describe what you did. 
+3. Did you have any moments where it all clicked? What clicked?
 
 
+## Aditional Practice and Resources
+[GitHub Guides - Practice Forking Projects](https://guides.github.com/activities/forking/)
+[Git the simple guide](http://rogerdudler.github.io/git-guide/)
