@@ -1,33 +1,33 @@
 [Week 1 Home](README.md)
 
-# git Remote Merge Primer 
+# Git Set Remotes and Merge Primer 
 
 ### Learning Competencies
-By the end of this exploration, you should
+By the end of this exploration, you should be able to 
 
 - Explain what a remote is
-- Understand the different context of a forked repo
 
 
 ## Summary
-Web Developers use tools to track their progress and create backups. GitHub is a popular platform for this, especially in Git uses remote URLs to figure out where to go on the Internet to push and pull files. By setting a remote, you are basically telling git exactly where to go when you want to save (push) your work, get (pull) your work to your computer, or fetch changes from the repo you forked from.
+Git uses remote URLs to figure out where to go on the Internet to push and pull files. By setting a remote, you are basically telling git exactly where to go when you want to save (push) your work, get (pull) your work to your computer, or fetch changes from the repo you forked from.
 
 ## Exploration and Application
 
 Exploration | Time to box |
 ------------|----------|
-Your forked context | 10 minutes
+Refresh | 10 minutes
 Give it go online | 10 minutes |
 Explore | 20 minutes 
 Reflect | 15 minutes |
 
 
-## Your forked context 
-When you began learning git/GitHub, you created a __fork__. 
-You then made a copy of that fork on your local computer (i.e. you cloned it).
-When you make changes and `git push` them, you are pushing to __your master branch__ of your own __forked repo.__ None of your changes are reflected on __our master__ (which is a good thing) 
+## Refresh
+1. You forked our repo (effectively creating your own version of it). 
+2. You made a copy (clone) of that fork on your local computer.
+3. You staged changes 
+4. You pushed changes to __your__ forked repo. You did so on your own master branch. None of your changes are reflected on our repo. 
 
-__Pro-tip__  Whn you are exploring git work flow, you will come across advice like 'don't push to master'. This is valid advice for when you don't have your own fork (imagine 100 students pushing their changes to our master file -eek!). 
+__Pro-tip__  When you are exploring git work flow, you will come across advice like 'don't push to master'. This is valid advice for when you don't have your own fork.
 
 Keep in mind lots of material online are not talking from a forked context. You'll hear terms like 'branch' and 'pull requests' to 'merge' into (their) master. We'll cover that soon.  
 
