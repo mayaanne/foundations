@@ -10,7 +10,7 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 ## Tech
 [Command Line Primer](command-line-primer.md)  
 [Version Control and Git - Primer](git-version-control-primer.md)  
-[Install and Explore Git and GitHub - Course](git-install-and-exploration-course.md)
+[Install and Explore Git and GitHub - Course](git-install-and-exploration-course.md)  
 [Fork and Clone - Challege](git-github-fork-clone-challenge.md)  
 [Track changes - Challenge](git-track-and-commit-challenge.md)  
 [Set remotes and Sync Fork - Primer](git-remote-fork-merge-primer.md)  
