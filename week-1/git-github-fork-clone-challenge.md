@@ -1,13 +1,12 @@
 [Week 1 Home](README.md) 
 
-# Git and GitHub Challenge
+# GitHub Fork & Clone Curriculum Challenge
 
 ### Learning Competencies
 By the end of this exploration, you should be able to:
 
 - Fork a repository 
 - Clone a forked repository
-
 
 ## Summary
 You will use this deep dive exploration to create your own forked version of this repo. You will then clone a copy to your machine. This clone is where you will be working on for the rest of your learning exploration and assessments. 
@@ -17,18 +16,34 @@ You will use this deep dive exploration to create your own forked version of thi
 
 Exploration | Time to box |
 ------------|----------|
-Deep Dive | 1-2 hours
+Explore | 30 minutes 
+Fork, Clone | 1-2 hours
 Reflect | 15 minutes |
 
 Follow the time box suggestions. If you get stuck, take a quick break and come back to it. Reach out to the community on slack. Let the learning competencies be your guide.
 
 ## Introduction 
 
+In this challenge, you will be creating your own forked version of the curriculum repo which you'll work with through out Foundations. Your changes will not show on the master EDA version.
+
 > "A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 
 > Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea." [Official GitHub article](https://help.github.com/articles/fork-a-repo/)
 
-You will be creating your own forked version of this curriculum which you will edit through out Foundations. Your changes will not show on the master EDA version.
+## Forking Workflow 
+
+[Excerpt from Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)  
+
+The Forking Workflow is fundamentally different than other popular Git workflows. Instead of using a single server-side repository to act as the “central” codebase, it gives every developer their own server-side repository. This means that each contributor has not one, but two Git repositories: a private local one and a public server-side one. The Forking Workflow is most often seen in public open source projects.
+
+The main advantage of the Forking Workflow is that contributions can be integrated without the need for everybody to push to a single central repository. Developers push to their own server-side repositories, and only the project maintainer can push to the official repository. This allows the maintainer to accept commits from any developer without giving them write access to the official codebase.
+
+The Forking Workflow typically follows a branching model based on the Gitflow Workflow. This means that complete feature branches will be purposed for merge into the original project maintainer's repository. The result is a distributed workflow that provides a flexible way for large, organic teams (including untrusted third-parties) to collaborate securely. This also makes it an ideal workflow for open source projects.
+
+## Explore Forking 
+
+Spend a few minutes 
+
 
 ## Step 1: Fork
 Create your own version of this repo by forking it.

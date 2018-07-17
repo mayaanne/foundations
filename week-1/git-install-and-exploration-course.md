@@ -30,7 +30,7 @@ Stay on the path and follow the time box suggestions.
 Complete Lessons 1 - 4 of the [Version Control with Git Course](https://www.udacity.com/course/version-control-with-git--ud123) (stop at Lesson 5 - 'Tagging, Branching, Merging'). 
 
 __Notes:__  
-- Already installed Git (type `git version` to see)? Skip the install instructions in the tutorial. 
+- If you've already installed Git (type `git version` to check), skip the install instructions in the tutorial. 
 - Windows Git includes GUI (Graphical User Interface). However, its important to __use the command line and _not_ the GUI__
 - Use the video settings to speed up the video 
 
