@@ -8,7 +8,7 @@ By the end of this exploration, you should be able to
 - Explain what a branch is and why we use it
 
 ## Summary
-Excerpt from [GitHub Guides}(https://guides.github.com/introduction/flow/)
+Shared from [GitHub Guides](https://guides.github.com/introduction/flow/)
 
 When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.
 
@@ -54,7 +54,7 @@ Explore and try out Git Branching online. You'll use what you learn in a followi
 
 
 ## Reflect
-Open your text reflections file and answer the following. Don't forget to stage and commit.  
+Open your text reflections file and answer the following. 
 
 1. What is Master? 
 2. Why create a Branch?
