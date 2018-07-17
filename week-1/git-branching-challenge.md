@@ -21,17 +21,18 @@ Challenge | 30 minutes
 
 ## Steps
 
-__Important!__ Before you begin, make sure you do not clone the new repo (Ko Wai Koe) into your current Foundations repo. Repeat: __do not clone into your Foundations repo__. 
+__Important!__ Make sure you do not clone the new repo (Ko Wai Koe) into an already existing repo. We recommend creating a 'Dev-Acadedmy' parent directory that can contain your Dev Academy Repos. 
 
 Cloning to the same parent directory is fine, for example:  
 
-Example: Good  
-`User/Hemi/Dev-Academy/Foundations`  
-`User/Hemi/Dev-Academy/Ko-wai-koe` 
+Example: Good 
+`User/Hemi/Dev-Academy/Ko-wai-koe`  
+`User/Hemi/Dev-Academy/A-second-repo` 
+`User/Hemi/Dev-Academy/A-third-repo` 
 
 Example: Incorrect   
-`User/Hemi/Dev-Academy/Foundations`  
-`User/Hemi/Dev-Academy/Foundations/Ko-wai-koe`  
+`User/Hemi/Dev-Academy/an-already-cloned-repo/a-second-repo`
+  
 
 1. Navigate to https://github.com/dev-academy-programme/ko-wai-koe   
 2. Clone it (somewhere other than Foundations repo)   
