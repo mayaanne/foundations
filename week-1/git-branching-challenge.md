@@ -25,11 +25,11 @@ __Important!__ Before you begin, make sure you do not clone the new repo (Ko Wai
 
 Cloning to the same parent directory is fine, for example:  
 
-Example: Good
+Example: Good  
 `User/Hemi/Dev-Academy/Foundations`  
 `User/Hemi/Dev-Academy/Ko-wai-koe` 
 
-Example: Incorrect 
+Example: Incorrect   
 `User/Hemi/Dev-Academy/Foundations`  
 `User/Hemi/Dev-Academy/Foundations/Ko-wai-koe`  
 
