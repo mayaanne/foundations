@@ -54,7 +54,7 @@ Explore and try out Git Branching online. You'll use what you learn in a followi
 
 
 ## Reflect
-Open your `my-reflections-week-1.md`file and answer the following. Don't forget to stage and commit.  
+Open your text reflections file and answer the following. Don't forget to stage and commit.  
 
 1. What is Master? 
 2. Why create a Branch?
