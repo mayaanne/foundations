@@ -53,8 +53,8 @@ __Resources:__
 
 ## Template:
 
-__Where I grew up:__ 
-__Where my family is from:__  
+__Where I grew up:__   
+__Where my family is from:__    
 __My name:__   
 
 
