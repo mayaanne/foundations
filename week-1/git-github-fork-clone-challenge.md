@@ -16,7 +16,7 @@ You will use this deep dive exploration to create your own forked version of thi
 
 Exploration | Time to box |
 ------------|----------|
-Explore | 30 minutes 
+Explore | 45 minutes 
 Fork, Clone | 1-2 hours
 Reflect | 15 minutes |
 
@@ -42,14 +42,18 @@ The Forking Workflow typically follows a branching model based on the Gitflow Wo
 
 ## Explore Forking 
 
-Spend a few minutes 
+Use the Time Box suggestions and exploring Forking. 
+
+Suggested Resources:  
+[GitHub for Poets Forks and Pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4)      
+[Practice Forking GitHub Help](https://help.github.com/articles/fork-a-repo/)      
+[Atlassian Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)    
 
 
 ## Step 1: Fork
-Create your own version of this repo by forking it.
-
-Origin: dev-academy-programme/foundations
-Destination: git-hub-user-name/foundations
+Create your own version of this repo by forking it (firgure 1 and 2)  
+__Origin:__ https://github.com/dev-academy-programme/foundations  
+__Destination:__ https://github.com/git-hub-user-name/foundations  
 
 <figure>
   <figcaption>
@@ -68,22 +72,18 @@ Destination: git-hub-user-name/foundations
 </figure>
 
 ## Step 2: Enable issues
-On your fork, find the settings button and enable issues
+On your fork, find the settings button and enable issues (figure 3)
 
 <figure>
   <figcaption>
-    <p><strong>Figure 3:</strong> Enable issues via settings </p>
+    <p><strong>Figure 3:</strong> Issues enabled, GitHub settings </p>
   </figcaption>
   <img src="../images/github_4_enable_issues.png" alt="ticked issues box"><br>
 </figure>
 
 
 ## Step 3: Cloning
-You may have to manually enter your __gitHub password__ in terminal, so make sure you know it before beginning this step.
-
-Right now your repository exists on GitHub, but in order to add or edit files using your text editor, you need it to exist on your computer (i.e. you need to clone it locally).
-
-1. Click the clone button (copies link)
+Right now your repository exists on GitHub, but in order to add or edit files using your text editor, you need it to exist on your computer (i.e. you need to clone it locally). 
 
 <figure>
   <figcaption>
@@ -92,10 +92,9 @@ Right now your repository exists on GitHub, but in order to add or edit files us
   <img src="../images/github_4_clone_button.png" alt="gitHub clone button"><br>
 </figure>
 
-**Pro-tip: Do the following tasks using command line:**
 
+1. Click the clone button (copies link) (figure 4)
 2. You're about to paste the link you just copied. When you do so it will create a directory called 'foundations'. __Think about where you that directory to live.__  Is it for example in `desktop/dev-academy/foundations` or does it make more sense to have it on your root directory e.g. `users/hinemoana/foundations` ? This is your learning journey, so you decide what logic makes most sense. __Go ahead and create the directory.__
-
 3. In terminal navigate __INTO__ _the directory you selected/created_
 4. Enter the command `git clone` and use keyboard shortcut `cmd v` (mac) or `ctrl v` (win) to paste
 5. Follow the username and password prompts if required.
@@ -137,5 +136,5 @@ In your local version add your answers to the reflections file.
 
 
 ## Aditional Practice and Resources
-[GitHub Guides - Practice Forking Projects](https://guides.github.com/activities/forking/)
+[GitHub Guides - Practice Forking Projects](https://guides.github.com/activities/forking/)  
 [Git the simple guide](http://rogerdudler.github.io/git-guide/)
