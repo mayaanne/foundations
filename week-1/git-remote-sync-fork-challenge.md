@@ -105,8 +105,8 @@ Git will ensure everything is kept if your files and our files are different and
 1. Check to see if there are changes on the eda-remote.
 2. If there are, fetch them
 
-__Useful commands:__ 
-`git diff origin/master EDA-remote/master`  
+__Useful commands:__      
+`git diff origin/master EDA-remote/master`    
 `git remote show EDA-remote`  
 
 
@@ -115,9 +115,9 @@ __Useful commands:__
 
 <figure>
   <figcaption>
-    <p><strong>Figure 3:</strong> A conversation with Git about remotes</p>
+    <p><strong>Figure 3:</strong> A conversation with Git</p>
   </figcaption>
-  <img src="../images/github_12_fetch_convo.png" alt="adding remotes"><br>
+  <img src="../images/github_12_fetch_convo.png" alt="image of commandline"><br>
 </figure>
 
 
