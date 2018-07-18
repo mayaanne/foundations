@@ -42,7 +42,9 @@ Study this diagram, adapted from [GitTower](https://www.git-tower.com/learn/git/
 
 ## Explore 
 Figure out what you need to know (learning objectives). 
-Google your queries e.g. "what is a git remote" and or refer to the previous resources. 
+Google your queries e.g. "what is a git remote" and or have a look at the reocmmended resource. 
+
+__Recommended resource:__ [Git tower - Connecting to a remote](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/connecting-remote-repositories#start)
 
 ## Reflect
 Open your `my-reflections-week-1.md` file and answer the following. Remember to stage and commit your changes. 
