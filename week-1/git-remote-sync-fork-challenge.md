@@ -43,48 +43,43 @@ Explore a litte and about remotes. Don't get too side tracked by branches. Begin
 
 In the next step we'll be asking you to set an 'upstream' so you can 'fetch' any changes that are currently in our version. 
 
-## Check your current remotes
+## Check your current remote
 type `git remote -v`
 
 When a repo is cloned, it has a default remote called origin that points to __your fork__ on GitHub, not the original repo it was forked from. 
 
-Study the image below and the output on your computer. Notice you can fetch and push changes to the same remote. 
+Study the image below and the output on your computer. Notice by default you fetch and push changes to the same remote. 
 
 But what if you want to get changes from somewhere different (e.g. Dev Academy)?
 
-Take a moment to study figure 1. Notice the name of the remotes, URL etc. 
 
 Notice 
 <figure>
   <figcaption>
-    <p><strong>Figure 1:</strong> Example of Git remotes (default) </p>
+    <p><strong>Figure 1:</strong> Example of Git remote (default) </p>
   </figcaption>
   <img src="../images/github_11_default_remote.png" alt="example of Git remotes in command line"><br>
 </figure>
 
-## Add an Upstream
-At times, you will need to be able to pull changes or additions we make to the curriculum. Right now, 
+## Add a new remote 
+At times, you will need to be able to pull changes we make to the curriculum. 
 
-However, but you don't want to push your work to our main curriculum. 
-
-1. Add an upstream to your local version
-
-__Pro-tip__ `Upstream` is a naming convention. We don't recommend using any other name, but for comparisons sake I've added 3 remotes to illustrate that the remote (usually named upstream) is simply where we want to fetch changes from and push contributions to. 
+1. Add a new remote called `eda-remote` (hint: study figure 2)
 
 <figure>
   <figcaption>
-    <p><strong>Figure 2:</strong> Adding variations of upstream remotes to local repo</p>
+    <p><strong>Figure 2:</strong> Add new remote</p>
   </figcaption>
   <img src="../images/github_11_remote.png" alt="adding remotes"><br>
 </figure>
 
 
 ## Fetch Changes 
-You're going to be fetching changes from our remote sever (and therefore our version of the repo). Its important to know that Git will not over-write your work. Fetch just downloads data from the specified remote and makes it visible for you but putting it in a branch.
+You're going to be fetching changes from our remote repo. Its important to know that Git will not over-write your work. Fetch just downloads data from the specified remote and makes it visible for you but putting it in a branch.
 
 Git will ensure everything is kept if your files and our files are different and Git will ask you to manually decide which parts you want to keep. 
 
-1. Check to see if there are changes on the upstream remote?
+1. Check to see if there are changes on the eda-remote.
 2. If there are, fetch them
 
 ## Merge Changes 
