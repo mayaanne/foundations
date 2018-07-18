@@ -16,7 +16,6 @@ Git uses remote URLs to figure out where to go on the Internet to push and pull 
 Exploration | Time to box |
 ------------|----------|
 Refresh | 10 minutes
-Give it go online | 10 minutes |
 Explore | 20 minutes 
 Reflect | 15 minutes |
 
@@ -40,23 +39,17 @@ Study this diagram, adapted from [GitTower](https://www.git-tower.com/learn/git/
   <img src="../images/github_10_fork.png" alt="Fork GitHub Repo"><br>
 
 </figure>
-A
-
-## Give it a go online
- - You could revisit the [Interactive web tutorial](https://try.github.io/levels/1/challenges/1) and this time go through to the last steps. 
-
 
 ## Explore 
-You could ask simple questions like "what is a git remote" to be specific, but if you need to understand the bigger picture more you could ask questions like "GitHub user workflow." I googled "what is a git remote repository" and found [GitTower's useful step by step course](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction)
-
+Figure out what you need to know (learning objectives). 
+Google your queries e.g. "what is a git remote" and or refer to the previous resources. 
 
 ## Reflect
-Open your `my-reflections-week-1.md`file and answer the following. Don't forget to stage and commit.  
+Open your `my-reflections-week-1.md` file and answer the following. Don't forget to stage and commit.  
 
 1. What is the difference between cloning from a forked and cloning from a non-forked repo. 
 2. Can you think of an analogy to describe forking?
 3. What is a remote? 
 4. Did anything surprise you?
-5. Add, commit and push! 
 
 
