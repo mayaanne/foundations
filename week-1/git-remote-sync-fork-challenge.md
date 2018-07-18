@@ -66,6 +66,7 @@ Say that EDA and other contributors have made some more updates to the curriculu
 
 __Take note of the contrast between the workflow for forking and the workflow for syncing:__ When you initially fork a repo, the flow of information is from EDA's repo to your repo, and then down to your local computer. But after that initial process, the flow of information is from EDA's repo to your local computer, and then up to your repo.
 
+Credit: [Inspired by DataSchool.io](https://www.dataschool.io/)
 
 ## Check your current remote
 type `git remote -v`
