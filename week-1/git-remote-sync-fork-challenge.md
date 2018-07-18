@@ -62,9 +62,9 @@ Notice
 </figure>
 
 ## Add a new remote 
-At times, you will need to be able to pull changes we make to the curriculum. 
+At times, you will need to be able to pull changes we make to the curriculum. The standard naming convention for this type of remote is called 'upstream' but for simplicity, we're going to call it eda-remote. 
 
-1. Add a new remote called `eda-remote` (hint: study figure 2)
+1. Add a new remote called `eda-remote` (hint: figure 2)
 
 <figure>
   <figcaption>
@@ -74,7 +74,7 @@ At times, you will need to be able to pull changes we make to the curriculum.
 </figure>
 
 
-## Fetch Changes 
+## Fetch / pull Changes 
 You're going to be fetching changes from our remote repo. Its important to know that Git will not over-write your work. Fetch just downloads data from the specified remote and makes it visible for you but putting it in a branch.
 
 Git will ensure everything is kept if your files and our files are different and Git will ask you to manually decide which parts you want to keep. 
