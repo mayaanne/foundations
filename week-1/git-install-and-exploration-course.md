@@ -9,7 +9,7 @@ By the end of this challenge, you be able to
 - Navigate repositories in GitHub
 - Create a new repository 
 - Clone a repositroy     
-- Check status of repository 
+- Determine repository status
 - Stage commits to a respository
 
 ## Summary
