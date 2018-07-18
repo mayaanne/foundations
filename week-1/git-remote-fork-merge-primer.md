@@ -16,7 +16,7 @@ Git uses remote URLs to figure out where to go on the Internet to push and pull 
 Exploration | Time to box |
 ------------|----------|
 Refresh | 10 minutes
-Explore | 20 minutes 
+Explore | 60 minutes 
 Reflect | 15 minutes |
 
 
@@ -41,10 +41,15 @@ Study this diagram, adapted from [GitTower](https://www.git-tower.com/learn/git/
 </figure>
 
 ## Explore 
-Figure out what you need to know (learning objectives). 
-Google your queries e.g. "what is a git remote" and or have a look at the reocmmended resource. 
+Explore a litte and about remotes. Begin by identifying what is it your trying to understand. Check the learning objectives. If you need a little extra guidance  here's a couple of links to help you along: 
 
-__Recommended resource:__ [Git tower - Connecting to a remote](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/connecting-remote-repositories#start)
+__Recommended resources:__ 
+- [Git tower - Connecting to a remote] (https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/connecting-remote-repositories#start)  
+- [Forking (GitHub Article)(https://help.github.com/articles/fork-a-repo/)  
+- [Syncing (GitHub Article)](https://help.github.com/articles/syncing-a-fork/)  
+- [Working with Remotes (GitHub)](https://help.github.com/categories/managing-remotes/)  
+- [Configure Git to sync with Remote](https://help.github.com/articles/fork-a-repo/#step-3-configure-git-to-sync-your-fork-with-the-original-spoon-knife-repository)  
+- [Git Pro - Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)  
 
 ## Reflect
 Open your `my-reflections-week-1.md` file and answer the following. Remember to stage and commit your changes. 
