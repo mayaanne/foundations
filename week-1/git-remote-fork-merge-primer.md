@@ -45,7 +45,7 @@ Figure out what you need to know (learning objectives).
 Google your queries e.g. "what is a git remote" and or refer to the previous resources. 
 
 ## Reflect
-Open your `my-reflections-week-1.md` file and answer the following. Don't forget to stage and commit.  
+Open your `my-reflections-week-1.md` file and answer the following. Remember to stage and commit your changes. 
 
 1. What is the difference between cloning from a forked and cloning from a non-forked repo. 
 2. Can you think of an analogy to describe forking?
