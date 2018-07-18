@@ -117,23 +117,23 @@ Visual Studio is a text editor you installed during initial setup. You may have 
 </figure>
 
 
-## Step 5: Add your (previous) reflections 
-The repo you cloned has weekly `my-reflections` files. 
-From now on, you'll add your reflections to these files on your __local repo__ and push them back up to your forked version on GitHub.
+## Step 5: Add your (previous) Reflections 
+The repo you cloned has weekly `my-reflections` md files. 
+From now on, you'll add your reflections to these files on your __local version of repo__ and push them back up to your forked version on GitHub.
 
 __Pro-tip: Use command line to navigate, open applications and open files.__
 
 1. Open the my-reflections-week-1 file in VS. 
 2. Copy and paste your previous reflections into the file. Use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to make the question format 'bold' or into headers.  
-3. Save your file
+3. Stage your file. 
 
 ## Reflect
-In your local version add your answers to the reflections file. 
+Open the `my-reflections-week-1.md` in VS and add your reflections from this challenge:
 
 1. What are some examples of when you would fork? 
 2. Write your own step-by-step fork and clone instructions. Describe what you did. 
 3. Did you have any moments where it all clicked? What clicked?
-
+4. Stage your file. 
 
 ## Aditional Practice and Resources
 [GitHub Guides - Practice Forking Projects](https://guides.github.com/activities/forking/)  
