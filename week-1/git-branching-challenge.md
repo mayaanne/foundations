@@ -1,4 +1,4 @@
-[Week 1 Home](README.md) | [Next - Fork and Clone](git-github-fork-clone-challenge.md)  
+[Week 1 Home](README.md) 
 
 # Branch, Pull, Merge Challenge
 

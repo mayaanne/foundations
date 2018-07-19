@@ -1,4 +1,4 @@
-[Week 1 Home](README.md) | [Next - Branching Primer](git-branch-primer.md)  
+[Week 1 Home](README.md) 
 
 # Track and Commit Primer!
 

@@ -1,4 +1,5 @@
-[Week 1 Home](README.md) | [Next Set up Blog using Git pages Challenge](git-new-repo-github-pages-blog.md)  
+[Week 1 Home](README.md) 
+  
 
 # Git - Setting Remotes and Syncing Forks Challenge
 

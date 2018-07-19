@@ -1,4 +1,4 @@
-[Week 1 Home](README.md) | [Next - Track changes Primer](git-track-changes-primer.md)  
+[Week 1 Home](README.md) 
 
 # Install and Explore Git 
 

@@ -1,4 +1,4 @@
-[Week 1 Home](README.md) | [Next Set Remotes and Sync Fork Challenge](git-remote-sync-fork-challenge.md)  
+[Week 1 Home](README.md) 
 
 # Git Set Remotes and Merge Primer 
 

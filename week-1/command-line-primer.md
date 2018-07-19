@@ -1,4 +1,4 @@
-[Week 1 Home](README.md) | [Next - Version Control Primer](git-version-control-primer.md)
+[Week 1 Home](README.md) 
 
 # Command Line Primer (aka Terminal, Shell, Prompt)
 

@@ -1,4 +1,4 @@
-[Week 1 Home](README.md) | [Next - Branch, Pull, Merge Challenge](git-branching-challenge.md)  
+[Week 1 Home](README.md) 
 
 # Branch, Pull, Merge Primer
 

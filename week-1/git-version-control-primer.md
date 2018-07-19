@@ -1,4 +1,4 @@
-[Week 1 Home](README.md) | [Next - Install and Explore Git](git-install-and-exploration-course.md)  
+[Week 1 Home](README.md) 
 
 # Version Control with Git - Primer
 

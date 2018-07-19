@@ -1,4 +1,4 @@
-[Week 1 Home](README.md) | [Next - Set Remotes and Sync Fork Primer](git-remote-fork-merge-primer.md)
+[Week 1 Home](README.md) 
 
 # GitHub Fork & Clone Curriculum Challenge
 
