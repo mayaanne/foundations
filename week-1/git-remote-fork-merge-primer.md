@@ -1,4 +1,4 @@
-[Week 1 Home](README.md)
+[Week 1 Home](README.md) 
 
 # Git Set Remotes and Merge Primer 
 

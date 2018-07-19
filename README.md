@@ -18,7 +18,9 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 ------------
 
 
+[Reflections](/quick-links/reflections-index.md)  
+[Feedback](/quick-links/feedback.md)  
+[Competency checklist](/quick-links/competency-checklist.md)  
+[Resources](/resources/resources-index.md)  
 
-[Resources](/resources/README.md)
-
-
+------------

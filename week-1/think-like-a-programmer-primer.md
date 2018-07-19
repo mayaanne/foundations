@@ -1,6 +1,6 @@
 [Week 1 Home](README.md)
 
-# Thinking lik a programmer
+# Thinking like a programmer
 
 ### Learning Competencies
 By the end of this exploration, you should
