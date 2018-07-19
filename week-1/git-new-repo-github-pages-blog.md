@@ -1,28 +1,18 @@
 [Week 1 Home](README.md)
 
-# Setup new Repo, create GitHub pages Blog Challenge
+# Setup new Repo & Create Blog Challenge
 
 ## Learning Competencies
 By the end of this you should be able to:
 
 - Create a new repository
-- Know what GitHub pages is 
+- Understand what GitHub pages are
 - Have a skeletal framework to build your blog 
 
 
 ## Summary
-Today you'll begin a blog that you'll continue to work on during Foundations. The challenge is designed as a walk through challenge to get you setup for future practice.
+Today you'll begin a blog that you'll work on throughout Foundations and you'll do so using a service called [GitHub Pages](https://pages.github.com/). You'll create a repo, clone a repo, add some files and push it up to GitHub Pages.
 
-To build a blog, we'll you'll use a service called "GitHub pages".
-
-The purpose of the blog is triple fold: 
-- To continue honing your skills in GitHub workflow  
-- To provide a home for assignments and reflections  
-- To practice HTML, CSS and JS.  
-
-When building your blog, you might find it really tempting to tinker around. The visual element adds an compelling layer of satisfaction (or dissatisfaction) if certain aspects don't 'look' how you want them to. 
-
-But don't be distracted. While this is your learning journey, we can tell you many students have fallen into the trap of loosing too much time tinkering. Stay focused, stay sharp. You're not here to learn everything or to go deep. Keep your learning objectives in mind and hone your practice. 
 
 
 ## Application
@@ -32,36 +22,56 @@ Application | Time to box |
 Create a website repository | 20 minutes 
 Reflect | 15 minutes |
 
-## Create a website repository (repo)
+
+## Introduction 
+
+The purpose of the blog is triple fold: 
+- To continue honing your skills in GitHub workflow  
+- To provide a home for assignments and reflections  
+- To practice HTML, CSS and JS.  
+
+It can be tempting to tinker for hours with the visual elements of your blog, but there is no award for best design. 
+
+Stay focused, stay sharp. You're here to learn breadth, not depth. 
+
+As always, keep your learning objectives in mind and hone your practice. Follow the timebox suggestions and reach out to the community if you feel blocked.
+
+
+
+## Create a new Repo 
 1. Create a [new repository](https://github.com/new) 
-2. Add repository name with the following syntax: username.github.io  (Figure 1 _below_)  
-3. Make sure the following options are selected: "Public, Initialise with README, License is MIT (Figure 1 _below_).  
+2. Use the syntax `username.github.io` for your repository name (example Figure 1)
+3. Select the options shown in Figure 1
 
 <figure>
   <figcaption>
     <p><strong>Figure 1:</strong> Preference setting for New GitHub repo</p>
   </figcaption>
   <img src="../images/github_13_new_repo.png" alt="Create new repo"><br>
-</figure
+</figure>
+  
 
-## Clone the repo 
-This step requires you to clone to your local computer. __Do not clone INTO your foundations__ directory. Git wont be happy if you put a clone within a clone. You can however clone to the same parent director (for exampl I cloned mine to a directory called `dev-academy` which now contains my repo `Foundations` and my other repo `Jamanius.github.io`. 
+## Clone Repo
+__Important!__ Do not clone into an already existing repo (e.g. Foundations). 
 
-Remember Follow the time box suggestions. If you get stuck, take a quick break and come back to it. Reach out to the community on slack. Let the learning competencies be your guide.
+Cloning to the same parent directory is fine, for example:  
 
-1. Navigate to where you want to clone your github.io repo
-2. Clone it! You've got this - you've cloned [before!)](git-github-challenge.md#step-3-cloning). 
+Example: Good   
+`User/Kiri/Dev-Academy/foundations`    
+`User/Kiri/Dev-Academy/ko-wai-koe`  
+`User/Kiri/Dev-Academy/jamanius.github.io` 
 
-<figure>
-  <figcaption>
-    <p><strong>Figure 2:</strong> Blog directory and terminal commands</p>
-  </figcaption>
-  <img src="../images/Github_14_blog_directory.png" alt="blog directory"><br>
-</figure
+Example: Incorrect   
+`User/Kiri/Dev-Academy/foundations/jamanius.github.io` 
+
+1. Navigate to the directory where you want to clone your github.io repo
+2. Clone it 
+
 
 ## Add a temporary index.html file 
-1. Navigate __INTO__ the directory and add a new file called `index.html` (Hint: Its just like using terminal to create an .md file or a .txt file.)
-2. Open index.html with your text editor (e.g Visual Code) 
+1. Navigate __INTO__ the github.io repo 
+2. Create a file called `index.html` (in command line type `touch index.html`
+3. Open index.html with VS
 3. Add this text to the index.html file and __save it__
 
 ```html
@@ -77,29 +87,28 @@ Remember Follow the time box suggestions. If you get stuck, take a quick break a
 
 ``` 
 ## Commit and Push 
-1. Use your git skills to stage your file, commit your changes and push to GitHub. 
+_Note: After pushing to GitHub pages, there might be a delay - it can sometimes take 15 minutes to show on GitHub_
+
+1. Commit and Push 
 2. Check out your repo live by visiting `http://[USERNAME].github.io`* 
 
-_Note: it can take 15 minutes to show on GitHub sometimes_
+
 
 
 <figure>
   <figcaption>
-    <p><strong>Figure 3:</strong> My GitHub pages blog online</p>
+    <p><strong>Figure 3:</strong> Example of Blog online.</p>
   </figcaption>
-  <img src="../images/github_15_blog_index.png" alt="blog online"><br>
-</figure
+  <img src="../images/github_15_blog_index.png" alt="image of website blog"><br>
+</figure>
 
 
 
-## Step 5: Reflect
-By now your reflection file `my-reflections-week-1`file will contain a bunch of separate paragraphs about your reflections. Hopefully it contains some [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for titles and such. 
+## Step 5: Reflect 
+Open `my-reflections-week-1` and answer the following
 
-Add your reflections about the following. 
-
-1. Explain how to create a repository on GitHub and clone the repository to your local computer to a non-technical person
-2. What did you learn? What surprised you? 
-3. Use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to add some distinction to your reflection file.
-4. Add, commit and push! 
+1. Reflect on this week. What did you learn about your learning? 
+2. What surprised you? 
+3. Add, commit and push! 
 
 
