@@ -1,14 +1,18 @@
 [Week 1 Home](README.md)
 
-# GitHub and terminal error messages (Stretch Challenge)
+# Git Messages (Stretch Challenge)
 
 ## Learning Competencies
 
-- Analyse git terminal messages
+- Analyse Git command line messages
 
 ## Summary
 
-To solve a problem, you must understand the problem. Git in the terminal displays important information. Your job will require that you are constantly solving problems, which means you need to hone your skills in dissecting what the problem is.
+Web Developers are problem solvers. And a great way to problem solve is to break the problem down into a series of small chunks and into plain english. 
+
+Use the Git messages below to practice understanding Git and chunking down a problem. 
+
+
 
 ## Exploration and Application
 
