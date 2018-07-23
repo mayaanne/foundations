@@ -10,25 +10,25 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 
 
 ## Tech
-[Command Line - Primer](command-line-primer.md)  
-[Version Control and Git - Primer](git-version-control-primer.md)  
-[Install and Explore Git and GitHub - Course](git-install-and-exploration-course.md)  
-[Track changes - Primer](git-track-changes-primer.md)  
-[Branching - Primer](git-branch-primer.md)  
-[Branch, Pull, Merge - Challenge](git-branching-challenge.md)  
-[Fork and Clone - Challege](git-github-fork-clone-challenge.md)  
-[Set Remotes and Sync Fork - Primer](git-remote-fork-merge-primer.md)  
-[Set Remotes and Sync Fork - Challenge](git-remote-sync-fork-challenge.md)  
-[Set up Blog using Git pages - Challenge](git-new-repo-github-pages-blog.md)  
+1. [Command Line - Primer](command-line-primer.md)  
+2. [Version Control and Git - Primer](git-version-control-primer.md)  
+3. [Install and Explore Git and GitHub - Course](git-install-and-exploration-course.md)  
+4. [Track changes - Primer](git-track-changes-primer.md)  
+5. [Branching - Primer](git-branch-primer.md)  
+6. [Branch, Pull, Merge - Challenge](git-branching-challenge.md)  
+7. [Fork and Clone - Challege](git-github-fork-clone-challenge.md)  
+8. [Set Remotes and Sync Fork - Primer](git-remote-fork-merge-primer.md)  
+9. [Set Remotes and Sync Fork - Challenge](git-remote-sync-fork-challenge.md)  
+10. [Set up Blog using Git pages - Challenge](git-new-repo-github-pages-blog.md)  
 
 
 
 ## Core
-[Core primer](core-primer.md)  
-[Thinking like a web devloper Primer](think-like-a-programmer-primer.md)  
-[Identity and values exploration](core-identity-and-values.md)  
-[Introduce yourself exercise](core-introduce-yourself.md)  
-[Feedback](../feedback.md)  
+1. [Core primer](core-primer.md)  
+2. [Thinking like a web devloper Primer](think-like-a-programmer-primer.md)  
+3. [Identity and values exploration](core-identity-and-values.md)  
+4. [Introduce yourself exercise](core-introduce-yourself.md)  
+5. [Feedback](../feedback.md)  
 
 ## Stretch
 [Github stretch](git-stretch-error-msgs.md)  
