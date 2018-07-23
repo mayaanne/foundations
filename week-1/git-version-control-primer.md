@@ -3,9 +3,9 @@
 # Version Control with Git - Primer
 
 ### Learning Competencies
-By the end of this exploration, you should
+By the end of this exploration, you should be able to 
 
-- Be able to explain what version control is and does  
+- Explain what version control is and does  
 - Understand what Git is 
 - Understand what GitHub is
 
