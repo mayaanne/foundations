@@ -15,17 +15,17 @@ By the end of the second part, you should be able to:
 - Understand and apply classes, id's  
 - Navigate the DOM 
 - Understand and use box design 
-- Understand and create responsive design 
+- Understand and create esponsive design 
 - Understand and use semantic structuring 
 
 
 ## Summary
 We've selected a couple of choices for learning HTML and CSS. You'll need to create an account with FreeCodeCamp and  Udacity and give each a go. 
 
-Udacity is media rich, with some files to practice. 
+Udacity is media rich, with example files to practice with. 
 FreeCodeCamp is practice rich and requires you to apply a little more problem solving. 
 
-Try them both, get a sense for which resource suits your learning style better, and stick with that, completing the recommended courses.  
+Try them both, get a sense for which resource suits your learning style better, and stick with that. Complete the recommended courses for either freecodecamp or Udacity.  
 
 Always keep in mind the learning objectives. Ask yourself for example, "Can I navigate the DOM?". The courses should cover all the basics, but if you're still wondering "what is the DOM" then put your problem solving powers to good use and discover it. Frame the question well, reach out and have a discussion with someone in your cohort. Bring it up during a check in. 
 
@@ -77,7 +77,7 @@ Links:
 [Udacity HTML, CSS, and Boxes](https://classroom.udacity.com/courses/ud304) 
 
 ## Online research 
- Start identifying what it is that you need to know in order to reach the learning Competencies. Where are your knowledge gaps? Compile a list of questions and find the answers. 
+Start identifying what it is that you need to know in order to reach the learning Competencies. Where are your knowledge gaps? Compile a list of questions and find the answers. 
 
  
 ## Reflect
