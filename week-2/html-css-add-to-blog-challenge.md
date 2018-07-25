@@ -1,6 +1,6 @@
 [Week 2 Home](README.md)
 
-# Blog HTML and CSS Application
+# Add HTML and CSS to your Blog Challenge
 
 ### Learning Competencies 
 By the end of the challenge, you should be able to:
@@ -15,7 +15,7 @@ By the end of the challenge, you should be able to:
 
 
 ## Summary
-You learned a bunch of stuff in FreeCodeCamp and Udacity. Apply that knowledge to transform your index page into something "you". The index page is the 'homepage' of your blogs. You will need factor in where and how you will list your blog enries on your site.  
+You learned a bunch of stuff in FreeCodeCamp and Udacity. Apply that knowledge to transform your index page into something 'you'. The index page is the 'homepage' of your blogs. You will need factor in where and how you will list your blog enries on your site.  
 
 ## Exploration and Application
 

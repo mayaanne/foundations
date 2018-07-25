@@ -28,10 +28,12 @@ The learning agreement describes how you will operate within the context of the 
 Your success in this programme depends on your full commitment to doing what you say you will do. The bottom line is that if you say what, how and when you will do something, everyone working with you will expect it delivered as promised. Anything different should be negotiated in a timely and professional manner to alter those expectations.
 
 There are three aspects of participation that should think about specifically addressed in that agreement:
-• it is difficult to develop a supportive community of learners if you are not fully taking part in that community
-• our whole Ako approach to learning from each other as equals, is hard to do if we are not all there. Staff then have to take on the role of trying to “chase” learners to participate
-• our resources are unnecessarily stretched and not focussed on productive work if staff are sitting waiting for a 1:1 and no one shows up, we could have been working on course development that would help everyone.
-• What will you do when things are building up and starting to get to you.
+- it is difficult to develop a supportive community of learners if you are not fully taking part in that community  
+- our whole approach to learning from each other as equals, is hard to do if we are not all there. Staff then have to take on the role of trying to “chase” learners to participate  
+
+- our resources are unnecessarily stretched and not focussed on productive work if staff are sitting waiting for a 1:1 and no one shows up, we could have been working on course development that would help everyone.  
+
+- What will you do when things are building up and starting to get to you.  
 
 
 ## Formulate Learning Agreement
@@ -48,17 +50,16 @@ The Learning Agreement needs to include the following elements:
 Once you have formulated your plan, you'll need to have your facilitator agree to it.
 
 ## Publish Core Blogs (x2) 
+
 In this exercise you will publish 2 core blog posts - last weeks [Identity, Values and Strengths Exploration](../week-1/core-identity-and-values.md) (c1-blog) and this weeks Learning Agreement (c2-blog).  
 
 Conduct these steps using terminal: 
-1. Navigate to where you saved your `username.github.io/blog` directory
-2. __In__ the `blog` directory create two files `c1-blog.html` and `c2-blog.html` 
-3. Open `c1-blog.html` in your code editor (hint `code`)
-4. Copy[the template](web-html-template.html) and paste it into both `c1-blog.html`and `c2-blog.html`
-5. Update the css file `<link href="your-stylesheet-link-here.css" rel="stylesheet" type="text/css">`with `main.css`
-6. In c1, copy and paste your __Identity, Values and Strengths Exploration__ 
-7. In c2, copy and paste your __Learning Agreement__ 
-8. Add and commit your changes with a good commit message
-9. Push your changes
-10. View your blogs on the web browser e.g. `http://username.github.io/blog/c1-blog.html`
+1. Navigate __INTO__ `username.github.io/blog` directory
+2. Create two files: `week1-cultural.html` and `week2-cultural.html`
+3. Copy and paste [the template](html-template.html)
+4. Update the css file `<link href="your-stylesheet-link-here.css" rel="stylesheet" type="text/css">`with `main.css`
+5. In week1, copy and paste your __Identity, Values and Strengths Exploration__ 
+6. In week2, copy and paste your __Learning Agreement__ 
+7. Stage, commit, push 
+8. View your blogs on your web browser e.g. `http://username.github.io/blog/week1-cultural.html`
 
