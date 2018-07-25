@@ -12,19 +12,19 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 ## Tech
 
 __HTML and CSS__  
-[Blog HTML and CSS templates - Setup](html-css-blog-template-setup.md)  
-[HTML and CSS Learning - Course](html-css-intro-course.md)       
-[Add HTML and CSS your Blog - Challenge](html-css-add-to-blog-challenge.md)  
+1. [HTML and CSS Blog templates - Setup](html-css-blog-template-setup.md)  
+2. [HTML and CSS Learning - Course](html-css-intro-course.md)       
+3. [Add HTML and CSS your Blog - Challenge](html-css-add-to-blog-challenge.md)  
 [Technical blog](blog-week1-technical.md)  
  
 
 __JavaScript__  
-[JavaScript Basics - Course](js-basics-course.md)  
+1. [JavaScript Basics - Course](js-basics-course.md)  
 
 
 ## Core 
-[Cultural Blog and My Learning Plan](core-learning-plan.md)  
-[Feedback](../feedback.md)
+1. [Cultural Blog and My Learning Plan](core-learning-plan.md)  
+2. [Feedback](../feedback.md)
   
 
 
