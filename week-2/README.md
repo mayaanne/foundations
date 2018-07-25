@@ -7,7 +7,7 @@ __A prerequisite course for Dev Academy Bootcamp__
 For full details refer to the Foundations Handbook, Tech Handbook and Core Handbook.
 
 
-------------
+
 
 ## Tech
 
