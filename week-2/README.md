@@ -1,3 +1,5 @@
+[Home](../README.md)
+
 # Week Two
 
 __A prerequisite course for Dev Academy Bootcamp__
@@ -9,31 +11,20 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 
 ## Tech
 
-__HTML and CSS [20 hours]__  
-[Blog Primer & Setup (1hr)](web-blog-setup-primer.md)  
-[HTML and CSS Learning Challenge (8hr)](web-learn-html-and-css-challenge.md)       
-[HTML and CSS your Blog Challenge(7hr)](web-blog-play-time-challenge.md)  
-[Technical blog (1hr)]
-[HTML and CSS check-in (1hr)] 
+__HTML and CSS__  
+[Blog HTML and CSS templates - Setup](html-css-blog-template-setup.md)  
+[HTML and CSS Learning - Course](html-css-intro-course.md)       
+[Add HTML and CSS your Blog - Challenge](html-css-add-to-blog-challenge.md)  
+[Technical blog](blog-week1-technical.md)  
+ 
 
-
-__JavaScript and the dom [15 hours]__  
-// [JS introduction Learning Challenge (10hr)]()  
-// [JS Practice](https://www.codewars.com/?language=javascript)  
+__JavaScript__  
+[JavaScript Basics - Course](js-basics-course.md)  
 
 
 ## Core 
-__3 hours__  
-[My learning plan - forumaltion and blog post)](core-learning-plan.md)  
-[Feedback (10min)](../feedback.md)
+[Cultural Blog and My Learning Plan](core-learning-plan.md)  
+[Feedback](../feedback.md)
   
 
-## Stretch
-[HTML and CSS Wireframing]()  
-[HTML and CSS Testing and maintenance]()  
-[DevTools primer](web-devtools-pimer.md)    
-[HTML and CSS CSS-garden]() 
-[HTML Redesign using Skeleton framework]() 
-[JS variables, objects, TDD practice](js-practice/js-variables-ojects-practice.md)  
-[JS manipulating objects practice]()
 
