@@ -25,7 +25,7 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 
 ## Core
 1. [Core primer](core-primer.md)  
-2. [Thinking like a web devloper Primer](think-like-a-programmer-primer.md)  
+2. [Thinking like a web developer Primer](think-like-a-programmer-primer.md)  
 3. [Identity and values exploration](core-identity-and-values.md)  
 4. [Introduce yourself exercise](core-introduce-yourself.md)  
 5. [Feedback](../feedback.md)  
