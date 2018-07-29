@@ -27,7 +27,7 @@ By default, all repositories have a master branch. This is where the most perfec
 
 In cases where people want to make changes or add features, they will make a new branch off of the master (using `git checkout branch-name`). This will take a copy of the code from the master and allow you to make changes and test them out. Once they are fully tested, they can be merged back into the master branch.
 
-When you work on teams, it's always a good idea to have someone else review your code before it's merged into master. This is done through a pull request. A pull request is a friendly way of saying: "Hey boss! I'm done implementing this feature your asked for, can you review my code?". When working in a team, it is best practice to have at least 1 other person review your pull request and they should be the person to merge it once the changes are approved.
+When you work in teams, it's always a good idea to have someone else review your code before it's merged into master. This is done through a pull request. A pull request is a friendly way of saying: "Hey boss! I'm done implementing this feature your asked for, can you review my code?". When working in a team, it is best practice to have at least 1 other person review your pull request and they should be the person to merge it once the changes are approved.
 
 ## Creating a Branch 
 
