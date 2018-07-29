@@ -43,7 +43,7 @@ Example: Incorrect
 7. Save your file and stage it 
 8. Check for and pull down any changes on Master 
 9. Push to a new branch on origin (hint `git push origin your-name`)  
-10. Create new pull request (hint: Navigate repo on GitHub website and create pul request from there)  
+10. Create new pull request (hint: Navigate repo on GitHub website and create pull request from there)  
 11. Ask someone in your cohort to Merge your pull request and delete your branch
 12. Checkout master and pull down changes  
 
