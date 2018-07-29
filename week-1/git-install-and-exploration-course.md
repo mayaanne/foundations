@@ -21,7 +21,7 @@ Exploration | Time to box |
 ------------|----------|
 Install and configure | 20 minutes
 Try it out | 3 hours 
-Reflect | 20 minutes 
+Reflect | 20 minutes git s
 
 Stay on the path and follow the time box suggestions. 
 
