@@ -31,12 +31,12 @@ Follow the time box suggestions. We know its exciting to learn, but trust us, be
 
 Mac, Windows and Linux each come with an inbuilt command line tool, however during prep you installed an alternative (iTerm2 or Babun).
 
-You can use either the inbuilt tool or the recommended tool during this exploration. The commands and inputs are interchangeable, with only a few occassional variations for Windows. So, if you're following online tutorials, just switch out "bubun" when the tutorial says "powershell". 
+You can use either the inbuilt tool or the recommended tool during this exploration. The commands and inputs are interchangeable, with only a few occassional variations for Windows. So, if you're following online tutorials, just switch out "babun" when the tutorial says "powershell". 
 
 Operating System | Inbuilt tool | Recommended tool |  
 ------------|----------|  
 Mac | terminal | iTerm2  
-Windows | cmd and/or powershell | babun  
+Windows | cmd and/or powershell | babun/gitbash  
 Linux | gnome | gnome |  
 
 
@@ -45,7 +45,7 @@ Linux | gnome | gnome |
 [Windows - command line tutorial, youtube_](https://www.youtube.com/watch?v=MBBWVgE0ewk)
 
 ## Give it a try
-Follow this [useful guide](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) to try it out. Don't be put of by the "learn python" reference. Notice the difference between windows, Linux and mac.
+Follow this [useful guide](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) to try it out. Don't be put off by the "learn python" reference. Notice the difference between windows, Linux and mac.
 
 ## Explore a little more 
 Have a look for some learning resources: Videos, tutorials, Google. Try key words like 'Terminal', 'Basic' and 'cheatsheet' Have you got the learning competencies? 
