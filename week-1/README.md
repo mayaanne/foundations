@@ -16,7 +16,7 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 4. [Track changes - Primer](git-track-changes-primer.md)  
 5. [Branching - Primer](git-branch-primer.md)  
 6. [Branch, Pull, Merge - Challenge](git-branching-challenge.md)  
-7. [Fork and Clone - Challege](git-github-fork-clone-challenge.md)  
+7. [Fork and Clone - Challenge](git-github-fork-clone-challenge.md)  
 8. [Set Remotes and Sync Fork - Primer](git-remote-fork-merge-primer.md)  
 9. [Set Remotes and Sync Fork - Challenge](git-remote-sync-fork-challenge.md)  
 10. [Set up Blog using Git pages - Challenge](git-new-repo-github-pages-blog.md)  
