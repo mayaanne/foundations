@@ -6,8 +6,8 @@ When solving a coding challenge (e.g. Minesweeper) you'll follow a standard proc
 1. User Story and Rubber Ducky
 2. PseudoCode 
 3. Inital Solution 
-4. Refactored Solution 
-5. Driver Code 
+4. Driver Code 
+5. Refactored Solution 
 6. Reflection 
 
 ## User Stories
@@ -118,35 +118,7 @@ We do not recommend working 8 hours straight on one challenge (or even 3 hours).
 ### Debugging
 Some tips for finding where your code isn't working
 
-- Include `console.log` statements to find out what your code is doing - but remember, `puts` is a stupid method. It spits it out and immediately forgets what it did (i.e. `puts` does not return a value).
-- Use string interpolation (for Ruby) in your puts statements - Make it clear what you want the code to be doing at that point.
-- Check whether the methods are doing what you expect in IRB.
-
-For example:
-
-```ruby
-def convert_letters_to_nums(my_word)
-  alphabet = ("a".."z").to_a
-  my_word = my_word.downcase.split(//)
-  num_array = []
-
-  my_word.each do |letter|
-  puts "the current letter I'm looking for is #{letter}"
-    alphabet.each_with_index do |ref_letter, index|
-      if letter == ref_letter
-        number_equivalent = index + 1
-        puts "I've found a match for #{letter}!"
-        num_array << number_equivalent
-        puts "I'm pushing #{number_equivalent} to the array for #{letter}\n"
-      end
-    end
-  end
-  p num_array.join
-end
-
-convert_letters_to_nums("hoobastank")  
-```
-
+- Include `console.log` statements to find out what your code is doing 
 
 
 
