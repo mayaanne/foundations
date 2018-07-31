@@ -5,7 +5,7 @@
 ### Learning Competencies
 By the end of this exercise, you will:
 
-- Have a sense of who you are on this learning journey with. 
+- Have a sense of who you are on this learning journey. 
 - Shared something about your learning journey
 
 
