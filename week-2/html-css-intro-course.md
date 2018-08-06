@@ -35,7 +35,7 @@ Always keep in mind the learning objectives. Ask yourself for example, "Can I na
 Exploration | Time to box |
 ------------|----------|
 Quick primer | 4 minutes 
-Udacity or Freecode camp | 10 hours 
+Udacity or FreeCodeCamp | 10 hours 
 Online research | 1 hour |
 Reflection | 1 hour
 

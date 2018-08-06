@@ -12,6 +12,14 @@
 ## Summary:
 Writing blogs on technical subjects is something that will help you solidify your learning.
 
+## Time Box
+
+Exploration | Time to box |
+------------|----------|
+Research | 1 hour
+Write | 1 hour
+
+
 ## Open HTML file 
 Open the `week1_technical.html` file you created. 
 
@@ -23,17 +31,22 @@ Research one of the following topics:
 - What are the differences between relative, absolute, and fixed positioning? 
 - What does it mean to display inline vs inline blocks?
 
+
+## Steps:
+1. Research 
+2. Write your blog 
+3. Add link to index page
+4. Share with your cohort
+
 ## Blog!
 Write a blog post that teaches others how and when to use each thing. There is no length requirement, but it should show off the knowledge you gained this week. You should show examples of code and screen shots to help teach others!
 
 **HINT:** Intend your blog for a non-technical audience. Imagine explaining to a non-technical friend, for instance. Try to take a person step-by-step through understanding one of the topics above.
-
 
 ## Publish
 Link to your post from `index.html` so people can navigate to your page from your site's index. 
 
 
 ## Share
-
 Share your blog on your cohort's slack channel. Read others and see if you agree or disagree. Start a discussion on this topic.  
 
