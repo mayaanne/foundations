@@ -9,17 +9,17 @@ Dive Deeper into process and practice solving JS challenges.
 
 ## Tech
 
-1. [Code Readability]()
-2. [TDD]()       
-3. [JS TDD challenges]()   
-4. [The Dom]()
-5. [Technical blog]()  
-6. [Learn JavaScript Basics - Course]()  
+1. [Code Readability]()  
+2. [The Dom]()  
+3. [TDD]()  
+4. [JS TDD challenges]()    
+5. [Technical blog]()   
+6. [Learn JavaScript Basics - Course]()   
 
 
 ## Core 
-1. [IKE]())  
-2. [Feedback](../feedback.md)  
+1. [IKE]()    
+2. [Feedback](../feedback.md)   
   
 
 
