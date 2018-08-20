@@ -24,7 +24,8 @@ Reflect | 20 minutes
 
 
 ## Break it down
-For each image, write in plain english break down what is happening. What is the user trying to accomplish? What is the response?
+Using plain english, for each image break down what is happening. 
+What is the user trying to accomplish? What is the response?
 Walk through it step by step, e.g.
 'user checks status'
 'status comes back with a conflict'

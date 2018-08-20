@@ -9,7 +9,7 @@ By the end of this exploration, you should be able to:
  
 
 ## Summary
-Who you are, what you bring shapes your learning journey. And because you in a flipped classroom context, responsible for journey, its important to understand what every person is bringing. This exploration requires you to examine and reflect on your identity, and start to articulate what’s at the core of who you are. You will examine your values, ethics, strengths and limitations, what has shaped these, and where you could do some learning that is beneficial to your growth. 
+Who you are and what you bring shapes your learning journey. In a flipped classroom context, you are responsible for your journey and it's also important to understand what every person is bringing.  This exploration requires you to examine and reflect on your identity, and start to articulate what’s at the core of who you are. You will examine your values, ethics, strengths and limitations, what has shaped these, and where you could do some learning that is beneficial to your growth. 
 
 This will form the basis of establishing your Learning Agreement. 
 

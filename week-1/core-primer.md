@@ -25,7 +25,7 @@ Hiring managers agree that training a person to do the job is relatively easy, b
 ## What will I learn?
 Core will introduce you to techniques to train your mind. You'll learn useful ways of understanding problems and supported to strengthen your self solving skills. 
 
-Core also prepares you for learning experiences drawing from your own agency of values and strengths. It is the culmination of values, awareness and mindset that will maximise your both your learning and career journey. 
+Core also prepares you for learning experiences drawing from your own agency of values and strengths. It is the culmination of values, awareness and mindset that will maximise  both your learning and career journey. 
 
 ## How will I be assessed?
 Core is assessed through your reflections, such as blog posts and your participation in cohort activities.  

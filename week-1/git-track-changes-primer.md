@@ -14,7 +14,7 @@ Git works by following all of the changes in the files inside a git tracked fold
 
 __Your git Commit history is visible to us and we use it to assess your participation and engagement. Throughout the course we'll be looking at the frequency and consistency. So engage daily and commit often. That means when ever you add something that works, remove something, or fix something, commit it.__  
 
-## Excercise
+## Exercise
 
 Reflect | Time to box |
 ------------|----------|

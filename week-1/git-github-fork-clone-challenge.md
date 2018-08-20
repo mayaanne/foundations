@@ -51,7 +51,7 @@ Suggested Resources:
 
 
 ## Step 1: Fork
-Create your own version of this repo by forking it (firgure 1 and 2)  
+Create your own version of this repo by forking it (figure 1 and 2)  
 __Origin:__ https://github.com/dev-academy-programme/foundations  
 __Destination:__ https://github.com/git-hub-user-name/foundations  
 
