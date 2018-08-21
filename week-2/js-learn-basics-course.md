@@ -24,8 +24,7 @@ By the end of this course, you should be familiar with:
 ## Summary
 JavaScript is known as the "language of the web." It is a powerful object-oriented language that is light-weight and can communicate with the browser. We've curated a selection of online resources to induct you into the world of JavaScript. 
 
-The resources are geared to span all learner types. 
-Firstly you'll begin with Visual and Audial tutorials, followed by FreeCodeCamp's practical challenges and thirdly some optional reading resources. 
+The resources are geared to span all learner types - beginning with Visual and Audial tutorials, followed by practical challenges to solve and optional reading resources. 
 
 ## Exploration and Challenges
 

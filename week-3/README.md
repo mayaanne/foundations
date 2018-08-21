@@ -11,7 +11,7 @@ Dive Deeper into process and practice solving JS challenges.
 
 1. [Code Readability]()  
 2. [The Dom]()  
-3. [TDD]()  
+3. [TDD]() 
 4. [JS TDD challenges]()    
 5. [Technical blog]()   
 6. [Learn JavaScript Basics - Course]()   
