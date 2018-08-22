@@ -1,4 +1,31 @@
+[Week 2 Home](README.md)
+
 # EQ / EI - Emotional Intelligence 
+
+### Learning Competencies
+By the end of this exploration, you should be able to:
+- Describe the difference between EQ and IQ 
+- Descireb why EQ is important and how it is relevant to you  
+- Engage and practice Attention Training (mindfulness)
+- Engage and practice Conscious Listening
+
+## Summary 
+Your ability to understand yourself and others - and the way's in which you communicate that understanding can have a significant determination on your succssess in life - at home, at school, at work. Employers look for people with skills in emotional intelligence and your cultivation of these skills will be the biggest determinator to how well you navigate the stress and complexity of this learning journey. 
+
+__Read through all of the content. The tasks to completed at end include:__  
+1. Research and discuss EQ and IQ. 
+2. Research and practice Attention Training (Mindfulness)
+3. __Partner with someone in your cohort__ and practice Conscious Listening (Listening and Looping)
+
+## Exploration and Application
+
+Exploration | Time to box |
+------------|----------|
+Read, reasearch, explore | 2 hours
+Practice  | 1 hour |
+
+
+# Emotional Intelligence (EQ)
 
 ## Why learn Emotional Intelligence?
 The world is a changeable, complexed, uncertain and ambigious place. 
@@ -100,7 +127,7 @@ We're going to introduce 3 practices:
 2. Conscious listening
 3. Journalling 
 
-### 1. Attention Training
+## 1. Attention Training
 
 > “Paying attention in a particular way, on purpose, in the present moment, non-judgmentally”         Jon Kabat-Zinn
 
@@ -120,8 +147,8 @@ The key piece to this type of focused attention is to do so __non judgementally_
 Say I'm paying attention and I notice there is anger.. To notice it is good, but then I think "I shouldn't be feeling angry. Why am I feeling angry at Kahu? I'm a bad person for being angry, Kahu's a nice guy." In this instance I'm off, away from the expereience. And Mindfulness or attention training is about being in the experience, at will. 
 
 
-## Mindfullnes 
-There are two aspects to mindfulness - 
+__Mindfullnes (Attention Training)__   
+There are two aspects to mindfulness / attention training  
 1. Attention 
 2. Meta Attention. 
 
@@ -130,13 +157,124 @@ Attention - paying attention to breathing sensations in the belly and Meta atten
 With Meta attention we are able to see ourselves having emotions - so there is a seperation between the expereince of the emotion and being aware of the emotion. The term is derived from the work of developmental psychologist, John Flavell, who coined the term to describe a phenomenon where a person has cognition about cognition or, stated another way, thinking about thinking.
 
 One of the great practices of mindfulness practice - we are allowing and training the mind to be calm and stable. And we all live in a complexed world, heads have all sorts of complexed thoughts going - what would it be at will to be able to access calmness and clarity? 
-## Conscious (Mindful) listening
-Rather than pay attention to the breath, we pay attention to what someone else is saying. 
 
-You listen to someone for a period of time, without speaking yourself. 
+## 2. Conscious listening
+Rather than pay attention to the breath as we do in mindfulness, we pay attention to what someone else is saying. 
 
-TASKS 
-Research: Whats the difference between EQ and IQ?
+__You listen to someone for a period of time, without speaking yourself. It is simple, but transformational.__ 
+
+This skill that we're introducing can be incredibly useful - both in terms of the information one can recieve when I'm not constantly trying to 'jump in' or trying to work out the next step and the other great thing is the other person is much more likely to feel met and much more likely to feel heard. Think "ok I'm just going to receive what you're telling me, what you're saying, how you're appearing". 
+
+__Introducing Conscious (Mindful) Listening:__  
+The way we introduce and practice mindful listening is through a listening and looping excercies, which we will practice throughout foundations and bootcamp. This week, you'll be asked to pair with someone in your cohort. 
+
+The format is like this 
+
+- Object of attention is the other person  
+- In Pairs  
+- Person A describes….. for 2 mins  
+- Person B Mindfully listens  
+- In silence (can nod and smile etc)  
+- Person B loops back for 2 mins  
+
+__Looping:__   
+After Person A has finished speaking, Person B loops back what they heard Person A say. In one sense its a way of checking out whether I actually heard what this person said. Another piece of it is to clarify and come to agreement. 
+
+The imporatant part is that Person B is repeating what they heard. Not your advice, not your recognition. But simply what you heard Person A say. 
+
+If, when hearing it looped back, Person A is like "oh actually, I want to add something or change something" 
+then person A can offer clarifications. Person B then loops back those clarifications until both parties are in agreement between that what was said was accurately heard.  
+
+Keep in mind - ts not a competition to see what you can and can't remember. Its more to see if you can get the just of what was going on and the quality of what the experience was like. 
+
+__The two forms of Looping:__   
+1. What I heard you say was .. 
+2. What I heard you feel was .. 
+
+In some instance's its good to practice "What I head you feel was..." Its not very good english, but it's trying to give some encouragement not to just tell the content of the story, but to kind of read between the lines of what was going on. What is the subtext of their feelings?  
+
+For the most part of foundations, we'll focus on the first loop "What I heard you say.."
+
+## 3. Journalling
+There has been a lot of research over a 50 year period of the impact of writing down one's 'what ever'. 
+
+During foundations, we use reflections in place of journalling, as the two servce a similar function. 
+As your learning journey continues through to bootcamp, we'll be introducing journalling as basically a brain dump. So you start writing for a prompt and you don't stop. 
+
+__Journalling is:__
+* Brain Dump 
+* Self discovery 
+* Not public 
+
+__Journal Prompts:__
+* What I'm feeling right now is..    
+* When I feel understood I..  
+* What I really care about is.. 
+
+__The rule is don't stop!__ 
+
+So if you run out of things to say you just write "I've run out of things to say - I don't know what to say.. this is really boring.. I hate it when I'm bored". What ever comes. Overtime, you'll find cognitions and emotions become easier to identify and to write about. And through writing about them, writers are able to develop greater awareness of the positive benefits of the stressful events. 
+
+By taking our emotional life and verbalising it using different area's of the brain - the language centers of the brain and the self area's of the brain. 
+
+>The foremost reason (of journalling) is disclosure. Psychologists are basically in agreement that avoiding or inhibiting unpleasant emotions or suppressing your thoughts makes makes your body tense, your mood negative, and your cognition impaired. But if you access, express, and process those blocked-up emotions, you’ll feel better, in all of the ways. For the same reason that talking about your breakup with your best friend makes you feel better, journaling about getting fired lets you process it.
+
+-------
+
+## Core tasks 
+
+1. __Research EQ and IQ__ - Keep your answers on a document which you will later into a blog post. 
+
+    - What is Emotional Intelligence?  
+    - How is it different to IQ?
+    - Why is it important?  
+
+
+2. __Practice focusing your attention and commit it to habit__. - We're going to ask you to use this form of training every day. 
+
+    - Go to [HeadSpace.com.](https://www.headspace.com/headspace-meditation-app)
+    - __Sign up for a free account.__ 
+    The prompts will shape your experience today and inform your future habit. We recommend choosing a time that you can repeat each day (e.g. After breakfast) __AS WELL AS__ at the beginning of every engagment with the EDA curriculum and experience.
+    - __Practice.__ Using the web app or the mobile app, take time now to engage with the practice.  
+    - __Set your intention.__ You're on a learning journey with us, just as countless others have gone before you. This means we've had a fair amount of experience seeing what has significant impacts on our student's ability to respond, grow and learn in this challenging environment.. so lean in and trust that this is skill that will take you far in life and in your career. Even Google Engineers do it (See [Resources](../Resources)).
+    Set your intention by naming when you will commit to practicing mindfulness.  
+    - __Reflect.__ In the reflection file, discuss  
+         - What it was like for you to practice  mindfulness?  
+         - Have you done mindfulness or attention traning before?   
+         - Are you able to identify any bias you have for or against mindfulness?   
+         - What did you notice as you were meditating? 
+        - How did you find the overall experience? 
+        - What's your daily habit commitment? 
+    
+
+3. __Listening and Looping__ 
+    - Partner up with someone in your cohort 
+    - Spend 2 minutes each, listening and looping. 
+    - Reflect
+
+    __The Prompt:__ Talk about a time in the last week when you felt triggered - Something difficult that came up which was challening in some way. 
+
+    1. Organise to pair with someone in your cohort or accountability group. This is short and sweet, so you can do it many times if necessary. 
+    2. Set a timer for 2 minutes 
+    3. Person A talks to the prompt, until the timer goes off 
+    4. Person B
+    
+
+Set a timer. 
+Person B: Is going to practice mindful listening. You're going to listen attentively, the same way that you pay attention to your breathe, you're going to pay attention to your partner and just be awake to whats happening. Be awake to whats going on. Then after 2 minutes is up, Person B is going to loop back what they heard. Person A can then add little bits in or agree. 
+
+Person A: Speaks 
+Person B: Loops back. 
+
+
+What was it like to be fully listened to? 
+What was it like to listen?
+
+    
+
+
+
+
 
     IQ represents abilities such as:
         Visual and spatial processing
@@ -153,4 +291,18 @@ Research: Whats the difference between EQ and IQ?
         Using emotions to facilitate social communication  
         Relating to others  
 
-From [VeryWellMind](https://www.verywellmind.com/iq-or-eq-which-one-is-more-important-2795287)
+    From [VeryWellMind](https://www.verywellmind.com/iq-or-eq-which-one-is-more-important-2795287)
+
+2. Organise a 2 minute check in with someone in your cohort. 
+
+
+
+
+1. __EQ and IQ__  
+    Read the content below and research the difference
+
+ 
+    
+
+
+
