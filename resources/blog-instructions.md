@@ -2,18 +2,18 @@
 
 ### Summary 
 Each week you'll produce 2 blog posts - 1 cultural and 1 technical. 
-These are published to you `http://username.github.io/' page, which is visible to your cohort and anyone else you share the link with. Your engagment with the blog questions and content each week count towards your Foundations assessment.  
+These are published to your `http://username.github.io/' page, which is visible to your cohort and anyone else you share the link with. Your engagment with the blog questions and content each week count towards your Foundations assessment.  
 
 ## Blog Setup 
 In week 1's ["Setup new Repo & Create Blog Challenge"](../week-1/git-new-repo-github-pages-blog.md) you created a new repo github.io and cloned it to your computer. Hopefully you cloned it to a sensible file directory for example:
 
 Example: Good   
-`User/Kiri/Dev-Academy/jamanius.github.io` 
+`User/Kiri/Dev-Academy/kiri.github.io` 
 `User/Kiri/Dev-Academy/foundations`    
 `User/Kiri/Dev-Academy/ko-wai-koe`  
 
 Example: Incorrect   
-`User/Kiri/Dev-Academy/foundations/jamanius.github.io` 
+`User/Kiri/Dev-Academy/foundations/kiri.github.io` 
 
 ## Weekly steps 
 Refer to these instrutions to creating a blog until you are familiar with it. 

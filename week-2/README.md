@@ -4,12 +4,7 @@
 
 __A prerequisite course for Dev Academy Bootcamp__
 
-This week is a big week - it will take  40-50 hours to complete. In the first half you'll whizz around HTML and CSS basics (approx 20-25 hours) and in the part you'll dive into solving JavaScript challenges (approx 20 hours). You'll then need to work and EDA facilitator to establish your learning plan. To help with this workload, we recommend you:  
-
-- Plan your week. How will you factor in 40-50 hours of work?  
-- Keep to the timebox suggestions - Foundations is about breadth of learning, not depth of learning.   
-- Use the solving solutions techniques and methodology as described [here](../resources/writing-solutions.md)    
-
+In the first part this week you'll dive into HTML and CSS, the language of the web, and create a blog using HTML and CSS that you'll contribute to through out your journey. Secondly you'll use last weeks core material and reflections to  pull together your learning plan. You'll need to arrange a time to pair with an EDA facilitator to establish to negotiate that plan.
 
 
 ## Tech

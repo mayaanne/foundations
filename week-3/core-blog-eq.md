@@ -9,8 +9,7 @@ By the end of this exercise, you will have
 - Published that discussion as a personal blog
 
 ## Summary
-In the last Core Exercise you spents some time researching EQ and IQ. Use those insights for your cultural blog post. 
-
+In the last Core Exercise you spent some time researching EQ and IQ. Use those insights for your cultural blog post. 
  
 
 ## Application
@@ -21,8 +20,8 @@ Create blog file | 5 minutes
 Publish blog  | 5 minutes |
 
 
-## Publish Blog
+## Create and Publish
 
-Create a file named week3-cultural.html and add your insights to it. 
+Create a file named week3-cultural.html and add your discussions and insights to it. 
 
 For a reminder on how to do this see [Blog Instructions](../resources/blog-instructions.md)
