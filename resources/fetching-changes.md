@@ -21,7 +21,7 @@ It's important to note that __fetching changes will NOT override your work.__ On
 5. Commit the changes e.g."add EDA's changes"  
 6. Push the changes to your GitHub account (`git push origin master`)  
 
-## Resources 
+## Additional Resource
 To view Illustrations and examples, revist Week 1's "Remotes and Sync Fork" [Primer](../week-1/git-remote-fork-merge-primer.md) and [Challenge](../week-1/git-remote-sync-fork-challenge.md) 
 
 
