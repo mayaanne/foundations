@@ -236,7 +236,7 @@ By taking our emotional life and verbalising it using different area's of the br
     - __Sign up for a free account.__ 
     The prompts will shape your experience today and inform your future habit. We recommend choosing a time that you can repeat each day (e.g. After breakfast) __AS WELL AS__ at the beginning of every engagment with the EDA curriculum and experience.
     - __Practice.__ Using the web app or the mobile app, take time now to engage with the practice.  
-    - __Set your intention.__ You're on a learning journey with us, just as countless others have gone before you. This means we've had a fair amount of experience seeing what has significant impacts on our student's ability to respond, grow and learn in this challenging environment.. so lean in and trust that this is skill that will take you far in life and in your career. Even Google Engineers do it (See [Resources](../Resources)).
+    - __Set your intention.__ You're on a learning journey with us, just as countless others have gone before you. This means we've had a fair amount of experience seeing what has significant impacts on our student's ability to respond, grow and learn in this challenging environment.. so lean in and trust that this is skill that will take you far in life and in your career. Even Google Engineers do it (See [Resources](../Resources/core-eq-resources.md)).
     Set your intention by naming when you will commit to practicing mindfulness.  
     - __Reflect.__ In the reflection file, discuss  
          - What it was like for you to practice  mindfulness?  
@@ -254,55 +254,29 @@ By taking our emotional life and verbalising it using different area's of the br
 
     __The Prompt:__ Talk about a time in the last week when you felt triggered - Something difficult that came up which was challening in some way. 
 
-    1. Organise to pair with someone in your cohort or accountability group. This is short and sweet, so you can do it many times if necessary. 
+    1. Organise to pair with someone in your cohort or accountability group. If you end up doing pairing with more than one person then great - the more you practice, the better you get. 
+
     2. Set a timer for 2 minutes 
-    3. Person A talks to the prompt, until the timer goes off 
-    4. Person B
+
+    3. Person A: Using the prompt, talk until the timer ends.
+    4. Person B: Practice mindful listening. You're going to listen attentively, the same way that you pay attention to your breath, you're going to pay attention to your partner and just be awake to whats happening. Be awake to whats going on. 
     
+    5. After 2 minutes is up, Person B is going to loop back what you heard. Person A can then add little bits in or agree. Keep looping until you agree on that what was said has been looped back.
 
-Set a timer. 
-Person B: Is going to practice mindful listening. You're going to listen attentively, the same way that you pay attention to your breathe, you're going to pay attention to your partner and just be awake to whats happening. Be awake to whats going on. Then after 2 minutes is up, Person B is going to loop back what they heard. Person A can then add little bits in or agree. 
-
-Person A: Speaks 
-Person B: Loops back. 
-
-
-What was it like to be fully listened to? 
-What was it like to listen?
+    6. Using the reflection file, discuss: 
+        - What was it like to be fully listened to? 
+        - What was it like to fully listen?
 
     
+### Additional Resources 
+
+[Core EQ material](../Resources/core-eq-resources.md)
 
 
 
 
 
-    IQ represents abilities such as:
-        Visual and spatial processing
-        Knowledge of the world
-        Fluid reasoning
-        Working memory and short-term memory
-        Quantitative reasoning
 
-    EQ is centered on abilities such as:  
-        Identifying emotions  
-        Evaluating how others feel  
-        Controlling one's own emotions  
-        Perceiving how others feel  
-        Using emotions to facilitate social communication  
-        Relating to others  
-
-    From [VeryWellMind](https://www.verywellmind.com/iq-or-eq-which-one-is-more-important-2795287)
-
-2. Organise a 2 minute check in with someone in your cohort. 
-
-
-
-
-1. __EQ and IQ__  
-    Read the content below and research the difference
-
- 
-    
 
 
 
