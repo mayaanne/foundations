@@ -10,7 +10,9 @@ By the end of this exploration, you should be able to:
 - Engage and practice Conscious Listening
 
 ## Summary 
-Your ability to understand yourself and others - and the way's in which you communicate that understanding can have a significant determination on your succssess in life - at home, at school, at work. Employers look for people with skills in emotional intelligence and your cultivation of these skills will be the biggest determinator to how well you navigate the stress and complexity of this learning journey. 
+Your ability to understand yourself and others and your skills at communicating your understanding can have a significant determination on your succssess in life - at home, at school, at work. 
+
+The core curriculum focuses in on developing your emotional intelligence skills, for the benefit of both your learning journey and your employability. 
 
 __Read through all of the content. The tasks to completed at end include:__  
 1. Research and discuss EQ and IQ. 
@@ -25,7 +27,6 @@ Read, reasearch, explore | 2 hours
 Practice  | 1 hour |
 
 
-# Emotional Intelligence (EQ)
 
 ## Why learn Emotional Intelligence?
 The world is a changeable, complexed, uncertain and ambigious place. 
@@ -52,7 +53,7 @@ __There are three steps of Emotional Intelligence:__
 2. Self knoweldge and Mastery 
 3. Creating Useful Mental Habits 
 
-------------
+
 
 ## Three steps of Emotional Intelligence:
 
@@ -71,7 +72,7 @@ What would it be like if everytime I walked into a room of people that I don't k
 
 We can train our minds to develop habits to defend against the super ego (the cirtical, judging mind) when it comes up. 
 
-------------
+
 
 ## Three Benefits to Increasing your EQ
 You might be thinking, so what? I'm here to code - I'm not here for this woo-woo stuff however, developing your EQ will have major benefits to your ability to learn, perfom and to get hired. 
@@ -127,7 +128,7 @@ We're going to introduce 3 practices:
 2. Conscious listening
 3. Journalling 
 
-## 1. Attention Training
+### 1. Attention Training
 
 > “Paying attention in a particular way, on purpose, in the present moment, non-judgmentally”         Jon Kabat-Zinn
 
@@ -158,7 +159,7 @@ With Meta attention we are able to see ourselves having emotions - so there is a
 
 One of the great practices of mindfulness practice - we are allowing and training the mind to be calm and stable. And we all live in a complexed world, heads have all sorts of complexed thoughts going - what would it be at will to be able to access calmness and clarity? 
 
-## 2. Conscious listening
+### 2. Conscious listening
 Rather than pay attention to the breath as we do in mindfulness, we pay attention to what someone else is saying. 
 
 __You listen to someone for a period of time, without speaking yourself. It is simple, but transformational.__ 
@@ -195,7 +196,7 @@ In some instance's its good to practice "What I head you feel was..." Its not ve
 
 For the most part of foundations, we'll focus on the first loop "What I heard you say.."
 
-## 3. Journalling
+### 3. Journalling
 There has been a lot of research over a 50 year period of the impact of writing down one's 'what ever'. 
 
 During foundations, we use reflections in place of journalling, as the two servce a similar function. 
@@ -219,7 +220,7 @@ By taking our emotional life and verbalising it using different area's of the br
 
 >The foremost reason (of journalling) is disclosure. Psychologists are basically in agreement that avoiding or inhibiting unpleasant emotions or suppressing your thoughts makes makes your body tense, your mood negative, and your cognition impaired. But if you access, express, and process those blocked-up emotions, you’ll feel better, in all of the ways. For the same reason that talking about your breakup with your best friend makes you feel better, journaling about getting fired lets you process it.
 
--------
+
 
 ## Core tasks 
 
