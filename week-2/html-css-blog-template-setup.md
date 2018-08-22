@@ -55,7 +55,7 @@ Pro-tip-2: If adding a new file to a new directory, remember to navigate __INTO_
 2. __Inside of__ the `username.github.io` directory, create a new directory called `blog` _(hint: `mkdir`)_
 3. __Inside of__ the `blog` directory create a file `week1-techincal.html` _(hint: `touch`)_
 4. Open `week1-techincal.html` in your code editor _(hint `code`)_
-5. Copy [this template](html-template.html) and paste it into `week1-techincal.html`.
+5. Copy [this template](../resources/html-template.html) and paste it into `week1-techincal.html`.
 4. Add and commit your changes with a good commit message
 5. Push your changes
 6. Visit your page on your web browser `username.github.io/blog/week1-techincal.html`

@@ -3,7 +3,7 @@
 # My Learning Agreement
 
 ### Learning Objectives
-By the end of this exercise, you should
+By the end of this exercise, you should have
 
 - Formulated your Learning Agreement
 - Published your Learning Agreement as a personal blog
