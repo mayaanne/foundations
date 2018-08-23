@@ -1,4 +1,4 @@
-[Week 2 Home](README.md)
+[Week 3 Home](README.md)
 
 # EQ / EI - Emotional Intelligence 
 
