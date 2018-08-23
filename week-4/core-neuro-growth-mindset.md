@@ -1,6 +1,6 @@
 [Week 4 Home](README.md)
 
-# Neuroplasticity and Growth mindset
+# Neuroplasticity and Growth Mindset
 
 ### Learning Competencies
 By the end of this exploration, you should be able to:
@@ -69,15 +69,19 @@ Dr. Dweck’s research, compelling and thorough, challenges this widely held bel
 _Shared from [Onedublin](https://onedublin.org/2012/06/19/stanford-universitys-carol-dweck-on-the-growth-mindset-and-education/)_
 
 ## Core tasks 
-1. __Research Neuroplaticity__ - Keep your answers on a document which you will later into a blog post. 
+Keep your answers on a document which you will later into a blog post. 
+
+1. __Research Neuroplaticity__ 
     - Discuss how understanding the princiapls of neuroplaticity benefits people
     - Discuss how might engage with the principals of neuroplaticity for your own benefit 
     - What are some of the ways to increase your Neuroplaticity
     - Link to a resource that you found particularly useful or engaging. 
 
-2. __Research Growth Mindset__ - Keep your answers on a document which you will later into a blog post. 
+2. __Research Growth Mindset__ 
     - Discuss what it is and why it is relevant 
     - In this exploration, did anything surprise you? Change for you? 
     - How will you integrate growth mindset into your learning journey?
     - Link to a resource that you found particularly useful or engaging. 
 
+3. __Blend with your learning plan and strategies__
+    - Reflect and discuss how these understandings may shape or influece your learning plan and strategy. 

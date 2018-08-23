@@ -1,6 +1,6 @@
 [Week 3 Home](README.md)
 
-# Emotional Intelligence
+# Emotional Intelligence Blog 
 
 ### Learning Objectives
 By the end of this exercise, you will have
