@@ -68,7 +68,7 @@ Dr. Dweck’s research, compelling and thorough, challenges this widely held bel
 
 _Shared from [Onedublin](https://onedublin.org/2012/06/19/stanford-universitys-carol-dweck-on-the-growth-mindset-and-education/)_
 
-## Core tasks 
+# Core tasks 
 Keep your answers on a document which you will later into a blog post. 
 
 1. __Research Neuroplaticity__ 
