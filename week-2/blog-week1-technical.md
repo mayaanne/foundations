@@ -1,7 +1,5 @@
 [Week 2 Home](README.md)
 
-[Week 2 Home](./)
-
 # U1.W2: Technical Blog
 
 ### Learning Competencies
