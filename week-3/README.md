@@ -2,7 +2,7 @@
 
 # Week Three 
 
-This week is all about JavaScript and JavaScript tools. Its a big week, so dive on in. 
+This week is all about JavaScript and Emotional Intelligence! Its a big week, so dive on in. 
 
 ## Tech
 
