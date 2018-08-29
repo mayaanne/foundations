@@ -9,12 +9,10 @@ Dive Deeper into process and practice solving JS challenges.
 
 ## Tech
 
-1. [JavaScript]()  
+1. [Learn JavaScript Basics - Course](js-learn-basics-course.md)    
 2. [The Dom]()  
 3. [TDD]() 
-4. [JS TDD challenges]()    
-5. [Technical blog]()   
-6. [Learn JavaScript Basics - Course]()   
+4. [Technical blog]()   
 
 
 ## Core 

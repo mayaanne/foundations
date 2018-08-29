@@ -12,8 +12,8 @@ In the first part this week you'll dive into HTML and CSS, the language of the w
 1. [HTML and CSS Blog templates - Setup](html-css-blog-template-setup.md)  
 2. [Learn HTML and CSS basics - Course](html-css-intro-course.md)       
 3. [Add HTML and CSS to your Blog - Challenge](html-css-add-to-blog-challenge.md)   
-4. [Technical blog](blog-week1-technical.md)  
-5. [Learn JavaScript Basics - Course](js-learn-basics-course.md)  
+4. [Technical blog](blog-week2-technical.md)  
+
 
 
 ## Core 
