@@ -2,10 +2,7 @@
 
 # Week Three 
 
-__A prerequisite course for Dev Academy Bootcamp__
-
-Dive Deeper into process and practice solving JS challenges. 
-
+This week is all about JavaScript and JavaScript tools. Its a big week, so dive on in. 
 
 ## Tech
 
