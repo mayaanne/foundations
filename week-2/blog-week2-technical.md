@@ -1,6 +1,6 @@
 [Week 2 Home](README.md)
 
-# U1.W2: Technical Blog
+# Technical Blog
 
 ### Learning Competencies
 - Compare CSS concepts to determine the differences
@@ -19,7 +19,13 @@ Write | 1 hour
 
 
 ## Open HTML file 
-Open the `week1_technical.html` file you created. 
+Open the `week2_technical.html` file you created. 
+
+## Steps:
+1. Research a topic 
+2. Write your blog  
+3. Add link to index page  
+4. Share with your cohort via slack
 
 ## Select a Topic
 Research one of the following topics:
@@ -30,12 +36,6 @@ Research one of the following topics:
 - What does it mean to display inline vs inline blocks?
 
 
-## Steps:
-1. Research 
-2. Write your blog 
-3. Add link to index page
-4. Share with your cohort
-
 ## Blog!
 Write a blog post that teaches others how and when to use each thing. There is no length requirement, but it should show off the knowledge you gained this week. You should show examples of code and screen shots to help teach others!
 
@@ -43,7 +43,6 @@ Write a blog post that teaches others how and when to use each thing. There is n
 
 ## Publish
 Link to your post from `index.html` so people can navigate to your page from your site's index. 
-
 
 ## Share
 Share your blog on your cohort's slack channel. Read others and see if you agree or disagree. Start a discussion on this topic.  
