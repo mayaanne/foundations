@@ -8,7 +8,7 @@ This week is all about JavaScript and Emotional Intelligence! Its a big week, so
 
 1. [Learn JavaScript Basics - Course](js-learn-basics-course.md)    
 2. [The Dom (and DevTools) - Primer](js-dom-primer.md)  
-3. [DevTools - tutorial](js-devtools-tutorial.md)  
+3. [DevTools - Crash Course](js-devtools-tutorial.md)  
 4. [Technical blog](blog-week3-technical.md)   
 
 

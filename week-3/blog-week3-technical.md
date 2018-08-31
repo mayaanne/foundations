@@ -20,8 +20,9 @@ Exploration | Time to box |
 Reflect and Write | 1.5 hours
 
 
-## Open HTML file 
+## Create File 
 Open the `week3_technical.html` file you created. 
+See [blog-instructions](../resources/blog-instructions.md) for a reminder on the steps to take.  
 
 ## Discuss 
 As if talking to a __Non-techincal__ friend, discuss:
