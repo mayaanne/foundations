@@ -1,6 +1,6 @@
 [Main Index](../README.md)
 
-# *****WORK IN PROGRESS**** 
+
 
 # Solving the challenge 
 The most important thing to remember is that anytime you lean outside of your comfort zone to learn something new and difficult, the neuron's in your brain form new and stronger connections. _See [Growth mindset](growth-mindset.md)_ And when you make new and stronger neural connections - that's when you're getting smarter. 

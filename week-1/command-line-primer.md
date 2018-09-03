@@ -28,6 +28,7 @@ Follow the time box suggestions. We know its exciting to learn, but trust us, be
 
 
 ## Introduction 
+The purpose of this primer is to introduce you to the command line tool. If you're already familiar with it, check your knowledge against the learning competenices. If you are, you can jump straight into the Reflection exercise and or try the stretch competencies. 
 
 Mac, Windows and Linux each come with an inbuilt command line tool, however during prep you installed an alternative (iTerm2 or Babun).
 
@@ -48,7 +49,7 @@ Linux | gnome | gnome |
 Follow this [useful guide](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) to try it out. Don't be put off by the "learn python" reference. Notice the difference between windows, Linux and mac.
 
 ## Explore a little more 
-Have a look for some learning resources: Videos, tutorials, Google. Try key words like 'Terminal', 'Basic' and 'cheatsheet' Have you got the learning competencies? 
+Have a look for some learning resources: Videos, tutorials, Google. Try key words like 'Terminal', 'Command Line Basic' and 'cheatsheet'. Have you achieved the learning competencies? 
 
 ## Reflect
 Reflecting is essential for solidifying your learning. It will help you learn how you learn, give opportunities for sharing resources, and will help to demonstrate your knowledge of the learning outcomes.

@@ -6,7 +6,7 @@
 IQ or EQ: Which One Is More Important? Traditional Intelligence vs. Emotional Intelligence [VeryWellMind](https://www.verywellmind.com/iq-or-eq-which-one-is-more-important-2795287)
 
 
-[Search Inside Yourself](https://drive.google.com/file/d/0B5aB0OHeInzgV3hmZkVlZS04c28/view)
+[Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932)
 What began as a mindful leadership initiative within Google has spread to over 30 countries and 100 cities around the world.
 
 Developed at Google by leading experts in neuroscience, business, and psychology, Search Inside yourself teaches you "practical mindful leadership and emotional intelligence tools to bring out your best." 

@@ -1,6 +1,6 @@
 # Listening and Looping
 
-### Instrutions 
+### Instrcutions 
 Pair up with someone in your cohort or accountability group and spend 10 minutes running through this exercise  
 
 ### Summary 
