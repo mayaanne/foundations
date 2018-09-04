@@ -35,7 +35,7 @@ Mac, Windows and Linux each come with an inbuilt command line tool, however duri
 You can use either the inbuilt tool or the recommended tool during this exploration. The commands and inputs are interchangeable, with only a few occassional variations for Windows. So, if you're following online tutorials, just switch out "babun" when the tutorial says "powershell". 
 
 Operating System | Inbuilt tool | Recommended tool |  
-------------|----------|  
+------------|----------|----------| 
 Mac | terminal | iTerm2  
 Windows | cmd and/or powershell | babun/gitbash  
 Linux | gnome | gnome |  
@@ -75,4 +75,4 @@ Come back to stretch competencies in your spare time. Don't focus on them now wh
 
 - [Codecademy's command line course](https://www.codecademy.com/courses/learn-the-command-line/l)  
 - [Udemy's Command Line Basics course](https://www.udacity.com/course/linux-command-line-basics--ud595)  
-- [Udemy's Shell Workshop]  (https://classroom.udacity.com/courses/ud206/lessons/1cc90ac3-c03a-43e6-8556-dcbd40dfd418/concepts/9fbb976b-dc7b-4584-a656-b05ab9d7a0c3)   
+- [Udacity's Shell Workshop](https://classroom.udacity.com/courses/ud206/lessons/1cc90ac3-c03a-43e6-8556-dcbd40dfd418/concepts/9fbb976b-dc7b-4584-a656-b05ab9d7a0c3)   
