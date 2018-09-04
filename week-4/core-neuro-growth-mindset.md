@@ -85,3 +85,6 @@ Keep your answers on a document which you will later into a blog post.
 
 3. __Blend with your learning plan and strategies__
     - Reflect and discuss how these understandings may shape or influece your learning plan and strategy. 
+
+## Optional Resources 
+- [Habits & Growth Mindset](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)
