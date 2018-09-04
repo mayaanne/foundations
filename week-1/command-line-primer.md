@@ -35,7 +35,7 @@ Mac, Windows and Linux each come with an inbuilt command line tool, however duri
 You can use either the inbuilt tool or the recommended tool during this exploration. The commands and inputs are interchangeable, with only a few occassional variations for Windows. So, if you're following online tutorials, just switch out "babun" when the tutorial says "powershell". 
 
 Operating System | Inbuilt tool | Recommended tool |  
-------------|----------|  
+------------|----------|----------| 
 Mac | terminal | iTerm2  
 Windows | cmd and/or powershell | babun/gitbash  
 Linux | gnome | gnome |  
