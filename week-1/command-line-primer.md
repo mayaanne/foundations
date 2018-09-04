@@ -75,4 +75,4 @@ Come back to stretch competencies in your spare time. Don't focus on them now wh
 
 - [Codecademy's command line course](https://www.codecademy.com/courses/learn-the-command-line/l)  
 - [Udemy's Command Line Basics course](https://www.udacity.com/course/linux-command-line-basics--ud595)  
-- [Udemy's Shell Workshop]  (https://classroom.udacity.com/courses/ud206/lessons/1cc90ac3-c03a-43e6-8556-dcbd40dfd418/concepts/9fbb976b-dc7b-4584-a656-b05ab9d7a0c3)   
+- [Udacity's Shell Workshop](https://classroom.udacity.com/courses/ud206/lessons/1cc90ac3-c03a-43e6-8556-dcbd40dfd418/concepts/9fbb976b-dc7b-4584-a656-b05ab9d7a0c3)   
