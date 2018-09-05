@@ -1,5 +1,5 @@
-[Home](../README.md) | [Resources Index](README.md) |[sprint 1 Overview](../sprint-1/README.md) 
-------------|----------|----------| 
+[Sprint Index](../README.md) | [Resources Index](README.md) |
+------------|----------|
 
 # Course outline - Getting started 
 Tēnā koutou and Welcome to day 1 of your learning journey! This primer is to introduce you to the format of Foundations. 

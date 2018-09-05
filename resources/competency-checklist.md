@@ -1,5 +1,4 @@
-
-[Home](../README.md) | [Resources Index](README.md) |
+[Sprint Index](../README.md) | [Resources Index](README.md) |
 ------------|----------|
 
 # Competency checklist
