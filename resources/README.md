@@ -13,7 +13,7 @@ __Foundations material and resources__
 - [Feedback](feedback.md)    
 - [Fetching (curriculum) changes](fetching-changes.md)  
 - [Getting ublocked](core-getting-unblocked.md)  
-- [Weekly Reflections](reflections-index.md)
+- [Sprint Reflections](reflections-index.md)
 - [Writing solutions - technqiue and approach](writing-solutions.md) 
 
 

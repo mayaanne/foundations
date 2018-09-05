@@ -22,11 +22,11 @@ Example: Incorrect
 Refer to these instrutions to creating a blog until you are familiar with it. 
 
 1. Navigate __INTO__ `username.github.io/blog` directory
-2. Create a file using the naming convention `week#-culutral.html` and `week#-technical.html` (e.g. week2-cultural.html)
+2. Create a file using the naming convention `sprint#-culutral.html` and `sprint#-technical.html` (e.g. sprint2-cultural.html)
 3. Copy and paste [the template](html-template.html)
 4. (FIRST TIME ONLY) Add css file `<link href="your-stylesheet-link-here.css" rel="stylesheet" type="text/css">`with `main.css`
 5. Update the HTML elements e.g. Title, headers etc.   
 6. Add your content 
 7. Stage, commit, push 
-8. View your blogs on your web browser e.g. `http://username.github.io/blog/week1-cultural.html`
+8. View your blogs on your web browser e.g. `http://username.github.io/blog/sprint1-cultural.html`
 

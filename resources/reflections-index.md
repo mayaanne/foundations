@@ -22,7 +22,7 @@ Each Sprint there will be core and tech reflections to complete:
 When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. Task yourself with explaining a concept to someone who has never heard of it before. How would they relate to it? Can you think of an analogy to explain it?
 
 
-## How to reflect each week
+## How to reflect each sprint
 
 Reflecting requires you to take a moment and think about what you've learned, what is confusing, and where you need to go. It documents your learning process. 
 
