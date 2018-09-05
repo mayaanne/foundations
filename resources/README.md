@@ -4,19 +4,16 @@
 
 __Foundations material and resources__
 
+
+
 ## Quick Links
-- [Weekly Reflections](reflections-index.md)  
-- [Feedback](feedback.md)  
-- [Competency Checklist](competency-checklist.md)   
-
-
-- [Course outline](course-outline.md)  
-- [Writing solutions - technqiue and approach](writing-solutions.md)  
-- [Getting ublocked](core-getting-unblocked.md)  
-
+- [Course outline](course-outline.md) 
+- [Competency Checklist](competency-checklist.md) 
+- [Feedback](feedback.md)    
 - [Fetching (curriculum) changes](fetching-changes.md)  
-
-- [Listening and Looping format](listening-looping.md)  
+- [Getting ublocked](core-getting-unblocked.md)  
+- [Weekly Reflections](reflections-index.md)
+- [Writing solutions - technqiue and approach](writing-solutions.md) 
 
 
 
@@ -34,4 +31,5 @@ __Foundations material and resources__
 
 
 ## Core 
+- [Listening and Looping format](listening-looping.md)
 - [Additional EQ links](core-eq-resources.md)  
