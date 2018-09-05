@@ -1,4 +1,5 @@
 [Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
 
 # Blog Instructions 
 

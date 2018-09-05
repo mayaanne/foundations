@@ -1,3 +1,6 @@
+[Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
+
 ## Getting unblocked 
 
 The internet is fully of bugs! 

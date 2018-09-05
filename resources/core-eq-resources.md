@@ -1,6 +1,7 @@
+[Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
+
 ## Additional EQ resources
-
-
 
 IQ or EQ: Which One Is More Important? Traditional Intelligence vs. Emotional Intelligence [VeryWellMind](https://www.verywellmind.com/iq-or-eq-which-one-is-more-important-2795287)
 

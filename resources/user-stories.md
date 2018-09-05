@@ -1,3 +1,6 @@
+[Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
+
 # User Stories
 User stories are informal, natural language descriptions of one or more features. They are typically written from the perspective of an end user or user of a system and facilitate sensemaking and communication. Their purpose is to help software teams organise their understanding of the system and its context. 
 

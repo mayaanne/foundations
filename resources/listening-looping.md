@@ -1,6 +1,9 @@
+[Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
+
 # Listening and Looping
 
-### Instrcutions 
+### Instructions 
 Pair up with someone in your cohort or accountability group and spend 10 minutes running through this exercise  
 
 ### Summary 

@@ -1,4 +1,5 @@
-[Week 1 Home](../week-1/README.md) 
+[Home](../README.md) | [Resources Index](README.md) |[Week 1 Overview](../week-1/README.md) 
+------------|----------|----------| 
 
 # Course outline - Getting started 
 Tēnā koutou and Welcome to day 1 of your learning journey! This primer is to introduce you to the format of Foundations. 

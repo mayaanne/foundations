@@ -1,3 +1,7 @@
+
+[Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
+
 # Competency checklist
 
 This is a checklist of the core competencies you need for bootcamp 

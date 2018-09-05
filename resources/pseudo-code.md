@@ -1,3 +1,6 @@
+[Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
+
 # Pseudocode 
 Pseudocode is a kind of structured english for describing code and algorhythms. It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading. It allows the designer to focus on the logic of the algorithm without being distracted by details of language syntax. The pseudocode needs to be complete, from start to finish and describes the entire logic, line by line. 
 
