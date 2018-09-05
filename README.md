@@ -11,16 +11,16 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 [Week 1](/week-1/README.md)  
 [Week 2](/week-2/README.md)  
 [Week 3](/week-3/README.md)  
-[Week 4](/week-4)  
+[Week 4](/week-4/README.md)  
 [Week 5](/week-5)  
 
 
 ------------
 
 
-[Reflections](/quick-links/reflections-index.md)  
-[Feedback](/quick-links/feedback.md)  
-[Competency checklist](/quick-links/competency-checklist.md)  
-[Resources](/resources/resources-index.md)  
+[Reflections](/resources/reflections-index.md)  
+[Feedback](/resources/feedback.md)  
+[Competency checklist](/resources/competency-checklist.md)  
+[Resources Index](/resources/README.md)    
 
 ------------

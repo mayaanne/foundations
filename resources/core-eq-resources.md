@@ -1,5 +1,4 @@
-
-
+## Additional EQ resources
 
 
 
@@ -19,7 +18,6 @@ Meditation has been shown to reduce daily stress and perceived stress, promote i
 
 [Fixed vs. Growth:](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
 The Two Basic Mindsets That Shape Our Lives
-
 
 [Empathy](https://www.verywellmind.com/what-is-empathy-2795562)
 What is Empathy and Why It's important
