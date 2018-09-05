@@ -45,9 +45,9 @@ In foundations we use the term 'sprint' to define a block of work. There are 5 s
 
 Study | Length of Sprint | Hours per Sprint | Length of Foundations |  
 ------------|----------|------------|--------|
-full-time(1) (FT1) | 1 Week  | 36-40 hours | 5 sprints | 
-Part-time(2) (PT2)* | 2 Weeks | 18-20 hours | 10 sprints |
-Part-time(3) (PT3)* | 3 Weeks | 12-13 hours | 15 sprints |
+full-time(1) (FT1) | 1 Week  | 36-40 hours | 5 weeks | 
+Part-time(2) (PT2)* | 2 Weeks | 18-20 hours | 10 weeks |
+Part-time(3) (PT3)* | 3 Weeks | 12-13 hours | 15 weeks |
 
 _*PT2 and PT3 indexes the length of time you selected to study during your enrollment._ 
 
