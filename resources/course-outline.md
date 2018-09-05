@@ -1,5 +1,5 @@
-[Home](../README.md) | [Resources Index](README.md) |[Week 1 Overview](../week-1/README.md) 
-------------|----------|----------| 
+[Sprint Index](../README.md) | [Resources Index](README.md) |
+------------|----------|
 
 # Course outline - Getting started 
 Tēnā koutou and Welcome to day 1 of your learning journey! This primer is to introduce you to the format of Foundations. 
@@ -43,11 +43,13 @@ A sprint is a term from the Agile software development method, that typically me
 
 In foundations we use the term 'sprint' to define a block of work. There are 5 sprints of work. How long a sprint takes will depend on if you are full-time or part-time. Whether you are FT1, PT2 or PT3 depends on the length of time you selected to study during your enrollment. 
 
-Study | Length of Sprint | Hours per week | Length of Foundations |  
+Study | Length of Sprint | Hours per Sprint | Length of Foundations |  
 ------------|----------|------------|--------|
-full-time(1) (FT1) | 1 week  | 36-40 hours | 5 weeks | 
-Part-time(2) (PT2) | 2 weeks | 18-20 hours | 10 weeks |
-Part-time(3) (PT3) | 3 weeks | 12-13 hours | 15 weeks |
+full-time(1) (FT1) | 1 Week  | 36-40 hours | 5 sprints | 
+Part-time(2) (PT2)* | 2 Weeks | 18-20 hours | 10 sprints |
+Part-time(3) (PT3)* | 3 Weeks | 12-13 hours | 15 sprints |
+
+_*PT2 and PT3 indexes the length of time you selected to study during your enrollment._ 
 
 
 ## Full-time vs Part-time 
@@ -69,9 +71,9 @@ Full time students will have a tech workshop at the beginning of the sprint and 
 ### Part-time (PT2 and PT3)
 Depending on the number of folk studying part-time, you could be flying completely solo, or together with a few others. 
 
-PT2 and PT3 students will have a combined tech+core session with their facilitator, unless there are other PT2 and PT3 students, in which case the sessions will likely be split into two: A group workshhop followed, by a core 1:1 later in the week. Your facilitator will advise you if this is the case.  
+PT2 and PT3 students will have a combined tech+core session with their facilitator, unless there are other PT2 and PT3 students, in which case the sessions will likely be split into two: A group workshhop followed, by a core 1:1 later in the sprint. Your facilitator will advise you if this is the case.  
 
-5 weeks before Bootcamp, the rest of your cohort will join Foundations. During this time, you'll be encouraged to sync in and particpate with them. We encourage Tuakana/Teina and student-teaching-student attitude, as it benefits everyones learning. You'll also be invited to join an accountablity group when the fulltime cohort begins. 
+5 sprints before Bootcamp, the rest of your cohort will join Foundations. During this time, you'll be encouraged to sync in and particpate with them. We encourage Tuakana/Teina and student-teaching-student attitude, as it benefits everyones learning. You'll also be invited to join an accountablity group when the fulltime cohort begins. 
 
 
 ## Schedule 
@@ -103,7 +105,7 @@ __Optional stretch material available in some sprints__
 ## Submitting work and Feedback
 To signal the completion of a sprint, you will need to fill out a feedback form. Your feedback influence design and content improvements, as have those from hundreds of students gone before. In addtion to feedback being part of our continual improvement framework, it help us to support you and your development and will at times inform your 1:1 sessions. 
 
-__Submit weekly feedback form by 10pm Sunday to signal completion of work.__ 
+__Submit sprintly feedback form by 10pm Sunday to signal completion of work.__ 
 
 ## Extensions 
 All students, regardless of FT or PT status are required to sumbit work at the end of the sprint by 10pm Sunday. If you are unable to complete the material by the end of the sprint, you must submit an extension request. All form links are located on the home index page of this GitHub repo. 

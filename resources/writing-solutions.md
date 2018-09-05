@@ -1,4 +1,4 @@
-[Home](../README.md) | [Resources Index](README.md) |
+[Sprint Index](../README.md) | [Resources Index](README.md) |
 ------------|----------|
 
 # Writing solutions process
@@ -88,7 +88,7 @@ __Research:__ Ahh, good ol’ Google. You read that right. No matter what proble
 __Caveat:__ Don’t look for a solution to the big problem. Only look for solutions to sub-problems. Why? Because unless you struggle (even a little bit), you won’t learn anything. If you don’t learn anything, you wasted your time.
 
 ### Practice  
-Don’t expect to be great after just one week. If you want to be a good problem-solver, solve a lot of problems!
+Don’t expect to be great after just one sprint. If you want to be a good problem-solver, solve a lot of problems!
 
 Practice. Practice. Practice. It’ll only be a matter of time before you recognize that “this problem could easily be solved with <insert concept here>.”
 
