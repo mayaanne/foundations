@@ -10,16 +10,17 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 
 
 ## Tech
-1. [Command Line - Primer](command-line-primer.md)  
-2. [Version Control and Git - Primer](git-version-control-primer.md)  
-3. [Install and Explore Git and GitHub - Course](git-install-and-exploration-course.md)  
-4. [Track changes - Primer](git-track-changes-primer.md)  
-5. [Branching - Primer](git-branch-primer.md)  
-6. [Branch, Pull, Merge - Challenge](git-branching-challenge.md)  
-7. [Fork and Clone - Challenge](git-github-fork-clone-challenge.md)  
-8. [Set Remotes and Sync Fork - Primer](git-remote-fork-merge-primer.md)  
-9. [Set Remotes and Sync Fork - Challenge](git-remote-sync-fork-challenge.md)  
-10. [Set up Blog using Git pages - Challenge](git-new-repo-github-pages-blog.md)  
+1. [Start Here - Course Outline](/resources/course-outline.md)
+2. [Command Line - Primer](command-line-primer.md)  
+3. [Version Control and Git - Primer](git-version-control-primer.md)  
+4. [Install and Explore Git and GitHub - Course](git-install-and-exploration-course.md)  
+5. [Track changes - Primer](git-track-changes-primer.md)  
+6. [Branching - Primer](git-branch-primer.md)  
+7. [Branch, Pull, Merge - Challenge](git-branching-challenge.md)  
+8. [Fork and Clone - Challenge](git-github-fork-clone-challenge.md)  
+9. [Set Remotes and Sync Fork - Primer](git-remote-fork-merge-primer.md)  
+10. [Set Remotes and Sync Fork - Challenge](git-remote-sync-fork-challenge.md)  
+11. [Set up Blog using Git pages - Challenge](git-new-repo-github-pages-blog.md)  
 
 
 
