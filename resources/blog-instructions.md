@@ -1,11 +1,11 @@
 # Blog Instructions 
 
 ### Summary 
-Each week you'll produce 2 blog posts - 1 cultural and 1 technical. 
-These are published to your `http://username.github.io/' page, which is visible to your cohort and anyone else you share the link with. Your engagment with the blog questions and content each week count towards your Foundations assessment.  
+Each Sprint you'll produce 2 blog posts - 1 cultural and 1 technical. 
+These are published to your `http://username.github.io/' page, which is visible to your cohort and anyone else you share the link with. Your engagment with the blog questions and content each Sprint count towards your Foundations assessment.  
 
 ## Blog Setup 
-In week 1's ["Setup new Repo & Create Blog Challenge"](../week-1/git-new-repo-github-pages-blog.md) you created a new repo github.io and cloned it to your computer. Hopefully you cloned it to a sensible file directory for example:
+In Sprint 1's ["Setup new Repo & Create Blog Challenge"](../sprint-1/git-new-repo-github-pages-blog.md) you created a new repo github.io and cloned it to your computer. Hopefully you cloned it to a sensible file directory for example:
 
 Example: Good   
 `User/Kiri/Dev-Academy/kiri.github.io` 
@@ -15,7 +15,7 @@ Example: Good
 Example: Incorrect   
 `User/Kiri/Dev-Academy/foundations/kiri.github.io` 
 
-## Weekly steps 
+## Steps 
 Refer to these instrutions to creating a blog until you are familiar with it. 
 
 1. Navigate __INTO__ `username.github.io/blog` directory

@@ -1,8 +1,8 @@
 [Home](../README.md)
 
-# Week Two
+# Sprint Two
 
-In the first part this week you'll dive into HTML and CSS, the language of the web, and use it to create a blog that you'll contribute to through out your journey. Secondly you'll use last weeks core material and reflections to pull together your learning plan. You'll need to arrange a time to pair with an EDA facilitator to establish to negotiate that plan.
+In the first part this Sprint you'll dive into HTML and CSS, the language of the web, and use it to create a blog that you'll contribute to through out your journey. Secondly you'll use last weeks core material and reflections to pull together your learning plan. You'll need to arrange a time to pair with an EDA facilitator to establish to negotiate that plan.
 
 
 ## Tech

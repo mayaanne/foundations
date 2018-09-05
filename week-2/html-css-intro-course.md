@@ -1,4 +1,4 @@
-[Week 2 Home](README.md)
+[Sprint 2 Home](README.md)
 
 # Learning to Learn HTML and CSS Challenge 
 
@@ -81,7 +81,7 @@ Start identifying what it is that you need to know in order to reach the learnin
 
  
 ## Reflect
-Navigate to your `my-reflections-week-2` file (Pro-tip: Use terminal). Remember to stage, commit and push! 
+Navigate to your `my-reflections-sprint-2` file (Pro-tip: Use terminal). Remember to stage, commit and push! 
 
 Answer: 
 

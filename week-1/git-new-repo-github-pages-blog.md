@@ -1,4 +1,4 @@
-[Week 1 Home](README.md)
+[Sprint 1 Home](README.md)
 
 # Setup new Repo & Create Blog Challenge
 
@@ -105,7 +105,7 @@ _Note: After pushing to GitHub pages, there might be a delay - it can sometimes 
 
 
 ## Step 5: Reflect 
-Open `my-reflections-week-1` and answer the following
+Open `my-reflections-sprint-1` and answer the following
 
 1. Reflect on this week. What did you learn about your learning? 
 2. What surprised you? 

@@ -1,4 +1,4 @@
-[Week 1 Home](README.md)
+[Sprint 1 Home](README.md)
 
 # Git Messages (Stretch Challenge)
 
@@ -35,7 +35,7 @@ Walk through it step by step, e.g.
 If you don't recognise something, find out what it is. Are there new terms you don't recognise?
 
 ## Reflect
-- Navigate to you `my-reflections-week-1.md` file in this directory 
+- Navigate to you `my-reflections-sprint-1.md` file in this directory 
 - For each image, write your analysis of what is happening.
 - Describe what you learned
 

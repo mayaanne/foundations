@@ -1,4 +1,4 @@
-[Week 2 Home](../README.md)
+[Sprint 2 Home](../README.md)
 
 # JavaScript Olympics
 
@@ -50,4 +50,4 @@ console.log(michaelPhelps.name + " " + michaelPhelps.sport + " " + michaelPhelps
 
 ## Release 5: Reflect
 
-Whew! Nice work, you must be exhausted, take some time to cool down and reflect. Include your reflection in your [week 3 reflections file](../../my-reflections-week-3.md) file. This should take about 10-15 minutes.
+Whew! Nice work, you must be exhausted, take some time to cool down and reflect. Include your reflection in your [Sprint 3 reflections file](../../my-reflections-sprint-3.md) file. This should take about 10-15 minutes.

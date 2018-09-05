@@ -1,4 +1,4 @@
-[Week 1 Home](README.md) 
+[Sprint 1 Home](README.md) 
   
 
 # Git - Setting Remotes and Syncing Forks Challenge
@@ -123,7 +123,7 @@ __Useful commands:__
 
 
 ## Reflect
-Edit your `my-reflections-week-1.md` file.  
+Edit your `my-reflections-sprint-1.md` file.  
 _Pro-tip: Use terminal to navigate and open the file._ 
 
 Reflection on:

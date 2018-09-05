@@ -1,4 +1,4 @@
-#My Reflections - Week Three
+#My Reflections - Sprint Three
 
 In addition to the challenge specific refletions, answer the following questions (in addition to the challenge-specific questions) in your reflection:
 

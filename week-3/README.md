@@ -1,8 +1,8 @@
 [Home](../README.md)
 
-# Week Three 
+# Sprint Three 
 
-This week is all about JavaScript and Emotional Intelligence! Its a big week, so dive on in. 
+This Sprint is all about JavaScript and Emotional Intelligence! Its a big week, so dive on in. 
 
 ## Tech
 

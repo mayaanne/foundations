@@ -1,6 +1,6 @@
 [Home](../README.md)
 
-# Week Four
+# Sprint Four
 
 __TDD, Code Readability and Kata's __
 

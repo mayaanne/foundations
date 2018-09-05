@@ -27,7 +27,7 @@ The format is like this
 - Spend 2 minutes each, listening and looping   
 - Reflect  
 
-__The Prompt:__ Talk about a time in the last week when you felt triggered - Something difficult that came up which was challening in some way. 
+__The Prompt:__ Talk about a time in the last Sprint when you felt triggered - Something difficult that came up which was challening in some way. 
 
     1. Organise to pair with someone in your cohort or accountability group. If you end up doing pairing with more than one person then great - the more you practice, the better you get. 
 

@@ -1,4 +1,4 @@
-[Week 4 Home](README.md)
+[Sprint 4 Home](README.md)
 
 # Neuroplasticity and Growth Mindset Blog
 

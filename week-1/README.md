@@ -1,6 +1,6 @@
 [Home](../README.md)
 
-# Week One
+# Sprint One
 
 __A prerequisite course for Dev Academy Bootcamp__
 

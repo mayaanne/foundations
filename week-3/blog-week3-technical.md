@@ -1,4 +1,4 @@
-[Week 3 Home](README.md)
+[Sprint 3 Home](README.md)
 
 # Technical Blog
 
@@ -11,7 +11,7 @@ This blog should strengthen your understanding of
 
 
 ## Summary:
-This week you learned a bunch of JavaScript!  
+This Sprint you learned a bunch of JavaScript!  
 
 ## Time Box
 

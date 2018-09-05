@@ -1,4 +1,4 @@
-[Week 2 Home](README.md)
+[Sprint 2 Home](README.md)
 
 # Your Blog - primer and setup
 
@@ -10,7 +10,7 @@ By the end of this primer, you should be able to
 - Link your css file to your HTML file
 
 ## Summary
-This week is about building your blog using HTML and CSS while honing your GitHub and command line skills. You'll be learning HTML and CSS through online resources and applying what you learn to your own blog website.
+This Sprint is about building your blog using HTML and CSS while honing your GitHub and command line skills. You'll be learning HTML and CSS through online resources and applying what you learn to your own blog website.
 
 
 ## Exploration and Application
@@ -23,7 +23,7 @@ Reflect | 10 minutes |
 
 
 ## Overview
-Last week you set up the beginnings of your github pages blog (`username.github.io`). You'll be expanding this with HTML,  CSS and JavaScript as you apply your learning throughout the weeks.
+Last Sprint you set up the beginnings of your github pages blog (`username.github.io`). You'll be expanding this with HTML,  CSS and JavaScript as you apply your learning throughout the weeks.
 
 Your blog is a practical way to apply your learning and it will go towards your Foundations assessemnt. Take special note, that you will not be judged on your design application. Quite the contrary, we don't mind so much about what your blog looks like, but rather _how_ you engaged with the material; the quality of your reflections; how you identified obstacles and overcame them; if you can demonstrate an understanding of the concepts and learning objectives and how frequently you engaged and staged commits.
 
@@ -41,7 +41,7 @@ In all instances, follow the timeboxing prompts, attend the check-in's, keep to 
 
 ## Introduction
 - In the previous challenge you started a GitHub pages repository: `username.gihub.io`.  
-- Each week you will create a new blog post within that repo, using HTML, CSS and JavaScript. 
+- Each Sprint you will create a new blog post within that repo, using HTML, CSS and JavaScript. 
 - Blogs will follow the naming convention week#-module. For example week1-techincal and week1-core.
 
 ## Set up part one - Add HTML
@@ -88,7 +88,7 @@ If stuck, [This video demo's linking to css at at 5.08](https://www.youtube.com/
 
 
 ## Reflect
-Navigate to your `my-reflections-week-2` file (Pro-tip: Use terminal)
+Navigate to your `my-reflections-sprint-2` file (Pro-tip: Use terminal)
 
 Describe what you did in this exercise. Did you understand the steps that you were making? Can you describe them in simple lay terms?
 

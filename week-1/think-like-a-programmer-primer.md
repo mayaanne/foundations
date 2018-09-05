@@ -1,4 +1,4 @@
-[Week 1 Home](README.md)
+[Sprint 1 Home](README.md)
 
 # Thinking like a Programmer
 
@@ -34,7 +34,7 @@ What does the internet say about Flipped learning? What is flipped learning and 
 
 ## Reflect
 
-In your `my-reflections-week-1.md` file discuss thinking and flipped learning.
+In your `my-reflections-sprint-1.md` file discuss thinking and flipped learning.
 
 - What are Richarch Reis's recommendations ?
 - How will you integrate his idea's?

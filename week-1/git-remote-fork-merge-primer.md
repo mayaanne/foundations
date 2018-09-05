@@ -1,4 +1,4 @@
-[Week 1 Home](README.md) 
+[Sprint 1 Home](README.md) 
 
 # Git Set Remotes and Merge Primer 
 
@@ -52,7 +52,7 @@ __Recommended resources:__
 - [Git Pro - Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)  
 
 ## Reflect
-Open your `my-reflections-week-1.md` file and answer the following. Remember to stage and commit your changes. 
+Open your `my-reflections-sprint-1.md` file and answer the following. Remember to stage and commit your changes. 
 
 1. What is the difference between cloning from a forked and cloning from a non-forked repo. 
 2. Can you think of an analogy to describe forking?

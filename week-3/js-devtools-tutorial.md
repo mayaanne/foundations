@@ -1,4 +1,4 @@
-[Week 3 Home](README.md)
+[Sprint 3 Home](README.md)
 
 # DevTools Tutorial
 
@@ -39,7 +39,7 @@ __Pro-tip:__ The same process that you use for Mizuxe can be used for any websit
 3. Save your screenshot in this repo with the file name `js-devtools-before.jpg`and `js-devtools-after.jpg`  
 
 ## Reflect 
-In your [my-reflections-week-3](my-reflections-week-3.md) answer the following questions: 
+In your [my-reflections-sprint-3](my-reflections-sprint-3.md) answer the following questions: 
 
 1. What did I notice about my learning style, strenghts and limitations when doing this crash course?  
 2. Did any blocks come up for you? How did you overcome them?  

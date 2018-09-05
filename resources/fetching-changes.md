@@ -2,7 +2,7 @@
 
 Dev Academy makes modifications and edits to the curriculum often. When this happens you'll need to "fetch" the changes from Github.com into your personal repository. 
 
-Details about fetching curriculum updates are outlined in week-1 (see resources below).. But to recap: 
+Details about fetching curriculum updates are outlined in sprint-1 (see resources below).. But to recap: 
 
 ## Context 
 1. You have already forked (created a copy of) our curriculum to your own GitHub account  
@@ -22,7 +22,7 @@ It's important to note that __fetching changes will NOT override your work.__ On
 6. Push the changes to your GitHub account (`git push origin master`)  
 
 ## Additional Resource
-To view Illustrations and examples, revist Week 1's "Remotes and Sync Fork" [Primer](../week-1/git-remote-fork-merge-primer.md) and [Challenge](../week-1/git-remote-sync-fork-challenge.md) 
+To view Illustrations and examples, revist Sprint 1's "Remotes and Sync Fork" [Primer](../sprint-1/git-remote-fork-merge-primer.md) and [Challenge](../sprint-1/git-remote-sync-fork-challenge.md) 
 
 
 Example illustration 

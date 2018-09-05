@@ -1,4 +1,4 @@
-[Week 3 Home](README.md)
+[Sprint 3 Home](README.md)
 
 # The DOM Primer and DevTools Primer
 
@@ -30,7 +30,7 @@ Kirupa's [videos, pictures and articles](https://www.kirupa.com/html5/javascript
 Keep notes as you'll describe the DOM in your technical blog this week. 
 
 ## Reflect 
-In your [my-reflections-week-3](my-reflections-week-3.md) answer the following questions: 
+In your [my-reflections-sprint-3](my-reflections-sprint-3.md) answer the following questions: 
 
 1. What did I notice about my learning style, strenghts and limitations when researching?
 2. Did any blocks come up for you? How did you overcome them?  

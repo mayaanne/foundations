@@ -1,4 +1,4 @@
-[Week 3 Home](README.md)
+[Sprint 3 Home](README.md)
 
 # Learning JavaScript
 
@@ -64,7 +64,7 @@ Now you get the jist, it's time to solve FreeCodeCamp's challenges. Each of them
 - [JavaScript for Cats](http://jsforcats.com/) 
 
 ## Reflect
-Navigate to your `my-reflections-week-3` file.
+Navigate to your `my-reflections-sprint-3` file.
 
 Answer: 
 

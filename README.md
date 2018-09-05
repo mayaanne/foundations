@@ -8,11 +8,11 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 ------------
 
 
-[Week 1](/week-1/README.md)  
-[Week 2](/week-2/README.md)  
-[Week 3](/week-3/README.md)  
-[Week 4](/week-4)  
-[Week 5](/week-5)  
+[Sprint 1](/sprint-1/README.md)  
+[Sprint 2](/sprint-2/README.md)  
+[Sprint 3](/sprint-3/README.md)  
+[Sprint 4](/sprint-4)  
+[Sprint 5](/sprint-5)  
 
 
 ------------

@@ -1,4 +1,4 @@
-[Week 1 Home](../week-1/README.md) 
+[Sprint 1 Home](../sprint-1/README.md) 
 
 # Course outline - Getting started 
 
@@ -43,9 +43,9 @@ A sprint is a term from the Agile software development method, that typically me
 
 In foundations we use the term 'sprint' to define a block of work. There are 5 sprints of work. How long a sprint takes will depend on if you are full-time or part-time
 
-Study | Length of Sprint | Hours per week | Length of Foundations |  
+Study | Length of Sprint | Hours per Sprint | Length of Foundations |  
 ------------|----------|------------|--------|
-full-time(1) (FT1) | 1 week  | 36-40 hours | 5 weeks | 
+full-time(1) (FT1) | 1 Sprint  | 36-40 hours | 5 weeks | 
 Part-time(2) (PT2)* | 2 weeks | 18-20 hours | 10 weeks |
 Part-time(3) (PT3)* | 3 weeks | 12-13 hours | 15 weeks |
 

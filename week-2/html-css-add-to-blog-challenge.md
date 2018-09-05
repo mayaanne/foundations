@@ -1,4 +1,4 @@
-[Week 2 Home](README.md)
+[Sprint 2 Home](README.md)
 
 # Add HTML and CSS to your Blog Challenge
 
@@ -43,7 +43,7 @@ Make sure you have ticked off each of the learning competencies.
 
 
 ## Reflect 
-Navigate to your `my-reflections-week-2` file. 
+Navigate to your `my-reflections-sprint-2` file. 
 
 Answer: 
 

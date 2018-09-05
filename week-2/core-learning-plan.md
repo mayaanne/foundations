@@ -1,4 +1,4 @@
-[Week 2 Home](README.md)
+[Sprint 2 Home](README.md)
 
 # My Learning Agreement
 
@@ -51,7 +51,7 @@ Once you have formulated your plan, you'll need to have your facilitator agree t
 
 ## Publish Core Blogs (x2) 
 
-In this exercise you will publish 2 core blog posts - last weeks [Identity, Values and Strengths Exploration](../week-1/core-identity-and-values.md) (c1-blog) and this weeks Learning Agreement (c2-blog).  
+In this exercise you will publish 2 core blog posts - last weeks [Identity, Values and Strengths Exploration](../sprint-1/core-identity-and-values.md) (c1-blog) and this weeks Learning Agreement (c2-blog).  
 
 Conduct these steps using terminal: 
 1. Navigate __INTO__ `username.github.io/blog` directory

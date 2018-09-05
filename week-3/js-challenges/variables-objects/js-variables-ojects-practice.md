@@ -1,4 +1,4 @@
-[Week 2 Home](../README.md)
+[Sprint 2 Home](../README.md)
 
 # JavaScript Variables and Object Types Practice
 
