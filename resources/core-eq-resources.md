@@ -1,7 +1,7 @@
+[Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
 
-
-
-
+## Additional EQ resources
 
 IQ or EQ: Which One Is More Important? Traditional Intelligence vs. Emotional Intelligence [VeryWellMind](https://www.verywellmind.com/iq-or-eq-which-one-is-more-important-2795287)
 
@@ -19,7 +19,6 @@ Meditation has been shown to reduce daily stress and perceived stress, promote i
 
 [Fixed vs. Growth:](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
 The Two Basic Mindsets That Shape Our Lives
-
 
 [Empathy](https://www.verywellmind.com/what-is-empathy-2795562)
 What is Empathy and Why It's important

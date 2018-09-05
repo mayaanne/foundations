@@ -1,4 +1,5 @@
-[Main Index](../README.md)
+[Home](../README.md) | 
+------------|
 
 # RESOURCES
 
@@ -6,18 +7,30 @@ __Foundations material and resources__
 
 
 
-------------
+## Quick Links
+- [Course outline](course-outline.md) 
+- [Competency Checklist](competency-checklist.md) 
+- [Feedback](feedback.md)    
+- [Fetching (curriculum) changes](fetching-changes.md)  
+- [Getting ublocked](core-getting-unblocked.md)  
+- [Weekly Reflections](reflections-index.md)
+- [Writing solutions - technqiue and approach](writing-solutions.md) 
 
-[Weekly Reflections](/resources/reflections-index.md)  
-[Feedback]()  
-[Competency Checklist](/resources/competency-checklist.md)   
 
 
 
-[Install software](/install-software.md)  
-[Getting ublocked](/core-getting-unblocked.md)  
-[Retired install instructions (for students transistioning from P0)](/retired-install-software-instructions.md)  
-[command-line](/command-line.md)
-<!--- [GitHub and Git links](/useful-links.md) -->
-<!--- [Tools](/tools.md) -->
 
+
+## Tools and Tech
+- [Blog Instructions](blog-instructions.md)    
+- [Blog HTML template](html-template.html)  
+- [Command-line-overview](command-line-overview.md)   
+- [Install software - external link to student prep rep](https://github.com/dev-academy-programme/student-prep/blob/master/install-software.md)    
+- [Repl.It](https://repl.it/)  
+- [Pseudo-code](pseudo-code.md)  
+- [User-stories](user-stories.md)  
+
+
+## Core 
+- [Listening and Looping format](listening-looping.md)
+- [Additional EQ links](core-eq-resources.md)  

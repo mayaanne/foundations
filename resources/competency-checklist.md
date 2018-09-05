@@ -1,3 +1,7 @@
+
+[Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
+
 # Competency checklist
 
 This is a checklist of the core competencies you need for bootcamp 
@@ -122,27 +126,22 @@ I can:
 ## Habits
 I have developed habits of:
 - [ ] reflecting
-- [ ] tidying
-- [ ] playing
+- [ ] time managment and productivity
 - [ ] perservering
 - [ ] exploring
 - [ ] communication
-- [ ] equinimity
-- [ ] honing
-- [ ] sharing
 
-## Human Skills
+## Core
 I can increasingly:
-- [ ] meditate (even if just a couple of minutes)
+- [ ] practice mindfulness (even if just a couple of minutes)
 - [ ] observe my patterns of thought
 - [ ] hold attention
 - [ ] apply mindfulness to my interactions other students and Dev Academy
 - [ ] journal
 - [ ] body scan
-- [ ] stop identifying with my emotions
 - [ ] identify my values
 - [ ] use listening and looping
-- [ ] use empathic listening
+- [ ] use conscious listening
 - [ ] communicate openly and honestly
 - [ ] give valuable, kind and honest feedback
 - [ ] gracefully recieve feedback

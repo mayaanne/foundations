@@ -1,3 +1,6 @@
+[Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
+
 # How to Fetch Dev Academy's Curriculum Changes 
 
 Dev Academy makes modifications and edits to the curriculum often. When this happens you'll need to "fetch" the changes from Github.com into your personal repository. 

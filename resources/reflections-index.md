@@ -1,15 +1,16 @@
-[Home](../README.md)
+[Home](../README.md) | [Resources Index](README.md) |
+------------|----------|
 
 # Reflective Learning
 
 Reflecting is an incredibly important part of the learning process. By reflecting on what you have done, you strengthen your sense of responsibility for your own learning and awareness of your own metacognitive processes. Evidence suggests that by seeing the link you are putting into learning and what you are getting out of it increases your abiity to learn and retain information.
 
 Each Sprint there will be core and tech reflections to complete:
-- [sprint-1 reflections](/sprint-1/my-reflections-sprint-1.md)
-- [sprint-2 reflections](/sprint-2/my-reflections-sprint-2.md)
-- [sprint-3 reflections]((/sprint-3/my-reflections-sprint-3.md))
-- [sprint-4 reflections]((/sprint-4/my-reflections-sprint-4.md))
-- [sprint-5 reflections]((/sprint-5/my-reflections-sprint-5.md))
+- [sprint-1 reflections](/sprint-1/my-reflections-sprint-1.md)  
+- [sprint-2 reflections](/sprint-2/my-reflections-sprint-2.md)  
+- [sprint-3 reflections]((/sprint-3/my-reflections-sprint-3.md)  
+- [sprint-4 reflections]((/sprint-4/my-reflections-sprint-4.md)  
+- [sprint-5 reflections]((/sprint-5/my-reflections-sprint-5.md)  
 
 
 ## Tips to reflecting
