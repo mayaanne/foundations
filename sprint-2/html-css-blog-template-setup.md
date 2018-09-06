@@ -30,7 +30,10 @@ Your blog is a practical way to apply your learning and it will go towards your 
 What your Blog is: A space where you demonstrate your skills in problem solving and reflections.
 What your Blog is not: A fancy looking, perfectly put together interface.
 
+We will however introduce you to the important aspects of design thinking, and hope that you can incorporate those into your blog. 
+
 Throughout the sprints, you'll be presented with bunch of ways to learn HTML, CSS and JS building blocks.
+
 Some of the resources we point you towards will be media rich with audio and video. Other's, like freeCodeCamp, will look more like a terminal screen.
 
 __This is your journey and its up to you to discern how you learn best.__

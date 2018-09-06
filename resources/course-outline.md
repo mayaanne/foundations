@@ -6,6 +6,7 @@ Tēnā koutou and Welcome to day 1 of your learning journey! This primer is to
 
 For full details, please see the student handbook. 
 
+
 ### Learning Competencies
 By the end of this primer, you should have an understanding of: 
 - Time Boxinng
@@ -17,6 +18,21 @@ By the end of this primer, you should have an understanding of:
 - Submitting work and Feedback
 - Assessments
 - Model of Education and Flipped learning 
+
+
+## Key Summary 
+
+TL&DR  | 
+------------|
+- Foundations is 5 sprints (a sprint is a block of work)
+- Completion of activities due 10pm Sunday at end of sprint 
+- Length of sprint depends on student status (Full time and part time varies) 
+- Tech and Core activities with Facilitator required each sprint (see schedule)
+- Curriculum delivered via GitHub, with set of activities to complete.
+- Activities take the form of primers and challenges, each with recommended time allotment)
+- Assessments are designed to be harvested continuously and unobtrusively
+- Students have agency over their own learning 
+
 
 
 ## Time Box 
