@@ -8,9 +8,9 @@ Reflecting is an incredibly important part of the learning process. By reflectin
 Each Sprint there will be core and tech reflections to complete:
 - [sprint-1 reflections](/sprint-1/my-reflections-sprint-1.md)  
 - [sprint-2 reflections](/sprint-2/my-reflections-sprint-2.md)  
-- [sprint-3 reflections]((/sprint-3/my-reflections-sprint-3.md)  
-- [sprint-4 reflections]((/sprint-4/my-reflections-sprint-4.md)  
-- [sprint-5 reflections]((/sprint-5/my-reflections-sprint-5.md)  
+- [sprint-3 reflections](/sprint-3/my-reflections-sprint-3.md)  
+- [sprint-4 reflections](/sprint-4/my-reflections-sprint-4.md)  
+- [sprint-5 reflections](/sprint-5/my-reflections-sprint-5.md)  
 
 
 ## Tips to reflecting
