@@ -1,5 +1,5 @@
-[Sprint Index](../README.md) | [Resources Index](README.md) |
-------------|----------|
+[Sprint Index](../README.md) | [Resources Index](README.md) | [Sprint 1 Home](/sprint-1/README.md) |
+------------|----------|-----------|
 
 # Course outline - Getting started 
 Tēnā koutou and Welcome to day 1 of your learning journey! This primer is to introduce you to the format of Foundations. 
@@ -31,7 +31,7 @@ TL&DR  |
 - Curriculum delivered via GitHub, with set of activities to complete.
 - Activities take the form of primers and challenges, each with recommended time allotment)
 - Assessments are designed to be harvested continuously and unobtrusively
-- Students have agency over their own learning 
+- Students have agency over their own learning | 
 
 
 
