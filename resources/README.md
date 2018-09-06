@@ -1,4 +1,4 @@
-[Sprint Index](../README.md) | 
+[Dashboard](../README.md) | 
 ------------|
 
 # RESOURCES

@@ -21,6 +21,6 @@ For full details refer to the Foundations Handbook, Tech Handbook and Core Handb
 [Reflections](/resources/reflections-index.md)  
 [Feedback](/resources/feedback.md)  
 [Competency checklist](/resources/competency-checklist.md)  
-[Resources Index](/resources/README.md)    
+[Resources ](/resources/README.md)    
 
 ------------

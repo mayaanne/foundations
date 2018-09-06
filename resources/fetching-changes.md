@@ -1,4 +1,4 @@
-[Sprint Index](../README.md) | [Resources Index](README.md) |
+[Dashboard](../README.md) | [Resources ](README.md) |
 ------------|----------|
 
 # How to Fetch Dev Academy's Curriculum Changes 

@@ -1,4 +1,4 @@
-[Sprint Index](../README.md) | [Resources Index](README.md) | [Sprint 1 Home](/sprint-1/README.md) |
+[Dashboard](../README.md) | [Resources ](README.md) | [Sprint 1 Home](/sprint-1/README.md) |
 ------------|----------|-----------|
 
 # Course outline - Getting started 
