@@ -1,4 +1,4 @@
-[Home](../README.md)
+[Dashboard](../README.md)
 
 # Sprint Two
 

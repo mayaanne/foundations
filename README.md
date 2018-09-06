@@ -1,6 +1,6 @@
 # FOUNDATIONS
 
-__A prerequisite course for Dev Academy Bootcamp__
+__Student Dashboard__
 
 For full details refer to the Foundations Handbook, Tech Handbook and Core Handbook.
 
