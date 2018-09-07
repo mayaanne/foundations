@@ -2,14 +2,18 @@
 
 # Sprint One
 
-__A prerequisite course for Dev Academy Bootcamp__
+__Verison Control, GitHub, CommandLine and Identity__
 
-For full details refer to the Foundations Handbook, Tech Handbook and Core Handbook.
+Learn the foundations of Git, GitHub and commandline - tools and workflow that you will use throughout your study and your career. 
 
+Then dive into our core matieral and explore aspects of your values and identity that are relevant to your learning journey. 
 
 ## Intro
 1. [Start Here - Course Outline](/resources/course-outline.md)   
-2. [Track your time](/resources/track-time-toggl.md)  
+
+## Habits 
+1. [Process and Framework](/resources/writing-solutions.md)  
+2. [Track your time](/resources/track-time-toggl.md)   
 
 ## Tech
 1. [Command Line - Primer](command-line-primer.md)  
