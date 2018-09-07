@@ -19,9 +19,9 @@ __Read through all of the content. The tasks to completed at end include:__
 2. Research and practice Attention Training (Mindfulness)
 3. __Partner with someone in your cohort__ and practice Conscious Listening (Listening and Looping)
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Read, reasearch, explore | 2 hours
 Practice  | 1 hour |

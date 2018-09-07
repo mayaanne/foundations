@@ -15,16 +15,16 @@ When we make important updates to the curriculum, you'll need to tell Git how to
 You'll do this by setting remotes, fetching and at merging changes into your own copy. 
 
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Refresh | 40 minutes
 Add a remote | 10 minutes
 Fetch changes | 10 minutes 
 Reflect | 15 minutes |
 
-Follow the time box suggestions. If you get stuck, take a quick break and come back to it. Reach out to the community on slack. Remember to clarify and define what you are trying to do/solve. Break it down into steps
+Follow the timebox suggestions. If you get stuck, take a quick break and come back to it. Reach out to the community on slack. Remember to clarify and define what you are trying to do/solve. Break it down into steps
 
 
 ## Intro 

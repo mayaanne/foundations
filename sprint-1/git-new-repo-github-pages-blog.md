@@ -17,7 +17,7 @@ Today you'll begin a blog that you'll work on throughout Foundations and you'll 
 
 ## Application
 
-Application | Time to box |
+Application | Time|
 ------------|----------|
 Create a website repository | 20 minutes 
 Reflect | 15 minutes |

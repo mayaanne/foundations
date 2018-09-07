@@ -17,9 +17,9 @@ DevTools alows us to access the DOM and assists us with testing and debugging we
 
 In this exercise you'll be downloading the source files and following the DevTools tutorial. 
 
-## Time Box 
+## Timebox 
 
-Challenge | Time to box |
+Challenge | Time|
 ------------|----------|
 Interactive tutorial | 1.5 hours
 Reflect | 30 minutes

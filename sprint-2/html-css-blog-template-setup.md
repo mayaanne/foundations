@@ -13,9 +13,9 @@ By the end of this primer, you should be able to
 This Sprint is about building your blog using HTML and CSS while honing your GitHub and command line skills. You'll be learning HTML and CSS through online resources and applying what you learn to your own blog website.
 
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Setup part one | 20 minutes |
 Setup part two | 20 minutes

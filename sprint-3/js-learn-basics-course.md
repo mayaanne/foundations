@@ -26,18 +26,18 @@ JavaScript is known as the "language of the web." It is a powerful object-orient
 
 The resources are geared to span all learner types - beginning with Visual and Audial tutorials, followed by practical challenges to solve and optional reading resources. 
 
-## Exploration and Challenges
+## Timebox and Challenges
 
-Challenge | Time to box |
+Challenge | Time|
 ------------|----------|
-Exploration Course | 10 hours
+Activity Course | 10 hours
 FreeCodeCamp Challenges | 10 hours
 Reflect | 1 hour
 
 ## Preparing for surprises
 Just like everything on the web, applications and services (such as FreeCodeCamp and Udacity) have their bugs. There could be times where your solution is perfect, but FreeCodeCamp is throwing an error. If this is the case, be sure to query it, and discern where the issue is stemming from. Using the exact name of the challenge helps get better results. Remember, one of your tasks as budding web developer, is to query errors and find the source of them! If it's FreeCodeCamp, you'll likely discussion about it on the forums and potentially recommendations also. If all else fails, skip ahead to the next challenge. 
 
-## Exploration Courses - Visual Audial 
+## Timebox Courses - Visual Audial 
 These are, what we believe to be, the best three JavaScript tutorials. Use them to familiarise yourself with the concepts and get a good overview of where you are headed. Try not to get lost in the details - you'll get plenty of practice in the next FreeCodeCamp step. 
 
 It's unlikey you'll have time to do all 3 courses - so have a try and choose which one fits best. 

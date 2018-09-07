@@ -1,6 +1,6 @@
 [Sprint 1 Home](README.md)
 
-# Identity, Values and Strengths Exploration 
+# Identity, Values and Strengths Activity 
 
 ### Learning Competencies
 By the end of this exploration, you should be able to:
@@ -14,15 +14,15 @@ Who you are and what you bring shapes your learning journey. In a flipped classr
 This will form the basis of establishing your Learning Agreement. 
 
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Gather evidence | 1-2 hours
 Document it  | 2 hours |
 
 
-Follow the time box suggestions. We know its exciting to learn, but trust us, be wise on how deep you go. Let the learning competencies be your guide. Ask yourself if you know them.
+Follow the timebox suggestions. We know its exciting to learn, but trust us, be wise on how deep you go. Let the learning competencies be your guide. Ask yourself if you know them.
 
 
 ## Gather Evidence 

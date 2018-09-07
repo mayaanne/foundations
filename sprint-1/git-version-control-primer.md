@@ -13,15 +13,15 @@ By the end of this exploration, you should be able to
 
 Version Control allows groups of people to work together on the same code, at the same time, without overwriting each others work. It is not JavaScript, or Ruby, or C#. It is software that you download - a form of distributed version control which means it manages changes to a project without overwriting any part of the project.
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Watch | 5 minutes
 Explore | 30 minutes |
 Reflect | 30 minutes |
 
-Follow the time box suggestions. This is a primer only and there is a deep dive challenge next to start applying this knowledge. Let the learning competencies be your guide.
+Follow the timebox suggestions. This is a primer only and there is a deep dive challenge next to start applying this knowledge. Let the learning competencies be your guide.
 
 ## Description 
 
