@@ -16,7 +16,7 @@ __Your git Commit history is visible to us and we use it to assess your particip
 
 ## Exercise
 
-Reflect | Time to box |
+Reflect | Time|
 ------------|----------|
 Reflect | 10 minutes
 

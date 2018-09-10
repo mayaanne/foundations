@@ -15,9 +15,9 @@ Science has also revealed that our belief's about ourselves, what we think and f
 
 In this exploration we'll challenge you to think about how neuroplaticity and and a Growth Mindset will boost your capabilities in learning. 
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Explore | 1.5 hours
 Discuss and Reflect  | 1 hour |

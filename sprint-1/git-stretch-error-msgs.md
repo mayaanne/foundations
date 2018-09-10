@@ -14,9 +14,9 @@ Use the Git messages below to practice understanding Git and chunking down a pro
 
 
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Break it down  | 30 minutes
 Seek | 30 minutes

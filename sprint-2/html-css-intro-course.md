@@ -30,9 +30,9 @@ Try them both, get a sense for which resource suits your learning style better, 
 Always keep in mind the learning objectives. Ask yourself for example, "Can I navigate the DOM?". The courses should cover all the basics, but if you're still wondering "what is the DOM" then put your problem solving powers to good use and discover it. Frame the question well, reach out and have a discussion with someone in your cohort. Bring it up during a check in. 
 
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Quick primer | 4 minutes 
 Udacity or FreeCodeCamp | 10 hours 

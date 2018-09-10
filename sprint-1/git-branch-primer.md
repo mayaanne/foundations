@@ -16,7 +16,7 @@ When you create a branch in your project, you're creating an environment where y
 
 ## Challenge 
 
-Challenge | Time to box |
+Challenge | Time|
 ------------|----------|
 Explore | 1 hour 
 Reflect | 1 hour 

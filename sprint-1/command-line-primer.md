@@ -16,16 +16,16 @@ Programmers do not always have pretty ways to interface or test their code. Most
 
 Knowing how to use your command line will be vital to your success as a programmer. Fortunately for now you only need to know a few commands.
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 See it in action | 15 minutes |
 Give it a try | 20 minutes
 Explore a little | 20 minutes |
 Reflect | 15 minutes |
 
-Follow the time box suggestions. We know its exciting to learn, but trust us, be wise on how deep you go. Let the learning competencies be your guide. Ask yourself if you know them.
+Follow the timebox suggestions. We know its exciting to learn, but trust us, be wise on how deep you go. Let the learning competencies be your guide. Ask yourself if you know them.
 
 
 ## Introduction 
@@ -61,7 +61,7 @@ Keep note of where you keep your reflection as you'll be asked to use them in a 
 
 __In your reflection answer the questions:__
 1. In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it? 
-2. Did you stick to the time box guidelines? If not, what change would you make next time?  
+2. Did you stick to the timebox guidelines? If not, what change would you make next time?  
 3. Name 5 commands you used, and what they do 
 4. Did you learn anything unexpected? 
 

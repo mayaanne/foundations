@@ -10,9 +10,9 @@
 ## Summary:
 Writing blogs on technical subjects is something that will help you solidify your learning.
 
-## Time Box
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Research | 1 hour
 Write | 1 hour

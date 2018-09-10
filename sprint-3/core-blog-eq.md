@@ -14,7 +14,7 @@ In the last Core Exercise you spent some time researching EQ and IQ. Use those i
 
 ## Application
 
-Application | Time to box |
+Application | Time|
 ------------|----------|
 Create blog file | 5 minutes
 Publish blog  | 5 minutes |

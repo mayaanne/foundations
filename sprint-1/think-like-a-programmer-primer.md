@@ -22,7 +22,7 @@ __“Almost all employers prioritize problem-solving skills first.__
 Problem-solving skills are almost unanimously the most important qualification that employers look for….more than programming languages proficiency, debugging, and system design. __Demonstrating computational thinking or the ability to break down large, complex problems is just as valuable (if not more so) than the baseline technical skills required for a job.__” _— Hacker Rank (2018 Developer Skills Report)_ 
 
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Reading | 30 minutes
 Reflection | 30 minutes |

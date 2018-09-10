@@ -35,9 +35,9 @@ TL&DR  |
 
 
 
-## Time Box 
+## Timebox 
 
-Activity | Time to box |
+Activity | Time|
 ------------|----------|
 Read primer | 20 minutes |
 

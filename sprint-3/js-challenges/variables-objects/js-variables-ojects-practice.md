@@ -8,9 +8,9 @@
 - Create and add objects to an array in JavaScript
 - Use pre-written tests to drive development
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 TDD  | 30 minutes
 Code it | 30 minutes
