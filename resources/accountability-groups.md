@@ -15,12 +15,12 @@ Accountability groups are designed to give you a core group of people in your co
 ## Tasks
 
 ### Identify Concepts
-Using the means your group decided to use for communication (email, slack, zoom etc), identify one or two of the concepts or challenges you struggled with this week, and explain what the difficulties were. 
+Using the means your group decided to use for communication (email, slack, zoom etc), identify one or two of the concepts or challenges you struggled with this sprint, and explain what the difficulties were. 
 
 ### Share your solution
 Select one of your solutions to a challenge to share with your accountability group members. You can choose one you are most proud of, one that challenged you, one you just couldn't get, etc.
 
-Feel free to share a previous week's solo challenge as well (now that the week is over).
+Feel free to share a previous sprint's solo challenge as well (now that the sprint is over).
 
 ### Review solutions
 Review the solutions your accountability group sent to you. Practice reading their solutions. See if you understand what is going on. If you don't, try to determine what it is that's confusing, is it related to your knowledge of the code or the way the code is written? Do you have any suggestions for methods or ways to improve the code?

@@ -13,9 +13,9 @@ The Document Object Model, normally abbreviated to DOM, is the way through which
 
 In this primer, you'll be asked to research and reflect on the DOM. Don't worry too much about DevTools, you'll dive into that in the next part of this sprints material through a devtools crash course. 
 
-## Exploration 
+## Timebox 
 
-Challenge | Time to box |
+Challenge | Time|
 ------------|----------|
 Research | 1 hours
 Reflect | 20 minutes

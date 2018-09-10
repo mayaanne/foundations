@@ -17,9 +17,9 @@ By the end of the challenge, you should be able to:
 ## Summary
 You learned a bunch of stuff in FreeCodeCamp and Udacity. Apply that knowledge to transform your index page into something 'you'. The index page is the 'homepage' of your blogs. You will need factor in where and how you will list your blog enries on your site.  
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Planning | 45 minutes 
 Application | 6 hours

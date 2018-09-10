@@ -15,7 +15,7 @@ In this challenge you will test your knowledge of Git Branch workflow.
 
 ## Challenge 
 
-Challenge | Time to box |
+Challenge | Time|
 ------------|----------|
 Challenge | 30 minutes
 

@@ -15,15 +15,15 @@ By the end of this challenge, you be able to
 ## Summary
 Now you understand version control, its time to start using Git. For this challenge you'll follow Udacity's Version Control with Git interactive course. 
 
-## Exploration
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Install and configure | 20 minutes
 Try it out | 3 hours 
 Reflect | 20 minutes git s
 
-Stay on the path and follow the time box suggestions. 
+Stay on the path and follow the timebox suggestions. 
 
 ## Instructions 
 

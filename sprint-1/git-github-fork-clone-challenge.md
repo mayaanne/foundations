@@ -12,15 +12,15 @@ By the end of this exploration, you should be able to:
 You will use this deep dive exploration to create your own forked version of this repo. You will then clone a copy to your machine. This clone is where you will be working on for the rest of your learning exploration and assessments. 
 
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Explore | 45 minutes 
 Fork, Clone | 1-2 hours
 Reflect | 15 minutes |
 
-Follow the time box suggestions. If you get stuck, take a quick break and come back to it. Reach out to the community on slack. Let the learning competencies be your guide.
+Follow the timebox suggestions. If you get stuck, take a quick break and come back to it. Reach out to the community on slack. Let the learning competencies be your guide.
 
 ## Introduction 
 
@@ -42,7 +42,7 @@ The Forking Workflow typically follows a branching model based on the Gitflow Wo
 
 ## Explore Forking 
 
-Use the Time Box suggestions and exploring Forking. 
+Use the Timebox suggestions and exploring Forking. 
 
 Suggested Resources:  
 [GitHub for Poets Forks and Pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4)      

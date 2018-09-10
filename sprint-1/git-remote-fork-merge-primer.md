@@ -11,9 +11,9 @@ By the end of this exploration, you should be able to
 ## Summary
 Git uses remote URLs to figure out where to go on the Internet to push and pull files. By setting a remote, you are basically telling git exactly where to go when you want to save (push) your work, get (pull) your work to your computer, or fetch changes from the repo you forked from.
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Refresh | 10 minutes
 Explore | 60 minutes 

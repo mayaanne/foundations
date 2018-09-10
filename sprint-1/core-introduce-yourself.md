@@ -16,9 +16,9 @@ This Sprint reach out to your cohort and share a little about yourself.
 Think about how your identity shapes you and what that means for your learning journey.
 
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Write and share | 30 minutes
 Reflect | 30 minutes

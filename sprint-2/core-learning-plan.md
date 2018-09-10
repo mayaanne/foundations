@@ -12,9 +12,9 @@ By the end of this exercise, you should have
 
 This programme is not a traditional programme. It depends a lot on your motivation and organisation as a learner. This leads to a more individualised experience and increased learning skills moving forward. To facilitate this everyone will have a Learning Agreement. This learning agreement will be negotiated between you and a facilitator. It will include setting your learning targets based on the course learning outcomes, what you expect to do to meet your targets, and what the facilitator is expected to do. This agreement is a core part of your learning and will develop your skills to set and achieve target in the future. We fully expect this agreement to develop as you become more aware of how you work and learn.
 
-## Exploration and Application
+## Timebox
 
-Exploration | Time to box |
+Activity | Time|
 ------------|----------|
 Attend learning plan workshop | 1 hour
 Formulate learning Agreement | 1 hour 
