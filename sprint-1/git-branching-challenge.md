@@ -21,7 +21,7 @@ Challenge | 30 minutes
 
 ## Steps
 
-__Important!__ Make sure you do not clone the new repo (Ko Wai Koe) into an already existing repo. We recommend creating a 'Dev-Acadedmy' parent directory that can contain your Dev Academy Repos. 
+__Important!__ Make sure you do not clone the new repo (Ko Wai Koe) into an already existing repo. We recommend creating a 'Dev-Academy' parent directory that can contain your Dev Academy Repos. 
 
 Cloning to the same parent directory is fine, for example:  
 
