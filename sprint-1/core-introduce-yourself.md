@@ -6,13 +6,13 @@
 By the end of this exercise, you will:
 
 - Have a sense of who you are on this learning journey. 
-- Shared something about your learning journey
+- Have shared something about your learning journey.
 
 
 ## Summary
 Your cohort are on this learning journey with you. Its a melting pot of identity. As the sprints go on, you'll be reading each others blogs, participating in group discussions and helping each other when stuck. 
 
-This Sprint reach out to your cohort and share a little about yourself. 
+This sprint, reach out to your cohort and share a little about yourself. 
 Think about how your identity shapes you and what that means for your learning journey.
 
 
