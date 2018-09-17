@@ -44,7 +44,7 @@ Linux | gnome | gnome |
 
 ## See it in action 
 [Mac and Linux - _basic terminal Usage, youtube_](https://www.youtube.com/watch?v=jDINUSK7rXE&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc&index=16)  
-[Windows - command line tutorial, youtube_](https://www.youtube.com/watch?v=MBBWVgE0ewk)
+[Windows - _command line tutorial, youtube_](https://www.youtube.com/watch?v=MBBWVgE0ewk)
 
 ## Give it a try
 Follow this [useful guide](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) to try it out. Don't be put off by the "learn python" reference. Notice the difference between windows, Linux and mac.
