@@ -7,7 +7,7 @@ By the end of this course, you should be familiar with:
 
 - Variables and Object types 
 - Datatypes  
-- Maniupating strigs, arrays, objects  
+- Manipulating strings, arrays and objects  
 - Using comments in code 
 - If/else statements  
 - Switch statements  
@@ -16,9 +16,9 @@ By the end of this course, you should be familiar with:
 - Declare functions  
 - Return things from functions  
 - Explain the difference between arguments and parameters  
-- Using while`/`do` loops  
+- Using `do`/`while` loops  
 - Using `for` loops  
-- Using `map`  
+- Using `map` higher order function 
 
 
 ## Summary
@@ -40,7 +40,7 @@ Just like everything on the web, applications and services (such as FreeCodeCamp
 ## Timebox Courses - Visual Audial 
 These are, what we believe to be, the best three JavaScript tutorials. Use them to familiarise yourself with the concepts and get a good overview of where you are headed. Try not to get lost in the details - you'll get plenty of practice in the next FreeCodeCamp step. 
 
-It's unlikey you'll have time to do all 3 courses - so have a try and choose which one fits best. 
+It's unlikely you'll have time to do all 3 courses - so have a try and choose which one fits best. 
 
 A powerful combo is the Practical JavaScript course with Kirupa's diagrams (in the read section) as a supplement. 
 
