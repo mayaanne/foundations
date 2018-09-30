@@ -2,7 +2,7 @@
 
 # Sprint One
 
-__Verison Control, GitHub, CommandLine and Identity__
+__Version Control, GitHub, CommandLine and Identity__
 
 Learn the foundations of Git, GitHub and commandline - tools and workflow that you will use throughout your study and your career. 
 
