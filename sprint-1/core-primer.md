@@ -13,7 +13,7 @@ Core Skills is about growing the human part of the web development equation. As 
 
 ### Description 
 
-<blockquote>"to be a good web developer study code. To be a great one, study people." Joshua Vial, Founder of EDA</blockquote> 
+<blockquote>"To be a good web developer study code. To be a great one, study people." Joshua Vial, Founder of EDA</blockquote> 
 
 Understanding yourself in the context of others and utlising your Human Skills will set you up for your career. Believe it or not, tech employers aren't looking for top grades or the person with the most outstanding code. Their looking for exceptional human beings who will enhance the [culture of their team](https://medium.simppler.com/hire-for-fit-train-for-skill-5c60a41eb7bb)
 

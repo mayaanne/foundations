@@ -54,7 +54,7 @@ Have a look around the internet. Let the learning competencies at the top of the
 Suggested Resources:  
 [Udacity's Version control (recommnended)](https://www.udacity.com/course/version-control-with-git--ud123)  
 [Code Schools Git Real](https://app.pluralsight.com/player?name=6eec00f4-f910-4efc-9698-936948026502&mode=live&clip=0&course=code-school-git-real&author=gregg-pollack)  
-[Git and GitHhub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)   
+[Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)   
 Git Resource - below  
 
 ## Reflect

@@ -11,7 +11,7 @@ This blog should strengthen your understanding of
 
 
 ## Summary:
-This Sprint you learned a bunch of JavaScript!  
+In this Sprint you learned a bunch of JavaScript!  
 
 ## Timebox
 
