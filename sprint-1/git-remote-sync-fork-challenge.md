@@ -8,7 +8,7 @@ By the end of this challenge, you should be able to:
 
 - Set up remotes in your forked repository
 - Fetch changes 
-- understand how to keep forks in sync 
+- Understand how to keep forks in sync 
 
 ## Summary
 When we make important updates to the curriculum, you'll need to tell Git how to get those changes. 

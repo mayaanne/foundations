@@ -44,8 +44,8 @@ Study this diagram, adapted from [GitTower](https://www.git-tower.com/learn/git/
 Explore a litte about remotes. Begin by identifying what is it your trying to understand. Check the learning objectives. If you need a little extra guidance here's a couple of links to help you along: 
 
 __Recommended resources:__ 
-- [Git tower - Connecting to a remote] (https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/connecting-remote-repositories#start)  
-- [Forking (GitHub Article)(https://help.github.com/articles/fork-a-repo/)  
+- [Git tower - Connecting to a remote](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/connecting-remote-repositories#start)  
+- [Forking (GitHub Article)](https://help.github.com/articles/fork-a-repo/)
 - [Syncing (GitHub Article)](https://help.github.com/articles/syncing-a-fork/)  
 - [Working with Remotes (GitHub)](https://help.github.com/categories/managing-remotes/)  
 - [Configure Git to sync with Remote](https://help.github.com/articles/fork-a-repo/#step-3-configure-git-to-sync-your-fork-with-the-original-spoon-knife-repository)  

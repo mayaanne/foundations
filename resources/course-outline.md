@@ -9,7 +9,7 @@ For full details, please see the student handbook.
 
 ### Learning Competencies
 By the end of this primer, you should have an understanding of: 
-- Time Boxinng
+- Timeboxing
 - What is a sprint 
 - Full-time vs part-time study
 - Schedule 
@@ -29,9 +29,9 @@ TL&DR  |
 - Length of sprint depends on student status (Full time and part time varies) 
 - Tech and Core activities with Facilitator required each sprint (see schedule)
 - Curriculum delivered via GitHub, with set of activities to complete.
-- Activities take the form of primers and challenges, each with recommended time allotment)
+- Activities take the form of primers and challenges, each with recommended time allotment
 - Assessments are designed to be harvested continuously and unobtrusively
-- Students have agency over their own learning | 
+- Students have agency over their own learning  
 
 
 
@@ -45,7 +45,7 @@ Each primer, challenge or activity begins with the recommended amount of time to
 
 For example, this primer should take you 20 minutes.
 
-Keep a track of your time by committing to calaendar scheduling and/or use tools like toggl, pomodoro or a timer on your device. This is a skill you'll want to develop if ever you want to work remotely in your career or on code projects. 
+Keep a track of your time by committing to calendar scheduling and/or use tools like toggl, pomodoro or a timer on your device. This is a skill you'll want to develop if ever you want to work remotely in your career or on code projects. 
 
 The prep-curriculum included a primer on supporting you to develop good time managment and productivity. If you haven't completed the activity we suggest you do.
 

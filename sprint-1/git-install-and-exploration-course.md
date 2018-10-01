@@ -21,7 +21,7 @@ Activity | Time|
 ------------|----------|
 Install and configure | 20 minutes
 Try it out | 3 hours 
-Reflect | 20 minutes git s
+Reflect | 20 minutes
 
 Stay on the path and follow the timebox suggestions. 
 
