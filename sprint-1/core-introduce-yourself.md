@@ -3,10 +3,10 @@
 # Introduce yourself and get to know your cohort
 
 ### Learning Competencies
-By the end of this exercise, you will:
+By the end of this exercise, you will have:
 
-- Have a sense of who you are on this learning journey. 
-- Have shared something about your learning journey.
+- A sense of who you are on this learning journey. 
+- Shared something about your learning journey.
 
 
 ## Summary
