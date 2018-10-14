@@ -13,7 +13,7 @@ By the end of this tutorial, you should be familiar with and able to :
 
 ## Summary
 All major browsers include developer tools, which enable developers to examine the code of a webpage or app, as well as run tests and evaluate metrics related to that code. Chrome Developer Tools (DevTools for short) is the industry standard. 
-DevTools alows us to access the DOM and assists us with testing and debugging websites and applications. 
+DevTools allows us to access the DOM and assists us with testing and debugging websites and applications. 
 
 In this exercise you'll be downloading the source files and following the DevTools tutorial. 
 
@@ -41,7 +41,7 @@ __Pro-tip:__ The same process that you use for Mizuxe can be used for any websit
 ## Reflect 
 In your [my-reflections-sprint-3](my-reflections-sprint-3.md) answer the following questions: 
 
-1. What did I notice about my learning style, strenghts and limitations when doing this crash course?  
+1. What did I notice about my learning style, strengths and limitations when doing this crash course?  
 2. Did any blocks come up for you? How did you overcome them?  
 
 ## Stage and push! 

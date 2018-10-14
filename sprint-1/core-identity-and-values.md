@@ -27,9 +27,9 @@ Follow the timebox suggestions. We know its exciting to learn, but trust us, be 
 
 ## Gather Evidence 
 1. Gather evidence to identify what your personal values are.
-The reflection gets you to examine and identify who you are at this point, this involves a self- evaluation and seeking feedback from two or three trusted friends, family, whanau, colleagues. This allows you to compare how you see yourself, with how others see you.
+The reflection gets you to examine and identify who you are at this point, this involves a self-evaluation and seeking feedback from two or three trusted friends, family, whanau, colleagues. This allows you to compare how you see yourself, with how others see you.
 
-Evidence might include: stories of how these values were demonstrated in practice; a testimonial/feedback from someone; an achievement you are proud; using a tool to help you surface and name the values most important to you; visuals or narratives that help you describe where your values came from; whakatauki or quotes that sum up your values; your review of learning
+Evidence might include: stories of how these values were demonstrated in practice; a testimonial/feedback from someone; an achievement you are proud of; using a tool to help you surface and name the values most important to you; visuals or narratives that help you describe where your values came from; whakatauki or quotes that sum up your values; your review of learning
 
 2. Gather evidence to identify your strengths and areas for development.
 Evidence might include: personality or skills/capability assessment tools like Myers Briggs, Strengthsfinder; DOPE; Capability Sort; Minded; task 1 examples. 
