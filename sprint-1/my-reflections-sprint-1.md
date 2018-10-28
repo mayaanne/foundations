@@ -84,4 +84,28 @@ o	Move all changes to master which are not in origin/master to a temporary area.
 o	Run all origin/master commits.
 o	Run all commits in the temporary area, one at a time
 
+GitHub Fork & Clone Curriculum Challenge
 
+1. What are some examples of when you would fork?
+Forks are used to either propose changes to someone else's project (ex,bug's fixes)or to use someone else's project as a starting point for your own idea.
+
+2. Write your own step-by-step fork and clone instructions. Describe what you did.
+ Origin: https://github.com/dev/foundations
+Destination: https://github.com/miju-cho/foundations
+
+FORK FROM ORIGIN
+1.On Github, navigate to the dev/foundations repository. In the top-right corner of the page, clich Fork button 
+(Forking a dev/foundation repository allow me to freely experiment with change without affecting the original project)
+
+FORKED REPO IN DESTINATION
+2.On Github, navigated to miju-cho/foundations repository
+click Setting and issues.
+3.Under the repositoryname, click CLONE 0R DOWNLOAD
+4.In the Lone with HTTPs section, click to copy the clone URL for the repository.
+5.Open terminal
+6.Type "git clone", and then paste the URL you copied. It will look like this:
+$git clone https://github.com/miju-cho/foundations
+7.Press ENTER. Your local clone will be created.
+
+Did you have any moments where it all clicked? What clicked?
+Stage your file.
