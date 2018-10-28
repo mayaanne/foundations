@@ -14,7 +14,8 @@ In addition to the challenge specific refletions, answer the following questions
 
 
 
-Command Line Primer (aka Terminal, Shell, Prompt)
+*Command Line Primer (aka Terminal, Shell, Prompt)
+
 1.	In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it?
 A command line is a horizontal line on an interface that you're able to enter           commands that your computer will run for you. 
 
@@ -31,7 +32,7 @@ rm -r - deletes a directory and all of its child directories.
 4.	Did you learn anything unexpected? Not quite~coz manythings are new anyway..^^
 
 
-Version Control with Git - Primer
+*Version Control with Git - Primer
 
 1.	Whats the difference between git and GitHub?
 Git is a revision control system, a tool to manage your source code history as well as allow many people to collaborate on the project together.
@@ -44,7 +45,8 @@ Reflection time took more than 30mins. not sure an analogy to describe them.
 
 4.	Any surprises or anything you'd like to share (e.g. Super useful resources)
 Git and Github for Poets video was so useful video to understand Gid and github.
-Install and Explore Git
+
+*Install and Explore Git
 
 1.	What is a GitHub work flow?
 "	Anything in the master branch is deployable
@@ -69,7 +71,7 @@ When staging, you are preparing and organizing a commit.
 
 you're working on two features - one is finished, and one still needs some work done. You'd like to make a commit and go home (5 o'clock, finally!) but wouldn't like to commit the parts of the second feature, which is not done yet. You stage the parts you know belong to the first feature, and commit. Now your commit is your project with the first feature done, while the second is still in work-in-progress in your working directory.
 
-Branch, Pull, Merge Primer
+*Branch, Pull, Merge Primer
 
 1.	What is Master?
 The default branch name in Git is master.
@@ -84,7 +86,7 @@ o	Move all changes to master which are not in origin/master to a temporary area.
 o	Run all origin/master commits.
 o	Run all commits in the temporary area, one at a time
 
-GitHub Fork & Clone Curriculum Challenge
+*GitHub Fork & Clone Curriculum Challenge
 
 1. What are some examples of when you would fork?
 Forks are used to either propose changes to someone else's project (ex,bug's fixes)or to use someone else's project as a starting point for your own idea.
@@ -100,8 +102,8 @@ FORK FROM ORIGIN
 FORKED REPO IN DESTINATION
 2.On Github, navigated to miju-cho/foundations repository
 click Setting and issues.
-3.Under the repositoryname, click CLONE 0R DOWNLOAD
-4.In the Lone with HTTPs section, click to copy the clone URL for the repository.
+3.Under the repositoryname, click CLONE or DOWNLOAD
+4.In the Cone with HTTPs section, click to copy the clone URL for the repository.
 5.Open terminal
 6.Type "git clone", and then paste the URL you copied. It will look like this:
 $git clone https://github.com/miju-cho/foundations
@@ -109,3 +111,53 @@ $git clone https://github.com/miju-cho/foundations
 
 Did you have any moments where it all clicked? What clicked?
 Stage your file.
+
+*Git Set Remotes and Merge Primer
+
+What is the difference between cloning from a forked and cloning from a non-forked repo.
+
+Can you think of an analogy to describe forking?
+
+What is a remote?
+-A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server -Git tower-
+
+Did anything surprise you?
+
+*Git - Setting Remotes and Syncing Forks Challenge
+
+What is a remote?
+-A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server -Git tower-
+
+How are they set up?
+-Add a new remote, fetch, and check out a branch from it
+
+$ git remote
+origin
+$ git branch -r
+  origin/HEAD -> origin/master
+  origin/master
+$ git remote add staging git://git.kernel.org/.../gregkh/staging.git
+$ git remote
+origin
+staging
+$ git fetch staging
+...
+From git://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging
+ * [new branch]      master     -> staging/master
+ * [new branch]      staging-linus -> staging/staging-linus
+ * [new branch]      staging-next -> staging/staging-next
+$ git branch -r
+  origin/HEAD -> origin/master
+  origin/master
+  staging/master
+  staging/staging-linus
+  staging/staging-next
+$ git checkout -b staging staging/master
+...
+-from https://git-scm.com/docs/git-remote-
+
+How would you explain a remote to a non-technical person using an analogy?
+-A remote in git is basically a bookmark for a different repository from which you may wish to pull or push code.
+The bookmarked repository may be on your local computer in a different folder, on remote server, or it may even be the repository itself ( I haven't tried this ) but the simplest analogy is a bookmark.
+
+Add, commit and push your reflection.
