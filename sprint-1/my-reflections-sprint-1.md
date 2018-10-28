@@ -161,3 +161,11 @@ How would you explain a remote to a non-technical person using an analogy?
 The bookmarked repository may be on your local computer in a different folder, on remote server, or it may even be the repository itself ( I haven't tried this ) but the simplest analogy is a bookmark.
 
 Add, commit and push your reflection.
+
+*Setup new Repo & Create Blog Challenge
+
+Reflect on this sprint. What did you learn about your learning? it was okay.
+What surprised you? 
+-somehow I had thought that I need to clone the URL of https://github.com/mijucho/mijucho.github.io.git to my under the mijucho.hithub.io so I had a this problem "override r--r--r-- chomiju/staff for mijucho.github.io/.git/objects/pack/pack-56244704efe495a909f082cf78b04c37673ef9b8.idx?" but after use "rm -rf /your/path" the problem was solved.
+
+Add, commit and push!
