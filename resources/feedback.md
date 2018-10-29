@@ -9,7 +9,10 @@ At Enspiral Dev Academy, we strive for continous improvement and understand our 
 
 To ensure we continue to improve, we ask for your valuable feedback.  
 
-Click [here](https://goo.gl/forms/xJnibQuE3NHWzGNS2) to complete our feedback form.
+
+- [Feedback Form](https://goo.gl/forms/xJnibQuE3NHWzGNS2)
+
+
 We ask you complete this form at the end of each Sprint so we are able to do more of what is valuable to you (as a student) and do less of what isn't.
 
 From the Enspiral Dev Academy Team, Thank you!
