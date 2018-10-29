@@ -169,3 +169,27 @@ What surprised you?
 -somehow I had thought that I need to clone the URL of https://github.com/mijucho/mijucho.github.io.git to my under the mijucho.hithub.io so I had a this problem "override r--r--r-- chomiju/staff for mijucho.github.io/.git/objects/pack/pack-56244704efe495a909f082cf78b04c37673ef9b8.idx?" but after use "rm -rf /your/path" the problem was solved.
 
 Add, commit and push!
+
+*Thinking like a Programmer
+
+Describe the process for solving problems
+1.Understand
+Know exactly what is being asked. Most hard problems are hard because you don’t understand them (hence why this is the first step).
+2.Plan
+Don’t dive right into solving without a plan. Plan your solution!
+3.Divide
+Break it into sub-problems. These sub-problems are much easier to solve.
+.Debug: Go step by step through your solution trying to find where you went wrong. Programmers call this debugging
+.Reassess: Take a step back. Look at the problem from another perspective. 
+.Research: No matter what problem you have, someone has probably solved it.(Google)
+4.Reflect
+reflection is a the most important aspect of learning.
+Keep Practice. Practice. Practice!!
+
+How will you integrate this idea?
+I would like to apply this process of problem solving while I am Jurney through the DEV.
+
+What did you learn about flipped classroom?
+A flipped classroom is one where students are introduced to content at home, and practice working through it at school.Students watch pre-recorded videos at home, then come to school to do the homework armed with questions and at least some background knowledge.
+
+The concept behind the flipped classroom is rethink when students have access to the resources they need most. If the problem is that students need help doing the work rather than being introduced to the new thinking behind the work, than the solution the flipped classroom takes is to reverse that pattern. This will increasing the opportunity for personalization and more precise guiding of learning. 
