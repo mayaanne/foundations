@@ -33,7 +33,7 @@ Then dive into our core matieral and explore aspects of your values and identity
 2. [Thinking like a web developer Primer](think-like-a-programmer-primer.md)  
 3. [Identity and values exploration](core-identity-and-values.md)  
 4. [Introduce yourself exercise](core-introduce-yourself.md)  
-5. [Feedback](../feedback.md)  
+5. [Feedback](../resources/feedback.md)  
 
 ## Stretch
 [Github stretch](git-stretch-error-msgs.md)  
