@@ -24,7 +24,7 @@ Write and share | 30 minutes
 Reflect | 30 minutes
 
 ## Write
-Jump onto your foundations specific slack channel (e.g. Kauri-2017)
+Jump onto the foundations slack channel.
 
 Share 
 - Your name 

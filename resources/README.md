@@ -12,9 +12,9 @@ __Foundations material and resources__
 - [Competency Checklist](competency-checklist.md) 
 - [Feedback](feedback.md)    
 - [Fetching (curriculum) changes](fetching-changes.md)  
-- [Getting ublocked](core-getting-unblocked.md)  
+- [Getting unblocked](core-getting-unblocked.md)  
 - [Sprint Reflections](reflections-index.md)
-- [Writing solutions - technqiue and approach](writing-solutions.md) 
+- [Writing solutions - technique and approach](writing-solutions.md) 
 
 
 
