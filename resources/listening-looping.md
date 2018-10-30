@@ -28,7 +28,7 @@ The format is like this
 
 - Partner up with someone in your cohort or on the Foundations Slack Channel. 
 
--Hint:_ Connect with another student through Slack.  Don't let technology hold you back, you can set up a video meeting with another or organise a time where both of you can meet in person on campus.  You can choose.
+_Hint:_ Connect with another student through Slack.  Don't let not being face to face hold you back, you can set up a video meeting with another or organise a time where both of you can meet in person on campus.  You can choose.
 
 
 - Spend 2 minutes each, listening and looping   
