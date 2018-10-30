@@ -13,20 +13,24 @@ Conscious Listening is one of the methods we use for training Emotional Intellig
 This skill can be incredibly useful - both in terms of the information one can recieve when you're not trying to think ahead about a response and in terms of the other person feeling met and much more likely to feel heard. Think "ok I'm just going to receive what you're telling me, what you're saying, how you're appearing". 
 
 __Introducing Conscious (Mindful) Listening:__  
-The way we introduce and practice mindful listening is through a listening and looping excercies, which we practice throughout foundations and bootcamp. 
+The way we introduce and practice mindful listening is through a listening and looping excercise, which we practice throughout foundations and bootcamp. 
 
 The format is like this 
 
 - Object of attention is the other person  
-- In Pairs  
-- Person A describes….. for 2 mins  
-- Person B Mindfully listens  
-- In silence (can nod and smile etc)  
-- Person B loops back for 2 mins  
+- In Pairs:   
+    - Person A describes….. for 2 mins  
+    - Person B Mindfully listens  
+    - In silence (can nod and smile etc)  
+    - Person B loops back for 2 mins  
 
 ### Listening and Looping exercise 
 
-- Partner up with someone in your cohort 
+- Partner up with someone in your cohort or on the Foundations Slack Channel. 
+
+-Hint:_ Connect with another student through Slack.  Don't let technology hold you back, you can set up a video meeting with another or organise a time where both of you can meet in person on campus.  You can choose.
+
+
 - Spend 2 minutes each, listening and looping   
 - Reflect  
 
