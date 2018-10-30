@@ -16,8 +16,8 @@ __TDD, Code Readability and Kata's __
 ## Core 
 1. [Neuroplasticity and growth mindset](core-neuro-growth-mindset.md)    
 2. [Listening and Looping](../resources/listening-looping.md)
-4. [Cultural Blog]()
-5. [Feedback](../feedback.md)  
+3. [Cultural Blog]()
+4. [Feedback](../resources/feedback.md)   
   
 
 

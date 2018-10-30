@@ -14,8 +14,8 @@ This Sprint is all about JavaScript and Emotional Intelligence! Its a big sprint
 
 ## Core 
 1. [Emotional Intelligence - Primer and Challenge](core-eq.md)    
-3. [Cultural Blog](core-blog-eq.md)
-2. [Feedback](../feedback.md)   
+2. [Cultural Blog](core-blog-eq.md)
+3. [Feedback](../resources/feedback.md)    
   
 
 
