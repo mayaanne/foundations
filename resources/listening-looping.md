@@ -30,7 +30,14 @@ The format is like this
 - Spend 2 minutes each, listening and looping   
 - Reflect  
 
-__The Prompt:__ Talk about a time in the last Sprint when you felt triggered - Something difficult that came up which was challening in some way. 
+__The Prompt:__ 
+_Choose one prompt to use:_
+- Talk about a time in the last Sprint when you felt triggered - Something difficult that came up which was challenging in some way. 
+
+- Talk about a time in the last Sprint when you showed growth mindset qualities.   - What was the situation?  What will you do less of/more of or differently next time?
+
+- Talk about a time in the last Sprint when you showed fixed mindset qualities.   - What was the situation?  What will you do less of/more of or differently next time?
+
 
     1. Organise to pair with someone in your cohort or accountability group. If you end up doing pairing with more than one person then great - the more you practice, the better you get. 
 
