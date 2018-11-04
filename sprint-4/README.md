@@ -2,7 +2,7 @@
 
 # Sprint Four
 
-__TDD, Code Readability and Kata's __
+__Unit Testing, Code Readability and Kata's __
 
 ## Tech
 
@@ -11,7 +11,7 @@ __TDD, Code Readability and Kata's __
 3. [Code Readability - challenge](js-code-readability.md)       
 4. [Pseudo Code and Problem solving - primer](js-pseudocode-problem-solving)   
 5. [JavaScript Katas - challenge](js-katas)
-6. [Technical blog](blog-sprint4-technical.md))  
+6. [Technical blog](blog-sprint4-technical.md)
 
 ## Core 
 
