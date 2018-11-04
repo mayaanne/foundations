@@ -28,13 +28,14 @@ Follow the steps below to make the tests pass and complete the challenge.  The o
 corresponds to the order of the tests. After completing each step, run the code to check it has passed the test.
 
 In the past, you had the option of using dot notation or bracket notation. In this challenge some properties need the bracket notation to be referenced correctly. Find out why in this [medium article](https://medium.com/@prufrock123/js-dot-notation-vs-bracket-notation-797c4e34f01d) on dot vs. bracket notation.
-#
 
-#### Create `gradebook`
+----
+
+#### Create your `gradebook`
 
 Create a variable `gradebook` and assign it the value of an empty object.
 
-#### Add property to `gradebook`
+#### Add a property to `gradebook`
 
 Make each student name in `students` a property of `gradebook` and assign each the value of a new object.
 
