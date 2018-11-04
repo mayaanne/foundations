@@ -36,7 +36,7 @@ __Pro-tip:__ The same process that you use for Mizuxe can be used for any websit
 
 1. Use the files and complete the [Google Chrome Developers Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag).   
 2. Go to a website of your choice. Use DevTools to manipulate some elements. Take a before and after screenshot.  
-3. Save your screenshot in this repo with the file name `js-devtools-before.jpg`and `js-devtools-after.jpg`  
+3. Save your screenshot in this repo with the file name `js-devtools-before.jpg` and `js-devtools-after.jpg`  
 
 ## Reflect 
 In your [my-reflections-sprint-3](my-reflections-sprint-3.md) answer the following questions: 
@@ -48,6 +48,6 @@ In your [my-reflections-sprint-3](my-reflections-sprint-3.md) answer the followi
 Commit and push your changes to GitHub. 
 
 ## Additional Resources (optional)
-[Udemy - basics of chrome developer tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/) VISUAL/DO 
-[Kirupa - JS, the browser and the DOM](https://www.kirupa.com/html5/javascript_the_browser_and_the_dom.htm) VISUAL/AUDIO/READ  
+[Udemy - basics of chrome developer tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/) VISUAL/DO\
+[Kirupa - JS, the browser and the DOM](https://www.kirupa.com/html5/javascript_the_browser_and_the_dom.htm) VISUAL/AUDIO/READ\
 [Tips and tricks - DevTools](https://medium.freecodecamp.org/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3)  [The Dom and Events - EDA Article](js-dom-and-dev-tools-article.md) - READ  
