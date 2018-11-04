@@ -1,3 +1,5 @@
+[Katas Home](../js-katas.md)
+
 # A Gradebook from Names and Scores
 
 ## Learning Competencies

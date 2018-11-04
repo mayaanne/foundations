@@ -1,3 +1,5 @@
+[Katas Home](../js-katas.md)
+
 # Manipulating JavaScript Objects
 
 ## Learning Competencies

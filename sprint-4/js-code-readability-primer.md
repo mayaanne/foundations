@@ -1,3 +1,3 @@
 [Sprint 4 Home](README.md)
 
-# Code Readability Challenge
+# Code Readability Primer

@@ -1,3 +1,5 @@
+[Katas Home](../js-katas.md)
+
 # JavaScript Olympics
 
 ## Learning Competencies

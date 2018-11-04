@@ -12,8 +12,9 @@ Unit testing:
 
 TDD:
 - test driven == test first
-- tdd forgoes writing "nice" code and instead makes code that suits a need
+- tdd forgoes writing "nice" code and instead makes code that works/suits a need
 - need to first work out what those needs are
 - can come back after and refactor code
+- big picture down (almost opposite of unit testing)
 
-these can be used together
+these can be used together to make code that _works reliably_

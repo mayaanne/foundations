@@ -1,3 +1,5 @@
+[Katas Home](../js-katas.md)
+
 # JavaScript Variables and Object Types
 
 ## Learning Competencies
