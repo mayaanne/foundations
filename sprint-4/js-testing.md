@@ -2,7 +2,13 @@
 
 # Testing
 
-- large concept (two you will see most tdd/unit testing)
+- large concept 
+- in all languages
+- code that isn't tested isn't complete
+- is how we know that code works
+- two you will see most tdd/unit testing
+    - manual testing is what you will do most in foundations, do thing, check it works
+    - console.log is also this
 
 Unit testing:
 - written after code
