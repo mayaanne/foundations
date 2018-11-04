@@ -22,11 +22,11 @@ var terah = {
 }
 ```
 
-## [repl.it](https://repl.it/@kelly_keating/Manipulating-JS-Objects)
-> Follow link, fork to own account
+## [Repl.it](https://repl.it/@devacademy)
+Making sure you are logged in to your account, navigate to the [Manipulating JS Objects](https://repl.it/@kelly_keating/Manipulating-JS-Objects) challenge. Starting the challenge will then fork it to your own account.
 
 ## Run the tests 
-Run the code on your forked repl.it challenge. All tests will log `true` in the console when they pass--`false`, otherwise.
+Run the code on your forked repl.it challenge. All tests will log `true` in the console when they pass -- `false`, otherwise.
 
 ## Pass the Tests
 You'll want to follow the outline below. Note that each step should build on but not modify any of the code before it.
@@ -61,4 +61,4 @@ each step, run your code to be certain that the next test has passed.
 When all of the tests have passed, your final `terah` object will be logged to the console.
 
 ## Submit it 
-> Put your link somewhere?
+> Link and reflect

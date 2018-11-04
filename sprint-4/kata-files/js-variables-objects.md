@@ -27,4 +27,4 @@ Hint: If you get an error message that says something like ...
 All tests will log `true` in the console when they pass -- `false`, otherwise.
 
 ## Submit
-> Reflect ??
+> Link and reflect
