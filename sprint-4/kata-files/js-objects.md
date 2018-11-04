@@ -23,7 +23,7 @@ var terah = {
 ```
 
 ## [Repl.it](https://repl.it/@devacademy)
-Making sure you are logged in to your account, navigate to the [Manipulating JS Objects](https://repl.it/@kelly_keating/Manipulating-JS-Objects) challenge. Starting the challenge will then fork it to your own account.
+Making sure you are logged in to your account, navigate to the [Manipulating JS Objects](https://repl.it/@devacademy/Manipulating-JS-Objects) challenge. Starting the challenge will then fork it to your own account.
 
 ## Run the tests 
 Run the code on your forked repl.it challenge. All tests will log `true` in the console when they pass -- `false`, otherwise.
