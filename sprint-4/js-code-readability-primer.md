@@ -22,7 +22,10 @@ Readability means (to me):
 
 ---
 
-You will write things once through rough, and then come back to it, refactor, tidy. Doesn't need to be pretty the first time, but make it pretty before you leave.
+You will write things once through rough, and then come back to it.\
+This is called refactoring. Includes tidying, writing more concise code, making the code easier to read.
+
+Doesn't need to be pretty the first time, but make it pretty before you leave.
 
 
 https://github.com/dev-academy-programme/curriculum/tree/master/resources/js-writing-short-functions-ARTICLE
