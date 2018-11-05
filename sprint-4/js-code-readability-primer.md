@@ -12,6 +12,7 @@
 
 Readability means (to me):
 - indentation/formatting to standards
+- consistenty in how you name things and how you format
 - name things well (funcs and vars) so you can tell what they do/are
 - break things into small segments (many small funcs > one big func)
 - functions do one thing 
