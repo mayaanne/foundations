@@ -39,5 +39,5 @@ In your [my-reflections-sprint-3](my-reflections-sprint-3.md) answer the followi
 Commit and push your changes to GitHub. 
 
 ## Suggested Resources
-[Introdcution to the DOM - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)  
+[Introduction to the DOM - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)  
 [The Dom and Events - EDA Article](js-dom-and-dev-tools-article.md) - READ
