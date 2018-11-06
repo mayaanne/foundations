@@ -1,4 +1,4 @@
-#Code Readibility Primer
+# Code Readibility Primer
 
 ### Learning Competencies 
 By the end of this primer, you should be familiar with and able to :
