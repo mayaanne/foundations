@@ -7,6 +7,16 @@
 - the site `repl.it` can do a bunch of languages, including html/css/js, but we want it for node.js
 - chosing node.js will let us write a .js file and if we click 'run' at the top of the page, will execute whatever's in this file
 
+
+START OF ENGIE NOTES:
+I'm really aware that we cover node in Boot Camp and wouldn't want to give the whole background knowledge of node in  Foundations.
+
+- What is Repl?
+e.g. Repl is a simulator of a terminal and text editor that allows you (the student) to get right into an exercise without needing to download or install further software (when you get to boot camp, you will learn to do this on your own device, but for now - let's focus on learning more JavaScript!).
+- the site `repl.it` can do a bunch of languages, including html/css/js, but we want it for node.js
+- chosing node.js will let us write a .js file and if we click 'run' at the top of the page, will execute whatever's in this file
+END OF ENGIE NOTES
+
 ---
 - sign up
 - we can create a project
