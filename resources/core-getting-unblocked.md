@@ -3,11 +3,11 @@
 
 ## Getting unblocked 
 
-The internet is fully of bugs! 
+The internet is full of bugs!\
 Everything you do as a web developer is process of working towards a state of less broken. 
 
-Sometimes the error will be your code, othertimes it will be in the tests, in the descriptions or challenges.
-Harness your problem solving skills to understand firstly where the error is and secondly to overcome it. 
+Sometimes the error will be your code, other times it will be in the tests, in the descriptions or challenges.
+Harness your problem solving skills to firstly understand where the error is and secondly to overcome it. 
 
 ## Tips and Resources 
 
