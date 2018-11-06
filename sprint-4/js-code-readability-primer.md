@@ -1,4 +1,4 @@
-# Code Readibility Primer
+# Code Readability Primer
 
 ### Learning Competencies 
 By the end of this primer, you should be familiar with and able to :
@@ -16,8 +16,8 @@ Challenge | Time|
 Research | 1 hours
 Reflect | 20 minutes
 
-## Code Readibility 
-Code Readibility is about practising the following habits when you are working on code:
+## Code Readability 
+Code Readability is about practising the following habits when you are working on code:
 - Indentation/formatting your code to best practice standards.
 - Consistency in how you name things and how you format your code.
 - Naming things well (things like functions and variables) so you can tell what they do or are.
@@ -38,7 +38,7 @@ In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer the followi
 
 1. What did I notice about my learning style, strengths and limitations when researching? 
 2. Did any blocks come up for you? How did you overcome them?  
-3. What Code Readibility habit will you begin implementing today?
+3. What code readability habit will you begin implementing today?
 
 ## Stage and push! 
 Commit and push your changes to GitHub. 
