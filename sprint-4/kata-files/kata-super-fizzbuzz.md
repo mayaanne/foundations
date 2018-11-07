@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Use strings, integers, arrays, functions
-- Use if/else statements, string methods, for loops
+- Use if/else or switch statements, string methods, for loops
 
 ## Summary:
 
@@ -31,15 +31,16 @@ super_fizzbuzz([30, 9, 20, 1])      // will return ["FizzBuzz", "Fizz", "Buzz", 
 
 ---
 
-## Release 0: Write [Pseudocode](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Write Pseudocode
 
-## Release 1: Write your [initial solution](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+To start, think through what needs to happen in your function and write pseudocode comments for the steps it will have.
 
-Once you write the solution, run the [tests](fizz_buzz_spec.rb). If your initial solution passes all tests, move on to the next release.
+## Write your initial solution
 
-## Release 2: Translate RSpec
-Translate as much of the RSpec as you can into [Driver Test Code](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/driver-code.md). Make sure your initial solution is passing all of your tests.
+Write code to match your pseudocode steps. You may find you have to do things in a different order than you originally wrote in your pseudocode or add more steps in, and that's alright! The pseudocode is a first pass, you don't have to match it exactly.
 
-## Release 3: [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
+Once written, run the tests. If your initial solution passes all tests, move on to the next steps.
 
-## Release 4: Push!
+>## Stretch: Refactor your code
+
+>## Submit and Reflect
