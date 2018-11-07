@@ -20,12 +20,28 @@ Reflection | 10 minutes
 ## Instructions
 _Use the files located within this Sprint 4 folder to follow along_
 
-1. Create a new file and name it `zen-garden-tidy.html`.
-2. Copy and paste the code from the [zen-garden-untidy HTML file](zen-garden-untidy.html) into your new `zen-garden-tidy.html` file.
-3. Following the guidelines in [Formatting & Indenting Your HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html), tidy up the code you've just copied into your `zen-garden-tidy.html`.
+1. Open your terminal, navigate to your forked `foundations` repo and navigate to your `sprint-4` folder.
+2. When you are get to your `sprint-4` folder, create a new branch called `zen-garden-tidy`.
+
+<figure>
+  <figcaption>
+    <p><strong>Figure 1:</strong> Creating a branch</p>
+  </figcaption>
+  <img src="../images/github_16_zen_branch.PNG" alt="Creating a branch"><br>
+
+</figure>
+
+3. In terminal, list out the contents of your `sprint-4` folder and you should see a file called `zen-garden-untidy.html`.
+4. Navigate to the `zen-garden-untidy.html` file and open your text editor.
+5.  What you are going to find in this file has a whole lot of untidy code that is in need of a clean up.  Following the guidelines in [Formatting & Indenting Your HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html), tidy up the code.
+6.  Once you have finished tidying up the code, change the name of the file to `zen-garden-tidy.html`.
 
 ## Stage and push! 
 Commit and push your changes to GitHub. 
+
+7. Create new pull request (hint: Navigate repo on GitHub website and create pull request from there).  
+8. Your pull request will be reviewed with your facilitator at your next 1:1. 
+
 
 ## Reflect 
 Navigate to your `my-reflections-sprint-4` file.
