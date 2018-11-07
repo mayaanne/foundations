@@ -23,6 +23,7 @@
 
 - Is a way of breaking down a large function into the small steps that need to happen.
 - You can make the small parts work, and this makes the whole thing work eventually
+- Time taken now to think through steps now can save you a whole bunch of time later
 - is like a recipe, you don't need to look at the fine details until you get to that step 
     - my brownie recipe: put butter, sugar, and cocoa in bowl and microwave. mix in vanilla and eggs. add flour until thick. bake. 
     - Don't need the specific deets until you get to that step
