@@ -27,7 +27,7 @@ _Use the files located within this Sprint 4 folder to follow along_
   <figcaption>
     <p><strong>Figure 1:</strong> Creating a branch</p>
   </figcaption>
-  <img src="../images/github_16_zen_garden.PNG" alt="Creating a branch"><br>
+  <img src="../images/github_16_zen_branch.PNG" alt="Creating a branch"><br>
 
 </figure>
 
