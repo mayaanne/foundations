@@ -21,7 +21,7 @@ Reflection | 10 minutes
 _Use the files located within this Sprint 4 folder to follow along_
 
 1. Open your terminal, navigate to your forked `foundations` repo and navigate to your `sprint-4` folder.
-2. When you are get to your `sprint-4` folder, create a new branch and called `zen-garden-tidy`.
+2. When you are get to your `sprint-4` folder, create a new branch called `zen-garden-tidy`.
 
 <figure>
   <figcaption>
@@ -33,7 +33,7 @@ _Use the files located within this Sprint 4 folder to follow along_
 
 3. In terminal, list out the contents of your `sprint-4` folder and you should see a file called `zen-garden-untidy.html`.
 4. Navigate to the `zen-garden-untidy.html` file and open your text editor.
-5.  What you are going to find in this file is a whole lot of untidy code that is in need of a clean up.  Following the guidelines in [Formatting & Indenting Your HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html), tidy up the code.
+5.  What you are going to find in this file has a whole lot of untidy code that is in need of a clean up.  Following the guidelines in [Formatting & Indenting Your HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html), tidy up the code.
 6.  Once you have finished tidying up the code, change the name of the file to `zen-garden-tidy.html`.
 
 ## Stage and push! 
