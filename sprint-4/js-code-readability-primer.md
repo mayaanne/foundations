@@ -3,7 +3,7 @@
 ### Learning Competencies 
 By the end of this primer, you should be familiar with and able to explain:
 
-- What is code readability.
+- What code readability is.
 - Why it's an important skill to have as a developer.
 - What code readability habits you can start building on today.
 
