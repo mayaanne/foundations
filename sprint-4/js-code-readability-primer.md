@@ -19,7 +19,7 @@ Research | 1 hours
 Reflect | 20 minutes
 
 ## Code Readability 
-Code Readability is about practising the following habits when you are working on code:
+Code Readability is about practicing the following habits when you are working on code:
 - Indentation/formatting your code to best practice standards.
 - Consistency in how you name things and how you format your code.
 - Naming things well (things like functions and variables) so you can tell what they do or are.
