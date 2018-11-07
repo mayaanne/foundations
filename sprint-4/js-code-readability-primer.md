@@ -3,9 +3,9 @@
 ### Learning Competencies 
 By the end of this primer, you should be familiar with and able to explain:
 
-- what is code readability
-- why it's an important skill to have as a developer 
-- what code readability habits you can start building on today
+- What is code readability.
+- Why it's an important skill to have as a developer.
+- What code readability habits you can start building on today.
 
 
 ## Summary
@@ -27,6 +27,7 @@ Code Readability is about practicing the following habits when you are working o
 - D.R.Y (Don't Repeat Yourself).
 - Commenting a complicated section so people have some idea before reading.
 - Not commenting everything or obvious things.
+- Refactoring.
 - Clean code.
 
 ## Research 
