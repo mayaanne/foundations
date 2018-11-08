@@ -51,7 +51,7 @@ Part One:
 - Write a story about HTML and CSS and their relationship. You could personify elements or speak from your own personal experince. The story should capture insight about the nature of HTML and CSS.  
 
 Part two:
-- What obsticals you came up against and how you over came them? 
+- What obstacles you came up against and how you over came them? 
 - Any moments of surprise or joy? 
 
 
