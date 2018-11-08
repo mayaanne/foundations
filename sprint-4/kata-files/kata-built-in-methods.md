@@ -23,7 +23,7 @@ Each function waiting to be written focuses on a different array method. You wil
 The MDN documentaion can be a great place to start, as it lists _all_ the built-in methods available for both [arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) and [strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String), but you will want to find your own resources about these methods to help you complete your functions.
 
 ## [Repl.it](https://repl.it/@devacademy)
-Making sure you are logged in to your account, navigate to the [Array Methods](https://repl.it/@devacademy/Array-Methods) challenge. Starting the challenge will then fork it to your own account.
+Making sure you are logged in to your account, navigate to the [Built-in Methods](https://repl.it/@devacademy/Built-in-Methods) challenge. Starting the challenge will then fork it to your own account.
 
 ## Get Coding
 >You will find the functions for this challenge are held within the functions.js file.
