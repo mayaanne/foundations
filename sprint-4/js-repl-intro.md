@@ -7,7 +7,7 @@ By the end of this primer, you should be familiar with and able to:
 >- ???
 
 ## Summary
-During this sprint you will be using repl.it, a website that lets you run all sorts of code in your browser, in this case to run your challenges. Take this time to get yourself familiar with the site and how it works. It simulates what we will be doing from the computer in bootcamp, but without having to do any set up!
+During this sprint you will be using [repl.it](https://repl.it/), a website that lets you run all sorts of code in your browser, in this case to run your challenges for sprint 4. Take this time to get yourself familiar with the site and how it works. It simulates what we will be doing from the computer in bootcamp, but without having to do any set up!
 
 
 ## Timebox
@@ -19,9 +19,9 @@ Reflect | 10 minutes
 
 ## Description
 
-`Repl.it` is a website that simulates a terminal and text editor, allowing you (the student) to get right into the code without needing to download or install further software (when you get to bootcamp, you will learn more about how to set this up on your own device, but for now - let's focus on learning more JavaScript!).
+Repl.it is a website that simulates a terminal and text editor, allowing you (the student) to get right into the code without needing to download or install further software (when you get to bootcamp, you will learn more about how to set this up on your own device, but for now - let's focus on learning more JavaScript!).
 
-There are a whole bunch of programming languages that `repl.it` lets you run through the browser, including HTML/CSS. For our challenges though, we will be using `node.js` to write and then run our javascript files. 
+There are a whole bunch of programming languages that repl.it lets you run through the browser, including HTML/CSS. For our challenges though, we will be using `node.js` to  run our javascript files. 
 
 
 ## Sign Up
@@ -30,11 +30,10 @@ Before you start using the site, you will need to sign up so you can save your w
 
 #### Register
 
-Navigate to the [sign up page](https://repl.it/signup) of `repl.it`. There are a couple of options you can use to log in, but we would recommend using your github account to do so. You can do this by clicking on the github logo above the sign up boxes and then accepting the prompt to authorise `repl.it` to access your github account.
+Navigate to the [sign up page](https://repl.it/signup) of repl.it. There are a couple of options you can use to log in, but we would recommend using your github account to do so. You can do this by clicking on the github logo above the sign up boxes and then accepting the prompt to authorise repl.it to access your github account.
 
 <figure>
-  <img width="62%" src="../images/repl_1_register_marked.png" alt="Repl Sign Up Page">
-  <img width="27%" src="../images/repl_2_authorise_github.png" alt="Authorise Github Prompt">
+  <img src="../images/repl_1_register.png" alt="Repl Sign Up Page">
   <br>
 </figure>
 
@@ -42,12 +41,12 @@ Once your account is registered, it will save any work you do on the site to it 
 
 #### Run a repl
 
-On the page for devacademy, click on the [Hello](https://repl.it/@devacademy/Hello) repl to open it. This is a repl we created to run `node.js` code, and you can see we've already written some javascript in there.
+On the page for devacademy, click on the [Hello](https://repl.it/@devacademy/Hello) repl to open it. This is a repl we created to run javascript code in `node.js`, and you can see we've already written some javascript in there.
 
-There are three parts to the repl window. Left to right in our `node.js` repl they are: the files in this repl, the code in the current file, and the terminal.
+There are three parts to the repl window. Left to right they are: the files in this repl, the code in the current file, and the terminal.
 
 <figure>
-  <img src="../images/repl_3_hello.png" alt="Hello Repl">
+  <img src="../images/repl_2_hello.png" alt="Hello Repl">
   <br>
 </figure>
 
@@ -55,19 +54,26 @@ We can run a repl by clicking on the green `run` button at the top of the page. 
 
 #### Fork a repl
 
-That greeting was not very specific. We want to update the repl to greet you by name instead. To do so we will need to change the file. It would be rather annoying if any user could come along and change that code you've worked so hard on, so this website uses something you will already be familiar with, `forking`.
+That greeting was not very specific. We want to update the repl to greet you by name instead. To do so we will need to change the file. It would be rather annoying if any user could come along and change that code you've worked so hard on, so this website uses something you will already be familiar with from github, `forking`.
 
 Rather than letting you edit the file in someone else's repl, as soon as you start editing a file, a copy of the repl will be created in your own account. You can also click on the `fork` button at the top of the page to manually do this.
 
----
+So, making sure you are logged into the site, comment out `sayHello()` on line 9 and uncomment line 10 instead. This will fork the repl to your account to do with as you like. You will want to replace the string currently being passed to `greet` with a string of your name instead, and you can now receive a personalised greeting! 
 
-- update to greetname (that's better)
-    - username change in header
-- see repl in own account
-- we can also create a project
-    - choose language
-    - name it
-- update hello image above?
+You will now also be able to see the username in front of the repl title (in the top bar) has changed to your username.
 
+<figure>
+  <img src="../images/repl_3_forking.png" alt="Hello Repl">
+  <br>
+</figure>
 
-## Reflect
+#### Your repls
+
+Clicking on the repl logo in the top left of the page will take you to a list of your [repls](https://repl.it/repls). Here you can see any previous repls you have made and, by clicking on the orange `+` button in the lower right corner, create new ones.
+
+<figure>
+  <img src="../images/repl_4_your_repls.png" alt="Hello Repl">
+  <br>
+</figure>
+
+>## Reflect
