@@ -2,6 +2,16 @@
 
 # Katas
 
+## Summary
+
+The concept of Katas is taken from martial arts, small, repeditive tasks used to improve your form. We use katas in coding as small challenges that we can do again and again to use different techniques, different peices of code, to try and solve the same problem in different ways.
+
+This will be your first time encountering these katas, so don't expect that you will do them quickly. Each time you redo them you will have the previous experience from last time, so when coming back to these later your time will decrease each time.
+
+
+
+---
+
 - small
 - repeatable
 - https://en.wikipedia.org/wiki/Kata
@@ -17,4 +27,4 @@ Testing will be used in each of these, but result will look different (some give
 [Map/Filter/Find/Reduce](kata-files/kata-built-in-methods.md) - 4 hrs
 
 Stretch\
-[JS Olympics](kata-files/kata-olympics.md)
+[JS Olympics](kata-files/kata-olympics.md) - 8 hours
