@@ -30,10 +30,10 @@ We would recommend completing the kata in the order given below as they will bui
 
 Kata | Time|
 ------------|----------|
-[Variables/Objects](kata-files/kata-variables-objects.md) | 2 hrs
+[Variables and Objects](kata-files/kata-variables-objects.md) | 2 hrs
 [Manipulating Objects](kata-files/kata-manipulate-objects.md) | 4 hrs
 [Super Fizzbuzz](kata-files/kata-super-fizzbuzz.md) | 4 hrs
 [JS Gradebook](kata-files/kata-gradebook.md) | 8 hrs
-[Map/Filter/Find/Reduce](kata-files/kata-built-in-methods.md) | 4 hrs
+[Built-in Methods](kata-files/kata-built-in-methods.md) | 4 hrs
 __Stretch__ |
 [JS Olympics](kata-files/kata-olympics.md) | 8 hrs
