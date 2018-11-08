@@ -36,7 +36,5 @@ Kata | Time|
 [Super Fizzbuzz](kata-files/kata-super-fizzbuzz.md) | 4 hrs
 [JS Gradebook](kata-files/kata-gradebook.md) | 8 hrs
 [Map/Filter/Find/Reduce](kata-files/kata-built-in-methods.md) | 4 hrs
-
-Stretch | Time|
-------------|----------|
+__Stretch__ |
 [JS Olympics](kata-files/kata-olympics.md) | 8 hrs
