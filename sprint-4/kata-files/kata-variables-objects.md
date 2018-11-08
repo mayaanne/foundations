@@ -1,4 +1,4 @@
-[Katas Home](../js-katas.md)
+[Sprint 4 Home](../README.md) | [Katas Page](../js-katas.md)
 
 # JavaScript Variables and Object Types
 
