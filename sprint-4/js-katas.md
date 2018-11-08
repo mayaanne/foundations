@@ -4,7 +4,7 @@
 
 ## Summary
 
-For this challenge you will be completing a number of different kata exercises on repl.it to practice your javascript. 
+For this challenge you will be completing a number of different kata exercises on [repl.it](js-repl-intro.md) to practice your javascript. 
 
 ## Timebox
 
