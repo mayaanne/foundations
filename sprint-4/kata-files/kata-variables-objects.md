@@ -15,7 +15,7 @@ Now that you have learned a bit about JavaScript, it's time to use that knowledg
 Making sure you are logged into your account, navigate to the [JS Variables and Objects](https://repl.it/@devacademy/JS-Variables-and-Objects) challenge. Starting the challenge will then fork it to your own account.
 
 ## Test-Driven Development
-If you look at the bottom of your index.js file, you'll see a function `assert`. These are tests that will help drive your development. In the developer world, basing your code off of tests is called Test-Driven Development (TDD) and is popular with many developers. 
+> If you look at the bottom of your index.js file, you'll see a function `assert`. These are tests that will help drive your development. In the developer world, basing your code off of tests is called Test-Driven Development (TDD) and is popular with many developers. 
 
 The tests will tell you what code to write next. Run your code and read the message explaining why the code couldn't run or why the test failed. The first step is to make the first test pass. Then make the second test pass, and so on.
 

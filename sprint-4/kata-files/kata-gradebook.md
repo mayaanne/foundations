@@ -19,7 +19,7 @@ var scores = [ [80, 70, 70, 100],
                [100, 90, 95, 85] ]
 ```
 
-You will take this data and transform it into a grade book.  The grade book will be a JavaScript object.
+You will take this data and transform it into a gradebook.  The gradebook will be a JavaScript object.
 
 ## [Repl.it](https://repl.it/@devacademy)
 Making sure you are logged into your account, navigate to the [JS Gradebook](https://repl.it/@devacademy/JS-Gradebook) challenge. Starting the challenge will then fork it to your own account.
