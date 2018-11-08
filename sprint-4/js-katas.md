@@ -6,6 +6,8 @@
 
 For this challenge you will be completing a number of different kata exercises on [repl.it](js-repl-intro.md) to practice your javascript. 
 
+Each of these kata will involve you completing some code to pass tests that have already been written for you. These will all be presented slightly differently and focus on different parts of javascript, so make sure you take your time to read the accompanying file and get yourself familiar with the kata before starting.
+
 ## Timebox
 
 Activity | Time|
@@ -24,10 +26,7 @@ Once our basic kata have been mastered the next step is placing some restriction
 
 ## Get Coding!
 
-Each of these kata will involve you completing some code to pass tests that have already been written for you. These will all be presented slightly differently and focus on different parts of javascript, so make sure you take your time to read the accompanying file and get yourself familiar with the kata before starting.
-
-We would recommend completing the kata in the order given below as they will build on javascript from the earlier kata.
-
+We would recommend completing the kata in the order given below as they will build on javascript from earlier kata.
 
 Kata | Time|
 ------------|----------|
