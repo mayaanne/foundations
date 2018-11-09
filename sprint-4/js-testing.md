@@ -24,3 +24,8 @@ TDD:
 - big picture down (almost opposite of unit testing)
 
 these can be used together to make code that _works reliably_
+
+>- create intent
+>- can know the goal but explore different methods to get there
+>- educe maintenece
+>- changes don't break existing features
