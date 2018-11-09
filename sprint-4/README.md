@@ -2,7 +2,7 @@
 
 # Sprint Four
 
-__Unit Testing, Code Readability and Kata's __
+__Testing, Code Readability and Kata's __
 
 ## Tech
 
