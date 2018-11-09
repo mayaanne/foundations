@@ -20,7 +20,7 @@ Two aspects of coding that we will see use during bootcamp are Unit Testing and 
 
 #### Unit Testing
 
-- can be written after code
+- _can_ be written after code
 - creates reliable code
 - creates reliability in small parts of code so larger parts can be built from it
 - doesn't necessarily care about the larger functionality
@@ -39,7 +39,7 @@ Two aspects of coding that we will see use during bootcamp are Unit Testing and 
 
 >these can be used together to make code that _works reliably_
 
->- create intent
->- can know the goal but explore different methods to get there
->- educe maintenece
->- changes don't break existing features
+>- tests can create intent in the code
+>- tdd used so can know the goal but explore different methods to get there
+>- tests reduce maintenece as you know when it's not working
+>- test to make sure changes don't break existing features
