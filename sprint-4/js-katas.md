@@ -18,9 +18,9 @@ Stretch | 8 hours
 
 ## Description
 
-The concept of kata are taken from [martial arts](https://en.wikipedia.org/wiki/Kata), small, repeditive tasks used to improve your form. We use kata in coding as small challenges that we can do again and again to use different techniques, different peices of code, to try and solve the same problem in different ways.
+The concept of kata are taken from [martial arts](https://en.wikipedia.org/wiki/Kata), small, repeditive tasks used to improve your form. We use kata in coding as small challenges that we can do again and again to use different techniques, different pieces of code, to try and solve the same problem in different ways.
 
-This will be your first time encountering these kata, so don't expect that you will do them quickly. Each time you redo them you will have the experience from last time, so when coming back to these your time will decrease each with each go.
+This will be your first time encountering these kata, so don't expect that you will do them quickly. Each time you redo them you will have the experience from last time, so when coming back to these your time will decrease with each go.
 
 Once our basic kata have been mastered the next step is placing some restrictions on how you complete them. You will have a number of different ways to complete the same kata, so a restriction on how you do it can help you master your form in one particular area.
 
