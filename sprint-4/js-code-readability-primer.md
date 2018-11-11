@@ -15,7 +15,7 @@ When writing or working on code as a developer, you will find you won't be the o
 
 Challenge | Time|
 ------------|----------|
-Research | 1 hours
+Research | 1 hour
 Reflect | 20 minutes
 
 ## Code Readability 

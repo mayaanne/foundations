@@ -1,41 +1,42 @@
 [Sprint 4 Home](README.md)
 
-# Pseudocode and Problem Solving
+# Problem Solving and Pseudocode
 
-- as a devaloper, your life is full of problems
-- learn how to break down problems 
-- small parts fix large problems
-- look at what info you have and where you want to get to
-- think of some ways you might get there before you start coding
+### Learning Competencies 
+By the end of this primer, you should be familiar with and able to explain:
 
-#### Problem solving techniques:
-- Pseudocode
-- Trying something
-- Rubber ducky method
-- Reading error messages
-- Console.logging
-- Googling
-- Asking your peers for help
-- Asking coaches for help
-- Improving your process with reflection
+- Why problem solving is an important skill to have as a developer.
+- A variety of problem solving techniques you can start using today starting with pseudocode.
 
-#### Pseudocode
+## Summary
+As a developer, before you even start to code you need to make the time to think of ways you might approach a problem you are trying solve.   You'll need to learn to look at problems, look at the information you have and figure out how are you going to get to where you want to be. You will need to learn how to take a problem and break it down into smaller parts and begin fixing your way towards building a solution.
+Throughout your journey in Web Development, you are going to be confronted with a range of problems.  It is important you are equipped with skills you will need to solve these problems.
 
-- Is a way of breaking down a large function into the small steps that need to happen.
-- You can make the small parts work, and this makes the whole thing work eventually
-- Time taken now to think through steps now can save you a whole bunch of time later
-- is like a recipe, you don't need to look at the fine details until you get to that step 
-    - my brownie recipe: put butter, sugar, and cocoa in bowl and microwave. mix in vanilla and eggs. add flour until thick. bake. 
-    - Don't need the specific deets until you get to that step
->Pseudocode something?
 
----
->From phase-0:\
->**Tell your non-tech friend a story about a time you:**  
->1. Got blocked on a simple problem
->2. Solved a problem in an elegant way  
->In both cases:  
->- [ ] What was the problem?
->- [ ] What problem solving techniques did you use?
->- [ ] How did you feel throughout the process?
->- [ ] What did you learn?
+## Timebox 
+
+Challenge | Time|
+------------|----------|
+Research | 1.5 hours
+Reflect | 20 minutes
+
+## Problem Solving 
+
+
+## Research 
+Have a good look around the internet to understand what code readability is and methods developers use.
+To begin, check out Scott Granneman's article on [Formatting & Indenting Your HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html) This is a great article to see what is a good method of indenting HTML.  Keep in mind - this style of indenting is what should be used in all your code from this point on.
+
+Keep notes as you'll describe code readability in your technical blog this sprint. 
+
+## Reflect 
+In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer the following questions: 
+
+1. What did I notice about my learning style, strengths and limitations when researching? 
+2. Did any blocks come up for you? How did you overcome them?  
+3. What code readability habit will you begin implementing today?
+
+## Stage and push! 
+Commit and push your changes to GitHub. 
+
+
