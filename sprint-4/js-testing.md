@@ -8,7 +8,10 @@ Testing is a hugely important and also rather large concept in coding. It is par
 
 ## Timebox
 
-> Here
+Activity | Time|
+------------|----------|
+Learn | 30 minutes
+Reflect | 10 minutes
 
 ## Description
 
@@ -54,13 +57,32 @@ This way of coding means you have to work out what you intend for the code to do
 
 Once the tests are written, you can then write the code that makes these tests pass. Because of this, TDD forgoes writing "nice" code, so long as it works to acheive the needs of the test. This also means we can try a number of different methods to acheive the same goal as it doesn't matter how we get there, just that we do. Once the code works we then go back and `refactor` it to make it more concise and readable.
 
+#### Some interesting links:
 
->## Explore?
->- links, courses?
+[A crash course on testing](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)\
+[What is TDD and why should we care about it?](https://medium.freecodecamp.org/isnt-tdd-test-driven-development-twice-the-work-why-should-you-care-4ddcabeb3df9)\
+[How to write a good Unit Test](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
+
+## Give it a go
+
+In your [my-reflections-sprint-4](my-reflections-sprint-4.md) write a function that would pass this test: 
+
+```
+function testSum(){
+    var expected = 7
+    var actual = sum(5, 2)
+
+    if (actual != expected) {
+        console.log("It's broken..")
+    } else {
+        console.log("It works!")
+    }
+}
+```
 
 ## Reflect
 
+In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer: 
 
->what is functional programming?
-
->how can these can be used together to make code that _works reliably_
+1. Do you think you would prefer using Unit Testing or Test Driven Development? Why?
+1. How could these techniques be used together to make code that _works reliably_?
