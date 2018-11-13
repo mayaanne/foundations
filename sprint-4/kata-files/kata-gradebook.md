@@ -7,6 +7,11 @@
 - Define functions in JavaScript
 - Create, add properties to, delete properties from, and access values in object literals
 
+Activity | Time|
+------------|----------|
+Kata | 8 hours
+Reflect | 10 minutes
+
 ## Summary
 In this challenge you will be taking your knowledge of JavaScript to the next level! Assume there is a teacher with a list of students and a list of their respective test scores.  The teacher is providing you with this data which looks like ...
 

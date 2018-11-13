@@ -6,6 +6,11 @@
 - Use strings, integers, arrays, functions
 - Use if/else or switch statements, string methods, for loops
 
+Activity | Time|
+------------|----------|
+Kata | 4 hours
+Reflect | 10 minutes
+
 ## Summary:
 
 FizzBuzz is a classic programming exercise (and fairly common interview question).

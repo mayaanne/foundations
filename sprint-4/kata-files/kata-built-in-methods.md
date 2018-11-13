@@ -14,6 +14,11 @@
     - Split
     - ToUpperCase
 
+Activity | Time|
+------------|----------|
+Kata | 4 hours
+Reflect | 10 minutes
+
 ## Summary
 
 In this challenge you will be using some of the built-in methods for arrays and strings. A built-in method is another name for a function that is already written for you and available in the basic JavaScript library, you just need to know how to use it!

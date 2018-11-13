@@ -8,6 +8,10 @@
 3. Use JavaScript built-in methods
 4. Read tests and understand why they're failing
 
+Activity | Time|
+------------|----------|
+Kata | 8 hours
+Reflect | 10 minutes
 
 ## Summary
 It is finally time... for the Foundations JavaScript Olympics! You will be completing a pentathlon of challenges to stretch your JavaScript knowledge. You will be going through a variety of tasks, some of them you will know how to do already, some will test your research abilities.
