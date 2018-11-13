@@ -39,19 +39,15 @@ In the past, you had the option of using dot notation or bracket notation. In th
 ----
 
 #### Create your `gradebook`
-
 Create a variable `gradebook` and assign it the value of an empty object.
 
 #### Add a property to `gradebook`
-
 Make each student name in `students` a property of `gradebook` and assign each the value of a new object.
 
 #### `testScores`
-
 Give each `student` property of `gradebook` its own `testScores` property and assign it the value of the respective students scores from scores.
 
 #### `addScore`
-
 - Assign an `addScore` property to `gradebook`. Give it the value of a function that accepts `name` and `score` arguments.
 - Have `addScore` push the score to the value of the `testScore` property of the `gradebook` property that matches the value of the `name` argument.
 
@@ -59,16 +55,14 @@ For example,
 ```javascript
     gradebook.addScore("Susan", 80) // would push the score 80 into the value of gradebook.Susan.testScores.
 ```
-#### `getAverage`
 
+#### `getAverage`
 Add the `getAverage` property to `gradebook` and assign it the value of a function.
 
 #### Create the function `average`
-
 Have `average` accept an array of integers and return the average of those integers.
 
 #### Modify `getAverage`
-
 Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and returns that student's average score. Use the average function you created in Release 4.
 
 > #### [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)

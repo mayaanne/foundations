@@ -77,6 +77,8 @@ Clicking on the repl logo in the top left of the page will take you to a list of
   <br>
 </figure>
 
+## Message your facilitator your Repl.it user name
+Now you have your Repl.it account created and ready to go.  Please message your Foundations facilitator on Slack and let them know what your Repl.it user name is.
 
 ## Reflect
 In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer the following question: 

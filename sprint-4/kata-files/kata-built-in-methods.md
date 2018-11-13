@@ -20,7 +20,6 @@ Kata | 4 hours
 Reflect | 10 minutes
 
 ## Summary
-
 In this challenge you will be using some of the built-in methods for arrays and strings. A built-in method is another name for a function that is already written for you and available in the basic JavaScript library, you just need to know how to use it!
 
 Each function waiting to be written focuses on a different array method. You will need to research the methods you will use for each of these functions so you can make the tests pass.
@@ -58,3 +57,5 @@ We need to `map` over every word in a given sentence and Capitalize The First Le
 
 
 >## Submit & Reflect
+Repl.it name is needed.
+Share with your Repl.it name with your facilitator in Slack.  
