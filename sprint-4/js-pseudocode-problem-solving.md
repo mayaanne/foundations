@@ -17,24 +17,43 @@ Throughout your journey in Web Development, you are going to be confronted with 
 
 Challenge | Time|
 ------------|----------|
-Research | 1.5 hours
-Reflect | 20 minutes
+Research | 30 minutes
+Practice | 1.5
+Reflect | 30 minutes
 
 ## Problem Solving 
-
+Problem solving is a key skill you will utilise as a developer. Here are some problem solving techniques you can try today: 
+- Pseudocode.
+- Trying something.
+- Rubber ducky method.
+- Reading error messages.
+- Console.logging.
+- Googling.
+- Asking your peers for help.
+- Asking coaches for help.
+- Improving your process with reflection.
 
 ## Research 
-Have a good look around the internet to understand what code readability is and methods developers use.
-To begin, check out Scott Granneman's article on [Formatting & Indenting Your HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html) This is a great article to see what is a good method of indenting HTML.  Keep in mind - this style of indenting is what should be used in all your code from this point on.
+From the list of problem solving techniques, if there are any techniques you have never heard of before - take 30 minutes to research these.
+Keep notes as you'll describe problem solving in your technical blog this sprint. 
 
-Keep notes as you'll describe code readability in your technical blog this sprint. 
+## Practice
+Next, pick three problem solving techniques you would like to put into practice.  How will you implement these techniques into your day to day flow?  Be as specific as you possibly can and start putting these into practice.
 
 ## Reflect 
 In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer the following questions: 
 
-1. What did I notice about my learning style, strengths and limitations when researching? 
-2. Did any blocks come up for you? How did you overcome them?  
-3. What code readability habit will you begin implementing today?
+__Tell your non-tech friend a story about a time you:__
+1. Got blocked on a simple problem
+2. Solved a problem in an elegant way.
+
+
+In both cases:
+- What was the problem?
+- What problem solving techniques did you use?
+- How did you feel throughout the process?
+- What did you learn?
+
 
 ## Stage and push! 
 Commit and push your changes to GitHub. 
