@@ -56,6 +56,5 @@ We need to `map` over every word in a given sentence and Capitalize The First Le
 >So we don't have to add up all our numbers every time we need to, we're going to write a function to do this instead. This will `reduce` our list to just the total of all these numbers.
 
 
->## Submit & Reflect
-Repl.it name is needed.
-Share with your Repl.it name with your facilitator in Slack.  
+## Reflection
+1. On a scale of 1 - 5, 5 means 'These built in methods are hard!' and 1 means 'Built in methods are easy.  Piece of cake' - where on the scale are you following this Built-In-Methods kata? 
