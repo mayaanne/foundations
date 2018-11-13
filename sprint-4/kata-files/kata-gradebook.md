@@ -68,3 +68,4 @@ Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and
 ## Reflection
 Navigate to your `my-reflections-sprint-4` file.
 Answer the following questions:
+1. What was a highlight for you in this Gradebook Kata?
