@@ -33,5 +33,7 @@ Hint: If you get an error message that says something like ...
 
 All tests will log `true` in the console when they pass -- `false`, otherwise.
 
-## Submit
-> Link and reflect
+## Reflection
+Navigate to your `my-reflections-sprint-4` file.
+Answer the following question:
+1. How did you find the Variables and Objects kata?

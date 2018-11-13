@@ -59,3 +59,8 @@ var michaelPhelps = new Athlete("Michael Phelps", 29, "swimming", "It's medicina
 console.log(michaelPhelps.constructor === Athlete)
 console.log(michaelPhelps.name + " " + michaelPhelps.sport + " " + michaelPhelps.quote)
 ```
+
+## Reflection
+You've made it to the end of the stretch challenge - awesome effort.  Navigate to your `my-reflections-sprint-4` file.
+Answer the following question:
+1. If you were to complete the kata's again, what would you do differently next time?

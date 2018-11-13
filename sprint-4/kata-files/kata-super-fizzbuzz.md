@@ -49,6 +49,7 @@ Write code to match your pseudocode steps. You may find you have to do things in
 
 Once written, run the tests. If your initial solution passes all tests, move on to the next part.
 
->## Stretch: Refactor your code
-
->## Submit and Reflect
+## Reflection
+Navigate to your `my-reflections-sprint-4` file.
+Answer the following question:
+1. What was the most challenging part of Fizz Buzz?

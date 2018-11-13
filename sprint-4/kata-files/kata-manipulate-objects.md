@@ -66,5 +66,7 @@ each step, run your code to be certain that the next test has passed.
 
 When all of the tests have passed, your final `terah` object will be logged to the console.
 
-## Submit it 
-> Link and reflect
+## Reflection
+Navigate to your `my-reflections-sprint-4` file.
+Answer the following questions:
+
