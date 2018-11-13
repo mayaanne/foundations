@@ -16,7 +16,7 @@ Reflect | 10 minutes
 In this challenge you will be taking your knowledge of JavaScript to the next level! Assume there is a teacher with a list of students and a list of their respective test scores.  The teacher is providing you with this data which looks like ...
 
 ```javascript
-var students = ["Joseph", "Susan", "William", "Elizabeth"]
+var students = ["Joseph", "Susan", "Wiremu", "Elizabeth"]
 
 var scores = [ [80, 70, 70, 100],
                [85, 80, 90, 90],
@@ -65,7 +65,7 @@ Have `average` accept an array of integers and return the average of those integ
 #### Modify `getAverage`
 Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and returns that student's average score. Use the average function you created in Release 4.
 
-> #### [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md)
+<!-- > #### [Refactor](https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/coding-references/refactoring.md) -->
 
 ## Submit it
 > Link and reflect
