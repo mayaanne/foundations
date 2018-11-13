@@ -33,6 +33,9 @@ Problem solving is a key skill you will utilise as a developer. Here are some pr
 - Asking coaches for help.
 - Improving your process with reflection.
 
+## Psuedocode
+
+
 ## Research 
 From the list of problem solving techniques, if there are any techniques you have never heard of before - take 30 minutes to research these.
 Keep notes as you'll describe problem solving in your technical blog this sprint. 

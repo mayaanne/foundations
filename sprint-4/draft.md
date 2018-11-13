@@ -35,7 +35,7 @@
 >1. Got blocked on a simple problem
 >2. Solved a problem in an elegant way  
 >In both cases:  
->- [ ] What was the problem?
->- [ ] What problem solving techniques did you use?
->- [ ] How did you feel throughout the process?
->- [ ] What did you learn?
+- What was the problem?
+- What problem solving techniques did you use?
+- How did you feel throughout the process?
+- What did you learn?
