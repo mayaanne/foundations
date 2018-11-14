@@ -52,4 +52,4 @@ Once written, run the tests. If your initial solution passes all tests, move on 
 ## Reflection
 Navigate to your `my-reflections-sprint-4` file. Answer the following questions:
 1. What was the most challenging part of Super FizzBuzz for you?
-2. Did you find your pseudocode helpful during this kata?
+2. How did you find using pseudocode during this kata?
