@@ -72,7 +72,7 @@ _Shared from [Onedublin](https://onedublin.org/2012/06/19/stanford-universitys-c
 Keep your answers on a document which you will later into a blog post. 
 
 1. __Research Neuroplaticity__ 
-    - Discuss how understanding the princiapls of neuroplaticity benefits people
+    - Discuss how understanding the principles of neuroplaticity benefits people
     - Discuss how might engage with the principals of neuroplaticity for your own benefit 
     - What are some of the ways to increase your Neuroplaticity
     - Link to a resource that you found particularly useful or engaging. 
@@ -84,7 +84,7 @@ Keep your answers on a document which you will later into a blog post.
     - Link to a resource that you found particularly useful or engaging. 
 
 3. __Blend with your learning plan and strategies__
-    - Reflect and discuss how these understandings may shape or influece your learning plan and strategy. 
+    - Reflect and discuss how these understandings may shape or influence your learning plan and strategy. 
 
 ## Optional Resources 
 - [Habits & Growth Mindset](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)

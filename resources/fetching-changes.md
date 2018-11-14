@@ -25,7 +25,7 @@ It's important to note that __fetching changes will NOT override your work.__ On
 6. Push the changes to your GitHub account (`git push origin master`)  
 
 ## Additional Resource
-To view Illustrations and examples, revist Sprint 1's "Remotes and Sync Fork" [Primer](../sprint-1/git-remote-fork-merge-primer.md) and [Challenge](../sprint-1/git-remote-sync-fork-challenge.md) 
+To view Illustrations and examples, revisit Sprint 1's "Remotes and Sync Fork" [Primer](../sprint-1/git-remote-fork-merge-primer.md) and [Challenge](../sprint-1/git-remote-sync-fork-challenge.md) 
 
 
 Example illustration 

@@ -11,7 +11,7 @@ Harness your problem solving skills to firstly understand where the error is and
 
 ## Tips and Resources 
 
-- __Punctuation and spelling:__  Have you left out a closing braket? A semi-colon?  
+- __Punctuation and spelling:__  Have you left out a closing bracket? A semi-colon?  
 - __Different browser:__  Does it work in another browser?  
 - __Repl.it:__ Does it work on Repl? Are you getting the expected results? 
 - __Are others experiencing the problem? Google the exact phrase!__ 

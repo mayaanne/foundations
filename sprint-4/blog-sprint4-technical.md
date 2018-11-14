@@ -8,7 +8,7 @@ This blog should strengthen your understanding of:
 
 
 ## Summary:
-In this Sprint you learned a whole lot about Testing, Repl.it, Problem Solving, Psuedocoding and were able to practice and learn more about JavaScript.  That's alot of work - great effort.  
+In this Sprint you learned a whole lot about Testing, Repl.it, Problem Solving, Psuedocoding and were able to practice and learn more about JavaScript.  That's a lot of work - great effort.  
 
 ## Timebox
 

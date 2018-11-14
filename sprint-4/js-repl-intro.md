@@ -5,7 +5,7 @@
 ### Learning Competencies
 By the end of this primer, you should be familiar with and able to:
 
-- Access, use and have a basic understanding of the website Repl.it for your Kata's in Sprint 4.
+- Access, use and have a basic understanding of the website Repl.it for your Kata in Sprint 4.
 
 ## Summary
 During this sprint you will be using [repl.it](https://repl.it/), a website that lets you run all sorts of code in your browser, in this case to run your challenges for sprint 4. Take this time to get yourself familiar with the site and how it works. It simulates what we will be doing from the computer in bootcamp, but without having to do any set up!

@@ -2,7 +2,7 @@
 
 
 
-In addition to the challenge specific refletions, answer the following questions in your reflection:
+In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 
 

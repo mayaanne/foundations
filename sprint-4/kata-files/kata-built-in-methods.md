@@ -24,7 +24,7 @@ In this challenge you will be using some of the built-in methods for arrays and 
 
 Each function waiting to be written focuses on a different array method. You will need to research the methods you will use for each of these functions so you can make the tests pass.
 
-The MDN documentaion can be a great place to start, as it lists __all__ the built-in methods available for both [arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) and [strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String), but you will want to find your own resources about these methods to help you complete your functions.
+The MDN documentation can be a great place to start, as it lists __all__ the built-in methods available for both [arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) and [strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String), but you will want to find your own resources about these methods to help you complete your functions.
 
 ## [Repl.it](https://repl.it/@devacademy)
 Making sure you are logged in to your account, navigate to the [Built-in Methods](https://repl.it/@devacademy/Built-in-Methods) challenge. Starting the challenge will then fork it to your own account.

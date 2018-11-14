@@ -5,7 +5,7 @@
 
 ## Continuous Improvement
 
-At Enspiral Dev Academy, we strive for continous improvement and understand our need to evolve our practices, curriculum and content.  The Foundations curriculum you are experiencing has grown from the feedback of hundreds of students who have come before you.  
+At Enspiral Dev Academy, we strive for continuous improvement and understand our need to evolve our practices, curriculum and content.  The Foundations curriculum you are experiencing has grown from the feedback of hundreds of students who have come before you.  
 
 To ensure we continue to improve, we ask for your valuable feedback.  
 

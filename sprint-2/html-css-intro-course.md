@@ -15,7 +15,7 @@ By the end of the second part, you should be able to:
 - Understand and apply classes, id's  
 - Navigate the DOM 
 - Understand and use box design 
-- Understand and create esponsive design 
+- Understand and create responsive design 
 - Understand and use semantic structuring 
 
 
@@ -48,9 +48,9 @@ __Pro-tip-1: You can adjust the speed of the video's in YouTube and Udacity to s
 __Pro-tip-2: Stay focused, don't get lost in the details__  
 
 ## Preparing for surprises
-Just like everything on the web, FreeCodeCamp and Udacity have their bugs. In some cases, your solution might be perfect, but FreeCodeCamp is throwing an error. It can take some patience to discern if the error is a bug or if its caused by your code. One of your tasks as budding web developer, is to query errors and recognise where the error is comming from.
+Just like everything on the web, FreeCodeCamp and Udacity have their bugs. In some cases, your solution might be perfect, but FreeCodeCamp is throwing an error. It can take some patience to discern if the error is a bug or if its caused by your code. One of your tasks as budding web developer, is to query errors and recognise where the error is coming from.
 
-Ask yourself - does it work in a different browser? Have other's encoutered this error? 
+Ask yourself - does it work in a different browser? Have other's encountered this error? 
 
 ## FreeCodeCamp + YouTube
 
@@ -59,7 +59,7 @@ FreeCodeCamp's interface can appear a little unfriendly to the untrained eye, bu
 __Instructions__
 1. Sign up to freeCodeCamp using your GitHub login. 
 2. As you complete each of the courses below search for YouTube content to supplement your learning. See example below
-3. [Complete Introduciton to Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)  
+3. [Complete Introduction to Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)  
 4. [Complete Introduction to Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)  
 5. [Complete Introduction to Responsive Web Design Challenges](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/)
 
@@ -86,7 +86,7 @@ Navigate to your `my-reflections-sprint-2` file (Pro-tip: Use terminal). Remembe
 Answer: 
 
 - What resources you used and why 
-- Obsticals you came up against and how you over came them
+- Obstacles you came up against and how you over came them
 - What questions did you ask, and how was the process of solving them? 
 - Did you keep within the timebox suggestions? If not, how come?
 - What are of you proud of 

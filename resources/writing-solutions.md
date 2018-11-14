@@ -13,7 +13,7 @@ Begin this process at the beginning of each learning activity
 3. Understand: Get clear on what is being asked.
 4. Plan: Plan your approach
 5. Divide: Break into small steps 
-6. Make an attempt at solving it (write Inital Solution) 
+6. Make an attempt at solving it (write Initial Solution) 
 7. Get unstuck 
 8. Improve your solution (Refactor) 
 9. Learn what you learned (Reflect)
@@ -50,7 +50,7 @@ If you haven't, we recommend doing so.
 At the beginning of each day: 
 - __Ask yourself 'The Two Questions'__ and write them down:
     - __(1) What are my goals today?__ E.g. "Complete JavaScript blog challenge" or "Spend 4 hours coding"
-    - __(2) What are my challenges today?__ E.g. "To keep to the timeBox suggestions" or "To back myself and not critize myself" 
+    - __(2) What are my challenges today?__ E.g. "To keep to the timeBox suggestions" or "To back myself and not criticize myself" 
 - __Commit to Focus:__
     - Assess your focus 
     - Eliminate distractions 
@@ -99,12 +99,12 @@ Break the problem into sub-problems. These sub-problems are much easier to solve
 Then, solve each sub-problem one by one. Begin with the simplest. Simplest means you know the answer (or are closer to that answer). Then connect the dots, connecting all your sub-solutions will give you the solution to the original problem. Congratulations!
 
 ### 5) Make an attempt at solving it 
-Peice it together and start solving the code.
+Piece it together and start solving the code.
 
 ### 6) Stuck?
 First off, take a deep breath.
 
-A key indicator of a Programmer's mindset is they respond to bugs and errors. Are you feeling curious or irritated? Remember that errors and bugs are condusive to your development. Adopt a 'not yet' attitude and go in with curiosity. 
+A key indicator of a Programmer's mindset is they respond to bugs and errors. Are you feeling curious or irritated? Remember that errors and bugs are conducive to your development. Adopt a 'not yet' attitude and go in with curiosity. 
 
 Here are three things to try when facing a whammy:
 
