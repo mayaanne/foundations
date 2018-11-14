@@ -61,7 +61,7 @@ Rather than letting you edit the file in someone else's repl, as soon as you sta
 
 So, making sure you are logged into the site, comment out `sayHello()` on line 9 and uncomment line 10 instead. This will fork the repl to your account to do with as you like. You will want to replace the string currently being passed to `greet` with a string of your name instead, and you can now receive a personalised greeting! 
 
-You will now also be able to see the username in front of the repl title (in the top bar) has changed to your username and it has now been forked to your account.
+You will now also be able to see the username in front of the repl title (in the top bar) has changed to your username indicating it has now been forked to your account.
 
 <figure>
   <img src="../images/repl_3_forking.png" alt="Hello Repl">
