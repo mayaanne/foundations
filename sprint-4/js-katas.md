@@ -23,7 +23,7 @@ This will be your first time encountering these kata, so don't expect that you w
 Once our basic kata have been mastered the next step is placing some restrictions on how you complete them. You will have a number of different ways to complete the same kata, so a restriction on how you do it can help you master your form in one particular area.
 
 ## Get Coding!
-We would recommend completing the kata in the order given below as they will build on javascript from earlier kata.
+You will need to work through the kata in the order given below as they will build on javascript from earlier kata.
 
 Kata | Time|
 ------------|----------|
