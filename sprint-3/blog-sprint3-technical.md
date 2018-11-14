@@ -25,7 +25,7 @@ Open the `sprint3_technical.html` file you created.
 See [blog-instructions](../resources/blog-instructions.md) for a reminder on the steps to take.  
 
 ## Discuss 
-As if talking to a __Non-techincal__ friend, discuss:
+As if talking to a __Non-technical__ friend, discuss:
 
 - An analogy to describe the differences between HTML and CSS
 - Explain control flow and loops using an example process from everyday life, for example 'waking up' or 'brushing your teeth'.
