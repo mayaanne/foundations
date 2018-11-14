@@ -4,7 +4,7 @@
 
 ## Summary
 
-Testing is a hugely important and also rather large concept in coding. It is part of every coding language and has been around since coding began. As such, this means we will only breifly touch on some key concepts about testing this sprint.
+Testing is a hugely important and also rather large concept in coding. It is part of every coding language and has been around since coding began. As such, this means we can only breifly touch on some key concepts of testing this sprint.
 
 ## Timebox
 
@@ -43,7 +43,7 @@ Two aspects of testing that we will see a lot of are Unit Testing and Test Drive
 
 #### Unit Testing
 
-Unit testing is a part of `functional programming`. As our code is divided into small individual functions that make up a larger programme, we need to test these small `units` of code to make sure each part is doing what we expect. 
+Unit testing is a part of `functional programming` (the type of programming we are doing). As our code is divided into small individual functions that make up a larger programme, we need to test these small `units` of code to make sure each part is doing what we expect. 
 
 Unit testing doesn't care if our whole project works as expected, but instead makes sure each of the functions within it does what we need them to. As we can rely on the small peices of code, we can build our larger peices on top of them knowing they are working correctly.
 
@@ -56,12 +56,6 @@ This method of unit testing means that, if we change something in our code, not 
 This way of coding means you have to work out what you intend for the code to do and what smaller things need to happen to acheive this before jumping into writing it. Tests are then written that match this intent for your project.
 
 Once the tests are written, you can then write the code that makes these tests pass. Because of this, TDD forgoes writing "nice" code, so long as it works to acheive the needs of the test. This also means we can try a number of different methods to acheive the same goal as it doesn't matter how we get there, just that we do. Once the code works we then go back and `refactor` it to make it more concise and readable.
-
-#### Some interesting links:
-
-[A crash course on testing](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)\
-[What is TDD and why should we care about it?](https://medium.freecodecamp.org/isnt-tdd-test-driven-development-twice-the-work-why-should-you-care-4ddcabeb3df9)\
-[How to write a good Unit Test](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
 
 ## Give it a go
 
@@ -85,4 +79,10 @@ function testSum(){
 In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer: 
 
 1. Do you think you would prefer using Unit Testing or Test Driven Development? Why?
-1. How could these techniques be used together to make code that _works reliably_?
+2. How could these techniques be used together to make code that is reliable?
+
+#### Some interesting links:
+
+[A crash course on testing](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)\
+[What is TDD and why should we care about it?](https://medium.freecodecamp.org/isnt-tdd-test-driven-development-twice-the-work-why-should-you-care-4ddcabeb3df9)\
+[How to write a good Unit Test](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
