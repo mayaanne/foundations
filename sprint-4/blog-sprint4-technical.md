@@ -4,7 +4,8 @@
 
 ### Learning Competencies
 This blog should strengthen your understanding of:
-https://github.com/dev-academy-programme/foundations/blob/master/resources/competency-checklist.md
+- Your approach to problem solving.
+
 
 ## Summary:
 In this Sprint you learned a whole lot about Testing, Repl.it, Problem Solving, Psuedocoding and were able to practice and learn more about JavaScript.  That's alot of work - great effort.  
@@ -31,6 +32,17 @@ In both cases:
 - What problem solving techniques did you use?
 - How did you feel throughout the process?
 - What did you learn?
+
+__Reflect on how confident you feel using the problem solving techniques and process:__
+ - Pseudocode
+ - Trying something
+ - Rubber ducky method
+ - Reading error messages
+ - Console.logging
+ - Googling
+ - Asking your peers for help
+ - Asking coaches for help
+ - Improving your process with reflection
 
 ## Steps:
 1. Write your blog 
