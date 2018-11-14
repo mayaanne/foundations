@@ -6,8 +6,12 @@
 - Use strings, integers, arrays, functions
 - Use if/else or switch statements, string methods, for loops
 
-## Summary:
+Activity | Time|
+------------|----------|
+Kata | 4 hours
+Reflect | 10 minutes
 
+## Summary:
 FizzBuzz is a classic programming exercise (and fairly common interview question).
 
 The usual example asks the developer to write a program which prints out each number from 1 to 100.  But for multiples of 3 print 'Fizz' instead of the number and for multiples of 5 print 'Buzz'.  For numbers which are multiples of both 3 and 5 print 'FizzBuzz'.
@@ -35,19 +39,17 @@ Making sure you are logged into your account, navigate to the [Super FizzBuzz](h
 ---
 
 ## Get Coding!
-
 For this challenge, we're going to start by practicing our pseudocode. Before we can code complex functions, we first need to think through the steps we need them to do. This can take some time and brainpower to think through now, but saves you time when it comes to writing your code.
 
 #### Plan your code
-
 To start, think through what you need the function to do and write pseudocode comments for the steps your function will take. These comments will not be written in code but plain English, as if you were talking a friend through the steps.
 
 #### Write your initial solution
-
 Write code to match your pseudocode steps. You may find you have to do things in a different order than you originally wrote in your pseudocode, or add more steps in, and that's alright! The pseudocode is a first go, you don't have to match it exactly.
 
 Once written, run the tests. If your initial solution passes all tests, move on to the next part.
 
->## Stretch: Refactor your code
-
->## Submit and Reflect
+## Reflection
+Navigate to your `my-reflections-sprint-4` file.
+Answer the following question:
+1. What was the most challenging part of Fizz Buzz?
