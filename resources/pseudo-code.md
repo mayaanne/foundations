@@ -2,7 +2,7 @@
 ------------|----------|
 
 # Pseudocode 
-Pseudocode is a kind of structured english for describing code and algorhythms. It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading. It allows the designer to focus on the logic of the algorithm without being distracted by details of language syntax. The pseudocode needs to be complete, from start to finish and describes the entire logic, line by line. 
+Pseudocode is a kind of structured english for describing code and algorithms. It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading. It allows the designer to focus on the logic of the algorithm without being distracted by details of language syntax. The pseudocode needs to be complete, from start to finish and describes the entire logic, line by line. 
 
 Example 1:  
 If you are trying to convert every letter in a string to a number based on its location in the alphabet, you would probably want more info than this:
@@ -78,7 +78,7 @@ Making the intent of the problem approach clear should be emphasized over the sp
 
 
 
-## Inital Solution   
+## Initial Solution   
 
 Now you actually get to code! Your entire goal here is to translate your pseudocode into code. This should be easy if you took your time to pseudocode well.
 

@@ -41,7 +41,7 @@ Study this diagram, adapted from [GitTower](https://www.git-tower.com/learn/git/
 </figure>
 
 ## Explore 
-Explore a litte about remotes. Begin by identifying what is it your trying to understand. Check the learning objectives. If you need a little extra guidance here's a couple of links to help you along: 
+Explore a little about remotes. Begin by identifying what is it your trying to understand. Check the learning objectives. If you need a little extra guidance here's a couple of links to help you along: 
 
 __Recommended resources:__ 
 - [Git tower - Connecting to a remote](https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/connecting-remote-repositories#start)  

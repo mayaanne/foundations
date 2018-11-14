@@ -8,9 +8,9 @@ By the end of this challenge, you be able to
 - Install Git
 - Navigate repositories in GitHub
 - Create a new repository 
-- Clone a repositroy     
+- Clone a repository     
 - Determine repository status
-- Stage commits to a respository
+- Stage commits to a repository
 
 ## Summary
 Now you understand version control, its time to start using Git. For this challenge you'll follow Udacity's Version Control with Git interactive course. 

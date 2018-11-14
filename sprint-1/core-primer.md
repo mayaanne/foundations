@@ -17,7 +17,7 @@ Core Skills is about growing the human part of the web development equation. As 
 
 Understanding yourself in the context of others and utlising your Human Skills will set you up for your career. Believe it or not, tech employers aren't looking for top grades or the person with the most outstanding code. Their looking for exceptional human beings who will enhance the [culture of their team](https://medium.simppler.com/hire-for-fit-train-for-skill-5c60a41eb7bb)
 
-Hiring managers agree that training a person to do the job is relatively easy, but teaching them how to communicate, cooperate and work amongst diverse persepctives is much more complexed task. Thats where Core and Human Skills comes in. 
+Hiring managers agree that training a person to do the job is relatively easy, but teaching them how to communicate, cooperate and work amongst diverse perspectives is a much more complex task. Thats where Core and Human Skills comes in. 
 
 <blockquote>"Hire for fit, train for skill."</blockquote> 
 

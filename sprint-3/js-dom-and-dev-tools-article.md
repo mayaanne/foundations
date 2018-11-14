@@ -305,7 +305,7 @@ var updater = function (e) { output.innerHTML = input.value }
 input.addEventListener('keyup', updater, false)
 ```
 
-Not too difficult, right? We grab the `<input>` element as `input`. We grab the `<p>` element as `output`. Then we create an `updater` function that ignors the input `e` and just pastes the value of the `<input>` element as the innerHTML of the `<p>` element.
+Not too difficult, right? We grab the `<input>` element as `input`. We grab the `<p>` element as `output`. Then we create an `updater` function that ignores the input `e` and just pastes the value of the `<input>` element as the innerHTML of the `<p>` element.
 
 Then all that's left to do is to add an event listener to listen for `keyup` events on the input and run the `updater` function to update the output:
 
