@@ -14,8 +14,12 @@
     - Split
     - ToUpperCase
 
-## Summary
+Activity | Time|
+------------|----------|
+Kata | 4 hours
+Reflect | 10 minutes
 
+## Summary
 In this challenge you will be using some of the built-in methods for arrays and strings. A built-in method is another name for a function that is already written for you and available in the basic JavaScript library, you just need to know how to use it!
 
 Each function waiting to be written focuses on a different array method. You will need to research the methods you will use for each of these functions so you can make the tests pass.
@@ -52,4 +56,7 @@ We need to `map` over every word in a given sentence and Capitalize The First Le
 >So we don't have to add up all our numbers every time we need to, we're going to write a function to do this instead. This will `reduce` our list to just the total of all these numbers.
 
 
->## Submit & Reflect
+## Reflection
+Navigate to your `my-reflections-sprint-4` file.
+Answer the following question:
+1. On a scale of 1 - 5, 5 means 'These built in methods are hard!' and 1 means 'Built in methods are easy.  Piece of cake' - how are you feeling following this Built-In-Methods kata? 

@@ -7,8 +7,12 @@
 - Create, add properties to, delete properties from, and access values from JavaScript Object literals
 - Use pre-written tests to drive development
 
-## Summary
+Activity | Time|
+------------|----------|
+Kata | 4 hours
+Reflect | 10 minutes
 
+## Summary
 In this challenge you will work with the following JavaScript object that has been assigned to the variable `terah`. You will have to complete each task without modifying the object itself. That means everything must be done outside of the curly braces.
 
 Hint: You'll find object constructor notation very useful for this exercise.
@@ -62,5 +66,7 @@ each step, run your code to be certain that the next test has passed.
 
 When all of the tests have passed, your final `terah` object will be logged to the console.
 
-## Submit it 
-> Link and reflect
+## Reflection
+Navigate to your `my-reflections-sprint-4` file.
+Answer the following questions:
+
