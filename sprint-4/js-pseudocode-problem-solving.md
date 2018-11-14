@@ -54,7 +54,7 @@ You can see that we didn't include any details, just general steps.
 Once you have written pseudocode, you may find you need to change the order of steps, or you might discover that you have forgotten some and need to add them in - and that's okay! This is only a first draft and it will inevitably change as you come to write the code itself.
 
 ## Research 
-From the list of problem solving techniques, if there are any techniques you have never heard of before - take 30 minutes to research these.
+From the list of problem solving techniques (above), if there are any techniques you have never heard of before - take 30 minutes to research these.
 Keep notes as you'll describe problem solving in your technical blog this sprint. 
 
 ## Reflect

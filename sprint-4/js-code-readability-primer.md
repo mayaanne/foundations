@@ -23,9 +23,9 @@ Code Readability is about practicing the following habits when you are working o
 - Indentation/formatting your code to best practice standards.
 - Consistency in how you name things and how you format your code.
 - Naming things well (things like functions and variables) so you can tell what they do or are.
-- Break things into small segments (many small functions compared to one big functions).
+- Break things into small segments (many small functions compared to one big function).
 - D.R.Y (Don't Repeat Yourself).
-- Commenting a complicated section so people have some idea before reading.
+- Commenting a complicated section so people have some idea before reading your code.
 - Not commenting everything or obvious things.
 - Refactoring.
 - Clean code.

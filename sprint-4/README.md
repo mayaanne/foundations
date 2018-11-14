@@ -12,7 +12,7 @@ Our core material this sprint is about neuroplasticity and finding that growth m
 2. [Code Readability - Challenge](js-code-readability.md)  
 3. [Testing - Primer](js-testing.md)
 4. [REPL.it - Setup](js-repl-intro.md)
-5. [Pseudocode and Problem solving - Primer](js-pseudocode-problem-solving.md)   
+5. [Problem solving and Psuedocode - Primer](js-pseudocode-problem-solving.md)   
 6. [JavaScript Katas - Challenge](js-katas.md)
 7. [Technical blog](blog-sprint4-technical.md)
 
