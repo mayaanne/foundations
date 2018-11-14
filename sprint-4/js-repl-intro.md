@@ -5,7 +5,7 @@
 ### Learning Competencies
 By the end of this primer, you should be familiar with and able to:
 
-- Access, use and have a basic understanding of the website Repl.it for your Kata's in Sprint 4.
+- Access, use and have a basic understanding of the website Repl.it for your Kata in Sprint 4.
 
 ## Summary
 During this sprint you will be using [repl.it](https://repl.it/), a website that lets you run all sorts of code in your browser, in this case to run your challenges for sprint 4. Take this time to get yourself familiar with the site and how it works. It simulates what we will be doing from the computer in bootcamp, but without having to do any set up!
@@ -16,7 +16,7 @@ During this sprint you will be using [repl.it](https://repl.it/), a website that
 Activity | Time|
 ------------|----------|
 Sign up | 30 minutes
-Reflect | 10 minutes
+Reflect | 5 minutes
 
 ## Description
 
@@ -61,7 +61,7 @@ Rather than letting you edit the file in someone else's repl, as soon as you sta
 
 So, making sure you are logged into the site, comment out `sayHello()` on line 9 and uncomment line 10 instead. This will fork the repl to your account to do with as you like. You will want to replace the string currently being passed to `greet` with a string of your name instead, and you can now receive a personalised greeting! 
 
-You will now also be able to see the username in front of the repl title (in the top bar) has changed to your username.
+You will now also be able to see the username in front of the repl title (in the top bar) has changed to your username indicating it has now been forked to your account.
 
 <figure>
   <img src="../images/repl_3_forking.png" alt="Hello Repl">

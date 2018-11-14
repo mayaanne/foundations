@@ -25,7 +25,7 @@ HTML and CSS are two of the fundamental languages found almost everywhere on the
 
 ## Research 
 Have a good look around the internet to understand what the DOM is. 
-Kirupa's [videos, pictures and articles](https://www.kirupa.com/html5/javascript_the_browser_and_the_dom.htm) are a good place to begin. Rememember to keep to the timebox suggestions and learning competencies. 
+Kirupa's [videos, pictures and articles](https://www.kirupa.com/html5/javascript_the_browser_and_the_dom.htm) are a good place to begin. Remember to keep to the timebox suggestions and learning competencies. 
 
 Keep notes as you'll describe the DOM in your technical blog this sprint. 
 

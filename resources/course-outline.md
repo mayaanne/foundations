@@ -47,7 +47,7 @@ For example, this primer should take you 20 minutes.
 
 Keep a track of your time by committing to calendar scheduling and/or use tools like toggl, pomodoro or a timer on your device. This is a skill you'll want to develop if ever you want to work remotely in your career or on code projects. 
 
-The prep-curriculum included a primer on supporting you to develop good time managment and productivity. If you haven't completed the activity we suggest you do.
+The prep-curriculum included a primer on supporting you to develop good time management and productivity. If you haven't completed the activity we suggest you do.
 
 __Links__  
 [Time and Productivity prep curriculum](https://github.com/dev-academy-programme/student-prep/blob/master/prep-curriculum/core-your-time.md)     
@@ -69,11 +69,11 @@ _*PT2 and PT3 indexes the length of time you selected to study during your enrol
 
 
 ## Full-time vs Part-time 
-There are variances in full-time and part-time delivery, but regarless of your status, the same rule for coding applies: 
+There are variances in full-time and part-time delivery, but regardless of your status, the same rule for coding applies: 
 
 __Code Every Day!__
 
-Research shows that learning is quicker if you engage everyday and avoid periods of dormancy. For example, if you've taken 2 days out from coding, the time to reorientate will be longer, than if you had spent 15 minutes coding on each of those days. Reflect on what you know about the neuroplaticity of the brain - each time you practice, you are strengthening the neural pathways of your brain, and in effect improving your skill levels.  
+Research shows that learning is quicker if you engage everyday and avoid periods of dormancy. For example, if you've taken 2 days out from coding, the time to reorientate will be longer, than if you had spent 15 minutes coding on each of those days. Reflect on what you know about the neuroplasticity of the brain - each time you practice, you are strengthening the neural pathways of your brain, and in effect improving your skill levels.  
 
 ### Full-time (FT1):  
 Foundations is like a full-time job. It requires about 8 hours a day of your focus and effort. If you miss a day, you'll need to play catch-up. 
@@ -87,20 +87,20 @@ Full time students will have a tech workshop at the beginning of the sprint and 
 ### Part-time (PT2 and PT3)
 Depending on the number of folk studying part-time, you could be flying completely solo, or together with a few others. 
 
-PT2 and PT3 students will have a combined tech+core session with their facilitator, unless there are other PT2 and PT3 students, in which case the sessions will likely be split into two: A group workshhop followed, by a core 1:1 later in the sprint. Your facilitator will advise you if this is the case.  
+PT2 and PT3 students will have a combined tech+core session with their facilitator, unless there are other PT2 and PT3 students, in which case the sessions will likely be split into two: A group workshop followed, by a core 1:1 later in the sprint. Your facilitator will advise you if this is the case.  
 
-5 sprints before Bootcamp, the rest of your cohort will join Foundations. During this time, you'll be encouraged to sync in and particpate with them. We encourage Tuakana/Teina and student-teaching-student attitude, as it benefits everyones learning. You'll also be invited to join an accountablity group when the fulltime cohort begins. 
+5 sprints before Bootcamp, the rest of your cohort will join Foundations. During this time, you'll be encouraged to sync in and participate with them. We encourage Tuakana/Teina and student-teaching-student attitude, as it benefits everyone's learning. You'll also be invited to join an accountability group when the fulltime cohort begins. 
 
 
 ## Schedule 
-Each sprint includes a technical and core check-in with your faciltator, depending on your full or part time status.  
+Each sprint includes a technical and core check-in with your facilitator, depending on your full or part time status.  
 
 
 Activity | FT1 | PT2 | PT3 |
 ------------|----------|------------|--------| 
-Tech workshop | Begining of sprint | - | - |
+Tech workshop | Beginning of sprint | - | - |
 Core 1:1 | During sprint | - |  - |
-Combined Core+tech 1:1 | - | Begining of sprint | Begining of sprint |
+Combined Core+tech 1:1 | - | Beginning of sprint | Beginning of sprint |
 Pairing | Accountability group | Facilitator (or PT2 if available) | Facilitator (or PT3 if available) |
 Assignment submission | Sprint end : Sunday 10pm | Sprint end : Sunday 10pm | Sprint end : Sunday 10pm |
 
@@ -111,7 +111,7 @@ Your facilitator will journey with you to support, with the function to support 
 __Course content delivered via GitHub and supported by facilitator__
 
 ## Engaging with the material
-Each sprint will have a list of activities to complete. Some of these will be 'primers' - introducing to the context to get you going. Others will be 'challenges' which require you to complete a set of tasks. And some activities will be a combination of both. Some sprints inlcude additional stretch material for those with the time who want to dive deeper. 
+Each sprint will have a list of activities to complete. Some of these will be 'primers' - introducing to the context to get you going. Others will be 'challenges' which require you to complete a set of tasks. And some activities will be a combination of both. Some sprints include additional stretch material for those with the time who want to dive deeper. 
 
 Activities are in sequential order. 
 
@@ -119,12 +119,12 @@ __Complete all activities, in sequential order.__
 __Optional stretch material available in some sprints__
 
 ## Submitting work and Feedback
-To signal the completion of a sprint, you will need to fill out a feedback form. Your feedback influence design and content improvements, as have those from hundreds of students gone before. In addtion to feedback being part of our continual improvement framework, it help us to support you and your development and will at times inform your 1:1 sessions. 
+To signal the completion of a sprint, you will need to fill out a feedback form. Your feedback influence design and content improvements, as have those from hundreds of students gone before. In addition to feedback being part of our continual improvement framework, it help us to support you and your development and will at times inform your 1:1 sessions. 
 
 __Submit sprintly feedback form by 10pm Sunday to signal completion of work.__ 
 
 ## Extensions 
-All students, regardless of FT or PT status are required to sumbit work at the end of the sprint by 10pm Sunday. If you are unable to complete the material by the end of the sprint, you must submit an extension request. All form links are located on the home index page of this GitHub repo. 
+All students, regardless of FT or PT status are required to submit work at the end of the sprint by 10pm Sunday. If you are unable to complete the material by the end of the sprint, you must submit an extension request. All form links are located on the home index page of this GitHub repo. 
 
 __Extension requests are necessary even for PT__
 
@@ -136,7 +136,7 @@ Passing is not the same as working code - we take into consideration your engage
 __Assessments are not about working code__
 
 ## Model of Education and Flipped learning. 
-For a more thorough explaination, see the 'EDA way' primer in the [prep curriculum](https://github.com/dev-academy-programme/student-prep/blob/master/prep-curriculum/core-approach-to-learning.md)
+For a more thorough explanation, see the 'EDA way' primer in the [prep curriculum](https://github.com/dev-academy-programme/student-prep/blob/master/prep-curriculum/core-approach-to-learning.md)
 
 __Skills over Knowledge__  
 The curriculum prioritises growing skills over knowledge.

@@ -31,7 +31,8 @@ Code Readability is about practicing the following habits when you are working o
 - Clean code.
 
 ## Research 
-Have a good look around the internet to understand what code readability is and methods developers use.
+Have a good look around the internet to understand what code readability is and techniques developers use.
+
 To begin, check out Scott Granneman's article on [Formatting & Indenting Your HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html) This is a great article to see what is a good method of indenting HTML.  Keep in mind - this style of indenting is what should be used in all your code from this point on.
 
 Keep notes as you'll describe code readability in your technical blog this sprint. 
@@ -47,5 +48,5 @@ In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer the followi
 Commit and push your changes to GitHub. 
 
 ## Suggested Resources
-[Why shorter methods are better](https://silkandspinach.net/2013/01/30/why-shorter-methods-are-better/)
+[Why shorter methods are better](https://silkandspinach.net/2013/01/30/why-shorter-methods-are-better/)\
 [Top 9 principles for Clean Code](http://blog.goyello.com/2013/01/21/top-9-principles-clean-code/)

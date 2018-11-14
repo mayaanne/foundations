@@ -48,8 +48,9 @@ Make each student name in `students` a property of `gradebook` and assign each t
 Give each `student` property of `gradebook` its own `testScores` property and assign it the value of the respective students scores from scores.
 
 #### `addScore`
-- Assign an `addScore` property to `gradebook`. Give it the value of a function that accepts `name` and `score` arguments.
-- Have `addScore` push the score to the value of the `testScore` property of the `gradebook` property that matches the value of the `name` argument.
+Assign an `addScore` property to `gradebook`. Give it the value of a function that accepts `name` and `score` arguments.
+
+Have `addScore` push the score to the value of the `testScore` property of the `gradebook` property that matches the value of the `name` argument.
 
 For example,
 ```javascript
@@ -68,4 +69,4 @@ Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and
 ## Reflection
 Navigate to your `my-reflections-sprint-4` file.
 Answer the following questions:
-1. What was a highlight for you in this Gradebook Kata?
+1. What was a surprising moment for you in this Gradebook Kata?

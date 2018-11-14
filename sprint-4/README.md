@@ -2,16 +2,18 @@
 
 # Sprint Four
 
-__Testing, Code Readability and Kata's __
+Now it's time to put that javascript into practice - the kata will require you to put that problem solving hat on in this sprint's tech challenge.
+
+Our core material this sprint is about neuroplasticity and finding that growth mindset.
 
 ## Tech
 
-1. [Code Readability - primer](js-code-readability-primer.md)
-2. [Code Readability - challenge](js-code-readability.md)  
-3. [Testing - primer](js-testing.md)
-4. [REPL.it - primer](js-repl-intro.md)
-5. [Pseudocode and Problem solving - primer](js-pseudocode-problem-solving.md)   
-6. [JavaScript Katas - challenge](js-katas.md)
+1. [Code Readability - Primer](js-code-readability-primer.md)
+2. [Code Readability - Challenge](js-code-readability.md)  
+3. [Testing - Primer](js-testing.md)
+4. [REPL.it - Setup](js-repl-intro.md)
+5. [Pseudocode and Problem solving - Primer](js-pseudocode-problem-solving.md)   
+6. [JavaScript Katas - Challenge](js-katas.md)
 7. [Technical blog](blog-sprint4-technical.md)
 
 ## Core 

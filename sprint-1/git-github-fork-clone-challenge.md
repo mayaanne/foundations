@@ -68,7 +68,7 @@ __Destination:__ https://github.com/your-github-username/foundations
   <figcaption>
     <p><strong>Figure 2:</strong> View of Forked repo in destination </p>
   </figcaption>
-  <img src="../images/github_3_forked.png" alt="View Forked GithHub Repo"><br>
+  <img src="../images/github_3_forked.png" alt="View Forked GitHub Repo"><br>
 </figure>
 
 ## Step 2: Enable issues
@@ -135,6 +135,6 @@ Open the `my-reflections-sprint-1.md` in VS and add your reflections from this c
 3. Did you have any moments where it all clicked? What clicked?
 4. Stage your file. 
 
-## Aditional Practice and Resources
+## Additional Practice and Resources
 [GitHub Guides - Practice Forking Projects](https://guides.github.com/activities/forking/)  
 [Git the simple guide](http://rogerdudler.github.io/git-guide/)

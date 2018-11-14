@@ -29,11 +29,11 @@ Follow the timebox suggestions. We know its exciting to learn, but trust us, be 
 
 
 ## Introduction 
-The purpose of this primer is to introduce you to the command line tool. If you're already familiar with it, check your knowledge against the learning competenices. If you are, you can jump straight into the Reflection exercise and or try the stretch competencies. 
+The purpose of this primer is to introduce you to the command line tool. If you're already familiar with it, check your knowledge against the learning competencies. If you are, you can jump straight into the Reflection exercise and or try the stretch competencies. 
 
 Mac, Windows and Linux each come with an inbuilt command line tool, however during prep you installed an alternative (iTerm2 or Babun).
 
-You can use either the inbuilt tool or the recommended tool during this exploration. The commands and inputs are interchangeable, with only a few occassional variations for Windows. So, if you're following online tutorials, just switch out "babun" when the tutorial says "powershell". 
+You can use either the inbuilt tool or the recommended tool during this exploration. The commands and inputs are interchangeable, with only a few occasional variations for Windows. So, if you're following online tutorials, just switch out "babun" when the tutorial says "powershell". 
 
 Operating System | Inbuilt tool | Recommended tool |  
 ------------|----------|----------| 

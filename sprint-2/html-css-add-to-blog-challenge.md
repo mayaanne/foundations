@@ -15,7 +15,7 @@ By the end of the challenge, you should be able to:
 
 
 ## Summary
-You learned a bunch of stuff in FreeCodeCamp and Udacity. Apply that knowledge to transform your index page into something 'you'. The index page is the 'homepage' of your blogs. You will need factor in where and how you will list your blog enries on your site.  
+You learned a bunch of stuff in FreeCodeCamp and Udacity. Apply that knowledge to transform your index page into something 'you'. The index page is the 'homepage' of your blogs. You will need factor in where and how you will list your blog entries on your site.  
 
 ## Timebox
 
@@ -48,7 +48,7 @@ Navigate to your `my-reflections-sprint-2` file.
 Answer: 
 
 Part One:
-- Write a story about HTML and CSS and their relationship. You could personify elements or speak from your own personal experince. The story should capture insight about the nature of HTML and CSS.  
+- Write a story about HTML and CSS and their relationship. You could personify elements or speak from your own personal experience. The story should capture insight about the nature of HTML and CSS.  
 
 Part two:
 - What obstacles you came up against and how you over came them? 

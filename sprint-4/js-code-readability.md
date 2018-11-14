@@ -39,7 +39,7 @@ _Use the files located within this Sprint 4 folder to follow along_
 ## Stage and push! 
 Commit and push your changes to GitHub. 
 
-7. Create new pull request (hint: Navigate repo on GitHub website and create pull request from there).  
+7. Create new pull request from your `zen-garden-tidy` branch to your `master` branch (hint: Navigate repo on GitHub website and create the pull request from there).  
 8. Your pull request will be reviewed with your facilitator at your next 1:1. 
 
 

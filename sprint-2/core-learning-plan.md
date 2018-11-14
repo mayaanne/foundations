@@ -18,7 +18,7 @@ Activity | Time|
 ------------|----------|
 Attend learning plan workshop | 1 hour
 Formulate learning Agreement | 1 hour 
-Confirm learning plan with facilitor | 30 minutes
+Confirm learning plan with facilitator | 30 minutes
  
 ### Description 
 
