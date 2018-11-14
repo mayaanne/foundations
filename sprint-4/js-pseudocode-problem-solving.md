@@ -55,23 +55,11 @@ Once you have written pseudocode, you may find you need to change the order of s
 From the list of problem solving techniques, if there are any techniques you have never heard of before - take 30 minutes to research these.
 Keep notes as you'll describe problem solving in your technical blog this sprint. 
 
-## Practice
-Next, pick three problem solving techniques you would like to put into practice.  How will you implement these techniques into your day to day flow?  Be as specific as you possibly can and start putting these into practice.
-
-## Reflect 
+## Reflect
 In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer the following questions: 
 
-__Tell your non-tech friend a story about a time you:__
-1. Got blocked on a simple problem
-2. Solved a problem in an elegant way.
-
-
-In both cases:
-- What was the problem?
-- What problem solving techniques did you use?
-- How did you feel throughout the process?
-- What did you learn?
-
+Pick two problem solving techniques you would like to put into practice.  
+- How will you implement these techniques into your day to day coding flow?  Be as specific as you possibly can and start putting these into practice.
 
 ## Stage and push! 
 Commit and push your changes to GitHub. 

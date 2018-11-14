@@ -4,7 +4,7 @@
 
 ### Learning Competencies
 By the end of this exploration, you should be able to:
-- Describe how neuroplaticity is relevant to learning 
+- Describe how neuroplasticity is relevant to learning 
 - Describe what Growth Mindset is and why it is important  
 
 ## Summary 
