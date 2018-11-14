@@ -34,6 +34,6 @@ Hint: If you get an error message that says something like ...
 All tests will log `true` in the console when they pass -- `false`, otherwise.
 
 ## Reflection
-Navigate to your `my-reflections-sprint-4` file.
-Answer the following question:
-1. How did you find the Variables and Objects kata?
+Navigate to your `my-reflections-sprint-4` file and answer the following questions:
+1. How did you find working through the Variables and Objects kata?
+2. Did you look at the tests while coding the kata? Was it helpful?

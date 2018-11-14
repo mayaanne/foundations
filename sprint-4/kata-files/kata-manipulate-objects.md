@@ -15,8 +15,6 @@ Reflect | 10 minutes
 ## Summary
 In this challenge you will work with the following JavaScript object that has been assigned to the variable `terah`. You will have to complete each task without modifying the object itself. That means everything must be done outside of the curly braces.
 
-Hint: You'll find object constructor notation very useful for this exercise.
-
 ```javascript
 var terah = {
   name: "Terah",
@@ -35,9 +33,9 @@ Making sure you are logged in to your account, navigate to the [Manipulating JS 
 Run the code on your forked repl.it challenge. All tests will log `true` in the console when they pass -- `false`, otherwise.
 
 ## Pass the Tests
-You'll want to follow the outline below. Note that each step should build on but not modify any of the code before it.
+The steps below match the order of the tests you will need to complete. After completing each step, run your code to be certain that the next test has passed. Note that each step should build on __but not modify__ any of the code before it.
 
-1. Define a variable adam and use object literal notation to assign this variable the value of an object with no properties
+1. Define a variable `adam` and use object literal notation to assign this variable the value of an object with no properties.
 
 2. Give `adam` a name property with the value "Adam".
 
@@ -60,13 +58,10 @@ You'll want to follow the outline below. Note that each step should build on but
 
 11. Add a children property to `adam` and assign it the value of `terah.children`.
 
-Follow the steps below to make the tests pass and complete the challenge.
-The order of the steps corresponds to the order of the tests. After completing
-each step, run your code to be certain that the next test has passed.
 
 When all of the tests have passed, your final `terah` object will be logged to the console.
 
 ## Reflection
-Navigate to your `my-reflections-sprint-4` file.
-Answer the following questions:
-
+Navigate to your `my-reflections-sprint-4` file and answer the following questions:
+1. What was the highlight of this kata for you?
+2. Did you find you preferred following the steps given here or using the test outputs in your repl? Why?
