@@ -1,4 +1,5 @@
-[Sprint 2 Home](README.md)
+[Sprint 2 Home](README.md)|
+---|
 
 # Learning to Learn HTML and CSS Challenge 
 

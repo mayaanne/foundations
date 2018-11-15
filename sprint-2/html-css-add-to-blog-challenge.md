@@ -1,4 +1,5 @@
-[Sprint 2 Home](README.md)
+[Sprint 2 Home](README.md)|
+---|
 
 # Add HTML and CSS to your Blog Challenge
 

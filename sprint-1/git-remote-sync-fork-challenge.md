@@ -1,5 +1,5 @@
-[Sprint 1 Home](README.md) 
-  
+[Sprint 1 Home](README.md)|
+---| 
 
 # Git - Setting Remotes and Syncing Forks Challenge
 

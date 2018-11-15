@@ -1,4 +1,5 @@
-[Sprint 2 Home](README.md)
+[Sprint 2 Home](README.md)|
+---|
 
 # Technical Blog
 
