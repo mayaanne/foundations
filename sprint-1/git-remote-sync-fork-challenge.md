@@ -86,7 +86,7 @@ But what if you want to get changes from somewhere different (e.g. Dev Academy)?
 </figure>
 
 ## Add a new remote 
-At times, you will need to be able to pull changes we make to the curriculum. The standard naming convention for this type of remote is called ['upstream'](https://opensource.stackexchange.com/questions/993/what-does-upstream-mean) but for simplicity, we're going to call it EDA-remote. 
+At times, you will need to be able to pull changes we make to the curriculum. The standard naming convention for this type of remote is called ['upstream'](https://opensource.stackexchange.com/questions/993/what-does-upstream-mean) but for simplicity, we're going to call it eda-remote. 
 
 1. Add a new remote called `eda-remote` (hint: figure 2)
 
@@ -107,8 +107,8 @@ Git will ensure everything is kept if your files and our files are different and
 2. If there are, fetch them
 
 __Useful commands:__      
-`git diff origin/master EDA-remote/master`    
-`git remote show EDA-remote`  
+`git diff origin/master eda-remote/master`    
+`git remote show eda-remote`  
 
 
 ## Merge Changes 
