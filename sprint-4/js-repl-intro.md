@@ -22,7 +22,7 @@ Reflect | 5 minutes
 
 Repl.it is a website that simulates a terminal and text editor, allowing you (the student) to get right into the code without needing to download or install further software (when you get to bootcamp, you will learn more about how to set this up on your own device, but for now - let's focus on learning more JavaScript!).
 
-There are a whole bunch of programming languages that repl.it lets you run through the browser, including HTML/CSS. For our challenges though, we will be using `node.js` to  run our javascript files. 
+There are a whole bunch of programming languages that repl.it lets you run through the browser, including HTML/CSS. For our challenges though, we will be using `node.js` to  run our JavaScript files. 
 
 
 ## Sign Up
@@ -42,7 +42,7 @@ Once your account is registered, it will save any work you do on the site to it 
 
 #### Run a repl
 
-On the page for devacademy, click on the [Hello](https://repl.it/@devacademy/Hello) repl to open it. This is a repl we created to run javascript code in `node.js`, and you can see we've already written some javascript in there.
+On the page for devacademy, click on the [Hello](https://repl.it/@devacademy/Hello) repl to open it. This is a repl we created to run JavaScript code in `node.js`, and you can see we've already written some JavaScript in there.
 
 There are three parts to the repl window. Left to right they are: the files in this repl, the code in the current file, and the terminal.
 
