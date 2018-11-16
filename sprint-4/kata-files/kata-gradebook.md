@@ -54,7 +54,7 @@ Have `addScore` push the score to the value of the `testScore` property of the `
 
 For example,
 ```javascript
-    gradebook.addScore("Susan", 80) // would push the score 80 into the value of gradebook.Susan.testScores.
+    gradebook.addScore("Susan", 80) // would push the score 80 into the value of gradebook.Susan.testScores
 ```
 
 #### `getAverage`
