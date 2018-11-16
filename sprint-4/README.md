@@ -3,7 +3,7 @@
 
 # Sprint Four
 
-Now it's time to put that javascript into practice - the kata will require you to put that problem solving hat on in this sprint's tech challenge.
+Now it's time to put that JavaScript into practice - the kata will require you to put that problem solving hat on in this sprint's tech challenge.
 
 Our core material this sprint is about neuroplasticity and finding that growth mindset.
 
