@@ -1,4 +1,5 @@
-[Sprint 3 Home](README.md)
+[Sprint 3 Home](README.md)|
+---|
 
 # The DOM Primer and DevTools Primer
 

@@ -1,4 +1,5 @@
-[Sprint 4 Home](../README.md) | [Katas Page](../js-katas.md)
+[Sprint 4 Home](../README.md) | [Kata Page](../js-kata.md)|
+---|---|
 
 # A Gradebook from Names and Scores
 
@@ -54,7 +55,7 @@ Have `addScore` push the score to the value of the `testScore` property of the `
 
 For example,
 ```javascript
-    gradebook.addScore("Susan", 80) // would push the score 80 into the value of gradebook.Susan.testScores.
+    gradebook.addScore("Susan", 80) // would push the score 80 into the value of gradebook.Susan.testScores
 ```
 
 #### `getAverage`

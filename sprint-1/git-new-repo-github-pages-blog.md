@@ -1,4 +1,5 @@
-[Sprint 1 Home](README.md)
+[Sprint 1 Home](README.md)|
+---|
 
 # Setup new Repo & Create Blog Challenge
 
