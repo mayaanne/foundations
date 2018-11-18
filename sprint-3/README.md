@@ -1,4 +1,5 @@
-[Dashboard](../README.md)
+[Dashboard](../README.md)|
+---|
 
 # Sprint Three 
 

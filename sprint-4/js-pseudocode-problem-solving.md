@@ -1,4 +1,5 @@
-[Sprint 4 Home](README.md)
+[Sprint 4 Home](README.md)|
+---|
 
 # Problem Solving and Pseudocode
 

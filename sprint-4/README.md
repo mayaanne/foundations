@@ -1,4 +1,5 @@
-[Dashboard](../README.md)
+[Dashboard](../README.md)|
+---|
 
 # Sprint Four
 
@@ -13,7 +14,7 @@ Our core material this sprint is about neuroplasticity and finding that growth m
 3. [Testing - Primer](js-testing.md)
 4. [REPL.it - Setup](js-repl-intro.md)
 5. [Problem solving and Psuedocode - Primer](js-pseudocode-problem-solving.md)   
-6. [JavaScript Katas - Challenge](js-katas.md)
+6. [JavaScript Kata - Challenge](js-kata.md)
 7. [Technical blog](blog-sprint4-technical.md)
 
 ## Core 

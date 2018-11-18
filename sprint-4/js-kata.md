@@ -1,6 +1,7 @@
-[Sprint 4 Home](README.md)
+[Sprint 4 Home](README.md)|
+---|
 
-# Katas
+# Kata
 
 ## Summary
 For this challenge you will be completing a number of different kata exercises on [repl.it](js-repl-intro.md) to practice your JavaScript. 
