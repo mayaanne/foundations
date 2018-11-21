@@ -8,7 +8,7 @@ Minesweeper, Calculator, AQ and CQ
 ## Tech
 
 1. [Minesweeper - Challenge](js-minesweeper.md)
-2. [Teamwork/Peer Programming - Primer](peer-programming.md)
+2. [Teamwork/Pair Programming - Primer](pair-programming.md)
 2. [Calculator - Challenge](js-calculator.md)
 
 ## Core 

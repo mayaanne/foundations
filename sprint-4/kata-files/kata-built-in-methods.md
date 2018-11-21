@@ -37,7 +37,7 @@ You will need to use built-in array and string functions to get the tests passin
 
 These are the functions you will need to complete:
 
-#### mushItTogether
+#### concatMyArray
 In this first function we will take an array of individual strings and then `join` them together to return the complete word.
 
 #### capitalize
