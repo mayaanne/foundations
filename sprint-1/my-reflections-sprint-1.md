@@ -197,8 +197,4 @@ The concept behind the flipped classroom is rethink when students have access to
 
 *Introduce yourself and get to know your cohort
 
-MY name is Miju Cho. I originally came from South Korea. I've been to New Zealand since 2001. I have two kids who are nine years old girl and six years old boy.
-
-My Korean culture is family orientated and has an emphasis on communal living. Since I was young I spent a lot of time with not only my family but also relatives. In such environment I've spontaneously learnt to care for others, have a sympathetic heart and a view to always spend time together. Although having a big family cause us to be comparative, we do it to have  fun and we do it out of love. 
-
- After married and kids were young, I haven't had a time to look after myself. Once both kids went to school, I had more time to think about life. After much thought, I was interested in visual graphic design so I studied at Yoobee school of design two years ago. While I study there, I had a chance to learn about web design and I loved it. Now I am here to begin my journey in Dev Academy.
+ I was use to introduce myself as my kids' mum. So it wasn't use to introduce myself to others. However it was good time to think about myself. ^^
