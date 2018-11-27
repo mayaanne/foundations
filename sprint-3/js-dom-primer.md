@@ -1,4 +1,5 @@
-[Sprint 3 Home](README.md)
+[Sprint 3 Home](README.md)|
+---|
 
 # The DOM Primer and DevTools Primer
 
@@ -25,7 +26,7 @@ HTML and CSS are two of the fundamental languages found almost everywhere on the
 
 ## Research 
 Have a good look around the internet to understand what the DOM is. 
-Kirupa's [videos, pictures and articles](https://www.kirupa.com/html5/javascript_the_browser_and_the_dom.htm) are a good place to begin. Rememember to keep to the timebox suggestions and learning competencies. 
+Kirupa's [videos, pictures and articles](https://www.kirupa.com/html5/javascript_the_browser_and_the_dom.htm) are a good place to begin. Remember to keep to the timebox suggestions and learning competencies. 
 
 Keep notes as you'll describe the DOM in your technical blog this sprint. 
 
@@ -39,5 +40,5 @@ In your [my-reflections-sprint-3](my-reflections-sprint-3.md) answer the followi
 Commit and push your changes to GitHub. 
 
 ## Suggested Resources
-[Introdcution to the DOM - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)  
+[Introduction to the DOM - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)  
 [The Dom and Events - EDA Article](js-dom-and-dev-tools-article.md) - READ

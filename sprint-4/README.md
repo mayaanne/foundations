@@ -1,23 +1,25 @@
-[Dashboard](../README.md)
+[Dashboard](../README.md)|
+---|
 
 # Sprint Four
 
-__TDD, Code Readability and Kata's __
+Now it's time to put that JavaScript into practice - the kata will require you to put that problem solving hat on in this sprint's tech challenge.
+
+Our core material this sprint is about neuroplasticity and finding that growth mindset.
 
 ## Tech
 
-1. [Testing]()
-2. [REPL.it - primer]()
-3. [Code Readability]()       
-4. [Pseudo Code and Problem solving]()   
-5. [JavaScript Kata's]()
-6. [Technical blog]()  
+1. [Code Readability - Primer](js-code-readability-primer.md)
+2. [Code Readability - Challenge](js-code-readability.md)  
+3. [Testing - Primer](js-testing.md)
+4. [REPL.it - Setup](js-repl-intro.md)
+5. [Problem solving and Psuedocode - Primer](js-pseudocode-problem-solving.md)   
+6. [JavaScript Kata - Challenge](js-kata.md)
+7. [Technical blog](blog-sprint4-technical.md)
 
 ## Core 
-1. [Neuroplasticity and growth mindset](core-neuro-growth-mindset.md)    
-2. [Listening and Looping](../resources/listening-looping.md)
-4. [Cultural Blog]()
-5. [Feedback](../feedback.md)  
-  
 
-
+1. [Neuroplasticity and growth mindset - Primer and Challenge](core-neuro-growth-mindset.md)
+2. [Listening and Looping - Primer and Challenge](../resources/listening-looping.md)
+3. [Cultural Blog](core-blog-mindset.md)
+4. [Feedback](../resources/feedback.md)

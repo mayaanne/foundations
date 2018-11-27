@@ -1,16 +1,23 @@
-#My Reflections - Sprint One 
+# My Reflections - Sprint One 
 
 
 
-In addition to the challenge specific refletions, answer the following questions (in addition to the challenge-specific questions) in your reflection:
 
 
+
+
+
+
+
+
+In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 * What parts of your strategy worked? What problems did you face?
 * Did you learn any new skills or tricks?
 * How confident are you with each of the Learning Competencies?
 * Which parts of the work did you enjoy?
 * Which parts of the work did you find tedious?
+<<<<<<< HEAD
 
 
 
@@ -198,3 +205,5 @@ The concept behind the flipped classroom is rethink when students have access to
 *Introduce yourself and get to know your cohort
 
  I was use to introduce myself as my kids' mum. So it wasn't use to introduce myself to others. However it was good time to think about myself. ^^
+=======
+>>>>>>> eda-remote/master

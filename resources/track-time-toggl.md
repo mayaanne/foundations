@@ -38,7 +38,7 @@ Create account and download | 5 minutes
 
 
 2. Use desktop App to track time (figure 2)
-Everytime you are working on course material,use the appropriate entry. Include workshops and check-in's. At the end of the sprint you'll be asked how long you spent on each sprint. 
+Every time you are working on course material,use the appropriate entry. Include workshops and check-in's. At the end of the sprint you'll be asked how long you spent on each sprint. 
 
 
 <figure>

@@ -3,7 +3,7 @@
 
 # Reflective Learning
 
-Reflecting is an incredibly important part of the learning process. By reflecting on what you have done, you strengthen your sense of responsibility for your own learning and awareness of your own metacognitive processes. Evidence shows that by seeing the link you are putting into learning and what you are getting out of it increases your abiity to learn and retain information.
+Reflecting is an incredibly important part of the learning process. By reflecting on what you have done, you strengthen your sense of responsibility for your own learning and awareness of your own metacognitive processes. Evidence shows that by seeing the link you are putting into learning and what you are getting out of it increases your ability to learn and retain information.
 
 Each Sprint there will be core and tech reflections to complete:
 - [sprint-1 reflections](/sprint-1/my-reflections-sprint-1.md)  
@@ -56,7 +56,7 @@ _Shared via trainingzone_
 
 
 ### Resources
-- [Harvid Business School - Learning By Thinking: How Reflection Improves Performance](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
+- [Harvard Business School - Learning By Thinking: How Reflection Improves Performance](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
 - [The Importance of Reflection](https://www.trainingzone.co.uk/develop/talent/the-importance-of-reflection)
 - [Reflection. How do we do it](https://www.cetl.hku.hk/workshop160405/)
 - [Reflective Learning for Students](https://www.sheffield.ac.uk/lets/toolkit/learning/reflective)

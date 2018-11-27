@@ -125,8 +125,8 @@ I can:
 ## Habits
 I have developed habits of:
 - [ ] reflecting
-- [ ] time managment and productivity
-- [ ] perservering
+- [ ] time management and productivity
+- [ ] persevering
 - [ ] exploring
 - [ ] communication
 
@@ -143,7 +143,7 @@ I can increasingly:
 - [ ] use conscious listening
 - [ ] communicate openly and honestly
 - [ ] give valuable, kind and honest feedback
-- [ ] gracefully recieve feedback
+- [ ] gracefully receive feedback
 - [ ] hold integrity
 - [ ] hold kindness
 - [ ] hold effort

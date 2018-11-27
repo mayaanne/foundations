@@ -1,4 +1,5 @@
-[Sprint 1 Home](README.md) 
+[Sprint 1 Home](README.md)|
+---| 
 
 # Branch, Pull, Merge Challenge
 
@@ -34,7 +35,7 @@ Example: Incorrect
 `User/Hemi/Dev-Academy/an-already-cloned-repo/a-second-repo`
   
 
-1. Navigate to https://github.com/dev-academy-programme/ko-wai-koe   
+1. Navigate to https://github.com/dev-academy-foundations/ko-wai-koe   
 2. Clone it (somewhere other than Foundations repo)   
 3. Create a branch using your full-name e.g. hemi-marton  
 4. Switch to that branch (checkout)  

@@ -3,15 +3,15 @@
 
 ## Getting unblocked 
 
-The internet is fully of bugs! 
+The internet is full of bugs!\
 Everything you do as a web developer is process of working towards a state of less broken. 
 
-Sometimes the error will be your code, othertimes it will be in the tests, in the descriptions or challenges.
-Harness your problem solving skills to understand firstly where the error is and secondly to overcome it. 
+Sometimes the error will be your code, other times it will be in the tests, in the descriptions or challenges.
+Harness your problem solving skills to firstly understand where the error is and secondly to overcome it. 
 
 ## Tips and Resources 
 
-- __Punctuation and spelling:__  Have you left out a closing braket? A semi-colon?  
+- __Punctuation and spelling:__  Have you left out a closing bracket? A semi-colon?  
 - __Different browser:__  Does it work in another browser?  
 - __Repl.it:__ Does it work on Repl? Are you getting the expected results? 
 - __Are others experiencing the problem? Google the exact phrase!__ 

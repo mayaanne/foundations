@@ -1,4 +1,5 @@
-[Dashboard](../README.md)
+[Dashboard](../README.md)|
+---|
 
 # Sprint Two
 
@@ -16,7 +17,7 @@ In the first part this Sprint you'll dive into HTML and CSS, the language of the
 
 ## Core 
 1. [Cultural Blog and My Learning Plan](core-learning-plan.md)  
-2. [Feedback](../feedback.md)  
+2. [Feedback](../resources/feedback.md)   
   
 
 
