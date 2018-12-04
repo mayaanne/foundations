@@ -49,23 +49,20 @@ Make each student name in `students` a property of `gradebook` and assign each t
 Give each `student` property of `gradebook` its own `testScores` property and assign it the value of the respective students scores from scores.
 
 #### `addScore`
-Assign an `addScore` property to `gradebook`. Give it the value of a function that accepts `name` and `score` arguments.
+Create an `addScore` function that accepts `gradebook`, `name` and `score` arguments.
 
-Have `addScore` push the score to the value of the `testScore` property of the `gradebook` property that matches the value of the `name` argument.
+Have `addScore` push the score to the value of the `testScore` property of the given `gradebook` that matches the value of the `name` argument.
 
 For example,
 ```javascript
-    gradebook.addScore("Susan", 80) // would push the score 80 into the value of gradebook.Susan.testScores
+    addScore(gradebook, "Susan", 80) // would push the score 80 into the value of gradebook.Susan.testScores
 ```
-
-#### `getAverage`
-Add the `getAverage` property to `gradebook` and assign it the value of a function.
 
 #### Create the function `average`
 Have `average` accept an array of integers and return the average of those integers.
 
-#### Modify `getAverage`
-Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and returns that student's average score. Use the average function you created in Release 4.
+#### `getAverage`
+Create a `getAverage` function so that it accepts a `name` as a String (e.g., "Joseph") and returns that student's average score. Use the average function you created in the last step as part of this function.
 
 ## Reflection
 Navigate to your `my-reflections-sprint-4` file.
