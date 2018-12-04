@@ -51,7 +51,7 @@ Give each `student` property of `gradebook` its own `testScores` property and as
 #### `addScore`
 Create an `addScore` function that accepts `gradebook`, `name` and `score` arguments.
 
-Have `addScore` push the score to the value of the `testScore` property of the given `gradebook` that matches the value of the `name` argument.
+Have `addScore` push the score to the value of the `testScore` property that matches the value of the `name` argument in the given `gradebook`.
 
 For example,
 ```javascript
