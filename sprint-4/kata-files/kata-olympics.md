@@ -42,7 +42,7 @@ Create a function called `removeOdds` that accepts an array of numbers. Return a
 You can do this manually or use built-in JavaScript [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
 
 
-## RELEASE 4 - "We Built this City"
+## EVENT 4 - "We Built this City"
 #### Build a constructor function
 Create a function called `newAthlete` that takes a name, age, sport, and quote and creates a new athlete object from it.
 
