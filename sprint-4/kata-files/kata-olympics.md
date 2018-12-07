@@ -23,7 +23,7 @@ Making sure you are logged into your account, navigate to the [JS Olympics](http
 
 
 ## EVENT 0 - The Warm up
-Create athlete profiles for you and someone else you know and them add them to the athleteArray. Each profile should have a name, height, sport, and quote. You should use object literal notation for this exercise. Run the tests to make sure your properties are defined properly. 
+Create athlete profiles for you and someone else you know and them add them to the athleteArray. Each profile should have a name, age, sport, and quote. You should use object literal notation for this exercise. Run the tests to make sure your properties are defined properly. 
 
 ## EVENT 1 - Bulk up
 #### Add properties to objects
