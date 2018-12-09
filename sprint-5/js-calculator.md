@@ -3,34 +3,23 @@
 
 # Calculator
 
->This is what calculator is
+For this sprint we are going to work through the FreeCodeCamp ['Build a calculator'](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/) project, preferably with another member of your bootcamp cohort. Keep it simple, it's well within your capabilities. And don't look at the sample solution just yet.
 
->You will need to bring together html/css/js
+If working in a pair, you can use this time to put into practice some of the techniques you learnt about in the [pair programming](pair-programming.md) primer, and remember to start your pair programming sessions with a check-in.
 
->Break it down, plan it out, use this for reference
+## Timebox
 
->Do it preferably in pairs, but can be done individually
-
->Make it in your blog
-
->Publish via GitHub Pages
-
->Have fun :+1:
+Challenge | Time|
+------------|----------|
+Calculator | 15 hours
+Refactor | 5 hours
+Reflect | 30 minutes
 
 ## Build it
 
-Work on the Free Code Camp 'Build a calculator' project, ideally with another member of your targeted bootcamp cohort. Keep it simple, it's well within your capabilities. And don't look at the sample solution yet.
-
-With your pair if possible:
-
-If you have one, check-in with your pair:
-- How did you sleep?
-- How do you feel now?
-- Is there anything going on in your life that might affect how you are working right now?
- 
 Create a new git repository called "js-calculator".
 
-Reverse pseudocode the sample solution in a waffle comment below. Remember, there is no 'right way' - the sample solution is just one implementation.
+Reverse pseudocode the sample solution. Remember, there is no 'right way' - the sample solution is just one implementation.
 
 Build the app:
 
