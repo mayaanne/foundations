@@ -16,4 +16,4 @@ For this sprint you'll find there are less primers leading you in to the challen
 ## Core 
 
 1. [Reflection - Foundations Core Skills](core-sprint5-reflection.md)
-2. [Learning Plan - Preparing for ](core-learning-plans.md)
+2. [Learning Plan - Preparing for Bootcamp](core-learning-plans.md)
