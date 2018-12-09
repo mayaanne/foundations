@@ -43,7 +43,6 @@ Ask for help. You can do this!
  
 If you did this challenge as a pair, spend 10 minutes asking each other these questions:
 
-Make sure your feedback is ASK (actionable, specific, kind)
 - What did you find awesome about our pairing session?
 - What could have been more awesome?
 
