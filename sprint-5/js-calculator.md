@@ -70,3 +70,13 @@ As a very rough rule of thumb, if the function is longer than about ten lines it
 - Each time you create a new function, and have tested it to ensure that your code still works, create a new Git commit.
 
 - When you're done, push the new branch to GitHub and add a link to it in the waffle comments below.
+
+
+## Reflection
+
+Open `my-reflections-sprint-5.md` in VS Code and add your reflections from this challenge:
+
+- What was the most challenging part of this calculator exercise for you?
+- What has been a highlight for you?
+- Which pairing role did you enjoy most?  Why?
+- Is this anything different you will do the next time you pair on an exercise?
