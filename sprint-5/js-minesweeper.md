@@ -5,9 +5,17 @@
 
 ### Learning Competencies
 
--
--
--
+- Define and use as requested:
+    - Variables
+    - Objects 
+    - Arrays 
+    - Functions
+    - Loops
+    - Conditional Statements
+    - Event Listeners
+- Create multiple small functions
+- Use functions provided by others
+- Debug code you have written
 
 ## Summary
 
@@ -34,18 +42,6 @@ Challenge | Time|
 Minesweeper | 15 hours
 Reflect | 20 minutes
 
->First part = follow the error messages you receive back when you load it in the browser
->Second part = complete the functions, use your problem solving skills to get it working
-
->Here is the file
-
->You will want to clone it and complete this locally, push back to your repo, turn on github pages for it so we can see it too!
-
->Please do the 'When you're finished' section below, regardless.
-
-
->Have Fun! :+1:
-
 ## And so it begins!
 
 Let's get started by setting up our files.
@@ -63,7 +59,9 @@ Let's get started by setting up our files.
  
 5. Now open the `index.html` in your internet browser. You should see a message near the top of the screen telling you to "define a board object".
 
-#### Right then, let's get something working! 
+## Creating the Board
+
+Right then, let's get the first part working! 
 
 Open up `minesweeper.js` and take a look. It contains hints for completing the various functions we will be writing, but to start:
 
@@ -71,9 +69,7 @@ Open up `minesweeper.js` and take a look. It contains hints for completing the v
 
 2. Save the file and reload the page in your browser. It should tell you to add a cells property.
 
-3. Add the property in your code, reload the page in the browser and see what the next message is. Keep repeating this cycle until you actually see a game board appear!
-
-    **Some tips:**
+3. Add the property in your code, reload the page in the browser and see what the next message is. Keep repeating this cycle until you actually see a game board appear! Keep in mind:
 
     - You can make the board as large as 36 cells before the game will complain it's too large. We suggest 9 cells (three on each side) to begin with.
 
@@ -81,13 +77,13 @@ Open up `minesweeper.js` and take a look. It contains hints for completing the v
 
 Once you've got a board displaying, you can play parts of the game! 
 
-_Don't forget to commit your changes and push to GitHub!_
+Don't forget to commit your changes and push to GitHub!
 
-#### Objects and Arrays
+## Objects and Arrays
 
 Ok, so we have a game board! Now we need to show how many mines are in surrounding squares as we reveal more of the board.
 
-Previously we created a `board` object. If we were describing our object in English, we'd say something like: "This is an object that contains an array of objects."
+Previously we created our `board` object. If we were describing our object in English, we'd say something like: "This is an object that contains an array of objects."
 
 ```
 var board = {
@@ -158,9 +154,9 @@ Now, we're using our global board object to store information about the game boa
         var surroundingCells = getSurroundingCells(row, col);
         ```
 
-        - Think about how to get row and col out of your cell object: remember dot and bracket notation?
+        - Think about how to get `row` and `col` out of your cell object: remember dot and bracket notation?
 
-    - You're going to have to loop through the surrounding cells returned from getSurroundingCells, checking each one to see if it's a mine and adding to a count variable if it is.
+    - You're going to have to loop through the surrounding cells returned from `getSurroundingCells`, checking each one to see if it's a mine and adding to a `count` variable if it is.
 
     - Once you have the correct count, return it.
 
@@ -172,22 +168,19 @@ So now we can play a game... almost! You've probably noticed that there's no rea
 
 You should go into this knowing that the way to win a game of Minesweeper is to have correctly marked all of the mines and uncovered every other cell.
 
-1. Remember event handlers? You used some of them in Sprint 3. In startGame, we're going to use document.addEventListener to call checkForWin every time the left mouse button is clicked.
+1. Remember [event listeners](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)? You used some of them in Sprint 3. In `startGame`, we're going to use `document.addEventListener` to call checkForWin every time the left mouse button is clicked.
 
->Resource
+2. When you've done that, add another one that calls `checkForWin` when the right mouse button (`contextmenu`) is clicked. Remember, a player can win either by clearing the last hidden cell, or marking the last mine.
 
-2. When you've done that, add another one that calls checkForWin when the right mouse button is clicked.
-Remember, a player can win either by clearing the last hidden cell, or marking the last mine.
+3. Define the `checkForWin` function. It should loop through all of `board.cells`.
 
-3. Define the checkForWin function. It should loop through all of board.cells.
+    - For each cell, check to see if both `.isMine` and `.isMarked` are true. If any mine still exists that isn't marked, the player hasn't won yet and you can return to exit out of the function.
 
-    - For each cell, check to see if both .isMine and .isMarked are true. If any mine still exists that isn't marked, the player hasn't won yet and you can return out of the function.
+    - If every mine is marked, but there are still cells with the `hidden` property set to true, the player hasn't won yet and you can return out of the function.
 
-    - If every mine is marked, but there are still cells with the hidden property set to true, the player hasn't won yet and you can return out of the function.
+    - If both these criteria pass, the player has won! There's a `displayMessage` function call at the bottom of `checkForWin` you can use to tell them so.
 
-    - If both these criteria pass, the player has won! There's a displayMessage function call at the bottom of checkForWin you can use to tell them so.
-
-    Take a moment to notice something: we're defining small functions that only have one job, rather than big complex chunks of code. This is an important principle of software development which we will be spending more time on later: where possible, try to have your functions do one thing, and name them appropriately.
+    Take a moment to notice something: we're defining small functions that only have one job, rather than big complex chunks of code. This is an important principle of software development which we will touch more on later: where possible, try to have your functions do one thing, and name them appropriately.
 
 When you're done, commit your code!
 
@@ -198,24 +191,39 @@ Hey, it's a game! Congratulations on making it this far! We hope you enjoyed (or
 The basics are complete, but there are so many more things to work on. Here are some stretch goals if you're done ahead of time and want to flex your skills. Don't get too bogged down in trying to make your game perfect: it's much more important that you learn the principles behind it.
 
 #### Stretch Goal 1 - automatically generate the board! 
-Instead of just typing out the global board object, write a function to create it.
-Each cell will need row, col, isMine, isMarked, and hidden properties.
-You could start by simply setting every isMine to true, but later you'll probably want to have a random number of mines scattered throughout the board.
+Instead of just typing out the global `board` object, write a function to create it.\
+Each cell will need `row`, `col`, `isMine`, `isMarked`, and `hidden` properties.\
+You could start by simply setting every `isMine` to true, but later you'll probably want to have a random number of mines scattered throughout the board.
 
 #### Stretch Goal 2 - reset the board!
 After a win or loss, give players a chance to try again by resetting the board to its default state. You'll need to put classes back the way they were at the start, and re-initialize the global board object.
 
 #### Stretch Goal 3 - sound effects!
-Investigate how to use JavaScript to play a sound when the user uncovers or marks a cell. Play an explosion when they uncover a bomb, and applause when they win.
-Resource: Play sound on :hover
+Investigate how to use JavaScript to play a sound when the user uncovers or marks a cell. Play an explosion when they uncover a bomb, and applause when they win.\
+Resource: [Play sound on :hover](https://css-tricks.com/play-sound-on-hover/)
 
 #### Stretch Goal 4 - you decide!
 Let your imagination run rampant. Maybe they're not mines after all, but kumquats! Restyle the board, change the rules, make it your own.
 
 ## When you've finished
-- upload the game to GitHub Pages so other people can play it.
-- Select 'Project site', then 'Start from scratch', and follow the instructions.
-- When you've published your game, add a link to it in the waffle comments below.
-- Post the link to the #show-eda channel on Slack with the hashtag #minesweeper!
 
--reate a pull request back
+So other people can play your game too, upload the game to GitHub Pages.
+1. Navigate to your minesweeper repo in your GitHub account
+2. Enter the settings menu for that repo and scroll down to the GitHub Pages section
+3. Under `Source`, select the master branch
+
+This may take a small period of time to appear, but you will soon be able to go to `your-username.github.io/minesweeper` and see your game online!
+
+Share your link with your cohort and post the link to the #show-eda channel on Slack with the hashtag #minesweeper to let other people play your game.
+
+Finally, to show your facilitators all the improvements you made to this game, we're going to send a pull request back to them. If you need a refresher, look back over your material from the Sprint 1 [Branching Challenge](../sprint-1/git-branching-challenge.md).
+- Create a pull request from the master branch of your forked minesweeper repo back to the master branch of `dev-academy-foundations/minesweeper`
+
+## Reflection
+
+Open `my-reflections-sprint-5.md` in VS Code and add your reflections from this challenge:
+
+- Was there anything that surprised you about your coding during this challenge?
+- What was the hardest moment of this challenge for you?
+- Did you have any blocks during this challenge? How did you overcome them?
+- What learnings are you going to take away from this challenge?
