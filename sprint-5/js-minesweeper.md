@@ -3,7 +3,14 @@
 
 # Minesweeper
 
-Before you jump into coding minesweeper, if you're unfamiliar with how the game works it might be worth having a look at this resource [???](https://www.google.com/search?q=minesweeper) to help you get familiar with the game itself and the rules it has.
+In your sprints you have covered most of the skills necessary to build your first JavaScript game. This sprint, you'll actually build it - with help - step by step.
+
+Together we're going to be completing the classic game of minesweeper. As such, before you jump into coding minesweeper, if you're unfamiliar with how the game works it might be worth having a look at this resource [???](https://www.google.com/search?q=minesweeper) to help you get familiar with the game itself and the rules it has.
+
+The objective of the game is to clear a square grid containing hidden "mines" or bombs without detonating any of them. Clearing safe squares will give you clues about the number of neighboring mines. To win the game all mines must be "flagged" and all the safe squares revealed.
+
+<iframe height='265' scrolling='no' title='Pure CSS minesweeper' src='//codepen.io/bali_balo/embed/BLJONk/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/bali_balo/pen/BLJONk/'>Pure CSS minesweeper</a> by Bali Balo (<a href='https://codepen.io/bali_balo'>@bali_balo</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 >This is what minesweeper is
 
@@ -19,7 +26,7 @@ Before you jump into coding minesweeper, if you're unfamiliar with how the game 
 
 ## And so it begins!
 
-In your sprints you have covered some of the skills necessary to build your first JavaScript game. This sprint, you'll actually build it - with help - step by step.
+
 
 Create a fork of this repo: https://github.com/dev-academy-foundations/minesweeper
 
