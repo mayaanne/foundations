@@ -54,7 +54,7 @@ The prompt for you is "What surprised me the most about learning core is....".
 Once you start writing for the prompt, you don't stop until your 2 minutes is up.  
 
 Think about your experience of learning core in Foundations and just write.  
-If you run out of things to say just write "I've run out of things to say - I don't know what to say... this is really boring... I hate it when I'm boared.  What ever comes.  Overtime, you'll ifnd cognitions and emotions become easier to identify and to write about.  
+If you run out of things to say just write "I've run out of things to say - I don't know what to say... this is really boring... I hate it when I'm bored.  What ever comes.  Overtime, you'll ifnd cognitions and emotions become easier to identify and to write about.  
 
 This journalling piece is not for public display.  This is for your eyes only unless you wish to share.   
 
