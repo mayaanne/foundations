@@ -5,6 +5,10 @@
 
 ### Learning Competencies
 
+-
+-
+-
+
 ## Summary
 
 In your sprints you have covered most of the skills necessary to build your first JavaScript game. This sprint, you'll actually build it - with help - step by step.
@@ -25,6 +29,11 @@ Resources:\
 
 ## Timebox
 
+Challenge | Time|
+------------|----------|
+Minesweeper | 15 hours
+Reflect | 20 minutes
+
 >First part = follow the error messages you receive back when you load it in the browser
 >Second part = complete the functions, use your problem solving skills to get it working
 
@@ -39,7 +48,8 @@ Resources:\
 
 ## And so it begins!
 
-1. Create a fork of this repo: https://github.com/dev-academy-foundations/minesweeper
+Let's get started by setting up our files.
+1. Create a fork of the [minesweeper repo](https://github.com/dev-academy-foundations/minesweeper)
 
 2. Clone your copy of the forked repository down using `git clone https://github.com/your-name/minesweeper` (replacing your-name with your GitHub account name.)
 
@@ -53,13 +63,15 @@ Resources:\
  
 5. Now open the `index.html` in your internet browser. You should see a message near the top of the screen telling you to "define a board object".
 
-6. Right then, let's get something working! Open up minesweeper.js and take a look. It contains hints for completing the various functions we will be writing, but to start:
+#### Right then, let's get something working! 
 
-    - Uncomment the `var board =` near the top and then complete the statement by adding `{}`, defining board as an empty object.
+Open up `minesweeper.js` and take a look. It contains hints for completing the various functions we will be writing, but to start:
 
-    - Save the file and reload the page in your browser. It should tell you to add a cells property.
+1. Uncomment the `var board =` near the top and then complete the statement by adding `{}`, defining board as an empty object.
 
-    - Do that, reload the page in the browser and see what the next message is. Keep repeating this cycle until you actually see a game board appear!
+2. Save the file and reload the page in your browser. It should tell you to add a cells property.
+
+3. Add the property in your code, reload the page in the browser and see what the next message is. Keep repeating this cycle until you actually see a game board appear!
 
     **Some tips:**
 
@@ -71,11 +83,11 @@ Once you've got a board displaying, you can play parts of the game!
 
 _Don't forget to commit your changes and push to GitHub!_
 
-## Objects and Arrays
+#### Objects and Arrays
 
 Ok, so we have a game board! Now we need to show how many mines are in surrounding squares as we reveal more of the board.
 
-Previously we created a board object. If we were describing our object in English, we'd say something like: "This is an object that contains an array of objects."
+Previously we created a `board` object. If we were describing our object in English, we'd say something like: "This is an object that contains an array of objects."
 
 ```
 var board = {
@@ -94,21 +106,21 @@ var board = {
 }
 ```
 
-Tip: if you're not sure if the board object you're creating is correct, open your browser's developer tools and type board. In Chrome at least, this will show the object's structure and you can expand the cells array to see its contents.
+**Tip:** if you're not sure if the board object you're creating is correct, open your browser's developer tools and type board. In Chrome at least, this will show the object's structure and you can expand the cells array to see its contents.
 
 In bootcamp you're going to need to access objects and arrays like this all the time! Getting familiar with them is crucial. Be sure that you understand the following before going onto the next part:
 
-- cells is an object property.
+- `cells` is an object property.
 
-- You can access (get) a property on an object by using either dot notation (board.cells) or bracket notation (board['cells']).
+- You can access (get) a property on an object by using either dot notation (`board.cells`) or bracket notation (`board['cells']`).
 
-- The value inside the brackets in bracket notation can be a string variable: (board[propertyName]).
+- The value inside the brackets in bracket notation can be a string variable (`board[propertyName]`).
 
-- You can access the first object inside the cells array using dot and array notation (board.cells[0]) or bracket and array notation (board['cells'][0]).
+- You can access the first object inside the cells array using dot and array notation (`board.cells[0]`) or bracket and array notation (`board['cells'][0]`).
 
-- You can access a property on that object using dot and array notation (board.cells[0].row).
+- You can access a property on that object using dot and array notation (`board.cells[0].row`).
 
-If you're not clear on any of these things, this is a really good time to reach out and seek clarification! Ask your fellow Foundations students in Slack, ask in #code-help-desk, ask a facilitator. Most importantly, practice. Sometimes the best way is just to try it, either in the browser development tools or using an online tool like Repl.it.
+If you're not clear on any of these things, this is a really good time to reach out and seek clarification! Ask your fellow Foundations students in Slack, ask in #code-help-desk, ask a facilitator. Most importantly, practice! Sometimes the best way is just to try it, either in the browser development tools or using an online tool like [Repl.it](https://repl.it/).
 
 ## Counting the Boom
 
@@ -129,28 +141,28 @@ Now, we're using our global board object to store information about the game boa
 }
 ```
 
-In startGame, above lib.initBoard(), write a for loop. This should loop through the contents of board.cells. (Remember, board.cells is an array of objects.)
+1. In `startGame`, above `lib.initBoard()`, write a `for` loop. This should loop through the contents of `board.cells`. (Remember, board.cells is an array of objects.)
 
-The loop's only job should be to call countSurroundingMines once for each cell in board.cells. You'll need to pass each cell as an argument (the bit in the parentheses).
+2. The loop's only job should be to call `countSurroundingMines` once for each cell in `board.cells`. You'll need to pass each cell as an argument (the bit in the parentheses).
 
-Assign the result of countSurroundingMines to a property on each cell object. The new property should be called surroundingMines.
+3. Assign the result of `countSurroundingMines` to a property on each cell object. The new property should be called `surroundingMines`.
 
-Further down in the file you'll see the function countSurroundingMines. Your job is to define it so it returns the number of cells around the current cell that have the isMine property set to true.
+4. Further down in the file you'll see the function `countSurroundingMines`. Your job is to define it so it returns the number of cells around the current cell that have the isMine property set to true.
 
-Getting the cells that surround the current cell is pretty tricky, so we've provided a helper function: `lib.getSurroundingCells`. Read the comments above countSurroundingMines for more clues.
+    - Getting the cells that surround the current cell is pretty tricky, so we've provided a helper function: `lib.getSurroundingCells`. Read the comments above `countSurroundingMines` for more clues.
 
-To be clear, you don't need to write lib.getSurroundingCells... you can just start using it!
+        - To be clear, you don't need to write `lib.getSurroundingCells`... you can just start using it!
 
-You'll need to use a syntax that looks something like: 
-```javascript
-var surroundingCells = getSurroundingCells(row, col);
-```
+        - You'll need to use a syntax that looks something like:
+        ```javascript
+        var surroundingCells = getSurroundingCells(row, col);
+        ```
 
-Think about how to get row and col out of your cell object: remember dot and bracket notation?
+        - Think about how to get row and col out of your cell object: remember dot and bracket notation?
 
-You're going to have to loop through the surrounding cells returned from getSurroundingCells, checking each one to see if it's a mine and adding to a count variable if it is.
+    - You're going to have to loop through the surrounding cells returned from getSurroundingCells, checking each one to see if it's a mine and adding to a count variable if it is.
 
-Once you have the correct count, return it.
+    - Once you have the correct count, return it.
 
 Once you've got the counts working to your satisfaction, commit your code!
 
@@ -160,31 +172,28 @@ So now we can play a game... almost! You've probably noticed that there's no rea
 
 You should go into this knowing that the way to win a game of Minesweeper is to have correctly marked all of the mines and uncovered every other cell.
 
-Remember event handlers? You used some of them in Sprint 3. In startGame, we're going to use document.addEventListener to call checkForWin every time the left mouse button is clicked.
-
-When you've done that, add another one that calls checkForWin when the right mouse button is clicked.
+1. Remember event handlers? You used some of them in Sprint 3. In startGame, we're going to use document.addEventListener to call checkForWin every time the left mouse button is clicked.
 
 >Resource
 
+2. When you've done that, add another one that calls checkForWin when the right mouse button is clicked.
 Remember, a player can win either by clearing the last hidden cell, or marking the last mine.
 
-Define the checkForWin function. It should loop through all of board.cells.
+3. Define the checkForWin function. It should loop through all of board.cells.
 
-For each cell, check to see if both .isMine and .isMarked are true. If any mine still exists that isn't marked, the player hasn't won yet and you can return out of the function.
+    - For each cell, check to see if both .isMine and .isMarked are true. If any mine still exists that isn't marked, the player hasn't won yet and you can return out of the function.
 
-If every mine is marked, but there are still cells with the hidden property set to true, the player hasn't won yet and you can return out of the function.
+    - If every mine is marked, but there are still cells with the hidden property set to true, the player hasn't won yet and you can return out of the function.
 
-If both these criteria pass, the player has won! There's a displayMessage function call at the bottom of checkForWin you can use to tell them so.
+    - If both these criteria pass, the player has won! There's a displayMessage function call at the bottom of checkForWin you can use to tell them so.
 
-Take a moment to notice something: we're defining small functions that only have one job, rather than big complex chunks of code. This is an important principle of software development which we will be spending more time on later: where possible, try to have your functions do one thing, and name them appropriately.
+    Take a moment to notice something: we're defining small functions that only have one job, rather than big complex chunks of code. This is an important principle of software development which we will be spending more time on later: where possible, try to have your functions do one thing, and name them appropriately.
 
 When you're done, commit your code!
 
-Hey, it's a game! The next part contains some finishing off tasks and stretch goals. Even if you don't complete them, please do the 'When you're finished' section below before moving on to the next part of this sprint.
+Hey, it's a game! Congratulations on making it this far! We hope you enjoyed (or at least were not driven to distraction by) this little journey through a classic game. The next part contains some finishing off tasks and stretch goals. Even if you don't complete the stretch goals, please do the [When you're finished](#when-youve-finished) section below before moving on to the next part of this sprint.
 
 ## Finishing Touches
-
-Congratulations on making it this far! We hope you enjoyed (or at least were not driven to distraction by) this little journey through a classic game.
 
 The basics are complete, but there are so many more things to work on. Here are some stretch goals if you're done ahead of time and want to flex your skills. Don't get too bogged down in trying to make your game perfect: it's much more important that you learn the principles behind it.
 
