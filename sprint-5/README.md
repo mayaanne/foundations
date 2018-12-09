@@ -13,4 +13,7 @@ Minesweeper, Calculator, AQ and CQ
 
 ## Core 
 
-1. [AQ & CQ](core-aq-cq.md)
+1. [Reflection - Foundations Core Skills](core-sprint5-reflection.md)
+2. [Understanding our conscious and unconscious bias - Primer and Challenge](core-bias.md)
+3. [Habit Formation - Primer and Challenge](core-habit-formation.md)
+4. [Learning Plans/Agreements: Preparing for Boot camp](core-learning-plans.md)
