@@ -14,4 +14,4 @@ Minesweeper, Calculator, AQ and CQ
 ## Core 
 
 1. [Reflection - Foundations Core Skills](core-sprint5-reflection.md)
-2. [Learning Plan: Preparing for Boot camp](core-learning-plans.md)
+2. [Learning Plan: Preparing for ](core-learning-plans.md)

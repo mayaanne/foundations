@@ -38,25 +38,26 @@ __Sprint 1:__
  - [Listening and Looping](../resources/listening-looping.md)
 
 
-Understanding yourself in the context of others and utilising your Core Skills will set you up for not only Boot Camp but your career in the Tech Industry.
+Understanding yourself in the context of others and utilising your Core Skills will set you up for not only Bootcamp but your career in the Tech Industry.
+
 Tech employers aren't looking for top grades or the person with the most outstanding code.  They're looking for exceptional human beings who will enhance the culture of their team. 
 
 Core has introduced you to techniques to train your mind.  You have (hopefully) learned useful ways of understanding problems and through your own practice you will have strengthen your self solving skills.
 
-Let's take a moment now to reflect on your journey and complete a short journalling exercise.
+Let's take a moment now to reflect on your journey and complete a short journaling exercise.
 
 
 ## Journal
 
 To complete this exercise you can either open a blank text document or grab a pen and paper and set a timer for 2 minutes.
 
-The prompt for you is "What surprised me the most about learning core is....".
+The prompt for you is "What surprised me the most about learning core is....".\
 Once you start writing for the prompt, you don't stop until your 2 minutes is up.  
 
 Think about your experience of learning core in Foundations and just write.  
-If you run out of things to say just write "I've run out of things to say - I don't know what to say... this is really boring... I hate it when I'm bored.  What ever comes.  Overtime, you'll ifnd cognitions and emotions become easier to identify and to write about.  
+If you run out of things to say just write "I've run out of things to say - I don't know what to say... this is really boring... I hate it when I'm bored."  What ever comes.  Overtime, you'll find cognitions and emotions become easier to identify and to write about.  
 
-This journalling piece is not for public display.  This is for your eyes only unless you wish to share.   
+This journaling piece is not for public display.  This is for your eyes only unless you wish to share.   
 
 
 ## Reflection
