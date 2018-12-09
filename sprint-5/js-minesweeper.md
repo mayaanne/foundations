@@ -145,7 +145,7 @@ Now, we're using our global board object to store information about the game boa
 
 4. Further down in the file you'll see the function `countSurroundingMines`. Your job is to define it so it returns the number of cells around the current cell that have the isMine property set to true.
 
-    - Getting the cells that surround the current cell is pretty tricky, so we've provided a helper function: `lib.getSurroundingCells`. Read the comments above `countSurroundingMines` for more clues.
+    - Getting the cells that surround the current cell is pretty tricky, so we've provided a helper function:2 `lib.getSurroundingCells`. Read the comments above `countSurroundingMines` for more clues.
 
         - To be clear, you don't need to write `lib.getSurroundingCells`... you can just start using it!
 
