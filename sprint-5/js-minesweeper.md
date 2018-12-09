@@ -5,14 +5,21 @@
 
 In your sprints you have covered most of the skills necessary to build your first JavaScript game. This sprint, you'll actually build it - with help - step by step.
 
-Together we're going to be completing the classic game of minesweeper. As such, before you jump into coding minesweeper, if you're unfamiliar with how the game works it might be worth having a look at this resource [???](https://www.google.com/search?q=minesweeper) to help you get familiar with the game itself and the rules it has.
+Together we're going to be completing the classic game of minesweeper. The objective of the game is to clear a square grid containing hidden "mines" or bombs without detonating any of them. Clearing safe squares will give you clues about the number of neighboring mines. To win the game all mines must be "flagged" and all the safe squares revealed.
 
-The objective of the game is to clear a square grid containing hidden "mines" or bombs without detonating any of them. Clearing safe squares will give you clues about the number of neighboring mines. To win the game all mines must be "flagged" and all the safe squares revealed.
+There are only two controls in minesweeper:
+```
+Left click - reveal squares
+Right click - flag squares
+```
+  
+Before you jump into coding minesweeper, if you're unfamiliar with the game maybe you should play a couple of rounds to get the hang of it. Timebox it though: don't get addicted!
 
-<iframe height='265' scrolling='no' title='Pure CSS minesweeper' src='//codepen.io/bali_balo/embed/BLJONk/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/bali_balo/pen/BLJONk/'>Pure CSS minesweeper</a> by Bali Balo (<a href='https://codepen.io/bali_balo'>@bali_balo</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+Resources:\
+[Minesweeper - Google Game](https://www.google.com/search?q=minesweeper)\
+[Minesweeper](https://codepen.io/McXinuS/full/PbYbQq) on CodePen by [Andrey](https://codepen.io/McXinuS)
 
->This is what minesweeper is
+## Summary
 
 >First part = follow the error messages you receive back when you load it in the browser
 >Second part = complete the functions, use your problem solving skills to get it working
@@ -21,18 +28,18 @@ The objective of the game is to clear a square grid containing hidden "mines" or
 
 >You will want to clone it and complete this locally, push back to your repo, turn on github pages for it so we can see it too!
 
+>Please do the 'When you're finished' section below, regardless.
+
 
 >Have Fun! :+1:
 
 ## And so it begins!
 
-
-
 Create a fork of this repo: https://github.com/dev-academy-foundations/minesweeper
 
-Clone your copy of the repository down using `git clone https://github.com/your-name/minesweeper` (replacing your-name with your GitHub account name.)
+Clone your copy of the forked repository down using `git clone https://github.com/your-name/minesweeper` (replacing your-name with your GitHub account name.)
 
-cd into the minesweeper directory
+Navigate into the minesweeper directory and open it in your code editor.
 
 You'll see a stylesheet file, a JavaScript file, an HTML file, and some SVG images. There's also a `lib` directory.
 
@@ -40,11 +47,13 @@ You can ignore the images and CSS, although you can take a look at the styles if
 
 Open the `index.html` in your code editor. You don't need to actually modify it at all, but it helps to get an idea of what's inside.
 
-Notice that we have a containing div with class board but... it's empty! We're going to fill that up with cells, but we're going to do it using our JavaScript skills.
+Notice that we have a containing div with class board but... it's empty! We're going to fill that up with cells, but rather than changing this file, we're going to do it using our JavaScript skills.
  
-Open the `index.html` in your internet browser. You should see a message near the top of the screen telling you to define a board object.
+Now open the `index.html` in your internet browser. You should see a message near the top of the screen telling you to define a board object.
 
-Right then, let's get something working! Open up minesweeper.js and take a look. Uncomment the var board = near the top and then complete the statement by adding {}, defining board as an empty object.
+Right then, let's get something working! Open up minesweeper.js and take a look. 
+
+Uncomment the var board = near the top and then complete the statement by adding {}, defining board as an empty object.
 
 Save the file and reload the page in your browser. It should tell you to add a cells property.
 
@@ -54,17 +63,15 @@ Do that, reload the page in the browser and see what the next message is. Keep r
 
 - You should probably start all your mines as hidden: true!
 
-Once you've got a board displaying, you can play parts of the game! Don't forget though:
+Once you've got a board displaying, you can play parts of the game! 
 
-Commit your changes to your local branch and push to GitHub.
+Don't forget to commit your changes and push to GitHub!
 
 ## Objects and Arrays
 
-Ok, so we have a game board! (If you're not doing these in order, you need to: make sure you complete 6.0 first, or this will make no sense at all!) Now we need to show how many mines are in surrounding squares as we reveal more of the board.
+Ok, so we have a game board! Now we need to show how many mines are in surrounding squares as we reveal more of the board.
 
-If you've never played Minesweeper, maybe you should play a couple of games to get the hang of it at this point. Timebox it though: don't get addicted! There's a pretty solid version here.
-
-In 6.0 we created a board object. If we were describing our object in English, we'd say something like: "This is an object that contains an array of objects."
+Previously we created a board object. If we were describing our object in English, we'd say something like: "This is an object that contains an array of objects."
 
 ```
 var board = {
@@ -85,7 +92,7 @@ var board = {
 
 Tip: if you're not sure if the board object you're creating is correct, open your browser's developer tools and type board. In Chrome at least, this will show the object's structure and you can expand the cells array to see its contents.
 
-In bootcamp you're going to need to access objects and arrays like this all the time! Getting familiar with them is crucial. Be sure that you understand the following before going onto the next assignment:
+In bootcamp you're going to need to access objects and arrays like this all the time! Getting familiar with them is crucial. Be sure that you understand the following before going onto the next part:
 
 - cells is an object property.
 
@@ -97,11 +104,11 @@ In bootcamp you're going to need to access objects and arrays like this all the 
 
 - You can access a property on that object using dot and array notation (board.cells[0].row).
 
-If you're not clear on any of these things, this is a really good time to reach out and seek clarification! Ask your fellow Phase-0 students in Slack, ask in #code-help-desk, ask a teacher. Most importantly, practise. Sometimes the best way is just to try it, either in the browser development tools or using an online tool like Repl.it.
+If you're not clear on any of these things, this is a really good time to reach out and seek clarification! Ask your fellow Foundations students in Slack, ask in #code-help-desk, ask a facilitator. Most importantly, practice. Sometimes the best way is just to try it, either in the browser development tools or using an online tool like Repl.it.
 
 ## Counting the Boom
 
-So far, we've created a global object, a data structure that we can use to track information about our game. It's worth noting that, as a rule, relying on objects in global scope isn't always such a great idea. However it makes things a bit less complicated while you're learning the ropes! Once you've gotten the hang of working with objects and properties, you'll realise that we very seldom need to keep them in global scope.
+So far, we've created a `global` object, a data structure that we can use to track information about our game. It's worth noting that, as a rule, relying on objects in global scope isn't always such a great idea. However it makes things a bit less complicated while you're learning the ropes! Once you've gotten the hang of working with objects and properties, you'll realise that we very seldom need to keep them in global scope.
 
 Now we need to find a way to display those counts of how many of the surrounding cells contain mines, the counts that make Minesweeper more than just a random guessing game. There's some slightly trickier code here, so we've provided some of it for you in lib.
 
@@ -126,16 +133,20 @@ Assign the result of countSurroundingMines to a property on each cell object. Th
 
 Further down in the file you'll see the function countSurroundingMines. Your job is to define it so it returns the number of cells around the current cell that have the isMine property set to true.
 
-Getting the cells that surround the current cell is pretty tricky, so we've provided a helper function: lib.getSurroundingCells. Read the comments above countSurroundingMines for more clues.
+Getting the cells that surround the current cell is pretty tricky, so we've provided a helper function: `lib.getSurroundingCells`. Read the comments above countSurroundingMines for more clues.
 
 To be clear, you don't need to write lib.getSurroundingCells... you can just start using it!
-You'll need to use a syntax that looks something like: var surroundingCells = getSurroundingCells(row, col);
+
+You'll need to use a syntax that looks something like: 
+```javascript
+var surroundingCells = getSurroundingCells(row, col);
+```
 
 Think about how to get row and col out of your cell object: remember dot and bracket notation?
 
 You're going to have to loop through the surrounding cells returned from getSurroundingCells, checking each one to see if it's a mine and adding to a count variable if it is.
 
-Once you have the correct count, return it (return count).
+Once you have the correct count, return it.
 
 Once you've got the counts working to your satisfaction, commit your code!
 
@@ -145,9 +156,11 @@ So now we can play a game... almost! You've probably noticed that there's no rea
 
 You should go into this knowing that the way to win a game of Minesweeper is to have correctly marked all of the mines and uncovered every other cell.
 
-Remember event handlers? You defined some of them in Sprint 5. In startGame, use document.addEventListener to call checkForWin every time the left mouse button is clicked.
+Remember event handlers? You used some of them in Sprint 3. In startGame, we're going to use document.addEventListener to call checkForWin every time the left mouse button is clicked.
 
 When you've done that, add another one that calls checkForWin when the right mouse button is clicked.
+
+>Resource
 
 Remember, a player can win either by clearing the last hidden cell, or marking the last mine.
 
@@ -163,28 +176,27 @@ Take a moment to notice something: we're defining small functions that only have
 
 When you're done, commit your code!
 
-Hey, it's a game! The next assignment contains some finishing off tasks and stretch goals.
-
-Please do the push to GitHub Pages regardless though, and share your work with the your fellow Phase-0 students.
+Hey, it's a game! The next part contains some finishing off tasks and stretch goals. Even if you don't complete them, please do the 'When you're finished' section below before moving on to the next part of this sprint.
 
 ## Finishing Touches
 
 Congratulations on making it this far! We hope you enjoyed (or at least were not driven to distraction by) this little journey through a classic game.
 
-The basics are complete, but there are so many more things to work on. Here are some stretch goals if you're done ahead of time and your other assignments for this sprint are complete. Don't get too bogged down in trying to make your game perfect: it's much more important that you learn the principles behind it.
+The basics are complete, but there are so many more things to work on. Here are some stretch goals if you're done ahead of time and want to flex your skills. Don't get too bogged down in trying to make your game perfect: it's much more important that you learn the principles behind it.
 
-
-
-#### Stretch Goal 1: automatically generate the board! 
+#### Stretch Goal 1 - automatically generate the board! 
 Instead of just typing out the global board object, write a function to create it.
 Each cell will need row, col, isMine, isMarked, and hidden properties.
 You could start by simply setting every isMine to true, but later you'll probably want to have a random number of mines scattered throughout the board.
-#### Stretch Goal 2: reset the board!
-After a win or loss, give players a chance to try again by resetting the board to its default state. You'll need to put classes back the way they were at the start, and re-initialise the global board object.
-#### Stretch Goal 3: sound effects!
+
+#### Stretch Goal 2 - reset the board!
+After a win or loss, give players a chance to try again by resetting the board to its default state. You'll need to put classes back the way they were at the start, and re-initialize the global board object.
+
+#### Stretch Goal 3 - sound effects!
 Investigate how to use JavaScript to play a sound when the user uncovers or marks a cell. Play an explosion when they uncover a bomb, and applause when they win.
 Resource: Play sound on :hover
-#### Stretch Goal 4: you decide!
+
+#### Stretch Goal 4 - you decide!
 Let your imagination run rampant. Maybe they're not mines after all, but kumquats! Restyle the board, change the rules, make it your own.
 
 ## When you've finished
