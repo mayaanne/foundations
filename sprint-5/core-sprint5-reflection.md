@@ -15,22 +15,61 @@ You have now reached your final sprint of your Foundations curriculum.  What a j
 ## Timebox
 Activity | Time|
 ------------|----------|
-Reflection | 1 hour
+Journal | 5 - 10 minutes
+Reflection | 30 minutes
 Create and Publish Blog  | 30 minutes
 
 ## Overview - Foundations Core Skills
 Let's take a moment to complete a high level review of all the Foundations Core Skills you have completed to date:
 
-Sprint #: | Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 | 
-------------|----------|----------|----------|----------|
-Core Skill: | [Thinking like a web developer Primer](../sprint-1/think-like-a-programmer-primer.md),   [Identity and values exploration](../sprint-1/core-identity-and-values.md),   [Introduce yourself exercise](../sprint-1/core-introduce-yourself.md)  | [My Learning Plan](../sprint-2/core-learning-plan.md) | [Emotional Intelligence](../sprint-3/core-eq.md)  | [Neuroplasticity and growth mindset](../sprint-4/core-neuro-growth-mindset.md), [Listening and Looping](../resources/listening-looping.md)
+__Sprint 1:__
+ - [Thinking like a web developer Primer](../sprint-1/think-like-a-programmer-primer.md)   
+ - [Identity and values exploration](../sprint-1/core-identity-and-values.md) 
+ - [Introduce yourself exercise](../sprint-1/core-introduce-yourself.md)  
+ 
+ __Sprint 2:__
+ - [My Learning Plan](../sprint-2/core-learning-plan.md)
+ 
+ __Sprint 3:__
+ - [Emotional Intelligence](../sprint-3/core-eq.md)
+ 
+ __Sprint 4:__
+ - [Neuroplasticity and growth mindset](../sprint-4/core-neuro-growth-mindset.md)
+ - [Listening and Looping](../resources/listening-looping.md)
 
 
-There will be some of you 
+Understanding yourself in the context of others and utilising your Core Skills will set you up for not only Boot Camp but your career in the Tech Industry.
+Tech employers aren't looking for top grades or the person with the most outstanding code.  They're looking for exceptional human beings who will enhance the culture of their team. 
 
-## Application
+Core has introduced you to techniques to train your mind.  You have (hopefully) learned useful ways of understanding problems and through your own practice you will have strengthen your self solving skills.
+
+Let's take a moment now to reflect on your journey and complete a short journalling exercise.
+
+
+## Journal
+
+To complete this exercise you can either open a blank text document or grab a pen and paper and set a timer for 2 minutes.
+
+The prompt for you is "What surprised me the most about learning core is....".
+Once you start writing for the prompt, you don't stop until your 2 minutes is up.  
+
+Think about your experience of learning core in Foundations and just write.  
+If you run out of things to say just write "I've run out of things to say - I don't know what to say... this is really boring... I hate it when I'm boared.  What ever comes.  Overtime, you'll ifnd cognitions and emotions become easier to identify and to write about.  
+
+This journalling piece is not for public display.  This is for your eyes only unless you wish to share.   
+
+
+## Reflection
+
+Utilising your journal findings and the high level overview of the Core learnings you have covered in Foundations - answer the following questions:
+
+1. Describe the impact the core learning has had on your Foundations learning journey.
+2. What are 1 - 3 new things you have learned about yourself as a result of the core learning?
+3. What has surprised you the most about the core learning?
+4. What was the most challenge aspects of the core learning?
+4. Any thoughts you want to share about your core learning journey in Foundations?
+
 ## Create and Publish
 
-- High level overview of Sprints 1 - 4 (bullet points list)
-- Prompting questions for the reflection
-- Change, Add, Remove, Love
+Create a file named sprint5-cultural.html to your blog and add your reflections to it. 
+
