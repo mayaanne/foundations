@@ -3,6 +3,10 @@
 
 # Minesweeper
 
+### Learning Competencies
+
+## Summary
+
 In your sprints you have covered most of the skills necessary to build your first JavaScript game. This sprint, you'll actually build it - with help - step by step.
 
 Together we're going to be completing the classic game of minesweeper. The objective of the game is to clear a square grid containing hidden "mines" or bombs without detonating any of them. Clearing safe squares will give you clues about the number of neighboring mines. To win the game all mines must be "flagged" and all the safe squares revealed.
@@ -19,7 +23,7 @@ Resources:\
 [Minesweeper - Google Game](https://www.google.com/search?q=minesweeper)\
 [Minesweeper](https://codepen.io/McXinuS/full/PbYbQq) on CodePen by [Andrey](https://codepen.io/McXinuS)
 
-## Summary
+## Timebox
 
 >First part = follow the error messages you receive back when you load it in the browser
 >Second part = complete the functions, use your problem solving skills to get it working
@@ -35,37 +39,37 @@ Resources:\
 
 ## And so it begins!
 
-Create a fork of this repo: https://github.com/dev-academy-foundations/minesweeper
+1. Create a fork of this repo: https://github.com/dev-academy-foundations/minesweeper
 
-Clone your copy of the forked repository down using `git clone https://github.com/your-name/minesweeper` (replacing your-name with your GitHub account name.)
+2. Clone your copy of the forked repository down using `git clone https://github.com/your-name/minesweeper` (replacing your-name with your GitHub account name.)
 
-Navigate into the minesweeper directory and open it in your code editor.
+3. Navigate into the minesweeper directory and open it in your code editor. You'll see a stylesheet file, a JavaScript file, an HTML file, and some SVG images. There's also a `lib` directory.
 
-You'll see a stylesheet file, a JavaScript file, an HTML file, and some SVG images. There's also a `lib` directory.
+    - You can ignore the images and CSS, although you can take a look at the styles if you're curious. You can also ignore the lib directory (this contains two JavaScript files which do a lot of the heavy lifting for you. We do not expect you to understand everything that's in them! In fact, you should be able to complete the whole challenge without even glancing inside them).
 
-You can ignore the images and CSS, although you can take a look at the styles if you're curious. You can also ignore the lib directory (this contains two JavaScript files which do a lot of the heavy lifting for you. We do not expect you to understand everything that's in them! In fact, you should be able to complete the whole challenge without even glancing inside them).
+4. Open the `index.html` in your code editor. You don't need to actually modify it at all, but it helps to get an idea of what's inside.
 
-Open the `index.html` in your code editor. You don't need to actually modify it at all, but it helps to get an idea of what's inside.
-
-Notice that we have a containing div with class board but... it's empty! We're going to fill that up with cells, but rather than changing this file, we're going to do it using our JavaScript skills.
+    - Notice that we have a containing div with class board but... it's empty! We're going to fill that up with cells, but rather than changing this file, we're going to do it using our JavaScript skills.
  
-Now open the `index.html` in your internet browser. You should see a message near the top of the screen telling you to define a board object.
+5. Now open the `index.html` in your internet browser. You should see a message near the top of the screen telling you to "define a board object".
 
-Right then, let's get something working! Open up minesweeper.js and take a look. 
+6. Right then, let's get something working! Open up minesweeper.js and take a look. It contains hints for completing the various functions we will be writing, but to start:
 
-Uncomment the var board = near the top and then complete the statement by adding {}, defining board as an empty object.
+    - Uncomment the `var board =` near the top and then complete the statement by adding `{}`, defining board as an empty object.
 
-Save the file and reload the page in your browser. It should tell you to add a cells property.
+    - Save the file and reload the page in your browser. It should tell you to add a cells property.
 
-Do that, reload the page in the browser and see what the next message is. Keep repeating this cycle until you actually see a game board appear!
+    - Do that, reload the page in the browser and see what the next message is. Keep repeating this cycle until you actually see a game board appear!
 
-- You can make the board as large as 36 cells before the game will complain it's too large. We suggest 9 cells (three on each side) to begin with.
+    **Some tips:**
 
-- You should probably start all your mines as hidden: true!
+    - You can make the board as large as 36 cells before the game will complain it's too large. We suggest 9 cells (three on each side) to begin with.
+
+    - You should probably start all your mines as hidden: true!
 
 Once you've got a board displaying, you can play parts of the game! 
 
-Don't forget to commit your changes and push to GitHub!
+_Don't forget to commit your changes and push to GitHub!_
 
 ## Objects and Arrays
 
