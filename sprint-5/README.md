@@ -11,8 +11,9 @@ For this sprint you'll find there are less primers leading you in to the challen
 
 1. [Minesweeper - Challenge](js-minesweeper.md)
 2. [Pair Programming - Primer](pair-programming.md)
-2. [Calculator - Challenge](js-calculator.md)
+3. [Calculator - Challenge](js-calculator.md)
 
 ## Core 
 
-1. [AQ & CQ](core-aq-cq.md)
+1. [Reflection - Foundations Core Skills](core-sprint5-reflection.md)
+2. [Learning Plan: Preparing for ](core-learning-plans.md)
