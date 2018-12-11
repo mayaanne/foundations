@@ -35,7 +35,7 @@ It can feel quite disruptive moving from one phase of a course to another.  In t
 
 - __Weekly check-in's with your Human Skills (Core) facilitators.__
 
-Every Wednesday from Week 1 of your Bootcamp you will have 1:1 time with your Human Skills (Core) facilitators.  This isn't a time to address technical queries, it is the time for us to support you and your emotional well being throughout Bootcamp.
+Each week of Bootcamp you will have 1:1 time with your Human Skills (Core) facilitators.  This isn't a time to address technical queries, it is the time for us to support you and your emotional well being throughout Bootcamp.
 
 In Auckland, your Human Skills facilitator is Dougal Stott. In Wellington, your Human Skills facilitator is Ming Jansen.  We also have our Human Skills Lead Sarrah Jayne who assists across campuses and is based in Wellington. You will have to chance to meet them Day 1 of Bootcamp.
 
