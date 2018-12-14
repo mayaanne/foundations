@@ -9,66 +9,100 @@ If working in a pair, you can use this time to put into practice some of the tec
 
 ## Timebox
 
-Challenge | Time|
-------------|----------|
-Calculator | 15 hours
-Refactor | 5 hours
-Reflect | 30 minutes
+Challenge || Time|
+------------|---|----------|
+Calculator | (Part 1) | 15 hours
+Refactor | (Part 2) | 5 hours
+Reflect || 30 minutes
 
-## Build it
+## Part 1 
+---
+## Build it!
 
-Create a new git repository called "js-calculator".
+Set up:
 
-Reverse pseudocode the sample solution. Remember, there is no 'right way' - the sample solution is just one implementation.
+1. Fork the [calculator repo](https://github.com/dev-academy-foundations/calculator) from [foundations](https://github.com/dev-academy-foundations) to your github and then clone your copy.
+
+2. After cloning your own repo, create a branch called `pseudocode` to hold the first part of this challenge. 
+
+3. Reverse pseudocode the [sample solution](https://codepen.io/freeCodeCamp/pen/EPNZYW).\
+_Remember, there is no 'right way' - the sample solution is just one implementation, but we can learn a lot by breaking it down and seeing the steps it is taking._
+
+4. Push this to your `pseudocode` branch
 
 Build the app:
 
-- Start with building the html, think about what buttons are needed on a calculator
-- Next, give your calculator some style. Use skeleton, raw CSS or whatever you feel like to make your buttons look more like a real calculator.
-- Finally, start working through the Javascript, this is the hardest part, so...
+5. Create and checkout a `first-draft` branch. If you create it while on your `pseudocode` branch, it will contain the pseudocode you created previously for reference.
 
-Take your time and work through small problems.
+6. Start with the `index.html` and building the structure, think about what buttons are needed on a calculator
 
-Make small commits
+7. Next, give your calculator some style. Use a CSS framework, raw CSS, or whatever you feel like to make your buttons look more like a real calculator
 
-Refer to your pseudocode.
+8. Finally, start working through the Javascript, this is the hardest part, so...
+    - Take your time and work through small problems.
+    - Make small commits
+    - Refer to your pseudocode
+    - Use the Developer Tools in your browser
+    - Reference other projects/materials for app structure
+    - If pairing, Change driver-navigator roles approx. every 30 mins
+    - Ask for help. You can do this!
 
-Use the Developer Tools in your browser.
+Once completed:
 
-Reference previous projects/materials for app structure
-
-(If pairing, Change driver-navigator roles approx. every 30 mins)
-
-Ask for help. You can do this!
+9. Ensure all your hard work has been pushed to your `first-draft` branch
  
-If you did this challenge as a pair, spend 10 minutes asking each other these questions:
+10. If you did this challenge as a pair, spend 10 minutes asking each other these questions:
+    - What did you find awesome about our pairing session?
+    - What could have been more awesome?
 
-- What did you find awesome about our pairing session?
-- What could have been more awesome?
+    This question and answer may feel difficult, but is a very valuable learning tool. It can be kind to gently help someone identify their weaknesses so that they can work on them. Remember too that your pair may not completely understand the concept in question, so take their feedback with a grain of salt.
 
-This question and answer may feel difficult, but is a very valuable learning tool. It can be kind to gently help someone identify their weaknesses so that they can work on them. Remember too that your pair may not completely understand the concept in question, so take their feedback with a grain of salt.
-- Did you notice any gaps in my understanding?
+    - Did you notice any gaps in my understanding?
 
+
+## Part 2
+---
 ## Writing short functions
 
-Take a look at your code from the calculator. Unless you've written perfect code, chances are some of it isn't as well-structured and DRY as it could be.
+Take a look at your code from the calculator. Unless you've written perfect code, chances are some of it isn't as well-structured and [DRY](https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161) as it could be.
 
-Your task now, either with your pair or working alone, is to refactor your code with a view to writing smaller functions that only have one job each. To help, consult the Writing short functions resource.
+Your task now, either with your pair or working alone, is to refactor your code with a view to writing smaller functions that only have one job each. To help, consult the [Writing short functions](https://github.com/dev-academy-programme/curriculum/tree/master/resources/js-writing-short-functions-ARTICLE) resource.
 
 
-- Beginning with your original calculator code repository, check out a new branch called 'refactor'.
+1. Beginning with your calculator branch that contains the completed code from Part 1, check out a new branch called `refactor`
 
-- Work through all of the code, making small changes, saving and testing them frequently as you go along.
+2. Work through all of the code, making small changes, saving and testing them frequently as you go along
+    - Working slowly and methodically is key during this process. Don't be tempted to change too much at once, only to find the code breaks and you're not sure why!
 
-Working slowly and methodically is the key to staying calm during this process. Don't be tempted to change too much at once, only to find the code breaks and you're not sure why!
+3. Each time you encounter part of your code that is longer or more complex than you'd like, move some of the code into another function
+    - As a very rough rule of thumb, if the function is longer than about ten lines it may need refactoring. Err on the side of creating a new function even if it seems unnecessary or pedantic, just to get the practice.
 
-- Each time you encounter part of your code that is longer or more complex than you'd like, move some of the code into another function.
+4. Each time you create a new function, and have tested it to ensure that your code still works, create a new Git commit
 
-As a very rough rule of thumb, if the function is longer than about ten lines it may need refactoring. Err on the side of creating a new function even if it seems unnecessary or pedantic, just to get the practice.
+5. When you're done, push the new branch to GitHub
 
-- Each time you create a new function, and have tested it to ensure that your code still works, create a new Git commit.
+## Publish your Calculator
+---
 
-- When you're done, push the new branch to GitHub and add a link to it in the waffle comments below.
+Now that you've finished creating your calculator, let's publish it to GitHub Pages so you can see it online.
+
+As we have been working from branches, before we can publish it we need to update your `master` branch with your newly created code. There are two ways to do this:
+
+- On github, create and merge a pull request from your branch into master
+
+- In the command line, use `git pull origin my-branch` while on the master branch to pull the branch into your local master (replacing `my-branch` in the command with your branch name).
+
+Once your master has been updated to contain your calculator, we can now publish the repo on GitHub.
+1. Navigate to the calculator repo in your GitHub account
+2. Enter the settings menu for the repo and scroll down to the GitHub Pages section
+3. Under `Source`, select the master branch
+
+This may take a small period of time to appear, but you will soon be able to go to `your-username.github.io/calculator` and see your game online!
+
+Share your link with your cohort and post the link to the #show-eda channel on Slack with the hashtag #calculator to let other people have a go.
+
+Finally, to show your facilitators the awesome calculator you have built from scratch, we're going to send a pull request back to them. If you need a refresher, look back over your material from the Sprint 1 [Branching Challenge](../sprint-1/git-branching-challenge.md).
+1. Create a pull request from the master branch of your forked calculator repo back to the master branch of `dev-academy-foundations/calculator `
 
 
 ## Reflection
