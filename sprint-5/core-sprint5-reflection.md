@@ -67,7 +67,7 @@ Utilising your journal findings and the high level overview of the Core learning
 1. Describe the impact the core learning has had on your Foundations learning journey.
 2. What are 1 - 3 new things you have learned about yourself as a result of the core learning?
 3. What has surprised you the most about the core learning?
-4. What was the most challenge aspects of the core learning?
+4. What was the most challenging aspects of the core learning?
 4. Any thoughts you want to share about your core learning journey in Foundations?
 
 ## Create and Publish
