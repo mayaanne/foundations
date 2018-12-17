@@ -271,7 +271,7 @@ By taking our emotional life and verbalising it using different area's of the br
     
 ### Additional Resources 
 
-[Core EQ material](../Resources/core-eq-resources.md)
+[Core EQ material](../resources/core-eq-resources.md)
 
 
 
