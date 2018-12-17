@@ -4,7 +4,7 @@
 # Your Blog - primer and setup
 
 ### Learning Competencies
-By the end of this primer, you should be able to 
+By the end of this primer, you should be able to
 
 - Understand the purpose of your blog
 - Add a blog directory with template HTML
@@ -31,7 +31,7 @@ Your blog is a practical way to apply your learning and it will go towards your 
 What your Blog is: A space where you demonstrate your skills in problem solving and reflections.
 What your Blog is not: A fancy looking, perfectly put together interface.
 
-We will however introduce you to the important aspects of design thinking, and hope that you can incorporate those into your blog. 
+We will however introduce you to the important aspects of design thinking, and hope that you can incorporate those into your blog.
 
 Throughout the sprints, you'll be presented with bunch of ways to learn HTML, CSS and JS building blocks.
 
@@ -39,13 +39,13 @@ Some of the resources we point you towards will be media rich with audio and vid
 
 __This is your journey and its up to you to discern how you learn best.__
 
-Our role is to help facilitate your critical thinking: in other words, help you identify and take ownership for where your knowledge gaps are, and to assist you in figuring out how to fill those gaps. In the world of web development, your problem solving skill set is your greatest asset. As a result of this method, the step by step instructions (like those below) will become intentionally less detailed as you move through the curriculum. 
+Our role is to help facilitate your critical thinking: in other words, help you identify and take ownership for where your knowledge gaps are, and to assist you in figuring out how to fill those gaps. In the world of web development, your problem solving skill set is your greatest asset. As a result of this method, the step by step instructions (like those below) will become intentionally less detailed as you move through the curriculum.
 
 In all instances, follow the timeboxing prompts, attend the check-in's, keep to the learning objectives and reflect.
 
 ## Introduction
 - In the previous challenge you started a GitHub pages repository: `username.gihub.io`.  
-- Each Sprint you will create a new blog post within that repo, using HTML, CSS and JavaScript. 
+- Each Sprint you will create a new blog post within that repo, using HTML, CSS and JavaScript.
 - Blogs will follow the naming convention sprint#-module. For example sprint1-technical and sprint1-core.
 
 ## Set up part one - Add HTML
@@ -73,7 +73,7 @@ This step setups the directory structure for your css. The file `main.css` uses 
 
 
 ## Set up part three - Link HTML and CSS
-Each HTML file will need to be explicitly linked to a CSS file. This step you'll remove the placeholder link in your HTML file and link the `main.css` file you just created. 
+Each HTML file will need to be explicitly linked to a CSS file. This step you'll remove the placeholder link in your HTML file and link the `main.css` file you just created.
 
 1. Navigate to your `index.html` file  
 2. Replace the place holder as shown below  
@@ -83,8 +83,8 @@ Each HTML file will need to be explicitly linked to a CSS file. This step you'll
 Old
 <link href="your-stylesheet-link-here.css" rel="stylesheet" type="text/css">  `<title>My blog</title>`
 
-New 
-<link href=“styles/main.css” rel=“stylesheet” type=“text/css” />
+New
+<link href="styles/main.css" rel="stylesheet" type="text/css" />
 
 ```
 
