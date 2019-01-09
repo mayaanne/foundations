@@ -37,6 +37,7 @@ There are three aspects of participation that you should think about specificall
 
 
 ## Formulate Learning Plan
+Time to create your Learning Plan! Write your findings on a temporary document (word, google docs, text edit etc).
 The Learning Plan needs to include the following elements:  		 
 	 	 
 - A description of your own strengths and limitations 
@@ -58,8 +59,8 @@ Conduct these steps using terminal:
 2. Create two files: `sprint1-cultural.html` and `sprint2-cultural.html`
 3. Copy and paste [the template](html-template.html)
 4. Update the css file `<link href="your-stylesheet-link-here.css" rel="stylesheet" type="text/css">`with `main.css`
-5. In sprint1, copy and paste your __Identity, Values and Strengths Exploration__ 
-6. In sprint2, copy and paste your __Learning Plan__ 
+5. In sprint1-cultural.html, copy and paste your __Identity, Values and Strengths Exploration__ 
+6. In sprint2-cultural.html, copy and paste your __Learning Plan__ 
 7. Stage, commit, push 
 8. View your blogs on your web browser e.g. `http://username.github.io/blog/sprint1-cultural.html`
 
