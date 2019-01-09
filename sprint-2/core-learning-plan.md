@@ -17,7 +17,6 @@ This programme is not a traditional programme. It depends a lot on your motivati
 
 Activity | Time|
 ------------|----------|
-Attend learning plan one-on-one (1:1) | 30 minutes
 Formulate learning plan | 1 hour 
 Confirm learning plan with facilitator | 30 minutes
  
