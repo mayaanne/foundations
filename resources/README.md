@@ -11,11 +11,12 @@ __Foundations material and resources__
 - [Course outline](course-outline.md) 
 - [Competency Checklist](competency-checklist.md) 
 - [Feedback](feedback.md)    
+- [Foundations facilitator office hours](https://docs.google.com/spreadsheets/d/1SMsI4XeiblO9mNnMTi5eUdPWIUWWHmBMpPJBPvkeqto/edit?usp=sharing)
 - [Fetching (curriculum) changes](fetching-changes.md)  
 - [Getting unblocked](core-getting-unblocked.md)  
 - [Sprint Reflections](reflections-index.md)
 - [Writing solutions - technique and approach](writing-solutions.md) 
-- [Foundations facilitator office hours](https://docs.google.com/spreadsheets/d/1SMsI4XeiblO9mNnMTi5eUdPWIUWWHmBMpPJBPvkeqto/edit?usp=sharing)
+
 
 
 
