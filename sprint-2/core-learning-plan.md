@@ -37,7 +37,7 @@ There are three aspects of participation that you should think about specificall
 
 
 ## Formulate Learning Plan
-Time to create your Learning Plan! Write your findings on a temporary document (word, google docs, text edit etc).
+Time to formulate your Learning Plan! Write your findings on a temporary document (word, google docs, text edit etc).
 The Learning Plan needs to include the following elements:  		 
 	 	 
 - A description of your own strengths and limitations 
@@ -48,7 +48,7 @@ The Learning Plan needs to include the following elements:
 - For example, you might have whanau commitments such as school drop-offs. It’s important to plan these in.
 - These elements do not need to be structured as they are in this list. You should put them together in the way that you feel they are most clearly communicated.
 
-Once you have formulated your plan, you'll need to have your facilitator agree to it.
+You and your facilitator will discuss your learning plan in the next check-in
 
 ## Publish Core Blogs (x2) 
 
