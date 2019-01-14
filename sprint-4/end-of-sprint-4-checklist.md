@@ -10,6 +10,8 @@
 I have:
 - [ ] messaged my Foundations Facilitator on Slack, letting them know what my Repl.it username is
 - [ ] added, committed, and pushed `my-reflections-sprint-4.md`
+- [ ] completed as much of the JavaScript Kata Challenge as you can in the recommended time boxes
+- [ ] created a Pull Request for the Code Readability challenge
 - [ ] added, committed, and pushed `sprint-4-technical.html` 
 - [ ] added, committed, and pushed `sprint-4-cultural.html` 
 - [ ] filled out the feedback form

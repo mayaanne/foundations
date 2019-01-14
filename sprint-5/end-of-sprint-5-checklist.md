@@ -9,7 +9,7 @@
 ## Checklist
 I have:
 - [ ] added, committed, and pushed `my-reflections-sprint-5.md`
-- [ ] added, committed, and pushed `sprint-5-technical.html`
+- [ ] updated my learning plan in preparation for Bootcamp
 - [ ] added, committed, and pushed `sprint-5-cultural.html`
 - [ ] checked that `my-username.github.io/minesweeper` page is live
 - [ ] added, committed, and pushed my minesweeper work up to `your_name/foundations/minesweeper`

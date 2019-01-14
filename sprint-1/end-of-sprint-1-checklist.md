@@ -18,4 +18,7 @@ This is for you to fill in at the end of the sprint to make sure everything has 
 I have:
 - [ ] added, committed, and pushed `my-reflections-sprint-1.md`
 - [ ] created a pull request for `your-name.md` file in ko-wai-koe
+- [ ] completed Set Remotes and Sync Fork challenge
+- [ ] completed Setup Blog using Git pages challenge and checked pages are live
+- [ ] introduced myself on Slack
 - [ ] filled out the feedback form
