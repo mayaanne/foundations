@@ -216,9 +216,6 @@ This may take a small period of time to appear, but you will soon be able to go 
 
 Share your link with your cohort and post the link to the #show-eda channel on Slack with the hashtag #minesweeper to let other people play your game.
 
-Finally, to show your facilitators all the improvements you made to this game, we're going to send a pull request back to them. If you need a refresher, look back over your material from the Sprint 1 [Branching Challenge](../sprint-1/git-branching-challenge.md).
-- Create a pull request from the master branch of your forked minesweeper repo back to the master branch of `dev-academy-foundations/minesweeper`
-
 ## Reflection
 
 Open `my-reflections-sprint-5.md` in VS Code and add your reflections from this challenge:

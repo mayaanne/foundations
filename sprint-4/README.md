@@ -7,6 +7,13 @@ Now it's time to put that JavaScript into practice - the kata will require you t
 
 Our core material this sprint is about neuroplasticity and finding that growth mindset.
 
+## Core 
+
+1. [Neuroplasticity and growth mindset - Primer and Challenge](core-neuro-growth-mindset.md)
+2. [Listening and Looping - Primer and Challenge](../resources/listening-looping.md)
+3. [Cultural Blog](core-blog-mindset.md)
+
+
 ## Tech
 
 1. [Code Readability - Primer](js-code-readability-primer.md)
@@ -17,9 +24,7 @@ Our core material this sprint is about neuroplasticity and finding that growth m
 6. [JavaScript Kata - Challenge](js-kata.md)
 7. [Technical blog](blog-sprint4-technical.md)
 
-## Core 
 
-1. [Neuroplasticity and growth mindset - Primer and Challenge](core-neuro-growth-mindset.md)
-2. [Listening and Looping - Primer and Challenge](../resources/listening-looping.md)
-3. [Cultural Blog](core-blog-mindset.md)
-4. [Feedback](../resources/feedback.md)
+## Before you go 
+1. [End of sprint checklist](end-of-sprint-4-checklist.md)
+2. [Feedback](../resources/feedback.md)  

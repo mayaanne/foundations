@@ -101,9 +101,6 @@ This may take a small period of time to appear, but you will soon be able to go 
 
 Share your link with your cohort and post the link to the #show-eda channel on Slack with the hashtag #calculator to let other people have a go.
 
-Finally, to show your facilitators the awesome calculator you have built from scratch, we're going to send a pull request back to them. If you need a refresher, look back over your material from the Sprint 1 [Branching Challenge](../sprint-1/git-branching-challenge.md).
-1. Create a pull request from the master branch of your forked calculator repo back to the master branch of `dev-academy-foundations/calculator `
-
 
 ## Reflection
 
