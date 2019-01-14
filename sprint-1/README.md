@@ -38,6 +38,6 @@ Then dive into our core material and explore aspects of your values and identity
 ## Stretch
 [Github stretch](git-stretch-error-msgs.md)  
 
-## End of Sprint 
-1. [Feedback](../resources/feedback.md)  
-2. [End of sprint checklist](end-of-sprint-1-checklist.md)
+## Before you go 
+1. [End of sprint checklist](end-of-sprint-1-checklist.md)
+2. [Feedback](../resources/feedback.md)

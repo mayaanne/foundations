@@ -19,7 +19,7 @@ In the first part this Sprint you'll dive into HTML and CSS, the language of the
 1. [Cultural Blog and My Learning Plan](core-learning-plan.md)    
   
 
-## End of Sprint 
-1. [Feedback](../resources/feedback.md)  
-2. [End of sprint checklist](end-of-sprint-2-checklist.md)
+## Before you go 
+1. [End of sprint checklist](end-of-sprint-2-checklist.md)
+2. [Feedback](../resources/feedback.md)  
 
