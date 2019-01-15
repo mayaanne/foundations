@@ -78,31 +78,27 @@ Research shows that learning is quicker if you engage everyday and avoid periods
 ### Full-time (FT1):  
 Foundations is like a full-time job. It requires about 8 hours a day of your focus and effort. If you miss a day, you'll need to play catch-up. 
 
-You'll be working an accountability group (that your facilitator will set you up with) and in your accountability group you will be completing particular tasks together. 
+You'll meet your part-time cohort who will begin to integrate and sync in as Foundations progresses. We encourage Tuakana/Teina and Student-teaching-student attitude, as it strengthens everyone's learning. Lean on each other and learn together.   
 
-You'll also meet your part-time cohort who will begin to integrate and sync in as Foundations progresses. We encourage Tuakana/Teina and Student-teaching-student attitude, as it strengthens everyone's learning. Lean on each other and learn together.   
-
-Full time students will have a tech workshop at the beginning of the sprint and a Core 1:1 check-in during the sprint. 
+Students will have access to an online recorded tech workshop at the beginning of the sprint and a combined tech+core 1:1 check-in during the sprint. 
 
 ### Part-time (PT2 and PT3)
-Depending on the number of folk studying part-time, you could be flying completely solo, or together with a few others. 
+Depending on the number of folk studying part-time, you could be flying completely solo, or together with a few others. PT2 and PT3 students will have a combined tech+core session with their facilitator during each sprint
 
-PT2 and PT3 students will have a combined tech+core session with their facilitator, unless there are other PT2 and PT3 students, in which case the sessions will likely be split into two: A group workshop followed, by a core 1:1 later in the sprint. Your facilitator will advise you if this is the case.  
-
-5 sprints before Bootcamp, the rest of your cohort will join Foundations. During this time, you'll be encouraged to sync in and participate with them. We encourage Tuakana/Teina and student-teaching-student attitude, as it benefits everyone's learning. You'll also be invited to join an accountability group when the fulltime cohort begins. 
+6 weekss before Bootcamp, the rest of your cohort will join Foundations. During this time, you'll be encouraged to sync in and participate with them. We encourage Tuakana/Teina and student-teaching-student attitude, as it benefits everyone's learning.
 
 
 ## Schedule 
-Each sprint includes a technical and core check-in with your facilitator, depending on your full or part time status.  
+Each sprint includes a tech + core check-in with your facilitator.
 
 
-Activity | FT1 | PT2 | PT3 |
-------------|----------|------------|--------| 
-Tech workshop | Beginning of sprint | - | - |
-Core 1:1 | During sprint | - |  - |
-Combined Core+tech 1:1 | - | Beginning of sprint | Beginning of sprint |
-Pairing | Accountability group | Facilitator (or PT2 if available) | Facilitator (or PT3 if available) |
-Assignment submission | Sprint end : Sunday 10pm | Sprint end : Sunday 10pm | Sprint end : Sunday 10pm |
+FT1 | PT2 | PT3 |
+------------|----------|------------|
+Students have 1 week to complete each sprint| Students have 2 weeks to complete each sprint | Students have 3 weeks to complete each sprint |
+40 hours of study per week | 20 hours of study per week | 12 - 15 hours of study per week |
+Students need to have their sprint completed and ready for review by 10pm on the Sunday of every week | Students need to have their sprint completed and ready for review by 10pm on the Sunday of the 2nd week of each sprint | Students need to have their sprint completed and ready for review by 10pm on the Sunday of the 3rd week of each sprint | 
+
+
 
 ## Content delivery 
 Course material is delivered via GitHub, the platform you are currently viewing to read this material. 
@@ -124,7 +120,7 @@ To signal the completion of a sprint, you will need to fill out a feedback form.
 __Submit sprintly feedback form by 10pm Sunday to signal completion of work.__ 
 
 ## Extensions 
-All students, regardless of FT or PT status are required to submit work at the end of the sprint by 10pm Sunday. If you are unable to complete the material by the end of the sprint, you must submit an extension request. All form links are located on the home index page of this GitHub repo. 
+All students, regardless of FT or PT status are required to submit work at the end of the sprint by 10pm Sunday. If you are unable to complete the material by the end of the sprint, you must let your facilitaor know before 5pm on Friday.
 
 __Extension requests are necessary even for PT__
 
