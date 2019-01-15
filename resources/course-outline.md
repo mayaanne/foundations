@@ -85,7 +85,7 @@ Students will have access to an online recorded tech workshop at the beginning o
 ### Part-time (PT2 and PT3)
 Depending on the number of folk studying part-time, you could be flying completely solo, or together with a few others. PT2 and PT3 students will have a combined tech+core session with their facilitator during each sprint
 
-6 weekss before Bootcamp, the rest of your cohort will join Foundations. During this time, you'll be encouraged to sync in and participate with them. We encourage Tuakana/Teina and student-teaching-student attitude, as it benefits everyone's learning.
+6 weeks before Bootcamp, the rest of your cohort will join Foundations. During this time, you'll be encouraged to sync in and participate with them. We encourage Tuakana/Teina and student-teaching-student attitude, as it benefits everyone's learning.
 
 
 ## Schedule 
