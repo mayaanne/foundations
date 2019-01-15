@@ -4,7 +4,7 @@
 # Listening and Looping
 
 ### Instructions 
-Pair up with someone in your cohort or accountability group and spend 10 minutes running through this exercise  
+Pair up with someone in your cohort and spend 10 minutes running through this exercise  
 
 ### Summary 
 Conscious Listening is one of the methods we use for training Emotional Intelligence. Through training in Emotional Intelligence you improve your ability to understand yourself and others and your skills at communicating. These skills have a significant impact on your succssess in life - at home, at school, at work. 

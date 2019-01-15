@@ -18,18 +18,12 @@ __Foundations material and resources__
 - [Writing solutions - technique and approach](writing-solutions.md) 
 
 
-
-
-
-
-
 ## Tools and Tech
 - [Blog Instructions](blog-instructions.md)    
 - [Blog HTML template](html-template.html)  
 - [Command-line-overview](command-line-overview.md)   
 - [Install software - external link to student prep repo](https://github.com/dev-academy-programme/student-prep/blob/master/install-software.md)    
-- [Repl.It](https://repl.it/)  
-- [Pseudo-code](pseudo-code.md)  
+- [Repl.It](https://repl.it/)    
 - [User-stories](user-stories.md)  
 
 

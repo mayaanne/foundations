@@ -4,8 +4,8 @@
 # Blog Instructions 
 
 ### Summary 
-Each Sprint you'll produce 2 blog posts - 1 cultural and 1 technical. 
-These are published to your `http://username.github.io/' page, which is visible to your cohort and anyone else you share the link with. Your engagement with the blog questions and content each Sprint count towards your Foundations assessment.  
+For Sprint 2-5 you'll produce blog posts. Each sprint will have a cultural blog post and some sprints will have an additional technical blog post.
+These are published to your `http://username.github.io/' page, which is visible to your cohort and anyone else you share the link with. Your engagement with the blog questions and content each sprint counts toward your Foundations assessment.  
 
 ## Blog Setup 
 In Sprint 1's ["Setup new Repo & Create Blog Challenge"](../sprint-1/git-new-repo-github-pages-blog.md) you created a new repo github.io and cloned it to your computer. Hopefully you cloned it to a sensible file directory for example:
