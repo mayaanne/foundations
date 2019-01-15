@@ -41,7 +41,7 @@ Answer the following questions (in addition to the challenge-specific questions)
 * Which parts of the challenge did you find tedious?
 
 ## Why is this *so* important?
-"Reflection is the most important part of the learning process. We do not learn from experience.. we learn from reflecting on experience"  
+"Reflection is the most important part of the learning process. We do not learn from experience.. We learn from reflecting on experience"  
 _John Dewey, philosopher, psychologist and educational reformer_
 
 There is an increasing amount of evidence that within the learning domain, reflection is a the most important aspect of learning. However you learn best — visually, auditory, or kinesthetically — you'll reap the most rewards by spending time reflecting on your experiences

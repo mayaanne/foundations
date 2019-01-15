@@ -10,7 +10,7 @@
 ## Summary
 During the prep-curriculum you were introduced to the importance of developing habits, in this case for time managment and productivity. 
 
-How long you spend on each activity is important. You and your facilitator use this information.  
+How long you spend on each activity is important to know. You and your facilitator use this information.  
 
 If you haven't already, sign up for an account at [toggl](https://github.com/dev-academy-programme/student-prep/pull/3) and download the desktop app
 
@@ -21,6 +21,9 @@ Activity | Timebox |
 Create account and download | 5 minutes
 
 ## Instructions 
+
+Ultimately it is up to you how you manage your time but a potentially useful way to manage/record your time using toggl is to create the toggl entries for each of the sprints before you start. For Example:
+
 1. Create 10 toggl entries (figure 1) 
     - Sprint 1 Tech 
     - Sprint 1 Core 
