@@ -66,8 +66,11 @@ __Where I grew up:__
 __Where my family is from:__    
 __My name:__   
 
+---
 
+## Side Note:
 
+Sometimes when you `git pull` work into a repo you have been working in you will find that a file you have been working on has an issue when you pull. This is known as a "merge conflict". Someone else has been making changes to the same file too! If this happens, here is a link to a quick walkthrough on what to do: [Merge conflicts](../resources/resolving-conflicts.md)
 
 
 
