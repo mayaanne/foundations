@@ -32,4 +32,4 @@ Read about Bulma framework | 30 minutes |
 [Bulma](https://bulma.io/) (a really great framework!)
 
 ## Try it on your blog!
-A good way to practice will be to try and use Bulma for your blog. Read through the documentation section on the Bulma website to learn how to bring it in to your site  
+A good way to practice will be to try and use Bulma for your blog. Read through the documentation section on the Bulma website to learn how to bring it into your site.  
