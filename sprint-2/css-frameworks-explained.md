@@ -21,13 +21,13 @@ They can greatly decrease the time needed to start creating applications and web
 
 Activity | Time|
 ------------|----------|
-What are frameworks? - video | 10 minutes |
+What are frameworks? | 10 minutes |
 Read about Bulma framework | 30 minutes |
 
 ---
 
 
-[What are frameworks?](http://www.awwwards.com/what-are-frameworks-22-best-responsive-css-frameworks-for-web-design.html) (video)
+[What are frameworks?](http://www.awwwards.com/what-are-frameworks-22-best-responsive-css-frameworks-for-web-design.html) 
 
 [Bulma](https://bulma.io/) (a really great framework!)
 
