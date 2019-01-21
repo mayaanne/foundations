@@ -1,5 +1,5 @@
-[Sprint 1 Home](README.md)|
----|
+|[Back](./git-branching-challenge)|[Sprint 1 Home](README.md)|
+|---|---|
 
 # Opening VS Code in the Terminal
 
