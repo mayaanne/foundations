@@ -59,7 +59,7 @@ User/Hemi/Dev-Academy/an-already-cloned-repo/a-second-repo
 - [Create Simple Pull Request - YouTube](https://www.youtube.com/watch?v=rgbCcBNZcdQ)  
 - [Code School Git Real - Cloning and Branching](https://app.pluralsight.com/player?name=f83ca95c-74e2-4a1d-8742-62b34ec47906&mode=live&clip=0&course=code-school-git-real&author=gregg-pollack)  
 - [Atlassian Git Branching](https://www.atlassian.com/git/tutorials/using-branches) 
-- [Opening VS Code in Command Line](code-command-in-terminal.md) 
+- [Opening VS Code in Command Line](./code-command-in-terminal.md) 
 
 ## Template:
 
