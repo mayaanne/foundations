@@ -17,15 +17,15 @@ Then dive into our core material and explore aspects of your values and identity
 
 ## Tech
 1. [Command Line - Primer](command-line-primer.md)  
-2. [Version Control and Git - Primer](git-version-control-primer.md)  
-3. [Install and Explore Git and GitHub - Course](git-install-and-exploration-course.md)  
-4. [Track changes - Primer](git-track-changes-primer.md)  
-5. [Branching - Primer](git-branch-primer.md)  
-6. [Branch, Pull, Merge - Challenge](git-branching-challenge.md)  
-7. [Fork and Clone - Challenge](git-github-fork-clone-challenge.md)  
-8. [Set Remotes and Sync Fork - Primer](git-remote-fork-merge-primer.md)  
-9. [Set Remotes and Sync Fork - Challenge](git-remote-sync-fork-challenge.md)  
-10. [Set up Blog using Git pages - Challenge](git-new-repo-github-pages-blog.md)  
+2. [Version Control with Git - Primer](version-control-with-git.md)  
+3. [Install and Explore Git and GitHub - Course](install-and-explore-git.md)  
+4. [Track and Commit - Primer](track-and-commit-primer.md)  
+5. [Branch, Pull, Merge - Primer](branch-pull-merge-primer.md)  
+6. [Branch, Pull, Merge - Challenge](branch-pull-merge-challenge.md)  
+7. [GitHub Fork and Clone - Challenge](github-fork-clone-challenge.md)  
+8. [Set Remotes and Sync Fork - Primer](set-remotes-and-sync-fork-primer.md)  
+9. [Set Remotes and Sync Fork - Challenge](set-remotes-and-sync-fork-challenge.md)  
+10. [Setup new Repo & Create Blog - Challenge](setup-new-repo-and-create-blog.md)  
 
 
 
