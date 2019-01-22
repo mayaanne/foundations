@@ -1,5 +1,5 @@
-|[Sprint 1 Home](README.md)|
-|---|
+[Sprint 1 Home](README.md)|
+---|
 
 # Branch, Pull, Merge Primer
 
