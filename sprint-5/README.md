@@ -21,7 +21,7 @@ Our two challenges are minesweeper and the calculator. Try your best to complete
 
 ## Stretch
 [The end.. of the beginning - Review](the-beginning.md)\
-[Play with JavaScript](js-have-fun.md)
+[Play with JavaScript](play-with-js.md)
 
 
 ## Before you go
