@@ -2,7 +2,7 @@
 ---|
 
 
-# CSS Frameworks explained (Stretch)
+# Intro to CSS Frameworks (Stretch)
 
 ## Learning Competencies
 

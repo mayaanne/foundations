@@ -27,7 +27,7 @@ It's important to note that __fetching changes will NOT override your work.__ On
 ## Additional Resource
 To view Illustrations and examples, revisit Sprint 1's "Remotes and Sync Fork" [Primer](../sprint-1/git-remote-fork-merge-primer.md) and [Challenge](../sprint-1/git-remote-sync-fork-challenge.md).
 
-Sometimes you may experience ["Merge Conflicts"!](./resolving-conflicts.md)   Prepare yourself for that horrible (inevitable) moment by reading the resource.
+Sometimes you may experience ["Merge Conflicts"!](resolving-conflicts.md)   Prepare yourself for that horrible (inevitable) moment by reading the resource.
 
 Example illustration
 

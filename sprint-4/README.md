@@ -11,13 +11,13 @@ Our core material this sprint is about neuroplasticity and finding that growth m
 
 1. [Neuroplasticity and growth mindset - Primer and Challenge](core-neuro-growth-mindset.md)
 2. [Listening and Looping - Primer and Challenge](../resources/listening-looping.md)
-3. [Cultural Blog](core-blog-mindset.md)
+3. [Cultural Blog](core-mindset-cultural-blog.md)
 
 
 ## Tech
 
 1. [Code Readability - Primer](js-code-readability-primer.md)
-2. [Code Readability - Challenge](js-code-readability.md)  
+2. [Code Readability - Challenge](js-code-readability-challenge.md)  
 3. [Testing - Primer](js-testing.md)
 4. [REPL.it - Setup](js-repl-intro.md)
 5. [Problem solving and Psuedocode - Primer](js-pseudocode-problem-solving.md)   
