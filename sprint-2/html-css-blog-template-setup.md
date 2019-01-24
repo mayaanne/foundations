@@ -94,11 +94,9 @@ If stuck, [This video demo's linking to css at at 5.08](https://www.youtube.com/
 ## Reflect
 Navigate to your `my-reflections-sprint-2` file (Pro-tip: Use terminal)
 
-Describe what you did in this exercise. Did you understand the steps that you were making? Can you describe them in simple lay terms?
-
-Did you achieve the learning competencies and keep within the timebox?
-
-Save stage and push your changes.
+- Describe what you did in this exercise. Did you understand the steps that you were making? Can you describe them in simple lay terms?
+- Did you achieve the learning competencies and keep within the timebox?
+- Remember to Stage, Commit and Push your changes.
 
 
 ## Visual references

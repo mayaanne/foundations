@@ -62,10 +62,10 @@ Git Resource - below
 On a text document, record your reflections. You'll transfer these reflections to a git file in a later challenge.  
 
 __In your reflection answer the questions:__
-1. Whats the difference between git and GitHub?
-2. Can you think of an analogy to describe them?
-3. Did you stick to the timebox suggestions? If not, why not?
-4. Any surprises or anything you'd like to share (e.g. Super useful resources)
+- Whats the difference between git and GitHub?
+- Can you think of an analogy to describe them?
+- Do you think you would still remember the difference a week from now if you didn't revisit the material?
+- Did you stick to the timebox suggestions? If not, why not?
 
 
 ## Git Resource

@@ -60,10 +60,10 @@ Reflections are for you, but they will also be read by others, so make sure to w
 Keep note of where you keep your reflection as you'll be asked to use them in a later task. Try if you like using your new command line skills to create a directory and file for your reflection.
 
 __In your reflection answer the questions:__
-1. In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it? 
-2. Did you stick to the timebox guidelines? If not, what change would you make next time?  
-3. Name 5 commands you used, and what they do 
-4. Did you learn anything unexpected? 
+- In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it?
+- Did you stick to the timebox guidelines? If not, what change would you make next time?
+- Name 5 commands you used, and what they do
+- Did you learn anything unexpected?
 
 
 ## Stretch Competencies

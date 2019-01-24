@@ -43,9 +43,8 @@ Keep notes as you'll describe code readability in your technical blog this sprin
 ## Reflect 
 In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer the following questions: 
 
-1. What did I notice about my learning style, strengths and limitations when researching? 
-2. Did any blocks come up for you? How did you overcome them?  
-3. What code readability habit will you begin implementing today?
+- What code readability habit will you begin implementing today?
+- Does code readability seem important to you, or unnecessarily fussy? Justify your answer.
 
 ## Stage and push! 
 Commit and push your changes to GitHub. 

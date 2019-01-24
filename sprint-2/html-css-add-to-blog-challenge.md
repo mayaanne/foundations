@@ -54,5 +54,6 @@ Part One:
 Part two:
 - What obstacles you came up against and how you over came them? 
 - Any moments of surprise or joy? 
+- If HTML and CSS were animals, which animals do you think they would be? Why?
 
 

@@ -57,9 +57,9 @@ Explore and try out Git Branching online. You'll use what you learn in a followi
 ## Reflect
 Open your text reflections file and answer the following. 
 
-1. What is Master? 
-2. Why create a Branch?
-4. Did anything surprise you?
+- What is Master?
+- Why create a Branch?
+- Do the concepts feel intuitive or difficult to understand?
 
 
 

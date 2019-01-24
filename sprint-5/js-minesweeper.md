@@ -220,7 +220,7 @@ Share your link with your cohort and post the link to the #show-eda channel on S
 
 Open `my-reflections-sprint-5.md` in VS Code and add your reflections from this challenge:
 
-- Was there anything that surprised you about your coding during this challenge?
 - What was the hardest moment of this challenge for you?
 - Did you have any blocks during this challenge? How did you overcome them?
 - What learnings are you going to take away from this challenge?
+- If _you_ were responsible for curriculum development at Dev Academy, would you change this challenge in any way? How? Why?

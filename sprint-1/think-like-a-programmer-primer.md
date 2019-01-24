@@ -43,6 +43,6 @@ What does the internet say about Flipped learning? What is flipped learning and 
 In your `my-reflections-sprint-1.md` file discuss thinking and flipped learning.
 
 - Describe the process for solving problems
-- How will you integrate this idea?
+- Will you follow that process? How?
 - What did you learn about flipped classroom?
-- Stage and push your changes to GitHub
+- Stage, commit and push your changes to GitHub

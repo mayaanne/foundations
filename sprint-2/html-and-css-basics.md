@@ -88,9 +88,8 @@ Answer:
 
 - What resources you used and why 
 - Obstacles you came up against and how you over came them
-- What questions did you ask, and how was the process of solving them? 
-- Did you keep within the timebox suggestions? If not, how come?
-- What are of you proud of 
-- What would you do better if you did it all over again? 
+- What are of you proud of?
+- Did you keep within the timebox suggestions?
+- How much faster could you do it if you started from the beginning again, right now?
 
 

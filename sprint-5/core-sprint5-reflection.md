@@ -64,11 +64,11 @@ This journaling piece is not for public display.  This is for your eyes only unl
 
 Utilising your journal findings and the high level overview of the Core learnings you have covered in Foundations - answer the following questions:
 
-1. Describe the impact the core learning has had on your Foundations learning journey.
-2. What are 1 - 3 new things you have learned about yourself as a result of the core learning?
-3. What has surprised you the most about the core learning?
-4. What was the most challenging aspects of the core learning?
-4. Any thoughts you want to share about your core learning journey in Foundations?
+- What are three new things you have learned about yourself and your ego as a result of the core learning?
+- What has surprised you the most about the core learning?
+- What was the most challenging aspects of the core learning?
+- Why do you think we, a programming school, are spending so much time focusing on core learning in a web development bootcamp course?
+- Does the time you spent studying core learning here feel like a waste of time? Should you have just used that time to practicing programming instead? Justify your answer.
 
 ## Create and Publish
 

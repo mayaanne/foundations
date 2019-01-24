@@ -36,5 +36,5 @@ Share
 ## Reflect 
 Navigate to the my-reflections-sprint-1 file (pro-tip: Use terminal). Answer the question: 
 
-- What struck you about the the sharing practice on slack? Any surprises? Fears? Wonderful moments?  
+- What was it like trying to summarise yourself to a group of strangers? Could you feel your ego? Were you self coinsious? 
 - Add, stage and commit. Remember to make your commit messages meaningful!
