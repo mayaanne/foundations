@@ -45,4 +45,4 @@ In your `my-reflections-sprint-1.md` file discuss thinking and flipped learning.
 - Describe the process for solving problems
 - Will you follow that process? How?
 - What did you learn about flipped classroom?
-- Stage, Commit and push your changes to GitHub
+- Stage, commit and push your changes to GitHub
