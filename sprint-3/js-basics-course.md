@@ -50,7 +50,6 @@ _Pro-tip: Don't spend time on the history of JS. Focus on the learning competenc
 
 - [Practical JavaScript Course](https://watchandcode.com/p/practical-javascript) _**recommended_  
 - [Kirupa's Basic JavaScript Course](https://www.kirupa.com/javascript_basics/index.htm)  
-- [Udacity's Intro to JavaScript Course](https://www.udacity.com/course/intro-to-javascript--ud803) 
 
 
 ## FreeCodeCamp - Practical 

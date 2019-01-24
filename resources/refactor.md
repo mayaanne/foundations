@@ -15,6 +15,7 @@ Good solutions don't just work, they are clear. For example:
 To understand more about best coding practices:
 
 [Code Smells](https://blog.codinghorror.com/code-smells/)  
+
 [JS Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)  
 
 [Dougal Douglas' Code Conventions](http://crockford.com/javascript/code.html)

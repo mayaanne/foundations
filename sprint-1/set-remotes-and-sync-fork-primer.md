@@ -1,7 +1,7 @@
 [Sprint 1 Home](README.md)|
 ---| 
 
-# Git Set Remotes and Merge Primer 
+# Set Remotes and Sync Fork Primer 
 
 ### Learning Competencies
 By the end of this exploration, you should be able to 

@@ -73,7 +73,7 @@ The tilde (~) represents our home folder, in this instance `/home/dev`. And we'r
 What if we want to list the files and folders in this folder? We can do that with the list (`ls`) command. If we want to see more than just the names, we can add "flags" to the command, preceded with a hyphen. The `a` flag means "all": show all the files, even the hidden ones (files with names starting with a `.` are hidden usually). The "l" flag means use a long listing format, which gives us extra information. We can combine them thus:
 
 <figure>
-  <img src="../images/command-line-images/ls-al.png" alt="The ls -al command"><br>
+  <img src="../images/command-line-ls-al.png" alt="The ls -al command"><br>
   <figcaption>
     <p><strong>Figure 4:</strong> ls and ls -al</p>
   </figcaption>

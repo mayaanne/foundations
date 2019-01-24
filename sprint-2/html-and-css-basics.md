@@ -1,7 +1,7 @@
 [Sprint 2 Home](README.md)|
 ---|
 
-# Learning to Learn HTML and CSS Challenge 
+# Learn HTML and CSS Challenge 
 
 ### Learning Competencies Part 1
 By the end of the first part, you should:

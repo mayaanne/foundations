@@ -21,4 +21,9 @@ Our two challenges are minesweeper and the calculator. Try your best to complete
 
 ## Stretch
 [The end.. of the beginning - Review](the-beginning.md)\
-[Play with JavaScript](js-have-fun.md)
+[Play with JavaScript](play-with-js.md)
+
+
+## Before you go
+1. [End of sprint checklist](end-of-sprint-5-checklist.md) 
+2. [Feedback](../resources/feedback.md) 

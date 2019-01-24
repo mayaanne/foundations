@@ -29,5 +29,5 @@ Harness your problem solving skills to firstly understand where the error is and
 
 ## Further Resources 
 [Writing solutions resource](writing-solutions.md)  
-[User stories](user-stories.md) 
+[User stories](user-stories.md) \
 [Pseudo-code](pseudo-code.md)  
