@@ -66,7 +66,7 @@ Utilising your journal findings and the high level overview of the Core learning
 
 - What are three new things you have learned about yourself and your ego as a result of the core learning?
 - What has surprised you the most about the core learning?
-- What was the most challenging aspects of the core learning?
+- What were the most challenging aspects of the core learning?
 - Why do you think we, a programming school, are spending so much time focusing on core learning in a web development bootcamp course?
 - Does the time you spent studying core learning here feel like a waste of time? Should you have just used that time to practicing programming instead? Justify your answer.
 
