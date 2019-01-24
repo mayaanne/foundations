@@ -30,7 +30,7 @@ We ask that you follow [GitHub's convention](https://stackoverflow.com/questions
 ## Reflect
 Open your reflections text file and answer:
 
-1. How would you describe stage and commit to your non-tech-savvy friend?  
+- How would you describe stage and commit to your non-tech-savvy friend?  
 
 
 

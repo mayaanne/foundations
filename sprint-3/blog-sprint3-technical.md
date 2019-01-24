@@ -29,7 +29,7 @@ See [blog-instructions](../resources/blog-instructions.md) for a reminder on the
 As if talking to a __Non-technical__ friend, discuss:
 
 - An analogy to describe the differences between HTML and CSS
-- Explain control flow and loops using an example process from everyday life, for example 'waking up' or 'brushing your teeth'.
+- Explain control flow and loops using an example process from everyday life, for example 'waking up' or 'brushing your teeth'. (But not those ones).
 - Describe what the DOM is and an example of how you might interact with it. 
 - Explain the difference between accessing data from arrays and objects.
 - Explain what functions are and why they are useful.

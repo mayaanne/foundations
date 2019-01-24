@@ -108,5 +108,6 @@ Open `my-reflections-sprint-5.md` in VS Code and add your reflections from this 
 
 - What was the most challenging part of this calculator exercise for you?
 - What has been a highlight for you?
-- Which pairing role did you enjoy most?  Why?
+- Which pairing role did you enjoy most? Why?
+- When the pairing wasn't working well, internally did it feel like "Your Fault"? "Their Fault"? Neither? Both? Did you communicate about it?
 - Is this anything different you will do the next time you pair on an exercise?

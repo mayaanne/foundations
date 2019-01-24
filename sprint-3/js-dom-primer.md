@@ -33,8 +33,8 @@ Keep notes as you'll describe the DOM in your technical blog this sprint.
 ## Reflect 
 In your [my-reflections-sprint-3](my-reflections-sprint-3.md) answer the following questions: 
 
-1. What did I notice about my learning style, strengths and limitations when researching?
-2. Did any blocks come up for you? How did you overcome them?  
+- Were you interested or bored during this exercise? Which parts were interesting? Which parts were boring?
+- How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 
 ## Stage and push! 
 Commit and push your changes to GitHub. 

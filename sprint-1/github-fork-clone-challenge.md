@@ -131,10 +131,10 @@ __Pro-tip: Use command line to navigate, open applications and open files.__
 ## Reflect
 Open the `my-reflections-sprint-1.md` in VS and add your reflections from this challenge:
 
-1. What are some examples of when you would fork? 
-2. Write your own step-by-step fork and clone instructions. Describe what you did. 
-3. Did you have any moments where it all clicked? What clicked?
-4. Stage your file. 
+- What are some examples of when you would fork?
+- Write your own step-by-step fork and clone instructions. Describe what you did.
+- Did you have any moments where it all clicked? What clicked?
+- Stage your file.
 
 ## Additional Practice and Resources
 [GitHub Guides - Practice Forking Projects](https://guides.github.com/activities/forking/)  

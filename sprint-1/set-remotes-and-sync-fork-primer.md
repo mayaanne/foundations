@@ -55,9 +55,8 @@ __Recommended resources:__
 ## Reflect
 Open your `my-reflections-sprint-1.md` file and answer the following. Remember to stage and commit your changes. 
 
-1. What is the difference between cloning from a forked and cloning from a non-forked repo. 
-2. Can you think of an analogy to describe forking?
-3. What is a remote? 
-4. Did anything surprise you?
+- What is the difference between cloning from a forked or non-forked repo.
+- Can you think of an analogy to describe forking?
+- What is a remote?
 
 

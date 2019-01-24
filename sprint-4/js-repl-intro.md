@@ -84,4 +84,6 @@ Now you have your Repl.it account created and ready to go.  Please message your 
 ## Reflect
 In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer the following question: 
 
-1. What was your first impression of the Repl.it website?
+- What was your first impression of the Repl.it website?
+- How did you find using it in practice? Confusing? Useful?
+- When you say the name of the website in your head, how are you pronouncing it? "REPLIT"? "REP-ILL-IT"? "REPELL-IT"?
