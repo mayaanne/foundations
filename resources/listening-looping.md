@@ -46,7 +46,7 @@ _Choose one prompt to use:_
 
 - Talk about a time in the last sprint when you felt the rewards of practice.
 
-- Talk about a time in the last sprint when you felt overwhelmed or panicked. What techniques and tools can you to keep your cool?
+- Talk about a time in the last sprint when you felt overwhelmed or panicked. What techniques and tools can you use to keep your cool?
 
 
     1. Organise to pair with someone in your cohort or accountability group. If you end up doing pairing with more than one person then great - the more you practice, the better you get. 
