@@ -5,9 +5,9 @@
 
 __Version Control, GitHub, CommandLine and Identity__
 
-Learn the foundations of Git, GitHub and commandline - tools and workflow that you will use throughout your study and your career. 
+In this sprint you will learn the foundations of Git, GitHub and commandline (the tools and workflow that you will use throughout your study and your career), then dive into our core material and explore aspects of your values and identity that are relevant to your learning journey. 
 
-Then dive into our core material and explore aspects of your values and identity that are relevant to your learning journey. 
+Start by watching the [Sprint 1 Intro Video](https://www.youtube.com/watch?v=LZCImWJHiCs) on Youtube!
 
 
 ## Habits 
@@ -16,6 +16,7 @@ Then dive into our core material and explore aspects of your values and identity
 3. [Track your time](/resources/track-time-toggl.md)   
 
 ## Tech
+0. [Sprint 1 Workshop Video](https://www.youtube.com/watch?v=XrxYaDI2Toc) 
 1. [Command Line - Primer](command-line-primer.md)  
 2. [Version Control with Git - Primer](version-control-with-git.md)  
 3. [Install and Explore Git and GitHub - Course](install-and-explore-git.md)  
