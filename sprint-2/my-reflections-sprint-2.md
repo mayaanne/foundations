@@ -20,4 +20,3 @@ In addition to the challenge specific reflections, answer the following question
 
 
 - If you were at a bar and somebody asked you, "How do you make a website?" what would you say?
-

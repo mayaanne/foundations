@@ -10,6 +10,7 @@ __Foundations material and resources__
 ## Quick Links
 - [Course outline](course-outline.md) 
 - [Competency Checklist](competency-checklist.md) 
+- [Foundations Facilitator office hours](https://docs.google.com/spreadsheets/d/1SMsI4XeiblO9mNnMTi5eUdPWIUWWHmBMpPJBPvkeqto/edit?usp=sharing)
 - [Feedback](feedback.md)    
 - [Foundations facilitator office hours](https://docs.google.com/spreadsheets/d/1SMsI4XeiblO9mNnMTi5eUdPWIUWWHmBMpPJBPvkeqto/edit?usp=sharing)
 - [Fetching (curriculum) changes](fetching-changes.md)  
