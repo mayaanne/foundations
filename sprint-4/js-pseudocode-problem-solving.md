@@ -61,8 +61,8 @@ Keep notes as you'll describe problem solving in your technical blog this sprint
 ## Reflect
 In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer the following: 
 
-Pick two problem solving techniques you would like to put into practice.  
-- How will you implement these techniques into your day to day coding flow?  Be as specific as you possibly can and start putting these into practice.
+- Pick two problem solving techniques you would like to put into practice. Which ones have you chosen?
+- How will you implement these techniques into your day to day coding flow? How will you make sure that you actually do them?
 
 ## Stage and push! 
 Commit and push your changes to GitHub. 

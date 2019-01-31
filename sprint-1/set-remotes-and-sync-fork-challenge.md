@@ -128,7 +128,6 @@ _Pro-tip: Use terminal to navigate and open the file._
 
 Reflection on:
 
-1. What is a remote?
-2. How are they set up?
-3. How would you explain a remote to a non-technical person using an analogy?
-4. Add, commit and push your reflection. 
+- How are remotes set up?
+- How would you explain a remote to a non-technical person using an analogy?
+- How many times did you feel like "oh God I don't understand this"?

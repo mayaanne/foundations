@@ -79,8 +79,9 @@ function testSum(){
 
 In your [my-reflections-sprint-4](my-reflections-sprint-4.md) answer: 
 
-1. Do you think you would prefer using Unit Testing or Test Driven Development? Why?
-2. How could these techniques be used together to make code that is reliable?
+- Do you think you would prefer using Unit Testing or Test Driven Development? Why?
+- How could these techniques be used together to make code that is reliable?
+- Was your intial reponse to the idea of testing, "That sounds useful" or "That sounds like a hassle"? Why?
 
 #### Some interesting links:
 

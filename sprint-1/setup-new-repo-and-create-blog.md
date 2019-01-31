@@ -108,8 +108,9 @@ _Note: After pushing to GitHub pages, there might be a delay - it can sometimes 
 ## Step 5: Reflect 
 Open `my-reflections-sprint-1` and answer the following
 
-1. Reflect on this sprint. What did you learn about your learning? 
-2. What surprised you? 
-3. Add, commit and push! 
+- Reflect on this activity. When did you feel frustrated?
+- If you didn't already know that this is the way websites are made; was it what you pictured? How does the reality of this process differ from your preconceptions?
+
+Add, commit and push!
 
 

@@ -56,4 +56,4 @@ The options we've found for pairing, in order of effectiveness, are:
 
 Open your `my-reflections-sprint-5.md` file in VS Code and add your reflection from this challenge:
 
-- Do you have any prior experience pair coding?  If so, what was this experience like?  If not, what is your initial reaction to pair programming?
+- Do you have any prior experience pair coding? If so, what was this experience like? If not, what is your initial reaction to pair programming?
