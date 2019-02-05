@@ -1,6 +1,6 @@
 # My Reflections - Sprint One 
 
-## Version Control Reflections
+## Version Control
  **_What's the difference between Git and GitHub?_**
  
    Git is a version control software, a local platform from which you can edit a piece of work multiple times and have the ability to view the history and the version of each different edit. Hence, Version Control. GitHub is a web platform that uses Git and allows users to work collaboratively and simultaneously on the same project without altering or damaging one another's work.
@@ -18,7 +18,7 @@
    I was better this time around than during the previous task (Command Line Primer). I only ran about 30 minutes over (I really struggled with the analogy question above), and that's because I checked in with Toggl every so often to see how I was running for time.
 
 
-## Exploring Git Reflections
+## Exploring Git
  **_What is a GitHub work flow?_** 
 
    A GitHub work flow is the process through which a project is created and completed--from start to finish, and with all of the edits in between. Created using Git software, it is then stored and made accessible to edit and view on GitHub. (…right????)
@@ -32,7 +32,7 @@
    Use Google more to help me out. I often ended up stuck along the way because my computer responded differently to the way the lesson plan predicted. Instead of simultaneously looking to Google for help, I only reached out to the EDA peeps and ended up wasting mucho time in waiting for them to reply.
 
 
-## Track and Commit Reflections
+## Track and Commit
  **_How would you describe stage and commit to your non-tech savvy friends?_** 
 
    A simpler way to think of the term __commit__ is to replace it with the word _save_. As you go through your project, you are able to _save_ each edit that you make. This means that you are able to access every single different version that you have created along the way. You can also revert the project back to a previous edit if you decide that it is better than the current one. In coding, this is imperative because it allows you to return to a previous _saved_ version of the code, should, for example, a bug arise in the updated version that needs to be found and fixed. 
@@ -42,7 +42,7 @@
    __Staging__ is the step that comes before __committing__ (_saving_) the updated file. It allows you to test the update before __committing__ (_saving_) it.
 
 
-## Branch, Pull, Merge Reflections
+## Branch, Pull, Merge
  **_What is master?_** 
 
    Master is the main source of code--the final product, if you will--with which users interact.
@@ -56,7 +56,7 @@
    I don't think that 'intuitive' is the word I'd use. I guess that _Master_ and _Branch_ make sense well enough, but add all of the commands into the mix and I would say DIFFICULT, definitely difficult.
 
 
-## GitHub Fork & Clone Reflections
+## GitHub Fork & Clone
  **_What are some examples of when you would fork?_** 
 
    Specific examples? Unsure, as yet. I imagine that any instance in which I see an improvement that can me made in a master branch is a time when I would fork the repository, make the changes in my own branch and then create a pull request for my improvements (if they are, in fact, improvements) that can then be merged with the master branch (with the maintainer's approval).
