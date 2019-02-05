@@ -24,8 +24,8 @@
    A GitHub work flow is the process through which a project is created and completed--from start to finish, and with all of the edits in between. Created using Git software, it is then stored and made accessible to edit and view on GitHub. (…right????)
 
  **_What did you notice about your own learning? What did you do when you were confused or blocked?_** 
-
-	I was blocked MANY, MANY TIMES. When I got stumped, taking a break before returning to the task usually helped to clear my head. I tried not to simply guess any of the answers to the quiz questions because I wanted to know how the solution was reached--otherwise, I wouldn't know for next time! It's been a long time since I have studied anything and I know that we are only two days in but so far, I have been surprised by my own diligence. Having said that, I've also been feeling mighty slow and almost stunted in comparison to the rest of my cohort, who seem to have breezed through this step MILES ago. 
+ 
+   I was blocked MANY, MANY TIMES. When I got stumped, taking a break before returning to the task usually helped to clear my head. I tried not to simply guess any of the answers to the quiz questions because I wanted to know how the solution was reached--otherwise, I wouldn't know for next time! It's been a long time since I have studied anything and I know that we are only two days in but so far, I have been surprised by my own diligence. Having said that, I've also been feeling mighty slow and almost stunted in comparison to the rest of my cohort, who seem to have breezed through this step MILES ago. 
 
  **_Is there anything you'd do differently if you were to repeat the learning exploration again?_** 
 
@@ -70,10 +70,10 @@
  5. Once it has finished loading, navigate into the cloned repository. You will know that you are in it because it will say __(master)__ beside your username.
 
  **_Did you have any moments where it all clicked? What clicked?_** 
- 
+
    I definitely understood __forking__ more than __branching__. In the previous __Branch, Pull Merge__ challenge, I actually __forked__ the file rather than __branching__ it. I don't know how I'd have __branched__ it. Do I not know how to __branch__?? Ughhhhh. Brain. 
 
-   Anyway, whilst it looks as though __branching__ may have fallen flat, __forking__ seemed to click. There's got to be a _'that's what she said'_ joke in there somewhere...
+   Anyway, whilst it looks as though __branching__ may have fallen flat, __forking__ seemed to click. There's got to be a 'that's what she said' joke in there somewhere...
 
 
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
