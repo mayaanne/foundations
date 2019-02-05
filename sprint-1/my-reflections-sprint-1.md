@@ -2,7 +2,9 @@
 
 ## Version Control Reflections
  **_What's the difference between git and GitHub?_**
+ 
  Git is a version control software, a local platform from which you can edit a piece of work multiple times and have the ability to view the history and the version of each different edit. Hence, Version Control.GitHub is a web platform that uses Git and allows users to work collaboratively and simultaneously on the same project without altering or damaging one another's work.
+
 
  **_Can you think of an analogy to describe them?_** 
    It is an individual vs a group scenario. Think team sports: a netballer trains at home everyday for an hour to become the best player she can be (Git). When the time comes to play ball, her team comes together, after having performed their own individual training tasks at home as well (Git + GitHub), and together, they function cohesively without ever tripping one another up (GitHub). 
