@@ -76,6 +76,22 @@
    Anyway, whilst it looks as though __branching__ may have fallen flat, __forking__ seemed to click--which is surely deserving of a 'that's what she said' joke...?
 
 
+## Set Remotes and Sync Fork
+ **_What is the difference between cloning from a forked or non-forked repo?_**
+   
+   Cloning from a forked repo allows you to propose changes to someone else's project without changing their master branch. Cloning from a non-forked repo allows you to use someone else's project as a starting point for your own idea--copy someone else's art and make it better.
+
+ **_Can you think of an analogy to describe forking?_**
+   
+   An analogy for forking? Gahhhhh I'm just about out of analogies... Forking is perhaps a bit like playing Chinese Whispers. A message is passed around the circle (the fork) and though the message often changes by the end (the commits), the person who started the chain (the owner) still holds the original message (the master) and is able to tell the group whether their end result was right or wrong (whether the commits will be merged or not).
+
+   Yup, that's all I got.
+
+ **_What is a remote?_**
+
+   A remote has nothing to do with the television or the aircon, as I had first imagined. When it comes to coding, a remote--short for remote URL (makes more sense when you say it in full, no?)--is simply a place where your code is stored...remotely.
+
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 
