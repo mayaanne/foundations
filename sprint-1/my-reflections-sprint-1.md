@@ -73,7 +73,7 @@
 
    I definitely understood __forking__ more than __branching__. In the previous __Branch, Pull Merge__ challenge, I actually __forked__ the file rather than __branching__ it. I don't know how I'd have __branched__ it. Do I not know how to __branch__?? Ughhhhh. Brain. 
 
-   Anyway, whilst it looks as though __branching__ may have fallen flat, __forking__ seemed to click--and that's got to be deserving of a 'that's what she said' joke...no?
+   Anyway, whilst it looks as though __branching__ may have fallen flat, __forking__ seemed to click--which is surely deserving of a 'that's what she said' joke...?
 
 
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
