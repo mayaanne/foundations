@@ -95,11 +95,11 @@
 ##  Setting Remotes and Syncing Forks - Challenge
 **_How are remotes set up?_**
 
-     I don't know how to answer this question and I am not going to do you the disservice of trying to BS my way through it. All (I think) I know is that when you clone a forked repository to your local computer, the forked repository becomes the remote. I think. As I said, I don't know. You're going to have to tell me.
+   I don't know how to answer this question and I am not going to do you the disservice of trying to BS my way through it. All (I think) I know is that when you clone a forked repository to your local computer, the forked repository becomes the remote. I think. As I said, I don't know. You're going to have to tell me.
 
    **_How would you explain a remote to a non-technical person using an analogy?_**
      
-     A remote is like a Spotify playlist--think of it as a place where you can store your music. When Spotify adds new playlists, you can download them onto your phone and store them there for future use, add select songs to your own playlists, and make general changes to your account. Although, are you so non-technical that you don't use Spotify? ...I think my analogies are getting worse.
+   A remote is like a Spotify playlist--think of it as a place where you can store your music. When Spotify adds new playlists, you can download them onto your phone and store them there for future use, add select songs to your own playlists, and make general changes to your account. Although, are you so non-technical that you don't use Spotify? ...I think my analogies are getting worse.
 
    **_How many times did you feel like "oh God I don't understand this"?_**
     
