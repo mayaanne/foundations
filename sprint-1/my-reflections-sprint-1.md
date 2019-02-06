@@ -76,7 +76,7 @@
    Anyway, whilst it looks as though __branching__ may have fallen flat, __forking__ seemed to click--which is surely deserving of a 'that's what she said' joke...?
 
 
-## Set Remotes and Sync Fork
+## Set Remotes and Sync Fork - Primer
  **_What is the difference between cloning from a forked or non-forked repo?_**
    
    Cloning from a forked repo allows you to propose changes to someone else's project without changing their master branch. Cloning from a non-forked repo allows you to use someone else's project as a starting point for your own idea--copy someone else's art and make it better.
@@ -90,6 +90,20 @@
  **_What is a remote?_**
 
    A remote has nothing to do with the television or the aircon, as I had first imagined. When it comes to coding, a remote--short for remote URL (makes more sense when you say it in full, no?)--is simply a place where your code is stored...remotely.
+
+
+##  Setting Remotes and Syncing Forks - Challenge
+**_How are remotes set up?_**
+
+     I don't know how to answer this question and I am not going to do you the disservice of trying to BS my way through it. All (I think) I know is that when you clone a forked repository to your local computer, the forked repository becomes the remote. I think. As I said, I don't know. You're going to have to tell me.
+
+   **_How would you explain a remote to a non-technical person using an analogy?_**
+     
+     A remote is like a Spotify playlist--think of it as a place where you can store your music. When Spotify adds new playlists, you can download them onto your phone and store them there for future use, add select songs to your own playlists, and make general changes to your account. Although, are you so non-technical that you don't use Spotify? ...I think my analogies are getting worse.
+
+   **_How many times did you feel like "oh God I don't understand this"?_**
+    
+    Honestly? When I have to answer these reflection questions and I realise that I have no idea how to define a certain concept. I can kind of make things happen but I don't really know how I do it, and replicating the proces--even if only a half a day later--often proves to be quite, quite difficult. And then there's these analogies. Maybe I don't know enough about the world to know what could relate to what in any semblance of a sensible way [insert shrug emoji here].
 
 
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
