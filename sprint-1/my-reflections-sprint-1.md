@@ -106,6 +106,16 @@
    Honestly? When I have to answer these reflection questions and I realise that I have no idea how to define a certain concept. I can kind of make things happen but I don't really know how I do it, and replicating the proces--even if only a half a day later--often proves to be quite, quite difficult. And then there's these analogies. Maybe I don't know enough about the world to know what could relate to what in any semblance of a sensible way [insert shrug emoji here].
 
 
+## Setup new Repo & Create Blog Challenge
+**_Reflect on this activity. When did you feel frustrated?_**
+   
+   Do you want to hear something wonderful? I DIDN'T! I've been looking forward to this step the whole sprint because creating is what I love to do and website design is what I want to segway into, and I guess this challenge allowed me to pretty much do both! Even if I had been stuck somewhere during this challenge, I wouldn't have felt frustrated as I have previously because I knew that the end result was going to be the first step in the direction of my dream (?) career. (Okay, _dream_ might be a bit of a stretch. In that world, I'd probably be a writer or a singer or a _very_ well-paid intrepid traveller.)
+
+**_If you didn't already know that this is the way websites are made; was it what you pictured? How does the reality of this process differ from your preconceptions?_**
+
+   Is this what I'd been picturing? No, I don't think that I'd been picturing anything. When I think of what creating a website looks like, I think of Wordpress. This process differed from my preconceptions in that I thought it'd be impossibly difficult to create a website. But look! I did it! And I guess that if I can do it, then shoot--anyone can. 
+
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 
