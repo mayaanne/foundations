@@ -58,7 +58,7 @@ If you don't recognise something, find out what it is. Are there new terms you d
 
 <figure>
   <figcaption>
-    <p><strong>Figure 2:</strong></p>
+    <p><strong>Figure 3:</strong></p>
   </figcaption>
   <img src="../images/github_9_terminal_message.png" alt="Git terminal message"><br>
 
