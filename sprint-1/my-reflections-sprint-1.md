@@ -133,7 +133,7 @@
 ## Introduce Yoursef and Get to Know Your Cohort
 **_What was it like trying to summarise yourself to a group of strangers? Could you feel your ego? Were you self conscious?_**
 
-I love to write so I enjoyed this exercise. I could definitely feel my ego, but more in the sense that I wanted it to read well as opposed to the way in which I described myself. I wrote the truth, and that's all you can do when you are reflecting. I didn't feel self-conscious––perhaps I was and I just didn't notice. As they say, it's easy to be a keyboard warrior (except in my case, minus the rage). 
+I love to write so I enjoyed this exercise. I could definitely feel my ego, but more in the sense that I wanted it to read well as opposed to the way in which I described myself. I wrote the truth, and that's all you can do when you are reflecting. I didn't feel self-conscious––perhaps I was and I just didn't notice. As they say, it's easy to be a keyboard warrior (except in my case, minus the 'warrior'). 
 
 
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
