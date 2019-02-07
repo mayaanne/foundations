@@ -116,6 +116,19 @@
    Is this what I'd been picturing? No, I don't think that I'd been picturing anything. When I think of what creating a website looks like, I think of Wordpress. This process differed from my preconceptions in that I thought it'd be impossibly difficult to create a website. But look! I did it! And I guess that if I can do it, then shoot--anyone can. 
 
 
+## Thinking Like a Programmer
+**_Describe the process for solving problems._**
+
+   Dev-Academy provides a 10 step approach to solving problems. The most important of which––I believe––is to BREATHE. Something I'm working on. Anywayyyyyy, the first step is to get in the zone––one spawned from habit rather than fantasy. Start the timer––timeboxing is everything! Break the question down into something clear and easy to understand. If you don't understand the question, then won't solve the problem unless you miraculously stumble upon it (which happens, sometimes, but not as often as one would like). PLAN PLAN PLAN. Don't just dive into the water all gung-ho. Check for hazards first. Break the problem up into smaller parts and try solving these smaller equations first. As yu solve the smaller parts, begin broadening the picture and put the puzzle pieces together in an attempt to reach an overall solution. If you get stuck, BREATHE. IN. OUT. Walk away if you have. Literally––walk, and don't stop walking. Don't return to the problem until you have a clear head and a calm mind. Remember the difference between curiosity and irritation. UPon solving the problem, find a way to iprove it. Make it simpler, clearer, easier to follow along with and replicate. Reflect on your process and your progress. And then practice. Practice. Practice. You want to learn Spanish? Get on Duolingo twice a day, bebe. 
+
+**_Will you follow that process? How?_**
+   The four questions? Already on it. The hardest part for me to enact will be the planning aspect. I've never been much good at that. I prefer to throw myself into something and figure it out along the way. I'm starting to understand that this frame of being might not work so well in the coding realm. I'll do my best to follow the process, and to breathe. DEFINITELY need to breathe. 
+
+**_What did you learn about the flipped classroom?_**
+   
+   Firstly, that it isn't actually a synonym for flipped learning. The two concepts are different concepts. The idea of a flipped classroom is that you do the learning at home (video tutorials, online articles, step-by-step online courses) and the homework at school (asking questions and solving problems with the teacher). Flipped learning I find a little more confusing...I think it's just that rather than being in a classroom where the teacher is talking AT you, you're in a classroom where the teacher is available to assist with problems and nudge the student in the direction of the correct answer without just handing it to them. 
+
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 
