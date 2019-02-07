@@ -127,7 +127,13 @@
 
 **_What did you learn about the flipped classroom?_**
    
-   Firstly, that it isn't actually a synonym for flipped learning. The two concepts are different concepts. The idea of a flipped classroom is that you do the learning at home (video tutorials, online articles, step-by-step online courses) and the homework at school (asking questions and solving problems with the teacher). Flipped learning, I find to be a little more confusing...I think it's just that rather than being in a classroom where the teacher is talking AT you, you're in a classroom where the teacher is available to assist with problems and nudge you in the direction of the correct answer without just handing it over. 
+   Firstly, that it isn't actually a synonym for flipped learning. The two concepts are different concepts. The idea of a flipped classroom is that you do the learning at home (video tutorials, online articles, step-by-step online courses) and the homework at school (asking questions and solving problems with the teacher). Flipped learning, I find to be a little more confusing...I think it's just that rather than being in a classroom where the teacher is talking AT you, you're in a classroom where the teacher is available to assist with problems and nudge you in the direction of the correct answer without just handing it over.
+
+
+## Introduce Yoursef and Get to Know Your Cohort
+**_What was it like trying to summarise yourself to a group of strangers? Could you feel your ego? Were you self conscious?_**
+
+I love to write so I enjoyed this exercise. I could definitely feel my ego, but more in the sense that I wanted it to read well as opposed to the way in which I described myself. I wrote the truth, and that's all you can do when you are reflecting. I didn't feel self-conscious––perhaps I was and I just didn't notice. As they say, it's easy to be a keyboard warrior (except in my case, minus the rage). 
 
 
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
