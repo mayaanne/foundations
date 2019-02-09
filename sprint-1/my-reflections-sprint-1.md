@@ -153,7 +153,7 @@
 
    1. User shows log of previous commits (including SHA, date and author) and ensures that the checked out branch and the origin are working at the same revision
 
-**_Describe what you learned_**
+**_Describe what you learned._**
    
    This exercise didn't teach me anything new (I don't think??) but it definitely helped me to revise that which we were taught during Sprint 1. I had to do some research for Figure 3 because I'd forgotten what the __git log__ command does. 
 
