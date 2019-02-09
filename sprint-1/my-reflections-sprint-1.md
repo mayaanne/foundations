@@ -133,8 +133,28 @@
 ## Introduce Yoursef and Get to Know Your Cohort
 **_What was it like trying to summarise yourself to a group of strangers? Could you feel your ego? Were you self conscious?_**
 
-I love to write so I enjoyed this exercise. I could definitely feel my ego, but more in the sense that I wanted it to read well as opposed to the way in which I described myself. I wrote the truth, and that's all you can do when you are reflecting. I didn't feel self-conscious––perhaps I was and I just didn't notice. As they say, it's easy to be a keyboard warrior (except in my case, minus the 'warrior'). 
+   I love to write so I enjoyed this exercise. I could definitely feel my ego, but more in the sense that I wanted it to read well as opposed to the way in which I described myself. I wrote the truth, and that's all you can do when you are reflecting. I didn't feel self-conscious––perhaps I was and I just didn't notice. As they say, it's easy to be a keyboard warrior (except in my case, minus the 'warrior'). 
 
+
+## Git Messages (Stretch Challenge)
+**_Figure 1:_**
+
+   1. User checks status
+   2. One file has been modified and two have been deleted
+
+**_Figure 2:_**
+
+   1. User creates remote repository
+   2. User pulls information from remote repository 
+   3. User checks status
+   4. One file has been modified, one has been created and two have been deleted
+
+**_Figure 3:_**
+
+   1. User shows log of previous commits (including SHA, date and author) and ensures that the checked out branch and the origin are working at the same revision
+
+**_Describe what you learned_**
+   This exercise didn't teach me anything new (I don't think??) but it definitely helped me to revise that which we were taught during Sprint 1. I had to do some research for Figure 3 because I'd forgotten what the __git log__ command does. 
 
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
