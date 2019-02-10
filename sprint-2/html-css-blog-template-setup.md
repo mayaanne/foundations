@@ -75,7 +75,7 @@ This step setups the directory structure for your css. The file `main.css` uses 
 ## Set up part three - Link HTML and CSS
 Each HTML file will need to be explicitly linked to a CSS file. This step you'll remove the placeholder link in your HTML file and link the `main.css` file you just created.
 
-1. Navigate to your `index.html` file  
+1. Navigate to your `sprint1-technical.html` file  
 2. Replace the place holder as shown below  
 
 ```html
