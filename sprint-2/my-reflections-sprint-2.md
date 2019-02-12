@@ -1,6 +1,13 @@
 # My Reflections - Sprint Two 
+**_Describe what you did in this exercise. Did you understand the steps that you were making? Can you describe them in simple lay terms?_**
 
-In addition to the challenge specific reflections, answer the following questions in your reflection:
+In this exercise, I created an HTML file and a CSS file, and linked the two together. An HTML file is filled with the content of the webpage (e.g. text, images), and the CSS file––once linked to the HTML file––dicates styling and _how_ the content will be displayed (e.g. font, colour).
+
+**_Did you achieve the learning competencies and keep within the timebox?_**
+
+I kept within the time box initially, but then I remembered that I hadn't completed the additional sprint 1 reflection questions so I backtracked to complete that. After writing up my answers in Visual Studio Code, I hit a wall and couldn't figure out how to get my updates onto GitHub. I did git push, git merge, git add and commit, and I couldn't figure it out! I'm still working on it. Meep. 
+
+## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 
 - How confident are you with each of the Learning Competencies?
