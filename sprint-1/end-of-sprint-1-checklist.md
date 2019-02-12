@@ -16,9 +16,9 @@ This is for you to fill in at the end of the sprint to make sure everything has 
 
 ## Checklist
 I have:
-- [ ] added, committed, and pushed `my-reflections-sprint-1.md`
-- [ ] created a pull request for `your-name.md` file in ko-wai-koe
-- [ ] completed Set Remotes and Sync Fork challenge
-- [ ] completed Setup Blog using Git pages challenge and checked pages are live
-- [ ] introduced myself on Slack
-- [ ] filled out the feedback form
+- [x] added, committed, and pushed `my-reflections-sprint-1.md`
+- [x] created a pull request for `your-name.md` file in ko-wai-koe
+- [x] completed Set Remotes and Sync Fork challenge
+- [x] completed Setup Blog using Git pages challenge and checked pages are live
+- [x] introduced myself on Slack
+- [x] filled out the feedback form
