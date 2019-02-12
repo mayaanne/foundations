@@ -5,7 +5,7 @@ In this exercise, I created an HTML file and a CSS file, and linked the two toge
 
 **_Did you achieve the learning competencies and keep within the timebox?_**
 
-I kept within the time box initially, but then I remembered that I hadn't completed the additional sprint 1 reflection questions so I backtracked to complete that. After writing up my answers in Visual Studio Code, I hit a wall and couldn't figure out how to get my updates onto GitHub. I did git push, git merge, git add and commit, and I couldn't figure it out! I'm still working on it. Meep. 
+I kept within the time box initially, and completed the task within the timeframe. BUT then I remembered that I hadn't completed the additional sprint 1 reflection questions so I backtracked to complete them. After writing up my answers in Visual Studio Code, I hit a wall and couldn't figure out how to get my updates onto GitHub. I did git push, git merge, git add and commit, and I couldn't figure it out! I'm still working on it. Meep. I am sure that it has something to do with the branch and I hope to figure it out soon so that I can continue with Tech step 2.
 
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
