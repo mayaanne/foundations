@@ -176,4 +176,4 @@
 
 **_Did you hear a self critical voice in your head throughout the process of learning during this sprint? What did it say to you? Do you believe what it said?_**
 
-   Absolutely! Not all the time, but definitely on Wednesday when I spent so long trying to solve one problem. The voice basically told me that I should know how to do this, in a very unkind way (kind of like _you're an idiot, you literally did this exact step already yesterday_). Once I had resolved the problem, I felt a whole lot better. 
+   Absolutely!! Not all the time, but definitely on Wednesday when I spent so long trying to solve one problem. The voice basically told me that I should know how to do this, in a very unkind way (kind of like _you're an idiot, you literally did this exact step already yesterday_). Once I had resolved the problem, I felt a whole lot better. 
