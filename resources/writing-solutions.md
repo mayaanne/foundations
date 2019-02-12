@@ -104,7 +104,7 @@ Piece it together and start solving the code.
 ### 6) Stuck?
 First off, take a deep breath.
 
-A key indicator of a Programmer's mindset is they respond to bugs and errors. Are you feeling curious or irritated? Remember that errors and bugs are conducive to your development. Adopt a 'not yet' attitude and go in with curiosity. 
+A key indicator of a Programmer's mindset is how they respond to bugs and errors. Are you feeling curious or irritated? Remember that errors and bugs are conducive to your development. Adopt a 'not yet' attitude and go in with curiosity. 
 
 Here are three things to try when facing a whammy:
 
