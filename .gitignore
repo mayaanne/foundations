@@ -1,0 +1,5 @@
+# This file tells git which files to ignore when adding/committing/pushing
+
+# Individual settings/config files
+.vs
+DS_Store
