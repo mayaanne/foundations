@@ -9,9 +9,9 @@ using `git pull origin master`
 
 ## Checklist
 I have:
-- [ ] added, committed, and pushed `my-reflections-sprint-2.md`
-- [ ] created `my-name.github.io` and checked it's live
-- [ ] added, committed, and pushed `sprint-1-technical.html`
-- [ ] added, committed, and pushed `sprint-2-technical.html`
-- [ ] added, committed, and pushed `sprint-2-cultural.html` 
-- [ ] filled out the feedback form
+- [x] added, committed, and pushed `my-reflections-sprint-2.md`
+- [x] created `my-name.github.io` and checked it's live
+- [x] added, committed, and pushed `sprint-1-technical.html`
+- [x] added, committed, and pushed `sprint-2-technical.html`
+- [x] added, committed, and pushed `sprint-2-cultural.html` 
+- [x] filled out the feedback form
