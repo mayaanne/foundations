@@ -55,21 +55,22 @@ CSS would be a peacock, because it's colourful and it's pretty. HTML would be pe
 
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
+**_How confident are you with each of the Learning Competencies?_**
 
-- How confident are you with each of the Learning Competencies?
+Eeeeeeeee ish? I feel like the CSS for my website is a messy bedroom, one that I don't know how to clean. It's as though if I try to clear one thing from the pile, I could upend the whole room. When you take a step back and look at the course as a whole, I feel like everything is foggy. There are bits and pieces of clarity but no real discerning objets that tell me where I am.
 
+**_Which parts of this sprint made you feel capable?_**
 
+Ahhhhhhh I think I only really felt capable after having finished the entire sprint, but I can't say that there was anything in particular where I felt like i was exceling. If I had to pick one thing that I understood, then it would be border boxes and colouring them. At least that's something! 
 
-- Which parts of this sprint made you feel capable?
+**_Which parts of this sprint made you anxious?_**
 
+The second half of the Udacity course. It was all getting to be too much information and I started to feel overwhelmed and as though my brain couldn't take on any more information. 
 
+**_How's your self critical voice going? What kinds of things did it say to you this time? How much did they affect you?_**
 
-- Which parts of this sprint made you anxious?
+Ohhhhh she's not so good...I am endeavouring to practice self-compassion but it is not so easy as I had hoped. My brain is very much wired in a self-critical way of thinking. It said such things as 'You have no idea what you're doing, do you?' and 'Tell me how you did that. Go on, tell me!' (a query that would be met with crickets and silence). I felt very proud of myself once I'd finished the sprint, but I still felt verry foggy and fried. I was also pretty frustrated about not being able to figure out how to link the CSS sheet to my blog posts once I changed the link to blog/my-learning-plan.html, and having to revert the link to my-learning-plan.html ONLY so that the CSS would show. Sigh.
 
+**_If you were at a bar and somebody asked you, "How do you make a website?" what would you say?_**
 
-
-- How's your self critical voice going? What kinds of things did it say to you this time? How much did they affect you?
-
-
-
-- If you were at a bar and somebody asked you, "How do you make a website?" what would you say?
+SCREEEEEEEEEEECH. That's what I'd say. Or I'd smile and talk about HTML and CSS, how the former dictates the content and the latter dictates how it is displayed. Then I would explain how linking the two together creates the aesthetic. Then I would smile agian and turn away, and internally SCREEEEEEEEEEEEECH.
