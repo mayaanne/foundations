@@ -26,6 +26,16 @@ Grand! It always makes me feel better afterwards, even though I may not always n
 
 Ten minutes everyday after getting up in the morning (whether that comes before getting ready for the day or afterwards, I will have to wait and see what works best for me).
 
+## Listening and Looping
+
+**_What was it like to be fully listened to?_**
+
+It was strange having a conversation without interjections or interuptions. The usual flow of conversation is filled with them, and this one...wasn't. I struggled to fill the two minute timeslot and eventually just felt as though I was complaining for the purpose of completing the lesson. In saying that, it was nice to have someone recall what I'd said and to know that they'd actually listened. It's something that isn't practiced enough in this day and age. 
+
+**_What was it like to fully listen?_**
+
+GOOD! I was worried that I'd not remember what had been said, but by listening without interupting, I was able to recall everything easily. The biggest thing is not the listening itself but the recalling, and making that person to whom you are listening feel _heard_. I liked articulating their experience using my own words and allowing them to witness their own experience through my eyes. 
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
