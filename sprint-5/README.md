@@ -26,4 +26,4 @@ Our two challenges are minesweeper and the calculator. Try your best to complete
 
 ## Before you go
 1. [End of sprint checklist](end-of-sprint-5-checklist.md) 
-2. [Feedback](../resources/feedback.md) 
+2. [Feedback](../resources/final-feedback.md) 
