@@ -12,7 +12,7 @@ You know it! As stated above, I've been practicing for awhile (though not as oft
 
 **_Are you able to identify any bias you have for or against mindfulness?_**
 
-When I am in a state of anxiety, praciting mindfulness is THE LAST thing that I want to do. Instead, I would rather stew in my anxiety and fret and be silly refuse to do anything that might help. I know that's not really bias as such, but that's my own personal experience with it.
+When I am in a state of anxiety, praciting mindfulness is THE LAST thing that I want to do. Instead, I would rather stew in my anxiety and fret and refuse to do anything that might help. I know that's not really bias as such, but that's my own personal experience with it.
 
 **_What did you notice as you were meditating?_**
 
@@ -35,6 +35,20 @@ It was strange having a conversation without interjections or interuptions. The 
 **_What was it like to fully listen?_**
 
 GOOD! I was worried that I'd not remember what had been said, but by listening without interupting, I was able to recall everything easily. The biggest thing is not the listening itself but the recalling, and making that person to whom you are listening feel _heard_. I liked articulating their experience using my own words and allowing them to witness their own experience through my eyes. 
+
+## Learning Javascript
+
+**_What did you notice about your learning style? What resources worked for you and why?_**
+
+I'm not sure which learning style I preferred...Honestly, I feel as though I went through the motions but didn't really learn anything. Was I supposed to have understood the commands that I was entering? Because I'm not sure that I do. 
+
+**_Did you keep within the timebox suggestions? If not, was it due to difficulty understanding the basics, or a feeling like you had to master the basics?_**
+
+I definitly didn't master anything! As above, I'm not even sure that I understand the basics. It's a lot of complicated noise that I don't know how to differentiate between. Did I stick to the timebox suggestions though? Yeah, i think so. 
+
+**_If you did this entire exercise again, would you get stuck at the same points as you did the first time? Where did you get stuck?_**
+
+I am 100% sure that I would get stuck all over again. There is so much that I don't understand and even a second time around, I still don't think I'd get it. Meep. Some of the questions in FreeCodeCamp weren't very clear and I had to go onto the help forum to figure out the answers.
 
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
