@@ -50,6 +50,16 @@ I definitly didn't master anything! As above, I'm not even sure that I understan
 
 I am 100% sure that I would get stuck all over again. There is so much that I don't understand and even a second time around, I still don't think I'd get it. Meep. Some of the questions in FreeCodeCamp weren't very clear and I had to go onto the help forum to figure out the answers.
 
+## The DOM Primer and the DevTools Primer
+
+**_Were you interested or bored during this exercise? Which parts were interesting? Which parts were boring?_**
+
+It was interesting but not out-of-this-world interesting. More like 'Oh, yeah. Cool?' I feel like I learnt more about the DOM in the previous Watch and Code exercise because I used it a lot in the lessons. The examples of code were totally lost on me, but reading the basics made a lot more sense. Reading different definitions also helped to fill in the gaps that had been left out in others. 
+
+**_How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?_**
+
+Only three! I mean, I don't want to be a goody-two-shoes or anything but is that not pretty diligent? You betcha! Let us not discuss the fact that it's also Sunday and I left the final steps until today to complete, so I guess the whole 'distraction' thing is not really an option. Still, proud of me!
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
