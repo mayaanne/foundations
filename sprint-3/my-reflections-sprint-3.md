@@ -60,6 +60,20 @@ It was interesting but not out-of-this-world interesting. More like 'Oh, yeah. C
 
 Only three! I mean, I don't want to be a goody-two-shoes or anything but is that not pretty diligent? You betcha! Let us not discuss the fact that it's also Sunday and I left the final steps until today to complete, so I guess the whole 'distraction' thing is not really an option. Still, proud of me!
 
+## DevTools Tutorial
+
+**_What did you notice about your learning style, strengths and limitations when doing this crash course?_**
+
+I love the creative side of things, so I quite enjoyed recreating the website. The problem was that once it went more into the functional side of things, I got a bit lost. I'm hoping that the things that flew over my head in the tutorial will make more sense once I actually have to start using them. 
+
+**_Did any blocks come up for you? How did you overcome them?_**
+
+Not really. It was all reasonably familiar territory because I had had some practice using DevTools over the past few lessons. 
+
+**_Did you do something funny with the Dev Tools?_**
+
+I just changed the website from talking about creating your own blog to having the best summer. Didn't show any of my friends though––I'm not sure they'd be quite so impressed as I would like. That's okay though, I feel like a hacker wizard regardless. 
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
