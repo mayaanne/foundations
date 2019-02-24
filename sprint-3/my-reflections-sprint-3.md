@@ -78,22 +78,23 @@ I just changed the website from talking about creating your own blog to having t
 
 **_How confident are you with each of the Learning Competencies?_**
 
-
+Eeeeee not so? It all feels like a lot of information that is sort hiding somewhere in my brain but not making sense. I feel like surely I've learnt something, but where? What? The dots are there, but they haven't yet connected––my biggest fear is that they won't. 
 
 **_Which parts of the this sprint made you feel cool?_**
 
-
+When I was a wizard hacker! Changing the visual aspect of a we page is pretty cool. It's definitely something that I'd have had ZERO idea how to do three weeks ago. I guess I must've learnt something after all!!
 
 **_Which parts of this sprint made you angry?_**
 
-
+The freecodecamp 2 minute quiz thingy. I was super stoked whenever I got the right answer, but super unimpressed when I couldn't figure something out. The worst was when I had to Google the answer and in doing so, still failing to understand how it worked. In those moments, I felt like I was cheating because I copied and pasted a solution that didn't actually make any sense to me. Sad sad sad sad sad. 
 
 **_How many times during this sprint did you want to give up? Why didn't you? Do you still think you might give up?_**
 
-
+Give up? I don't think that I've wanted to _give up_. I'm here to _learn_. Do I get angry and frustrated and start to seriously doubt myself? Sure, pretty much always. But give up? LEL. I didn't come all the way back to NZ to pack it in because the going is tough. Look around you, sweetheart. Life is just starting to get good. 
 
 **_Do you still want to be a programmer? Why?_**
 
+Mmm I think that I'd rather be a web designer, but are the two not different sides of the same coin? Or am I way wrong about that? Regardless, I want to keep learning more. Programming is interesting and challenging and God only knows how long I have settled for uninterested and unchallenged. Being here is creating new pathways in my brain as well as new pathways in my life.
 
 
 
