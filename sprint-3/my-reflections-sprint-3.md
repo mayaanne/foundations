@@ -94,7 +94,7 @@ Give up? I don't think that I've wanted to _give up_. I'm here to _learn_. Do I 
 
 **_Do you still want to be a programmer? Why?_**
 
-Mmm I think that I'd rather be a web designer, but are the two not different sides of the same coin? Or am I way wrong about that? Regardless, I want to keep learning more. Programming is interesting and challenging and God only knows how long I have settled for uninterested and unchallenged. Being here is creating new pathways in my brain as well as new pathways in my life.
+Mmm I think that I'd rather be a web designer, but are the two not different sides of the same coin? Or am I way wrong about that? Regardless, I want to keep learning more. Programming is interesting and challenging and God only knows how long I have settled for monotony and boredom. Being here is creating new pathways in my brain as well as new pathways in my life.
 
 
 
