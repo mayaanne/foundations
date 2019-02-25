@@ -38,6 +38,20 @@ I don't HOW to make it happen, but if you could run the two tests as one then yo
 
 Probably a bit of a hassle, but definitely a necessary one. Without testing the code, it'll be harder to pinpoint where the problems are. 
 
+## Repl.it
+
+**_What was your first impression of the Repl.it website?_**
+
+I like it! I think it's similar to the sites that we used last sprint when using Watch and Code to learn about Javascript. Makes it a little easier to practice. 
+
+**_How did you find using it in practice? Confusing? Useful?_**
+
+I think that it's pretty straightforward, though my opinion might change once I start using it some more. Hopefully it stays this beginner-friendly!!
+
+**_When you say the name of the website in your head, how are you pronouncing it? "REPLIT"? "REP-ILL-IT"? "REPELL-IT"?_**
+
+"REP-ILL-IT"!
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
