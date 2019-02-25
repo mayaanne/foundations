@@ -82,6 +82,16 @@ Completing it without having to ask for help (except from Google, but that's a p
 
 Due to screen constraints and the difficulties of switching between multiple windows, it was easier for my to just use the steps on repl. However, having both sets of steps was a really good thing in the sense that it gave me two different sets of instructions to answer the same question. 
 
+## FizzBuzz (Super Edition)
+
+**_What was the most challenging part of Super FizzBuzz for you?_**
+
+Sigh. I found the answer thinking that it was a hint––a how-to or a suggestion––but nope, it was the answer. And of course, once I'd run the code and realised it was the answer, I didn't know how to then go back and try to discover the solution for myself. I don't know the process that I'd have taken. The only thing that I figured out on my own was that it required an if/else statement to be solved. I guess that counts for something? Sigh. Maybe I can leave it for a couple days and come back to it later in the week to try again, this time WITHOUT looking at the solution. 
+
+**_How did you find using pseudocode during this kata?_**
+
+It was helpful to know what I wanted the code to do, but I'm not sure that my pseudocode counted as 'steps'. It was more that I rewrote and simplified the question. Double sigh. 
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
