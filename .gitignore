@@ -2,4 +2,7 @@
 
 # Individual settings/config files
 .vs
+*/.vs
+
 DS_Store
+*/DS_Store
