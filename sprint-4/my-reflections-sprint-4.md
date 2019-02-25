@@ -24,6 +24,20 @@ Eeeeeee good question? I use spaces on VS Code because that's what it was preset
 
 MESSY. Downloads folder is sorted by date, so that makes thing easier, but it's still full of files that don't need to be in there anymore. As previously discussed, the CSS for my website is a MESS and the HTML probably isn't that much better. Meep. 
 
+## Testing
+
+**_Do you think you would prefer using Unit Testing or Test Driven Development? Why?_**
+
+I think that I'd prefer Unit Testing because it breaks the code down into smaller sections. As a beginner, I need to make everything smaller so that it doesn't feel quite so overwhelming. 
+
+**_How could these techniques be used together to make code that is reliable?_**
+
+I don't HOW to make it happen, but if you could run the two tests as one then you'd be able to test your code on both a large and a small scale simultaneously, which I'm sure would make checking code a lot faster.
+
+**_Was your initial response to the idea of testing, "That sounds useful" or "That sounds like a hassle"? Why?_**
+
+Probably a bit of a hassle, but definitely a necessary one. Without testing the code, it'll be harder to pinpoint where the problems are. 
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
@@ -46,7 +60,7 @@ MESSY. Downloads folder is sorted by date, so that makes thing easier, but it's 
 
 
 
-**_If you could send a time traveling text message back to yourself at the start of this sprint, what would it say? _**
+**_If you could send a time traveling text message back to yourself at the start of this sprint, what would it say?_**
 
 
 
