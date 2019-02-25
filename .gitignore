@@ -1,4 +1,4 @@
-# This file tells git which files to ignore when adding/committing/pushing
+# This tells git which files to ignore when adding/committing/pushing. We would use this for ingnoring large information folders or files that have settings for an individuals computer.
 
 # Individual settings/config files
 .vs
