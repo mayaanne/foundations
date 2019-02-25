@@ -10,6 +10,20 @@ I am going to start indenting my code because I hadn't previously been doing tha
 
 MUY IMPORTANTE. OBVIOUSLY. Remember when I talked about my CSS code in a previous sprint, and how it felt like a messy bedroom that I didn't know how to clean? Let me tell you––I WISH I COULD CLEAN IT! I just don't know how. I am a tidy person and my bedroom is definitely not a messy one, so you can imagine how I'm feeling about having an illegible website. GAHHHHHHH.
 
+## Code Readability Challenge
+
+**_As a developer, how important do you think indenting is?_**
+
+Very! It makes things a lot easier to follow and clearly differentiates between the parent and child elements. 
+
+**_Do you prefer tabs or spaces when indenting?_**
+
+Eeeeeee good question? I use spaces on VS Code because that's what it was preset too. I'll let you know if I have a preference should there come a time that I switch to tabs instead. 
+
+**_What is your workspace like in real life? Clean? Messy? Is your code a reflection of that? Is your downloads folder a reflection of that?_**
+
+MESSY. Downloads folder is sorted by date, so that makes thing easier, but it's still full of files that don't need to be in there anymore. As previously discussed, the CSS for my website is a MESS and the HTML probably isn't that much better. Meep. 
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
