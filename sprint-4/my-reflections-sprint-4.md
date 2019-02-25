@@ -52,6 +52,16 @@ I think that it's pretty straightforward, though my opinion might change once I 
 
 "REP-ILL-IT"!
 
+## Problem Solving and Pseudocode
+
+**_Pick two problem solving techniques you would like to put into practice. Which ones have you chosen?_**
+
+Googling and asking peers for help. 
+
+**_How will you implement these techniques into your day to day coding flow? How will you make sure that you actually do them?_**
+
+Google is the new bible, let's be honest. It has the answers to just about everything and I should be utilising it more than I am. Also, I'm afraid to ask my peers for help because I'm afraid to look as completely incompetent as I feel (which is VERY, VERY incompetent). But, alas, the process of progression will be a lot slower if I stay in this stubborn mindset.
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
