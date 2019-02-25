@@ -72,6 +72,16 @@ SO MUCH EASIER THAN I WAS EXPECTING. Honestly, when I first opened the page in R
 
 I did run the tests after each step but rather than read the error message, I read the information given in the following step. In this instance, it was easier for me. In future, things might be different. 
 
+## Manipulating Javascript Objects
+
+**_What was the highlight of this kata for you?_**
+
+Completing it without having to ask for help (except from Google, but that's a part of problem solving so I am 100% okay with it)!! I am so proud of myself for just working thorugh it and actually using my problem solving skills. YEEEEEEEEE!
+
+**_Did you find you preferred following the steps given here or using the test outputs in your repl? Why?_**
+
+Due to screen constraints and the difficulties of switching between multiple windows, it was easier for my to just use the steps on repl. However, having both sets of steps was a really good thing in the sense that it gave me two different sets of instructions to answer the same question. 
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
