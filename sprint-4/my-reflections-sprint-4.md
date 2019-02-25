@@ -62,6 +62,16 @@ Googling and asking peers for help.
 
 Google is the new bible, let's be honest. It has the answers to just about everything and I should be utilising it more than I am. Also, I'm afraid to ask my peers for help because I'm afraid to look as completely incompetent as I feel (which is VERY, VERY incompetent). But, alas, the process of progression will be a lot slower if I stay in this stubborn mindset.
 
+## Javascript Variables and Object Types
+
+**_How did you find working through the Variables and Objects kata?_**
+
+SO MUCH EASIER THAN I WAS EXPECTING. Honestly, when I first opened the page in Repl.it I was seriously questioning my decision to do coding. But then I figured it out and realised that I could actually figure it out, and I felt a BAJILLION TIMES BETTER. Like, maybe I can do this???!
+
+**_Did you look at the tests while coding the kata? Whas it helpful?_**
+
+I did run the tests after each step but rather than read the error message, I read the information given in the following step. In this instance, it was easier for me. In future, things might be different. 
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
