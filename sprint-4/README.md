@@ -21,7 +21,7 @@ Start by watching the [Sprint 4 Intro Video!](https://www.youtube.com/watch?v=Z1
 2. [Code Readability - Challenge](js-code-readability-challenge.md)  
 3. [Testing - Primer](js-testing.md)
 4. [REPL.it - Setup](js-repl-intro.md)
-5. [Problem solving and Psuedocode - Primer](js-pseudocode-problem-solving.md)   
+5. [Problem solving and Pseudocode - Primer](js-pseudocode-problem-solving.md)   
 6. [JavaScript Kata - Challenge](js-kata.md)
 7. [Technical blog](blog-sprint4-technical.md)
 
