@@ -108,26 +108,28 @@ Realising that actually, I can code! Who'd have thought. I surprised myself GREA
 
 **_How confident are you with each of the Learning Competencies?_**
 
-
+This is a good joke. NOT SO. 
 
 **_Which parts of the this sprint made you feel smart?_**
 
-
+Whenever I solved a problem. Honestly, it could take HOURS but once I finally made something click, it was like the best thing in the world.
 
 **_Which parts of this sprint made you un-smart?_**
 
-
+EEEEEEEEE all of the hours that I struggled to solve problems without actually getting anywhere. 
 
 **_Did you remember to take regular breaks away from your screen during this sprint? How often? Did you stretch your body?_**
 
-
+Yes! Whenever I started to feel like things were starting to drag...Usually every one to two hours. I listened to my body––when it started to feel unsettled and antsy, I knew it was time for a break.
 
 **_If you went back and did the Javascripts Basics course again from last sprint, how challenging do you think you would find it now?_**
 
-
+I would like to think that it'd be easier, but I think I'd just be fooling myself. I'm sure I'd still get stuck at the same hurdles.
 
 **_If you could send a time traveling text message back to yourself at the start of this sprint, what would it say?_**
 
-
+I wouldn't want to! If I told myself that it's easier than I'm expecting, then I wouldn't work as hard. And if I tell myself it'll be okay and I'll get through it, that'd fall flat because I was telling myself so in the present anyway. Time travel is for suckers! (But not actually––I'm sure it'd be AMAZING.)
 
 **_What is Javascript?_**
+
+Javascript is a technical feature that works with HTML and CSS to make web pages interactive. 
