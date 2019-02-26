@@ -26,6 +26,12 @@ MESSY. Downloads folder is sorted by date, so that makes thing easier, but it's 
 
 ## Testing
 
+**_Writing a Function_**
+
+function sum(a, b) {
+    return a + b
+}
+
 **_Do you think you would prefer using Unit Testing or Test Driven Development? Why?_**
 
 I think that I'd prefer Unit Testing because it breaks the code down into smaller sections. As a beginner, I need to make everything smaller so that it doesn't feel quite so overwhelming. 
