@@ -35,7 +35,7 @@ Problem solving is a key skill you will utilise as a developer. Here are some pr
 - Asking coaches for help
 - Improving your process with reflection
 
-## Psuedocode
+## Pseudocode
 
 Many of the techniques mentioned above can be applied to all sorts of (non-technical) problems, but pseudocode is coding specific and incredibly useful to help you think through your code.
 
