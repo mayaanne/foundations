@@ -29,7 +29,7 @@ MESSY. Downloads folder is sorted by date, so that makes thing easier, but it's 
 **_Writing a Function_**
 
 function sum(a, b) {
-    return a + b
+    return a + b;
 }
 
 **_Do you think you would prefer using Unit Testing or Test Driven Development? Why?_**
