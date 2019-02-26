@@ -92,6 +92,12 @@ Sigh. I found the answer thinking that it was a hint––a how-to or a suggesti
 
 It was helpful to know what I wanted the code to do, but I'm not sure that my pseudocode counted as 'steps'. It was more that I rewrote and simplified the question. Double sigh. 
 
+## A Gradebook from Names and Scores
+
+**_What was a surprising moment for you in this Gradebook Kata?_**
+
+Realising that actually, I can code! Who'd have thought. I surprised myself GREATLY whenever I got the correct answer. Perhaps I'm not quite so incompetent as I believe. 
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
