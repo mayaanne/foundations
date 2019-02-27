@@ -104,6 +104,12 @@ It was helpful to know what I wanted the code to do, but I'm not sure that my ps
 
 Realising that actually, I can code! Who'd have thought. I surprised myself GREATLY whenever I got the correct answer. Perhaps I'm not quite so incompetent as I believe. 
 
+## Built-in Methods
+
+**_On a scale of 1 - 5, 5 means 'These built-in methods are hard!' and 1 means 'Built-in methods are easy. Pice of cake'––how are you feeling following this Built-in Methods kata?_**
+
+I'm feeling a 4. Not easy, but perhaps one day they will be. 
+
 ## In addition to the challenge specific reflections, answer the following questions in your reflection:
 
 **_How confident are you with each of the Learning Competencies?_**
