@@ -7,7 +7,7 @@ For this sprint you'll find there are less primers leading you in to the challen
 
 Our two challenges are minesweeper and the calculator. Try your best to complete them, but if you cannot make your way through the whole challenge, a partial project can still show off all those skills that you've learnt so far.
 
-[Start by watching the Sprint 4 Intro Video!](https://www.youtube.com/watch?v=vMhz0OwENYI)
+[Start by watching the Sprint 5 Intro Video!](https://www.youtube.com/watch?v=vMhz0OwENYI)
 
 ## Tech
 
